@@ -1,4 +1,4 @@
-# COVID-19 Testing Location Data and API
+# COVID-19 Testing Location Data and API (Master)
 This is a proof of concept to show how we can centralize the aggregation and management of COVID-19 testing location data across all 50 states using Google Sheets, while publishing an API using Postman, making the data more usable across websites and mobile applications.
 
 ## General Links
