@@ -1,0 +1,23 @@
+title: Covid-19 Testing Locations
+url: https://covid-19-testing.github.io/home/
+
+state: Home
+
+github_user: covid-19
+github_repo: home
+github_branch: master
+
+postman_collection_url: https://www.getpostman.com/collections/b6cb618185f28490ffbc
+postman_documentation_url: https://documenter.getpostman.com/view/8854915/SzS5vSSU?version=latest
+
+google_sheet_id: 1RCZCFQdd-4Nc6QitCe-yql5hTML7hnsmnXJzVMhSaq4
+google_sheet_html_url: https://docs.google.com/spreadsheets/d/e/2PACX-1vTdyGN5eARgebB6B0FBgLRpozzupudw3szg3PvKn3k9wHi1uf7Xf92ZGpcVEzItvkTFHK5IzclfBF5c/pubhtml
+
+version:      1.1.1
+author:
+  name:       'Kin Lane'
+  email:      'info@apievangelist.com'
+markdown:     kramdown
+
+permalink: /:categories/:year/:month/:day/:title/
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
