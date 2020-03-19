@@ -12,6 +12,7 @@ The general links to get more information about this project.
 The individual state implementations published so far.
 
 - [Washington](https://covid-19-testing.github.io/washington/) - The implementation for the State of Washington.
+- [California](https://covid-19-testing.github.io/california/) - The implementation for the State of California.
 
 ## Support
 There are two support mechanisms in place currently.
