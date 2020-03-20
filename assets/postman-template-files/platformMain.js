@@ -1,2 +1,0 @@
-try{!function(){window.addEventListener("load",function(){window.cookieconsent.initialise({palette:{popup:{background:"#ff6c37",text:"#ffffff"},button:{background:"#282828",text:"#ffffff"}},theme:"classic",position:"bottom-right",content:{href:"https://www.postman.com/licenses/privacy"}})})}()}catch(err){const meta=document.createElement("meta");meta.name="pm:platform-error",meta.content=err.message,document.getElementsByTagName("head")[0].appendChild(meta)}
-//# sourceMappingURL=maps/platformMain.js.map
