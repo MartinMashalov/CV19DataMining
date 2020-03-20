@@ -218,7 +218,7 @@
 
             <li class="nav-item dropdown">
                <a class="nav-link" href="https://covid-19-testing.github.io/home/faq/">FAQ</i></a>
-            </li>
+            </li>            
 
             <li class="nav-item dropdown">
                <a class="nav-link" href="https://covid-19-testing.github.io/home/how-it-works/">How it Works</a>
@@ -245,15 +245,16 @@
       </section>
 
 			<section class="v5_section">
-				<h2>About</h2>
-				<p>This is an effort to crowdsource the availability of Corona / COVID-19 virus testing locations arcross all 50 states, using a handful of freely available online tools. Cetralizing the crowdsourcing of testing locations into one data source while using APIs to make sure the data can be syndicated across many locations.</p>
+				<h2>FAQ</h2>
+				<p>These are some of the most common questions that are being asked about this project, make sure to review before submitting a question via issue or email.</p>
 				<ul>
-					<li><strong>Google Sheets</strong> - (<a href="{{ site.google_sheet_html_url }}" target="_blank">Sheet</a>) - The core data for this project is storied in a single Google Sheet for each U.S. state, providing a central data source that can be managed by multiple trusted stakeholders.</li>
-					<li><strong>Postman</strong> - (<a href="{{ site.postman_collection_url }}" target="_blank">Collection</a>) (<a href="{{ site.postman_documentation_url }}" target="_blank">Docs</a>) - Data is pulled from Google using the Google Sheets API and then updates an API, documentation, and publishes data to GitHub for further display to end users.
-					<li><strong>GitHub</strong> - (<a href="https://github.com/{{ site.github_org }}/{{ site.github_repo }}" target="_blank">Repo</a>) - This website is hosted using GitHub using their GitHub pages service, using data originating within Google Sheets, and made available via Postman APIs, to display a listing of locations.</li>
+					<li><strong>Why does having an API even matter?</strong> - Centrally managing the data keeps it up to date, and having an API allows for real time syndication of the data across as many locations as possible, increasing the reach, while also maintaining the accuracy and freshness of the data.</li>
+					<li><strong>Why are you using Google Sheets?</strong> - It provides a free, easy to use medium that a large audience understands for managing the centeralized testing location data.</li>
+					<li><strong>Why are you using Postman?</strong> - It provides a free, easy to use medium for publishing and consuming APIs, making the testing location data more accessible to developers.</li>
+					<li><strong>Why are you using GitHub?</strong> - It provides a free, easy to use medium that a large audience understands for publishing a static website using the testing location data.</li>
+					<li><strong>Why are there separate sheets for organuzations, locations, physical addresses, phones, and regular schedule?</strong> - Because we are using the Open Referral standard which has worked to make data accessible by the widest possible audience, and this approach makes the data available in a spreadsheet format, while also providing a single complete endpoint which stitches it all together.</li>
 				</ul>
-				<p>The purpose of This project is to provide a lightweight, easy to use, centralized, and distributed approach to crowdsourcing testing locations as they pop up across 50 states. Using proven services to aggregate, manage, and make virus testing locations easier to find.</p>
-				<p>If you have questions about how this works, or would like to submit a location you can <a href="https://github.com/covid-19-testing/{{ site.github_repo }}/issues">submit an issue for this project</a>, or email at <a href="covid.19.testing.location@gmail.com">covid.19.testing.location@gmail.com</a>.</p>
+				<p>If you have questions about how this works, and do not see your question answered here, or would like to submit a location you can <a href="https://github.com/covid-19-testing/{{ site.github_repo }}/issues">submit an issue for this project</a>, or email at <a href="covid.19.testing.location@gmail.com">covid.19.testing.location@gmail.com</a>.</p>
 			</section>
 
       <footer class="v5_section v5_background__deep-space-blue">
