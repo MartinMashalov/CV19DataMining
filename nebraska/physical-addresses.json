@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "location_id": "1",
+    "address_1": "301 Centennial Mall S",
+    "city": "Lincoln",
+    "region": "region",
+    "state_province": "NE",
+    "postal_code": "68508",
+    "country": "US"
+  }
+]
