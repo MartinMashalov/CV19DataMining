@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "location_id": "1",
+    "address_1": "30 Kline Village",
+    "city": "Harrisburg",
+    "region": "Region",
+    "state_province": "PA",
+    "postal_code": "17104",
+    "country": "US"
+  }
+]
