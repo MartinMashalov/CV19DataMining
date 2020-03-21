@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "location_id": "1",
+    "address_1": "250 Washington St",
+    "city": "Boston",
+    "region": "Region",
+    "state_province": "MA",
+    "postal_code": "2108",
+    "country": "US"
+  }
+]
