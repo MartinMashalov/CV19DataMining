@@ -1,42 +1,42 @@
 [
   {
+    "id": "1",
+    "name": "UC Davis Medical Center",
     "alternate_name": "UC Davis Medical Center",
     "description": "UC Davis Health is improving lives and transforming health care by providing excellent patient care, conducting groundbreaking research, fostering innovative, interprofessional education, and creating dynamic, productive partnerships with the community.",
     "email": "No Email",
-    "id": "1",
-    "name": "UC Davis Medical Center",
     "url": "https://health.ucdavis.edu/welcome/"
   },
   {
+    "id": "2",
+    "name": "UC San Francisco Medical Center",
     "alternate_name": "UCSF",
     "description": "At UC San Francisco, we are driven by the idea that when the best research, the best teaching and the best patient care converge, we can deliver breakthroughs that help heal the world.",
     "email": "No Email",
-    "id": "2",
-    "name": "UC San Francisco Medical Center",
     "url": "https://www.ucsf.edu/"
   },
   {
+    "id": "3",
+    "name": "UC San Diego Medical Center",
     "alternate_name": "UCSD",
     "description": "Our Mission: To deliver outstanding patient care through commitment to the community, groundbreaking research and inspired teaching.",
     "email": "No Email",
-    "id": "3",
-    "name": "UC San Diego Medical Center",
     "url": "https://health.ucsd.edu/Pages/default.aspx"
   },
   {
+    "id": "4",
+    "name": "Stanford Health Care",
     "alternate_name": "Stanford Express Care Clinic",
     "description": "Stanford Health Care brings together leading-edge technology, innovative research, and world-renowned experts to meet your unique needs.",
     "email": "IMS@stanfordhealthcare.org",
-    "id": "4",
-    "name": "Stanford Health Care",
     "url": "https://stanfordhealthcare.org/tools/maps/clinics/hoover-pavilion.html"
   },
   {
+    "id": "5",
+    "name": "Kaiser Permanente",
     "alternate_name": "Kaiser",
     "description": "Providing high-quality, affordable health care services and improving the health of our members and the communities we serve.",
     "email": "No Email",
-    "id": "5",
-    "name": "Kaiser Permanente",
     "url": "https://about.kaiserpermanente.org/"
   }
 ]
