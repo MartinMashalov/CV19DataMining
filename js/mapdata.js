@@ -84,14 +84,14 @@ var simplemaps_usmap_mapdata={
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://covid-19-testing.github.io/locations/alaska/"
     },
     FL: {
       name: "Florida",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default",
+      url: "https://covid-19-testing.github.io/locations/florida/",
       inactive: "no"
     },
     NH: {
@@ -99,168 +99,168 @@ var simplemaps_usmap_mapdata={
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://covid-19-testing.github.io/locations/new-hampshire/"
     },
     VT: {
       name: "Vermont",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://covid-19-testing.github.io/locations/vermont/"
     },
     ME: {
       name: "Maine",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://covid-19-testing.github.io/locations/maine/"
     },
     RI: {
       name: "Rhode Island",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://covid-19-testing.github.io/locations/rhode-island/"
     },
     NY: {
       name: "New York",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://covid-19-testing.github.io/locations/new-york/"
     },
     PA: {
       name: "Pennsylvania",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://covid-19-testing.github.io/locations/pennsylvania/"
     },
     NJ: {
       name: "New Jersey",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://covid-19-testing.github.io/locations/new-jersey/"
     },
     DE: {
       name: "Delaware",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://covid-19-testing.github.io/locations/delaware/"
     },
     MD: {
       name: "Maryland",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://covid-19-testing.github.io/locations/maryland/"
     },
     VA: {
       name: "Virginia",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://covid-19-testing.github.io/locations/virginia/"
     },
     WV: {
       name: "West Virginia",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://covid-19-testing.github.io/locations/west-virginia/"
     },
     OH: {
       name: "Ohio",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://covid-19-testing.github.io/locations/ohio/"
     },
     IN: {
       name: "Indiana",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://covid-19-testing.github.io/locations/indiana/"
     },
     IL: {
       name: "Illinois",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://covid-19-testing.github.io/locations/illinois/"
     },
     CT: {
       name: "Connecticut",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://covid-19-testing.github.io/locations/connecticut/"
     },
     WI: {
       name: "Wisconsin",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://covid-19-testing.github.io/locations/wisconsin/"
     },
     NC: {
       name: "North Carolina",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://covid-19-testing.github.io/locations/north-carolina/"
     },
     DC: {
       name: "District of Columbia",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://covid-19-testing.github.io/locations/district-of-columbia/"
     },
     MA: {
       name: "Massachusetts",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://covid-19-testing.github.io/locations/massachusetts/"
     },
     TN: {
       name: "Tennessee",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://covid-19-testing.github.io/locations/tennessee/"
     },
     AR: {
       name: "Arkansas",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://covid-19-testing.github.io/locations/arkansas/"
     },
     MO: {
       name: "Missouri",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://covid-19-testing.github.io/locations/missouri/"
     },
     GA: {
       name: "Georgia",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://covid-19-testing.github.io/locations/georgia/"
     },
     SC: {
       name: "South Carolina",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://covid-19-testing.github.io/locations/south-carolina/"
     },
     KY: {
       name: "Kentucky",
@@ -268,7 +268,7 @@ var simplemaps_usmap_mapdata={
       color: "default",
       zoomable: "no",
       hover_color: "default",
-      url: "default"
+      url: "https://covid-19-testing.github.io/locations/kentucky/"
     },
     AL: {
       name: "Alabama",
@@ -282,161 +282,161 @@ var simplemaps_usmap_mapdata={
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://covid-19-testing.github.io/locations/louisiana/"
     },
     MS: {
       name: "Mississippi",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://covid-19-testing.github.io/locations/missippi/"
     },
     IA: {
       name: "Iowa",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://covid-19-testing.github.io/locations/iowa/"
     },
     MN: {
       name: "Minnesota",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://covid-19-testing.github.io/locations/minnesota/"
     },
     OK: {
       name: "Oklahoma",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://covid-19-testing.github.io/locations/oklahoma/"
     },
     TX: {
       name: "Texas",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://covid-19-testing.github.io/locations/texas/"
     },
     NM: {
       name: "New Mexico",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://covid-19-testing.github.io/locations/new-mexico/"
     },
     KS: {
       name: "Kansas",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://covid-19-testing.github.io/locations/kansas/"
     },
     NE: {
       name: "Nebraska",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://covid-19-testing.github.io/locations/nebraska/"
     },
     SD: {
       name: "South Dakota",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://covid-19-testing.github.io/locations/south-dakota/"
     },
     ND: {
       name: "North Dakota",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://covid-19-testing.github.io/locations/north-dakota/"
     },
     WY: {
       name: "Wyoming",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://covid-19-testing.github.io/locations/wyoming/"
     },
     MT: {
       name: "Montana",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://covid-19-testing.github.io/locations/montana/"
     },
     CO: {
       name: "Colorado",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://covid-19-testing.github.io/locations/colorado/"
     },
     UT: {
       name: "Utah",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://covid-19-testing.github.io/locations/utah/"
     },
     AZ: {
       name: "Arizona",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://covid-19-testing.github.io/locations/arizona/"
     },
     NV: {
       name: "Nevada",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://covid-19-testing.github.io/locations/nevada/"
     },
     OR: {
       name: "Oregon",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://covid-19-testing.github.io/locations/oregon/"
     },
     WA: {
       name: "Washington",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://covid-19-testing.github.io/locations/washington/"
     },
     CA: {
       name: "California",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://covid-19-testing.github.io/locations/california/"
     },
     MI: {
       name: "Michigan",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "michigan"
     },
     ID: {
       name: "Idaho",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "idaho"
     },
     GU: {
       name: "Guam",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default",
+      url: "https://covid-19-testing.github.io/locations/guam/",
       hide: "yes"
     },
     VI: {
@@ -444,7 +444,7 @@ var simplemaps_usmap_mapdata={
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default",
+      url: "https://covid-19-testing.github.io/locations/virgin-islands/",
       hide: "yes"
     },
     PR: {
@@ -452,7 +452,7 @@ var simplemaps_usmap_mapdata={
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default",
+      url: "https://covid-19-testing.github.io/locations/puerto-rico/",
       hide: "yes"
     },
     AS: {
@@ -460,7 +460,7 @@ var simplemaps_usmap_mapdata={
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default",
+      url: "https://covid-19-testing.github.io/locations/american-samoa/",
       hide: "yes"
     },
     MP: {
@@ -468,7 +468,7 @@ var simplemaps_usmap_mapdata={
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default",
+      url: "https://covid-19-testing.github.io/locations/northern-mariana-islands/",
       hide: "yes"
     }
   },
