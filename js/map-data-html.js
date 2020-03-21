@@ -422,14 +422,14 @@ var simplemaps_usmap_mapdata={
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "michigan"
+      url: "https://covid-19-testing.github.io/locations/michigan/"
     },
     ID: {
       name: "Idaho",
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "idaho"
+      url: "https://covid-19-testing.github.io/locations/idaho/"
     },
     GU: {
       name: "Guam",
