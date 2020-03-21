@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "location_id": "1",
+    "address_1": "100 SW Jackson St.",
+    "city": "Topeka",
+    "region": "REgion",
+    "state_province": "KS",
+    "postal_code": "66612",
+    "country": "US"
+  }
+]
