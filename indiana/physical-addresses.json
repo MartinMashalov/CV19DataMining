@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "location_id": "1",
+    "address_1": "2 N Meridian St",
+    "city": "Indianapolis",
+    "region": "Region",
+    "state_province": "IN",
+    "postal_code": "46204",
+    "country": "US"
+  }
+]
