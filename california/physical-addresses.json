@@ -1,62 +1,62 @@
 [
   {
-    "address_1": "2315 Stockton Blvd",
-    "city": "Sacramento",
-    "country": "US",
     "id": "1",
     "location_id": "1",
-    "postal_code": "95817",
+    "address_1": "2315 Stockton Blvd",
+    "city": "Sacramento",
     "region": "Northern California",
-    "state_province": "CA"
+    "state_province": "CA",
+    "postal_code": "95817",
+    "country": "US"
   },
   {
-    "address_1": "505 Parnassus Drive",
-    "city": "San Francisco",
-    "country": "US",
     "id": "2",
     "location_id": "2",
-    "postal_code": "94143",
+    "address_1": "505 Parnassus Drive",
+    "city": "San Francisco",
     "region": "Northern California",
-    "state_province": "CA"
+    "state_province": "CA",
+    "postal_code": "94143",
+    "country": "US"
   },
   {
-    "address_1": "200 West Arbor Drive",
-    "city": "San Diego",
-    "country": "US",
     "id": "3",
     "location_id": "3",
-    "postal_code": "92103",
+    "address_1": "200 West Arbor Drive",
+    "city": "San Diego",
     "region": "Southern California",
-    "state_province": "CA"
+    "state_province": "CA",
+    "postal_code": "92103",
+    "country": "US"
   },
   {
-    "address_1": "211 Quarry Road",
-    "city": "Palto Alto",
-    "country": "US",
     "id": "4",
     "location_id": "4",
-    "postal_code": "94304",
+    "address_1": "211 Quarry Road",
+    "city": "Palto Alto",
     "region": "Northern California",
-    "state_province": "CA"
+    "state_province": "CA",
+    "postal_code": "94304",
+    "country": "US"
   },
   {
-    "address_1": "3600 Broadway",
-    "city": "Oakland",
-    "country": "US",
     "id": "5",
     "location_id": "5",
-    "postal_code": "94611",
+    "address_1": "3600 Broadway",
+    "city": "Oakland",
     "region": "Northern California",
-    "state_province": "CA"
+    "state_province": "CA",
+    "postal_code": "94611",
+    "country": "US"
   },
   {
-    "address_1": "1601 Ygnacio Valley Rd",
-    "city": "Walnut Creek",
-    "country": "US",
     "id": "6",
     "location_id": "6",
-    "postal_code": "94598",
+    "address_1": "1601 Ygnacio Valley Rd",
+    "city": "Walnut Creek",
     "region": "Northern California",
-    "state_province": "CA"
+    "state_province": "CA",
+    "postal_code": "94598",
+    "country": "US"
   }
 ]

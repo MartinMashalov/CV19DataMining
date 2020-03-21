@@ -1,62 +1,50 @@
 [
   {
+    "id": "1",
+    "organization_id": "1",
+    "name": "UC Davis Medical Center",
     "alternate_name": "UC Davis Medical Center",
     "description": "Our hospital is taking steps to greatly expand its testing capabilities on-site, with the goal of running tests inside our hospital within the next few weeks. We are doing this in full collaboration with Sacramento County Public Health and other public health agencies, in order to take pressure off other testing labs",
-    "id": "1",
-    "latitude": "47.7045122",
-    "longitude": "-122.3324269",
-    "name": "UC Davis Medical Center",
-    "organization_id": "1",
     "transportation": "Bus, Uber, Car"
   },
   {
+    "id": "2",
+    "organization_id": "2",
+    "name": "UC San Francisco Medical Center",
     "alternate_name": "UCSF",
     "description": "UCSF Health has been actively working to develop on-site testing capacity for patients who are suspected of having the novel coronavirus disease, COVID-19. We do not have the capacity to test the general community at this time.",
-    "id": "2",
-    "latitude": "37.762682",
-    "longitude": "-122.45771",
-    "name": "UC San Francisco Medical Center",
-    "organization_id": "2",
     "transportation": "Shuttle, Bus, Train, Uber, Car"
   },
   {
+    "id": "3",
+    "organization_id": "3",
+    "name": "UC San Diego Medical Center",
     "alternate_name": "UCSF",
     "description": "Yes, we are testing people who meet certain conditions. Our ability to test patients is improving, but testing remains limited so we cannot test all individuals. Your health care provider will determine if you meet the criteria for testing.",
-    "id": "3",
-    "latitude": "32.755238",
-    "longitude": "-117.1659",
-    "name": "UC San Diego Medical Center",
-    "organization_id": "3",
     "transportation": "Bus, Car, Uber"
   },
   {
+    "id": "4",
+    "organization_id": "4",
+    "name": "Stanford Health Care",
     "alternate_name": "Stanford Express Care Clinic",
     "description": "Stanford Health Care’s same-day primary care program is offering drive-through testing, by appointment, for SARS-CoV-2, the coronavirus that causes COVID-19. The service is being provided to patients who are referred for testing by a health care provider based on their symptoms and exposure.",
-    "id": "4",
-    "latitude": "37.441741",
-    "longitude": "-122.168217",
-    "name": "Stanford Health Care",
-    "organization_id": "4",
     "transportation": "Drive Through"
   },
   {
+    "id": "5",
+    "organization_id": "5",
+    "name": "Kaiser Permanente",
     "alternate_name": "Kaiser",
     "description": "COVID-19 tests are available only by a doctor's order for hisk-risk patients who meet specific criteria. If you are concerned that you or a family member are exhibiting symptoms of COVID-19, please contact us first before coming in, as you need a referral and appointment to get tested",
-    "id": "5",
-    "latitude": "37.8232087",
-    "longitude": "-122.2605305",
-    "name": "Kaiser Permanente",
-    "organization_id": "5",
     "transportation": "Depends"
   },
   {
+    "id": "6",
+    "organization_id": "6",
+    "name": "John Muir Health",
     "alternate_name": "John Muir Health",
     "description": "Testing is done by doctor’s order only, following an in-person or phone evaluation. If you are told that you are not eligible to be tested, this means that your health care provider has determined that your risk-status and symptoms indicate that you will do best with at-home care.",
-    "id": "6",
-    "latitude": "37.919521",
-    "longitude": "-122.028914",
-    "name": "John Muir Health",
-    "organization_id": "6",
     "transportation": "Car, Uber"
   }
 ]

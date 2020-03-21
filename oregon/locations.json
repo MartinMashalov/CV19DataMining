@@ -1,10 +1,10 @@
 [
   {
+    "id": "1",
+    "organization_id": "1",
+    "name": "No Locations Yet",
     "alternate_name": "No Locations Yet",
     "description": "This is just the first entry in the database. We still need to crowdsource some locations.",
-    "id": "1",
-    "name": "No Locations Yet",
-    "organization_id": "1",
     "transportation": "Bus, Uber, Car"
   }
 ]
