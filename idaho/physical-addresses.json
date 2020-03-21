@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "location_id": "1",
+    "address_1": "172 N Westgate Dr",
+    "city": "Boise",
+    "region": "Region",
+    "state_province": "ID",
+    "postal_code": "83704",
+    "country": "US"
+  }
+]
