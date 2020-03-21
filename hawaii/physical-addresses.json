@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "location_id": "1",
+    "address_1": "1250 PUnchbowl St.",
+    "city": "Honolulu",
+    "region": "Region",
+    "state_province": "HI",
+    "postal_code": "96813",
+    "country": "US"
+  }
+]
