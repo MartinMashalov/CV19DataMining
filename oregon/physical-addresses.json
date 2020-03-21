@@ -1,12 +1,12 @@
 [
   {
-    "address_1": "1234 Main Street #10",
-    "city": "Anywnere",
+    "address_1": "421 High St #222",
+    "city": "Oregon City",
     "country": "US",
     "id": "1",
     "location_id": "1",
-    "postal_code": "95959",
-    "region": "NW Region",
-    "state_province": "CA"
+    "postal_code": "97045",
+    "region": "NW",
+    "state_province": "OR"
   }
 ]
