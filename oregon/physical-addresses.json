@@ -1,12 +1,12 @@
 [
   {
-    "address_1": "421 High Street",
-    "city": "Oregon City",
-    "country": "US",
     "id": "1",
     "location_id": "1",
-    "postal_code": "97045",
+    "address_1": "421 High Street",
+    "city": "Oregon City",
     "region": "NW",
-    "state_province": "OR"
+    "state_province": "OR",
+    "postal_code": "97045",
+    "country": "US"
   }
 ]
