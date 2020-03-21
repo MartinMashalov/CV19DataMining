@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "location_id": "1",
+    "address_1": "930 Wildwood Dr",
+    "city": "Jefferson City",
+    "region": "Region",
+    "state_province": "O",
+    "postal_code": "65109",
+    "country": "US"
+  }
+]
