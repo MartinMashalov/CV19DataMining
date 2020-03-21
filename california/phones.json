@@ -1,0 +1,47 @@
+[
+  {
+    "description": "description",
+    "extension": "None",
+    "id": "1",
+    "language": "EN, ES-MX",
+    "location_id": "1",
+    "number": "(916) 734-2011",
+    "type": "Office"
+  },
+  {
+    "description": "Primary number pulled from Google Maps listing.",
+    "extension": "None",
+    "id": "2",
+    "language": "EN",
+    "location_id": "2",
+    "number": "(415) 476-1000",
+    "type": "Office"
+  },
+  {
+    "description": "Primary number pulled from Google Maps listing.",
+    "extension": "None",
+    "id": "3",
+    "language": "EN",
+    "location_id": "3",
+    "number": "858-657-7000",
+    "type": "Office"
+  },
+  {
+    "description": "Primary number pulled from Google Maps listing.",
+    "extension": "None",
+    "id": "4",
+    "language": "EN",
+    "location_id": "4",
+    "number": "650-736-5211",
+    "type": "Hotline"
+  },
+  {
+    "description": "Covid-19 Hotline Number",
+    "extension": "None",
+    "id": "5",
+    "language": "EN, ES",
+    "location_id": "5",
+    "number": "510-752-1000",
+    "type": "Office"
+  }
+]
