@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "location_id": "1",
+    "address_1": "150 N 18th Ave",
+    "city": "Phoenix",
+    "region": "State",
+    "state_province": "AZ",
+    "postal_code": "85007",
+    "country": "US"
+  }
+]
