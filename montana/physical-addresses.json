@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "location_id": "1",
+    "address_1": "111 N Sanders St.",
+    "city": "Helena",
+    "region": "Region",
+    "state_province": "MT",
+    "postal_code": "59601",
+    "country": "US"
+  }
+]
