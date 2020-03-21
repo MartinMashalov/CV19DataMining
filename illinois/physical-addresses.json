@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "location_id": "1",
+    "address_1": "1021 N Walnut St.",
+    "city": "Springfield",
+    "region": "Region",
+    "state_province": "IL",
+    "postal_code": "62702",
+    "country": "US"
+  }
+]
