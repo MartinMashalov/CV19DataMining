@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "location_id": "1",
+    "address_1": "628 N 4th St.",
+    "city": "Baton Rouge",
+    "region": "Region",
+    "state_province": "LA",
+    "postal_code": "70802",
+    "country": "US"
+  }
+]
