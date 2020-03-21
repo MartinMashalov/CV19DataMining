@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "location_id": "1",
+    "address_1": "31 E 12th St.",
+    "city": "Des Moines",
+    "region": "Region",
+    "state_province": "IA",
+    "postal_code": "50319",
+    "country": "US"
+  }
+]
