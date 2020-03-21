@@ -2,11 +2,11 @@
   {
     "id": "1",
     "location_id": "1",
-    "address_1": "421 High Street",
-    "city": "Oregon City",
-    "region": "NW",
-    "state_province": "OR",
-    "postal_code": "97045",
+    "address_1": "410 Capitol Ave",
+    "city": "Hartford",
+    "region": "Region",
+    "state_province": "CT",
+    "postal_code": "6134",
     "country": "US"
   }
 ]
