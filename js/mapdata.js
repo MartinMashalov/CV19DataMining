@@ -77,7 +77,7 @@ var simplemaps_usmap_mapdata={
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://covid-19-testing.github.io/locations/hawaii/"
     },
     AK: {
       name: "Alaska",
@@ -275,7 +275,7 @@ var simplemaps_usmap_mapdata={
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "https://covid-19-testing.github.io/locations/alabama/"
     },
     LA: {
       name: "Louisiana",
