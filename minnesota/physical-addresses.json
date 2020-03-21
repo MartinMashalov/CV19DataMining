@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "location_id": "1",
+    "address_1": "570 E Woodrow Wilson Ave",
+    "city": "Jackson",
+    "region": "Region",
+    "state_province": "MS",
+    "postal_code": "39216",
+    "country": "US"
+  }
+]
