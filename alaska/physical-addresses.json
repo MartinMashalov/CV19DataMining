@@ -2,11 +2,11 @@
   {
     "id": "1",
     "location_id": "1",
-    "address_1": "3400 McClellan Blvd",
-    "city": "Anniston",
+    "address_1": "3601 C St #902",
+    "city": "Anchorage",
     "region": "State",
-    "state_province": "Anniston",
-    "postal_code": "36201",
+    "state_province": "AK",
+    "postal_code": "99503",
     "country": "US"
   }
 ]
