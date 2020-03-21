@@ -2,11 +2,11 @@
   {
     "id": "1",
     "location_id": "1",
-    "address_1": "421 High Street",
-    "city": "Oregon City",
-    "region": "NW",
-    "state_province": "OR",
-    "postal_code": "97045",
+    "address_1": "4052 Bald Cypress Way",
+    "city": "Tallahassee",
+    "region": "Region",
+    "state_province": "FL",
+    "postal_code": "32399",
     "country": "US"
   }
 ]
