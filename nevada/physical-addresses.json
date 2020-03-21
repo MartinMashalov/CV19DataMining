@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "location_id": "1",
+    "address_1": "280 S Decatur Blvd",
+    "city": "Las Vegas",
+    "region": "Region",
+    "state_province": "NV",
+    "postal_code": "89107",
+    "country": "US"
+  }
+]
