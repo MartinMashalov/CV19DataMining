@@ -1,0 +1,100 @@
+[
+  {
+    "closes_at": "12:00:00 PM",
+    "id": "1",
+    "location_id": "1",
+    "opens_at": "12:00:00 AM",
+    "weekday": "1"
+  },
+  {
+    "closes_at": "12:00:00 PM",
+    "id": "1",
+    "location_id": "1",
+    "opens_at": "12:00:00 AM",
+    "weekday": "2"
+  },
+  {
+    "closes_at": "12:00:00 PM",
+    "id": "1",
+    "location_id": "1",
+    "opens_at": "12:00:00 AM",
+    "weekday": "3"
+  },
+  {
+    "closes_at": "12:00:00 PM",
+    "id": "1",
+    "location_id": "1",
+    "opens_at": "12:00:00 AM",
+    "weekday": "4"
+  },
+  {
+    "closes_at": "12:00:00 PM",
+    "id": "1",
+    "location_id": "1",
+    "opens_at": "12:00:00 AM",
+    "weekday": "5"
+  },
+  {
+    "closes_at": "12:00:00 PM",
+    "id": "1",
+    "location_id": "1",
+    "opens_at": "12:00:00 AM",
+    "weekday": "6"
+  },
+  {
+    "closes_at": "12:00:00 PM",
+    "id": "1",
+    "location_id": "1",
+    "opens_at": "12:00:00 AM",
+    "weekday": "7"
+  },
+  {
+    "closes_at": "6:00:00 PM",
+    "id": "4",
+    "location_id": "4",
+    "opens_at": "9:00:00 AM",
+    "weekday": "1"
+  },
+  {
+    "closes_at": "6:00:00 PM",
+    "id": "4",
+    "location_id": "4",
+    "opens_at": "9:00:00 AM",
+    "weekday": "2"
+  },
+  {
+    "closes_at": "6:00:00 PM",
+    "id": "4",
+    "location_id": "4",
+    "opens_at": "9:00:00 AM",
+    "weekday": "3"
+  },
+  {
+    "closes_at": "6:00:00 PM",
+    "id": "4",
+    "location_id": "4",
+    "opens_at": "9:00:00 AM",
+    "weekday": "4"
+  },
+  {
+    "closes_at": "6:00:00 PM",
+    "id": "4",
+    "location_id": "4",
+    "opens_at": "9:00:00 AM",
+    "weekday": "5"
+  },
+  {
+    "closes_at": "6:00:00 PM",
+    "id": "4",
+    "location_id": "4",
+    "opens_at": "9:00:00 AM",
+    "weekday": "6"
+  },
+  {
+    "closes_at": "6:00:00 PM",
+    "id": "4",
+    "location_id": "4",
+    "opens_at": "9:00:00 AM",
+    "weekday": "7"
+  }
+]
