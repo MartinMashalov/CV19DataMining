@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "location_id": "1",
+    "address_1": "1000 NE 10th St.",
+    "city": "Oklahoma City",
+    "region": "Region",
+    "state_province": "OK",
+    "postal_code": "73104",
+    "country": "US"
+  }
+]
