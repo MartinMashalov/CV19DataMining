@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "location_id": "1",
+    "address_1": "246 High St.",
+    "city": "Columbus",
+    "region": "Region",
+    "state_province": "OH",
+    "postal_code": "43215",
+    "country": "US"
+  }
+]
