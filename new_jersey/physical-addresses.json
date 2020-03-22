@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "location_id": "1",
+    "address_1": "140 E Front St.",
+    "city": "Trenton",
+    "region": "Region",
+    "state_province": "NJ",
+    "postal_code": "8608",
+    "country": "US"
+  }
+]
