@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "location_id": "1",
+    "address_1": "90 Church St.",
+    "city": "New York",
+    "region": "Region",
+    "state_province": "NY",
+    "postal_code": "10007",
+    "country": "US"
+  }
+]
