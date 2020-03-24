@@ -46,5 +46,13 @@
     "alternate_name": "John Muir Health",
     "description": "Testing is done by doctor’s order only, following an in-person or phone evaluation. If you are told that you are not eligible to be tested, this means that your health care provider has determined that your risk-status and symptoms indicate that you will do best with at-home care.",
     "transportation": "Car, Uber"
+  },
+  {
+    "id": "7",
+    "organization_id": "7",
+    "name": "City of Hayward",
+    "alternate_name": "City of Hayward",
+    "description": "To qualify, they had to have a fever of 100.4 degrees Fahrenheit or higher, officials said, but that appeared to be the main hurdle. The tests were free, and people didn’t need a doctor’s slip to take them.\n\n“It’s for anybody, regardless of residency. You don’t have to live in the city of Hayward, you don’t have to be a citizen,” Capt. Don Nichelson of the Hayward Fire Department said. “We’ll take anybody from anywhere,” he added.\n\nThe city of Hayward set up the testing site across from the fire station at 28270 Huntwood Ave. in partnership with Avellino Labs, a private biotechnology firm based in Menlo Park.",
+    "transportation": "Car"
   }
 ]
