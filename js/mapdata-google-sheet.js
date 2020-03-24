@@ -225,7 +225,7 @@ var simplemaps_usmap_mapdata={
       description: "default",
       color: "default",
       hover_color: "default",
-      url: "https://docs.google.com/spreadsheets/d/1akVuPv8W8Wip3Y3qc-Ajhnzs_Hp98Jc4bP-u9d9VQjw/edits"
+      url: "https://docs.google.com/spreadsheets/d/1akVuPv8W8Wip3Y3qc-Ajhnzs_Hp98Jc4bP-u9d9VQjw/edit"
     },
     TN: {
       name: "Tennessee",
