@@ -2,11 +2,11 @@
   {
     "id": "1",
     "location_id": "1",
-    "address_1": "90 Church St.",
-    "city": "New York",
+    "address_1": "Stony Brook University South P Lot",
+    "city": "Stony Brook",
     "region": "Region",
     "state_province": "NY",
-    "postal_code": "10007",
+    "postal_code": "11790",
     "country": "US"
   }
 ]
