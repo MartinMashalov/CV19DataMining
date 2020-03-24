@@ -2,9 +2,33 @@
   {
     "id": "1",
     "organization_id": "1",
-    "name": "No Locations Yet",
-    "alternate_name": "No Locations Yet",
-    "description": "This is just the first entry in the database. We still need to crowdsource some locations.",
-    "transportation": "Bus, Uber, Car"
+    "name": "Hillsborough: BayCare Urgent Care",
+    "alternate_name": "Baycare",
+    "description": "BayCare Health System is consolidating its drive-through COVID-19 testing sites to one high-volume location per county effective Monday.\n\nThe hours also are shifting to 9 a.m. to noon, officials said.\n\nAfter five days of testing, BayCare says it has screened more than 6,100 people over Hillsborough, Pinellas, Pasco and Polk counties and collected specimens from nearly 3,500.\n\nBayCare is asking that anyone who wants to be tested should be referred by a physician and have current symptoms (cough, fever, shortness of breath) in order to best utilize its limited test supplies. Test results are available in 5-7 days.",
+    "transportation": "Car"
+  },
+  {
+    "id": "2",
+    "organization_id": "1",
+    "name": "Pinellas: BayCare Urgent Care (Carillon)",
+    "alternate_name": "Baycare",
+    "description": "BayCare Health System is consolidating its drive-through COVID-19 testing sites to one high-volume location per county effective Monday.\n\nThe hours also are shifting to 9 a.m. to noon, officials said.\n\nAfter five days of testing, BayCare says it has screened more than 6,100 people over Hillsborough, Pinellas, Pasco and Polk counties and collected specimens from nearly 3,500.\n\nBayCare is asking that anyone who wants to be tested should be referred by a physician and have current symptoms (cough, fever, shortness of breath) in order to best utilize its limited test supplies. Test results are available in 5-7 days.",
+    "transportation": "Car"
+  },
+  {
+    "id": "3",
+    "organization_id": "1",
+    "name": "Pasco: BayCare Urgent Care (New Port Richey)",
+    "alternate_name": "Baycare",
+    "description": "BayCare Health System is consolidating its drive-through COVID-19 testing sites to one high-volume location per county effective Monday.\n\nThe hours also are shifting to 9 a.m. to noon, officials said.\n\nAfter five days of testing, BayCare says it has screened more than 6,100 people over Hillsborough, Pinellas, Pasco and Polk counties and collected specimens from nearly 3,500.\n\nBayCare is asking that anyone who wants to be tested should be referred by a physician and have current symptoms (cough, fever, shortness of breath) in order to best utilize its limited test supplies. Test results are available in 5-7 days.",
+    "transportation": "Car"
+  },
+  {
+    "id": "4",
+    "organization_id": "1",
+    "name": "Polk: BayCare Urgent Care (Haines City)",
+    "alternate_name": "Baycare",
+    "description": "BayCare Health System is consolidating its drive-through COVID-19 testing sites to one high-volume location per county effective Monday.\n\nThe hours also are shifting to 9 a.m. to noon, officials said.\n\nAfter five days of testing, BayCare says it has screened more than 6,100 people over Hillsborough, Pinellas, Pasco and Polk counties and collected specimens from nearly 3,500.\n\nBayCare is asking that anyone who wants to be tested should be referred by a physician and have current symptoms (cough, fever, shortness of breath) in order to best utilize its limited test supplies. Test results are available in 5-7 days.",
+    "transportation": "Car"
   }
 ]
