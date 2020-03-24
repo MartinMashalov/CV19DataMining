@@ -1,10 +1,10 @@
 [
   {
     "id": "1",
-    "name": "No Organizations Yet",
-    "alternate_name": "No Organizations Yet",
-    "description": "This is just the first entry into the system.",
+    "name": "Stony Brook University",
+    "alternate_name": "SBU",
+    "description": "The State University of New York at Stony Brook, commonly referred to as Stony Brook University, is a public sea-grant and space-grant research university in Stony Brook, New York. It is one of four university centers of the State University of New York system.",
     "email": "No Email",
-    "url": "http://example.com"
+    "url": "https://www.stonybrook.edu/"
   }
 ]
