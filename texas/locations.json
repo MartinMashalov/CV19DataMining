@@ -2,9 +2,9 @@
   {
     "id": "1",
     "organization_id": "1",
-    "name": "No Locations Yet",
-    "alternate_name": "No Locations Yet",
-    "description": "This is just the first entry in the database. We still need to crowdsource some locations.",
-    "transportation": "Bus, Uber, Car"
+    "name": "United Memorial Medical Center free-of-charge testing location",
+    "alternate_name": "UMMC",
+    "description": "Houston-area free testing began Thursday, March 19, nearly a week after Houston Mayor Sylvester Turner announced it would begin. Dr. Joe Varon with the United Memorial Medical Center explained the process to get tested at a press conference. He says it takes about four to 24 hours to get the results.\n\nOnce you come to see us, you will go through a brief screening. If we believe that you need to be tested, you will go through a registration department, and have a very easy nasal/swab test that will take a few minutes to do,\" Varon said. \"If you are coming to us because you think you have COVID-19, you need to be isolated for a minimum of 14 days.\"",
+    "transportation": "Car"
   }
 ]
