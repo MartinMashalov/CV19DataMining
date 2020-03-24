@@ -2,11 +2,41 @@
   {
     "id": "1",
     "location_id": "1",
-    "address_1": "4052 Bald Cypress Way",
-    "city": "Tallahassee",
+    "address_1": "3440 W. Dr. MLK Jr. Blvd., Suite 100",
+    "city": "Tampa",
     "region": "Region",
     "state_province": "FL",
-    "postal_code": "32399",
+    "postal_code": "33607",
+    "country": "US"
+  },
+  {
+    "id": "2",
+    "location_id": "2",
+    "address_1": "900 Carillon Parkway, Suite106",
+    "city": "St. Petersburg",
+    "region": "Region",
+    "state_province": "FL",
+    "postal_code": "33716",
+    "country": "US"
+  },
+  {
+    "id": "3",
+    "location_id": "3",
+    "address_1": "4821 U.S. Highway 19",
+    "city": "New Port Richey",
+    "region": "Region",
+    "state_province": "FL",
+    "postal_code": "34652",
+    "country": "US"
+  },
+  {
+    "id": "4",
+    "location_id": "4",
+    "address_1": "36245 U.S. Highway 27",
+    "city": "Haines City",
+    "region": "Region",
+    "state_province": "FL",
+    "postal_code": "33844",
     "country": "US"
   }
 ]
