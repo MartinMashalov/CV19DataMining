@@ -58,5 +58,15 @@
     "state_province": "CA",
     "postal_code": "94598",
     "country": "US"
+  },
+  {
+    "id": "7",
+    "location_id": "7",
+    "address_1": "28270 Huntwood Ave.",
+    "city": "Hayward",
+    "region": "Northern California",
+    "state_province": "CA",
+    "postal_code": "94544",
+    "country": "US"
   }
 ]
