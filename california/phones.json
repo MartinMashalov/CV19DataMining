@@ -43,5 +43,14 @@
     "type": "Office",
     "language": "EN, ES",
     "description": "Covid-19 Hotline Number"
+  },
+  {
+    "id": "7",
+    "location_id": "7",
+    "number": "(510) 583-4000",
+    "extension": "None",
+    "type": "Office",
+    "language": "EN",
+    "description": "Primary number pulled from Google Maps listing."
   }
 ]
