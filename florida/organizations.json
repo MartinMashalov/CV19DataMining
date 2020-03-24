@@ -1,10 +1,10 @@
 [
   {
     "id": "1",
-    "name": "No Organizations Yet",
-    "alternate_name": "No Organizations Yet",
-    "description": "This is just the first entry into the system.",
+    "name": "BayCare",
+    "alternate_name": "BayCare",
+    "description": "BayCare Health System will improve the health of all we serve through community-owned \nservices that set the standard for high-quality, compassionate care.",
     "email": "No Email",
-    "url": "http://example.com"
+    "url": "https://baycare.org/"
   }
 ]
