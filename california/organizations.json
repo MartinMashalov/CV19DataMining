@@ -38,5 +38,21 @@
     "description": "Providing high-quality, affordable health care services and improving the health of our members and the communities we serve.",
     "email": "No Email",
     "url": "https://about.kaiserpermanente.org/"
+  },
+  {
+    "id": "6",
+    "name": "John Muir Health",
+    "alternate_name": "John Muir Health",
+    "description": "A leader in health care in the San Francisco Bay Area, John Muir Health is a not-for-profit integrated system of doctors, hospitals and other services. We make a commitment to provide the highest quality patient care to our patients every day through the contributions of our physicians, employees and volunteers.",
+    "email": "No email",
+    "url": "https://www.johnmuirhealth.com/"
+  },
+  {
+    "id": "7",
+    "name": "City of Hayward",
+    "alternate_name": "Hayward",
+    "description": "Hayward City Hall is the third and current Hayward city hall building, located in downtown Hayward, California, United States, next to the Hayward BART Station.",
+    "email": "No Email",
+    "url": "https://www.hayward-ca.gov/"
   }
 ]
