@@ -2,11 +2,11 @@
   {
     "id": "1",
     "location_id": "1",
-    "address_1": "150 N 18th Ave",
-    "city": "Phoenix",
+    "address_1": "4815 W Markham Street",
+    "city": "Little Rock",
     "region": "State",
-    "state_province": "AZ",
-    "postal_code": "85007",
+    "state_province": "AR",
+    "postal_code": "72205",
     "country": "US"
   }
 ]

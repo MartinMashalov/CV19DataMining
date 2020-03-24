@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "location_id": "1",
+    "address_1": "600 E Boulevard Ave",
+    "city": "Bismarck",
+    "region": "Region",
+    "state_province": "ND",
+    "postal_code": "58505",
+    "country": "US"
+  }
+]

@@ -7,5 +7,14 @@
     "type": "Office",
     "language": "EN",
     "description": "description"
+  },
+  {
+    "id": "2",
+    "location_id": "2",
+    "number": "(425) 339-5200",
+    "extension": "None",
+    "type": "Office",
+    "language": "EN",
+    "description": "Primary number pulled from Google Maps listing."
   }
 ]
