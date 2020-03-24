@@ -1,10 +1,10 @@
 [
   {
     "id": "1",
-    "name": "No Organizations Yet",
-    "alternate_name": "No Organizations Yet",
-    "description": "This is just the first entry into the system.",
+    "name": "United Memorial Medical Center",
+    "alternate_name": "UMMC",
+    "description": "Doctors Hospital is now United Memorial Medical Center. Under new management, we are looking at some exciting new times. We are restructuring to bring in new technology and partners to better serve our community.",
     "email": "No Email",
-    "url": "http://example.com"
+    "url": "http://ummc.care/"
   }
 ]
