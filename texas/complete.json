@@ -1,10 +1,177 @@
 [
   {
-    "id": "1",
-    "name": "United Memorial Medical Center",
     "alternate_name": "UMMC",
-    "description": "Doctors Hospital is now United Memorial Medical Center. Under new management, we are looking at some exciting new times. We are restructuring to bring in new technology and partners to better serve our community.",
-    "email": "No Email",
-    "url": "http://ummc.care/"
+    "description": "Houston-area free testing began Thursday, March 19, nearly a week after Houston Mayor Sylvester Turner announced it would begin. Dr. Joe Varon with the United Memorial Medical Center explained the process to get tested at a press conference. He says it takes about four to 24 hours to get the results.\n\nOnce you come to see us, you will go through a brief screening. If we believe that you need to be tested, you will go through a registration department, and have a very easy nasal/swab test that will take a few minutes to do,\" Varon said. \"If you are coming to us because you think you have COVID-19, you need to be isolated for a minimum of 14 days.\"",
+    "id": "1",
+    "name": "United Memorial Medical Center free-of-charge testing location",
+    "organization_id": "1",
+    "phones": [
+      {
+        "description": "description",
+        "extension": "None",
+        "id": "1",
+        "language": "EN",
+        "location_id": "1",
+        "number": "None",
+        "type": "Office"
+      }
+    ],
+    "physical_address": [
+      {
+        "address_1": "510 W Tidwell Rd",
+        "city": "Houston",
+        "country": "US",
+        "id": "1",
+        "location_id": "1",
+        "postal_code": "77091",
+        "region": "State",
+        "state_province": "TX"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "closes_at": "8:00:00 PM",
+        "id": "1",
+        "location_id": "1",
+        "opens_at": "8:00:00 AM",
+        "weekday": "1"
+      },
+      {
+        "closes_at": "8:00:00 PM",
+        "id": "1",
+        "location_id": "1",
+        "opens_at": "8:00:00 AM",
+        "weekday": "2"
+      },
+      {
+        "closes_at": "8:00:00 PM",
+        "id": "1",
+        "location_id": "1",
+        "opens_at": "8:00:00 AM",
+        "weekday": "3"
+      },
+      {
+        "closes_at": "8:00:00 PM",
+        "id": "1",
+        "location_id": "1",
+        "opens_at": "8:00:00 AM",
+        "weekday": "4"
+      },
+      {
+        "closes_at": "8:00:00 PM",
+        "id": "1",
+        "location_id": "1",
+        "opens_at": "8:00:00 AM",
+        "weekday": "5"
+      },
+      {
+        "closes_at": "8:00:00 PM",
+        "id": "1",
+        "location_id": "1",
+        "opens_at": "8:00:00 AM",
+        "weekday": "6"
+      },
+      {
+        "closes_at": "8:00:00 PM",
+        "id": "1",
+        "location_id": "1",
+        "opens_at": "8:00:00 AM",
+        "weekday": "7"
+      }
+    ],
+    "transportation": "Car"
+  },
+  {
+    "alternate_name": "Dallas Victor Plaza Testing Site",
+    "description": "Criteria for testing sites is as follows:\n\n- Must be 6% years-odl; or\n- Must be a first responder; or\n- Must be a healthcare worker; or\n- Must be a DART driver; AND\n- Must show a temperature of 99.6 or higher",
+    "id": "2",
+    "name": "Dallas Victor Plaza Testing Site",
+    "organization_id": "2",
+    "phones": [
+      {
+        "description": "Primary number pulled from Google Maps listing.",
+        "extension": "None",
+        "id": "2",
+        "language": "EN",
+        "location_id": "2",
+        "number": "None",
+        "type": "Office"
+      }
+    ],
+    "physical_address": [
+      {
+        "address_1": "9191 S Polk Street",
+        "city": "Dallas",
+        "country": "US",
+        "id": "2",
+        "location_id": "2",
+        "postal_code": "75232",
+        "region": "State",
+        "state_province": "TX"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "closes_at": "8:00:00 PM",
+        "id": "1",
+        "location_id": "2",
+        "opens_at": "8:00:00 AM",
+        "weekday": "1"
+      },
+      {
+        "closes_at": "8:00:00 PM",
+        "id": "1",
+        "location_id": "2",
+        "opens_at": "8:00:00 AM",
+        "weekday": "2"
+      },
+      {
+        "closes_at": "8:00:00 PM",
+        "id": "1",
+        "location_id": "2",
+        "opens_at": "8:00:00 AM",
+        "weekday": "3"
+      },
+      {
+        "closes_at": "8:00:00 PM",
+        "id": "1",
+        "location_id": "2",
+        "opens_at": "8:00:00 AM",
+        "weekday": "4"
+      },
+      {
+        "closes_at": "8:00:00 PM",
+        "id": "1",
+        "location_id": "2",
+        "opens_at": "8:00:00 AM",
+        "weekday": "5"
+      },
+      {
+        "closes_at": "8:00:00 PM",
+        "id": "1",
+        "location_id": "2",
+        "opens_at": "8:00:00 AM",
+        "weekday": "6"
+      },
+      {
+        "closes_at": "8:00:00 PM",
+        "id": "1",
+        "location_id": "2",
+        "opens_at": "8:00:00 AM",
+        "weekday": "7"
+      }
+    ],
+    "transportation": "CAR"
+  },
+  {
+    "alternate_name": "Dallas Polk Street Testing Site",
+    "description": "Criteria for testing sites is as follows:\n\n- Must be 6% years-odl; or\n- Must be a first responder; or\n- Must be a healthcare worker; or\n- Must be a DART driver; AND\n- Must show a temperature of 99.6 or higher",
+    "id": "3",
+    "name": "Dallas Polk Street Testing Site",
+    "organization_id": "2",
+    "phones": [],
+    "physical_address": [],
+    "regular_schedule": [],
+    "transportation": "CAR"
   }
 ]
