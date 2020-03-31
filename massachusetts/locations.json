@@ -1,10 +1,10 @@
 [
   {
-    "id": "1",
-    "organization_id": "1",
-    "name": "No Locations Yet",
-    "alternate_name": "No Locations Yet",
-    "description": "This is just the first entry in the database. We still need to crowdsource some locations.",
-    "transportation": "Bus, Uber, Car"
+    "id": "3",
+    "organization_id": "3",
+    "name": "CVS Pharmacy",
+    "alternate_name": "CVS",
+    "description": "Patients that drive up to the site on Route 9 immediately have their temperatures taken, and if they register a fever, CVS employees volunteering at the site take nasal swabs and send them to the Quest Diagnostics Lab in Marlboro for testing",
+    "transportation": "Car"
   }
 ]
