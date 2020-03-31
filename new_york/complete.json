@@ -1,10 +1,84 @@
 [
   {
     "id": "1",
-    "name": "Stony Brook University",
+    "organization_id": "1",
+    "name": "Stony Brook University’s South P Lot",
     "alternate_name": "SBU",
-    "description": "The State University of New York at Stony Brook, commonly referred to as Stony Brook University, is a public sea-grant and space-grant research university in Stony Brook, New York. It is one of four university centers of the State University of New York system.",
-    "email": "No Email",
-    "url": "https://www.stonybrook.edu/"
+    "description": "New York State has partnered with Stony Brook University to begin drive-through testing for the coronavirus at Stony Brook University’s South P Lot off Stony Brook Road. Residents can make advance appointments by calling 888-364-3065. Hours of operation are seven days a week, 7 am to 7 pm.\n\nAnyone from across Long Island, not just in Suffolk, who has contacted the New York State Department of Health (DOH) at 888-364-3065 and is part of the highest-risk population as determined by DOH will be tested. Anyone who believes they’re at risk should call the DOH Hotline, 888-364-3065, and talk to experts to determine if and how they should be tested. Walk-ins will not be seen.",
+    "transportation": "Car",
+    "physical_address": [
+      {
+        "id": "1",
+        "location_id": "1",
+        "address_1": "Stony Brook University South P Lot",
+        "city": "Stony Brook",
+        "region": "Region",
+        "state_province": "NY",
+        "postal_code": "11790",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "1",
+        "location_id": "1",
+        "number": "888-364-3065",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "description"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "1",
+        "opens_at": "7:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "2",
+        "opens_at": "7:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "3",
+        "opens_at": "7:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "4",
+        "opens_at": "7:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "5",
+        "opens_at": "7:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "6",
+        "opens_at": "7:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "7",
+        "opens_at": "7:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      }
+    ]
   }
 ]
