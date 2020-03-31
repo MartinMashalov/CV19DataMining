@@ -8,5 +8,25 @@
     "state_province": "NY",
     "postal_code": "11790",
     "country": "US"
+  },
+  {
+    "id": "2",
+    "location_id": "2",
+    "address_1": "1500 NY-9D",
+    "city": "Wappingers Falls",
+    "region": "Region",
+    "state_province": "NY",
+    "postal_code": "12590",
+    "country": "US"
+  },
+  {
+    "id": "3",
+    "location_id": "3",
+    "address_1": "300 Enterprise Drive",
+    "city": "Kingston",
+    "region": "Region",
+    "state_province": "NY",
+    "postal_code": "12401",
+    "country": "US"
   }
 ]
