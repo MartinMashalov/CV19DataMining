@@ -7,5 +7,23 @@
     "type": "Office",
     "language": "EN",
     "description": "description"
+  },
+  {
+    "id": "2",
+    "location_id": "2",
+    "number": "(800) 421-1220",
+    "extension": "None",
+    "type": "Office",
+    "language": "EN",
+    "description": "Primary number pulled from Google Maps listing."
+  },
+  {
+    "id": "3",
+    "location_id": "3",
+    "number": "(800) 421-1220",
+    "extension": "None",
+    "type": "Office",
+    "language": "EN",
+    "description": "Primary number pulled from Google Maps listing."
   }
 ]
