@@ -2,21 +2,21 @@
   {
     "id": "1",
     "organization_id": "1",
-    "name": "United Memorial Medical Center free-of-charge testing location",
-    "alternate_name": "UMMC",
-    "description": "Houston-area free testing began Thursday, March 19, nearly a week after Houston Mayor Sylvester Turner announced it would begin. Dr. Joe Varon with the United Memorial Medical Center explained the process to get tested at a press conference. He says it takes about four to 24 hours to get the results.\n\nOnce you come to see us, you will go through a brief screening. If we believe that you need to be tested, you will go through a registration department, and have a very easy nasal/swab test that will take a few minutes to do,\" Varon said. \"If you are coming to us because you think you have COVID-19, you need to be isolated for a minimum of 14 days.\"",
-    "transportation": "Car",
-    "updated": "2020-03-31",
+    "name": "Dallas Victor Plaza Testing Site",
+    "alternate_name": "Dallas Victor Plaza Testing Site",
+    "description": "Criteria for testing sites is as follows:\n\n- Must be 6% years-odl; or\n- Must be a first responder; or\n- Must be a healthcare worker; or\n- Must be a DART driver; AND\n- Must show a temperature of 99.6 or higher",
+    "transportation": "CAR",
+    "updated": "2020-04-01",
     "featured": "TRUE",
     "physical_address": [
       {
         "id": "1",
         "location_id": "1",
-        "address_1": "510 W Tidwell Rd",
-        "city": "Houston",
-        "region": "State",
+        "address_1": "9191 S Polk Street",
+        "city": "Dallas",
+        "region": "region",
         "state_province": "TX",
-        "postal_code": "77091",
+        "postal_code": "75232",
         "country": "US"
       }
     ],
@@ -85,9 +85,9 @@
   },
   {
     "id": "2",
-    "organization_id": "2",
-    "name": "Dallas Victor Plaza Testing Site",
-    "alternate_name": "Dallas Victor Plaza Testing Site",
+    "organization_id": "1",
+    "name": "Dallas Polk Street Testing Site",
+    "alternate_name": "Dallas Polk Street Testing Site",
     "description": "Criteria for testing sites is as follows:\n\n- Must be 6% years-odl; or\n- Must be a first responder; or\n- Must be a healthcare worker; or\n- Must be a DART driver; AND\n- Must show a temperature of 99.6 or higher",
     "transportation": "CAR",
     "updated": "2020-04-01",
@@ -96,11 +96,11 @@
       {
         "id": "2",
         "location_id": "2",
-        "address_1": "9191 S Polk Street",
+        "address_1": "2500 Victory Avenue",
         "city": "Dallas",
-        "region": "State",
+        "region": "region",
         "state_province": "TX",
-        "postal_code": "75232",
+        "postal_code": "75201",
         "country": "US"
       }
     ],
@@ -117,49 +117,49 @@
     ],
     "regular_schedule": [
       {
-        "id": "1",
+        "id": "2",
         "location_id": "2",
         "weekday": "1",
         "opens_at": "8:00:00 AM",
         "closes_at": "8:00:00 PM"
       },
       {
-        "id": "1",
+        "id": "2",
         "location_id": "2",
         "weekday": "2",
         "opens_at": "8:00:00 AM",
         "closes_at": "8:00:00 PM"
       },
       {
-        "id": "1",
+        "id": "2",
         "location_id": "2",
         "weekday": "3",
         "opens_at": "8:00:00 AM",
         "closes_at": "8:00:00 PM"
       },
       {
-        "id": "1",
+        "id": "2",
         "location_id": "2",
         "weekday": "4",
         "opens_at": "8:00:00 AM",
         "closes_at": "8:00:00 PM"
       },
       {
-        "id": "1",
+        "id": "2",
         "location_id": "2",
         "weekday": "5",
         "opens_at": "8:00:00 AM",
         "closes_at": "8:00:00 PM"
       },
       {
-        "id": "1",
+        "id": "2",
         "location_id": "2",
         "weekday": "6",
         "opens_at": "8:00:00 AM",
         "closes_at": "8:00:00 PM"
       },
       {
-        "id": "1",
+        "id": "2",
         "location_id": "2",
         "weekday": "7",
         "opens_at": "8:00:00 AM",
@@ -170,13 +170,158 @@
   {
     "id": "3",
     "organization_id": "2",
-    "name": "Dallas Polk Street Testing Site",
-    "alternate_name": "Dallas Polk Street Testing Site",
-    "description": "Criteria for testing sites is as follows:\n\n- Must be 6% years-odl; or\n- Must be a first responder; or\n- Must be a healthcare worker; or\n- Must be a DART driver; AND\n- Must show a temperature of 99.6 or higher",
+    "name": "Round Rock - Baylor Scott & White Clinic",
+    "alternate_name": "Baylor Scott & White Clinic - Round Rock 425 University",
+    "description": "We are encouraging all patients experiencing flu-like symptoms (cough, shortness of breath and feeling feverish) to first visit MyBSWHealth for a free online COVID-19 screening.",
     "transportation": "CAR",
-    "updated": "2020-04-02",
+    "updated": "2020-04-01",
     "featured": "TRUE",
-    "physical_address": [],
+    "physical_address": [
+      {
+        "id": "3",
+        "location_id": "3",
+        "address_1": "425 University Blvd",
+        "city": "Round Rock",
+        "region": "region",
+        "state_province": "TX",
+        "postal_code": "78665",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": [
+      {
+        "id": "3",
+        "location_id": "3",
+        "weekday": "1",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "3",
+        "location_id": "3",
+        "weekday": "2",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "3",
+        "location_id": "3",
+        "weekday": "3",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "3",
+        "location_id": "3",
+        "weekday": "4",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "3",
+        "location_id": "3",
+        "weekday": "5",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "organization_id": "2",
+    "name": "Austin - Baylor Scott & White Medical Center",
+    "alternate_name": "Baylor Scott & White Medical Center - Austin",
+    "description": "We are encouraging all patients experiencing flu-like symptoms (cough, shortness of breath and feeling feverish) to first visit MyBSWHealth for a free online COVID-19 screening.",
+    "transportation": "CAR",
+    "updated": "2020-04-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "4",
+        "location_id": "4",
+        "address_1": "5251 W. US Hwy 290",
+        "city": "Austin",
+        "region": "region",
+        "state_province": "TX",
+        "postal_code": "78735",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": [
+      {
+        "id": "4",
+        "location_id": "4",
+        "weekday": "1",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "4",
+        "location_id": "4",
+        "weekday": "2",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "4",
+        "location_id": "4",
+        "weekday": "3",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "4",
+        "location_id": "4",
+        "weekday": "4",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "4",
+        "location_id": "4",
+        "weekday": "5",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "4",
+        "location_id": "4",
+        "weekday": "6",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "4",
+        "location_id": "4",
+        "weekday": "7",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "organization_id": "3",
+    "name": "UT Health Austin",
+    "alternate_name": "University of Texas at Austin",
+    "description": "Due to the limited number of COVID-19 tests available to all health care organizations, UT Health Austin COVID-19 (coronavirus) drive-through testing focuses on health care workers, patients who are known contacts of people who tested positive for COVID-19 through a test performed by UT Health Austin, and high-risk individuals who are referred to us by Austin Public Health and our partners in the Ascension/Seton system.",
+    "transportation": "CAR",
+    "updated": "2020-04-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "5",
+        "location_id": "5",
+        "address_1": "1601 Trinity St",
+        "city": "Austin",
+        "region": "region",
+        "state_province": "TX",
+        "postal_code": "78712",
+        "country": "US"
+      }
+    ],
     "phones": [],
     "regular_schedule": []
   }
