@@ -188,7 +188,7 @@
     "description": "You do need a doctor’s order, must be showing symptoms, and be considered in a vulnerable population – someone 60 or older or with preexisting conditions – in order to be tested.",
     "transportation": "Car",
     "updated": "2020-03-31",
-    "featured": "TRUE",
+    "featured": "FALSE",
     "physical_address": [
       {
         "id": "4",
@@ -222,7 +222,7 @@
     "description": "You do need a doctor’s order, must be showing symptoms, and be considered in a vulnerable population – someone 60 or older or with preexisting conditions – in order to be tested.",
     "transportation": "Car",
     "updated": "2020-03-31",
-    "featured": "TRUE",
+    "featured": "FALSE",
     "physical_address": [
       {
         "id": "5",
@@ -256,7 +256,7 @@
     "description": "You do need a doctor’s order, must be showing symptoms, and be considered in a vulnerable population – someone 60 or older or with preexisting conditions – in order to be tested.",
     "transportation": "Car",
     "updated": "2020-03-31",
-    "featured": "TRUE",
+    "featured": "FALSE",
     "physical_address": [
       {
         "id": "6",
@@ -290,7 +290,7 @@
     "description": "You do need a doctor’s order, must be showing symptoms, and be considered in a vulnerable population – someone 60 or older or with preexisting conditions – in order to be tested.",
     "transportation": "Car",
     "updated": "2020-03-31",
-    "featured": "TRUE",
+    "featured": "FALSE",
     "physical_address": [
       {
         "id": "7",
@@ -324,7 +324,7 @@
     "description": "You do need a doctor’s order, must be showing symptoms, and be considered in a vulnerable population – someone 60 or older or with preexisting conditions – in order to be tested.",
     "transportation": "Car",
     "updated": "2020-03-31",
-    "featured": "TRUE",
+    "featured": "FALSE",
     "physical_address": [
       {
         "id": "8",
@@ -358,7 +358,7 @@
     "description": "You do need a doctor’s order, must be showing symptoms, and be considered in a vulnerable population – someone 60 or older or with preexisting conditions – in order to be tested.",
     "transportation": "Car",
     "updated": "2020-03-31",
-    "featured": "TRUE",
+    "featured": "FALSE",
     "physical_address": [
       {
         "id": "9",
@@ -392,7 +392,7 @@
     "description": "You do need a doctor’s order, must be showing symptoms, and be considered in a vulnerable population – someone 60 or older or with preexisting conditions – in order to be tested.",
     "transportation": "Car",
     "updated": "2020-03-31",
-    "featured": "TRUE",
+    "featured": "FALSE",
     "physical_address": [
       {
         "id": "10",
@@ -426,7 +426,7 @@
     "description": "Pacific Medical Centers is offering testing to registered patients who qualify based on testing criteria and call ahead for screening.\n\nPacMed requests patients qualify and reserve a test by calling 1-888-472-2633. Tests will only be given to patients who meet symptom or risk criteria.",
     "transportation": "Car",
     "updated": "2020-03-31",
-    "featured": "TRUE",
+    "featured": "FALSE",
     "physical_address": [
       {
         "id": "11",
@@ -460,7 +460,7 @@
     "description": "Pacific Medical Centers is offering testing to registered patients who qualify based on testing criteria and call ahead for screening.\n\nPacMed requests patients qualify and reserve a test by calling 1-888-472-2633. Tests will only be given to patients who meet symptom or risk criteria.",
     "transportation": "Car",
     "updated": "2020-03-31",
-    "featured": "TRUE",
+    "featured": "FALSE",
     "physical_address": [
       {
         "id": "12",
@@ -494,7 +494,7 @@
     "description": "Pacific Medical Centers is offering testing to registered patients who qualify based on testing criteria and call ahead for screening.\n\nPacMed requests patients qualify and reserve a test by calling 1-888-472-2633. Tests will only be given to patients who meet symptom or risk criteria.",
     "transportation": "Car",
     "updated": "2020-03-31",
-    "featured": "TRUE",
+    "featured": "FALSE",
     "physical_address": [
       {
         "id": "13",
@@ -528,7 +528,7 @@
     "description": "Swedish Medical Center said drive-through testing is available at its Issaquah clinic, and the test site is in a parking garage – much like UW’s first clinic. It also has testing available for eligible patients at its First Hill clinic.",
     "transportation": "Car",
     "updated": "2020-03-31",
-    "featured": "TRUE",
+    "featured": "FALSE",
     "physical_address": [
       {
         "id": "14",
@@ -562,7 +562,7 @@
     "description": "Swedish Medical Center said drive-through testing is available at its Issaquah clinic, and the test site is in a parking garage – much like UW’s first clinic. It also has testing available for eligible patients at its First Hill clinic.",
     "transportation": "Car",
     "updated": "2020-03-31",
-    "featured": "TRUE",
+    "featured": "FALSE",
     "physical_address": [
       {
         "id": "15",
