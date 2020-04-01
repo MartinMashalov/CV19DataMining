@@ -1,12 +1,1 @@
-[
-  {
-    "id": "1",
-    "location_id": "1",
-    "address_1": "421 High Street",
-    "city": "Oregon City",
-    "region": "NW",
-    "state_province": "OR",
-    "postal_code": "97045",
-    "country": "US"
-  }
-]
+[{"id":"1","location_id":"1","address_1":"6020 Richmond Hwy, Suite 102","city":"Alexandria","region":"State","state_province":"VA","postal_code":"22303","country":"US"}]
