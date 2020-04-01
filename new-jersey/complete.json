@@ -29,24 +29,6 @@
         "type": "Office",
         "language": "EN",
         "description": "description"
-      },
-      {
-        "id": "2",
-        "location_id": "1",
-        "number": " +1 732-360-5799",
-        "extension": "None",
-        "type": "Office",
-        "language": "EN",
-        "description": "Primary number pulled from Google Maps listing."
-      },
-      {
-        "id": "3",
-        "location_id": "1",
-        "number": " +1 732-335-0720",
-        "extension": "None",
-        "type": "Office",
-        "language": "EN",
-        "description": "Primary number pulled from Google Maps listing."
       }
     ],
     "regular_schedule": [
@@ -122,7 +104,17 @@
         "country": "US"
       }
     ],
-    "phones": [],
+    "phones": [
+      {
+        "id": "2",
+        "location_id": "2",
+        "number": " +1 732-360-5799",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
     "regular_schedule": [
       {
         "id": "8",
@@ -196,7 +188,17 @@
         "country": "US"
       }
     ],
-    "phones": [],
+    "phones": [
+      {
+        "id": "3",
+        "location_id": "3",
+        "number": " +1 732-335-0720",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
     "regular_schedule": [
       {
         "id": "15",
