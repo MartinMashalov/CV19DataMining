@@ -1,11 +1,87 @@
 [
   {
+    "id": "1",
+    "organization_id": "1",
+    "name": "AFC Urgent Care - North Andover",
+    "alternate_name": "American Family Care",
+    "description": "In order to qualify for testing, patients will need to be pre-screened by an AFC provider on Wednesday, March 25th or Thursday, March 26th via a telemedicine urgent care visit. Upon completion of the telehealth screening and determination of qualification for testing, AFC Urgent Care will send a personalized doctor’s order to that specific patient in order to be tested on Friday, March 27th or Saturday, March 28th. PLEASE NOTE: If a prospective patient does not bring an AFC doctor’s note to the drive through testing clinic, that patient will not be eligible for testing.",
+    "transportation": "transportation",
+    "updated": "2020-03-31",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "1",
+        "location_id": "1",
+        "address_1": "129 Turnpike Street",
+        "city": "North Andover",
+        "region": "region",
+        "state_province": "MA",
+        "postal_code": "'01845",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "1",
+        "location_id": "1",
+        "number": "781-430-8161",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "description"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "5",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "organization_id": "2",
+    "name": "AFC Urgent Care - Stoneham",
+    "alternate_name": "American Family Care",
+    "description": "In order to qualify for testing, patients will need to be pre-screened by an AFC provider on Wednesday, March 25th or Thursday, March 26th via a telemedicine urgent care visit. Upon completion of the telehealth screening and determination of qualification for testing, AFC Urgent Care will send a personalized doctor’s order to that specific patient in order to be tested on Friday, March 27th or Saturday, March 28th. PLEASE NOTE: If a prospective patient does not bring an AFC doctor’s note to the drive through testing clinic, that patient will not be eligible for testing.",
+    "transportation": "transportation",
+    "updated": "2020-04-01",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "2",
+        "location_id": "2",
+        "address_1": "16 Main Street",
+        "city": "Stoneham",
+        "region": "region",
+        "state_province": "MA",
+        "postal_code": "'02180",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": [
+      {
+        "id": "2",
+        "location_id": "2",
+        "weekday": "6",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      }
+    ]
+  },
+  {
     "id": "3",
     "organization_id": "3",
     "name": "CVS Pharmacy",
     "alternate_name": "CVS",
     "description": "Patients that drive up to the site on Route 9 immediately have their temperatures taken, and if they register a fever, CVS employees volunteering at the site take nasal swabs and send them to the Quest Diagnostics Lab in Marlboro for testing",
     "transportation": "Car",
+    "updated": "2020-04-02",
+    "featured": "TRUE",
     "physical_address": [
       {
         "id": "3",
@@ -70,5 +146,201 @@
         "closes_at": "8:00:00 PM"
       }
     ]
+  },
+  {
+    "id": "4",
+    "organization_id": "4",
+    "name": "Cambridge Health Alliance - Somerville Hospital",
+    "alternate_name": "CHA",
+    "description": "COVID-19 testing would be available to existing system patients via a stand-alone testing center at its Somerville Hospital location. Due to continued limited availability of tests, patients must meet federal criteria and be existing CHA primary care patients to be eligible for testing at this location.",
+    "transportation": "Car",
+    "updated": "2020-04-03",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "4",
+        "location_id": "4",
+        "address_1": "33 Tower St",
+        "city": "Somerville",
+        "region": "region",
+        "state_province": "MA",
+        "postal_code": "'02143",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": [
+      {
+        "id": "4",
+        "location_id": "4",
+        "weekday": "1",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "3:00:00 PM"
+      },
+      {
+        "id": "4",
+        "location_id": "4",
+        "weekday": "2",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "3:00:00 PM"
+      },
+      {
+        "id": "4",
+        "location_id": "4",
+        "weekday": "3",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "3:00:00 PM"
+      },
+      {
+        "id": "4",
+        "location_id": "4",
+        "weekday": "4",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "3:00:00 PM"
+      },
+      {
+        "id": "4",
+        "location_id": "4",
+        "weekday": "5",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "3:00:00 PM"
+      },
+      {
+        "id": "4",
+        "location_id": "4",
+        "weekday": "6",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "3:00:00 PM"
+      },
+      {
+        "id": "4",
+        "location_id": "4",
+        "weekday": "7",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "3:00:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "organization_id": "5",
+    "name": "Cape Cod Healthcare",
+    "alternate_name": "Cape Cod Healthcare",
+    "description": "As of March 20, 2020, a physician must have affiliated status with Cape Cod Healthcare to submit a patient’s order for drive-through testing. Individuals without a primary care physician who are experiencing symptoms, including fever, coughing or shortness of breath, should call 508-862-5595 and they will be screened for COVID-19 testing with a Cape Cod Healthcare clinical provider via phone. If testing is required, the clinical provider will follow the same process of submitting the doctor’s order to the testing team and the patient will be called with a testing appointment time.",
+    "transportation": "Car",
+    "updated": "2020-04-04",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "5",
+        "location_id": "5",
+        "address_1": "2240 Iyannough Rd",
+        "city": "West Barnstable",
+        "region": "region",
+        "state_province": "MA",
+        "postal_code": "'02668",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": [
+      {
+        "id": "5",
+        "location_id": "5",
+        "weekday": "1",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "5",
+        "location_id": "5",
+        "weekday": "2",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "5",
+        "location_id": "5",
+        "weekday": "3",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "5",
+        "location_id": "5",
+        "weekday": "4",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "5",
+        "location_id": "5",
+        "weekday": "5",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "5",
+        "location_id": "5",
+        "weekday": "6",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "4:00:00 PM"
+      },
+      {
+        "id": "5",
+        "location_id": "5",
+        "weekday": "6",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "4:00:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "organization_id": "6",
+    "name": "Cape Cod Hospital",
+    "alternate_name": "Cape Cod Healthcare",
+    "description": "If you are experiencing SERIOUS symptoms and do not have primary care provider, please visit the triage tents located outside of Cape Cod Hospital and Falmouth Hospital for screening.",
+    "transportation": "Car",
+    "updated": "2020-04-05",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "6",
+        "location_id": "6",
+        "address_1": "27 Park Street",
+        "city": "Hyannis",
+        "region": "region",
+        "state_province": "MA",
+        "postal_code": "'02601",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": []
+  },
+  {
+    "id": "7",
+    "organization_id": "7",
+    "name": "Falmouth Hospital",
+    "alternate_name": "Cape Cod Healthcare",
+    "description": "If you are experiencing SERIOUS symptoms and do not have primary care provider, please visit the triage tents located outside of Cape Cod Hospital and Falmouth Hospital for screening.",
+    "transportation": "Car",
+    "updated": "2020-04-06",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "7",
+        "location_id": "7",
+        "address_1": "100 Ter Heun Drive",
+        "city": "Falmouth",
+        "region": "region",
+        "state_province": "MA",
+        "postal_code": "'02540",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": []
   }
 ]
