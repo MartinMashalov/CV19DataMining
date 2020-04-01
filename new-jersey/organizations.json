@@ -1,10 +1,1 @@
-[
-  {
-    "id": "1",
-    "name": "No Organizations Yet",
-    "alternate_name": "No Organizations Yet",
-    "description": "This is just the first entry into the system.",
-    "email": "No Email",
-    "url": "http://example.com"
-  }
-]
+[{"id":"1","name":"Urgent Care","alternate_name":"Urgent Care","description":"This is just the first entry into the system.","email":"No Email","url":"http://example.com"},{"id":"3","name":"Kean University","alternate_name":"Kean University","description":"The Union County Board of Chosen Freeholders, in conjunction with governmental, educational and healthcare partners, have opened the state’s first County-run, drive-through facility for testing of the COVID-19 virus at Kean University.","email":"COVID19TEST@UCNJ.ORG","url":"https://www.kean.edu/"}]
