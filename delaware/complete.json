@@ -259,7 +259,7 @@
     "description": "Beebe Healthcare serves the Sussex County community with a medical center located in beautiful, historic Lewes, Delaware, and outpatient locations in Georgetown, Millsboro, Milton, Millville, and Rehoboth Beach. ",
     "transportation": "Car",
     "updated": "2020-03-31",
-    "featured": "TRUE",
+    "featured": "FALSE",
     "physical_address": [
       {
         "id": "4",
@@ -343,7 +343,7 @@
     "description": "For over 90 years, Saint Francis Healthcare has been a renowned medical provider in the Wilmington area. Our method of care is focused on the patient experience—we want to hear your thoughts and concerns so that we can create a personalized treatment plan. ",
     "transportation": "Car",
     "updated": "2020-04-01",
-    "featured": "TRUE",
+    "featured": "FALSE",
     "physical_address": [
       {
         "id": "5",
@@ -426,8 +426,8 @@
     "alternate_name": "Nemours/Alfred I. duPont Hospital for Children",
     "description": "Nemours Alfred I. duPont Hospital for Children is a pediatric hospital located in Wilmington, Delaware.",
     "transportation": "Car",
-    "updated": "2020-04-02",
-    "featured": "TRUE",
+    "updated": "2020-04-01",
+    "featured": "FALSE",
     "physical_address": [
       {
         "id": "6",
@@ -497,6 +497,90 @@
       {
         "id": "42",
         "location_id": "6",
+        "weekday": "7",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "organization_id": "6",
+    "name": "Nanticoke Health Systems",
+    "alternate_name": "Nanticoke Health Systems",
+    "description": "Nanticoke Memorial Hospital (NMH) is an award-winning non-profit community hospital providing comprehensive care for our community. ",
+    "transportation": "Car",
+    "updated": "2020-04-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "7",
+        "location_id": "7",
+        "address_1": "100 Rawlins Drive",
+        "city": "Seaford",
+        "region": "Mid-Atlantic Region",
+        "state_province": "DE",
+        "postal_code": "19973",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "7",
+        "location_id": "7",
+        "number": "'+1 302-536-5415",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "43",
+        "location_id": "7",
+        "weekday": "1",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "44",
+        "location_id": "7",
+        "weekday": "2",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "45",
+        "location_id": "7",
+        "weekday": "3",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "46",
+        "location_id": "7",
+        "weekday": "4",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "47",
+        "location_id": "7",
+        "weekday": "5",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "48",
+        "location_id": "7",
+        "weekday": "6",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "49",
+        "location_id": "7",
         "weekday": "7",
         "opens_at": "12:00:00 AM",
         "closes_at": "11:59:00 PM"
