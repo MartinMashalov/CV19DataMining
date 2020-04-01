@@ -1,10 +1,1 @@
-[
-  {
-    "id": "1",
-    "organization_id": "1",
-    "name": "No Locations Yet",
-    "alternate_name": "No Locations Yet",
-    "description": "This is just the first entry in the database. We still need to crowdsource some locations.",
-    "transportation": "Bus, Uber, Car"
-  }
-]
+[{"id":"1","organization_id":"1","name":"Temple University Ambler Campus","alternate_name":"Temple University Ambler Campus","description":"Community based testing site at Temple University's Ambler Campus in Upper Dublin Township","transportation":"Car","updated":"2020-03-31","featured":"TRUE"}]
