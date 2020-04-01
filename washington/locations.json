@@ -1,18 +1,1 @@
-[
-  {
-    "id": "1",
-    "organization_id": "1",
-    "name": "Primary Care at Northwest Outpatient Medical Center",
-    "alternate_name": "alternate_name",
-    "description": "The first drive thru COVID-19 testing site for UW Medicine patients is now open. At this time it's not your typical retail drive-thru, said UW Medicine staffer, Dr. Thomas Hei. UW Medicine set up shop in a parking lot Monday in Northgate at their Northwest Outpatient Medical Center. Staff said it's the vanguard site and they hope to add others in the future.",
-    "transportation": "Car"
-  },
-  {
-    "id": "2",
-    "organization_id": "2",
-    "name": "Snohomish Health District Drive-Thru COVID-19 Testing Site",
-    "alternate_name": "Snohomish Health District Drive-Thru",
-    "description": "More COVID-19 testing is available in Snohomish County as of Monday morning, as a new drive-thru testing site opened in the parking lot of Everett Memorial Stadium on Broadway. They are reserved for people who are experiencing symptoms of COVID-19 — such as coughing, a fever of at least 100.4 degrees, sore throat and shortness of breath — who are in any of the following categories:\n\nPregnant.\nAge 60 or older.\nAnyone with underlying health conditions.\nHealth care workers.\nPeople who work in “critical infrastructure,” such as public safety, grocery stores, restaurants, shelters, gas stations, public utilities, child care and correctional facilities.",
-    "transportation": "Car"
-  }
-]
+[{"id":"1","organization_id":"1","name":"Primary Care at Northwest Outpatient Medical Center","alternate_name":"alternate_name","description":"The first drive thru COVID-19 testing site for UW Medicine patients is now open. At this time it's not your typical retail drive-thru, said UW Medicine staffer, Dr. Thomas Hei. UW Medicine set up shop in a parking lot Monday in Northgate at their Northwest Outpatient Medical Center. Staff said it's the vanguard site and they hope to add others in the future.","transportation":"Car","updated":"47.7045122","featured":"-122.3324269"},{"id":"2","organization_id":"2","name":"Snohomish Health District Drive-Thru COVID-19 Testing Site","alternate_name":"Snohomish Health District Drive-Thru","description":"More COVID-19 testing is available in Snohomish County as of Monday morning, as a new drive-thru testing site opened in the parking lot of Everett Memorial Stadium on Broadway. They are reserved for people who are experiencing symptoms of COVID-19 — such as coughing, a fever of at least 100.4 degrees, sore throat and shortness of breath — who are in any of the following categories:\n\nPregnant.\nAge 60 or older.\nAnyone with underlying health conditions.\nHealth care workers.\nPeople who work in “critical infrastructure,” such as public safety, grocery stores, restaurants, shelters, gas stations, public utilities, child care and correctional facilities.","transportation":"Car","updated":"0","featured":"0"}]
