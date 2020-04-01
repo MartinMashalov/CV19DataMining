@@ -24,7 +24,7 @@
       {
         "id": "1",
         "location_id": "1",
-        "number": "(206) 364-0500",
+        "number": "'+1 (206) 364-0500",
         "extension": "None",
         "type": "Office",
         "language": "EN",
@@ -90,7 +90,7 @@
     "alternate_name": "Snohomish Health District Drive-Thru",
     "description": "More COVID-19 testing is available in Snohomish County as of Monday morning, as a new drive-thru testing site opened in the parking lot of Everett Memorial Stadium on Broadway. They are reserved for people who are experiencing symptoms of COVID-19 — such as coughing, a fever of at least 100.4 degrees, sore throat and shortness of breath — who are in any of the following categories:\n\nPregnant.\nAge 60 or older.\nAnyone with underlying health conditions.\nHealth care workers.\nPeople who work in “critical infrastructure,” such as public safety, grocery stores, restaurants, shelters, gas stations, public utilities, child care and correctional facilities.",
     "transportation": "Car",
-    "updated": "2020-04-01",
+    "updated": "2020-03-31",
     "featured": "TRUE",
     "physical_address": [
       {
@@ -108,7 +108,7 @@
       {
         "id": "2",
         "location_id": "2",
-        "number": "(425) 339-5200",
+        "number": "'+1 (425) 339-5200",
         "extension": "None",
         "type": "Office",
         "language": "EN",
@@ -145,5 +145,447 @@
         "closes_at": "4:00:00 PM"
       }
     ]
+  },
+  {
+    "id": "3",
+    "organization_id": "3",
+    "name": "Lynnwood - Kaiser Permanente",
+    "alternate_name": "Kaiser Permanente Lynnwood Medical Cente",
+    "description": "You do need a doctor’s order, must be showing symptoms, and be considered in a vulnerable population – someone 60 or older or with preexisting conditions – in order to be tested.",
+    "transportation": "Car",
+    "updated": "2020-03-31",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "3",
+        "location_id": "3",
+        "address_1": "20200 54th Ave W",
+        "city": "Lynnwood",
+        "region": "NW Washington",
+        "state_province": "WA",
+        "postal_code": "98036",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "3",
+        "location_id": "3",
+        "number": "'+1 (425) 672-6400",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN, ES",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": []
+  },
+  {
+    "id": "4",
+    "organization_id": "3",
+    "name": "Puyallup - Kaiser Permanente",
+    "alternate_name": "Kaiser Permanente Puyallup Medical Center",
+    "description": "You do need a doctor’s order, must be showing symptoms, and be considered in a vulnerable population – someone 60 or older or with preexisting conditions – in order to be tested.",
+    "transportation": "Car",
+    "updated": "2020-03-31",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "4",
+        "location_id": "4",
+        "address_1": "1007 39th Ave. S.E.",
+        "city": "Puyallup",
+        "region": "NW Washington",
+        "state_province": "WA",
+        "postal_code": "98374",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "4",
+        "location_id": "4",
+        "number": "'+1 (253) 435-3100",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN, ES",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": []
+  },
+  {
+    "id": "5",
+    "organization_id": "3",
+    "name": "Belleview/Factoria - Kaiser Permanente",
+    "alternate_name": "Kaiser Permanente Factoria Medical Center",
+    "description": "You do need a doctor’s order, must be showing symptoms, and be considered in a vulnerable population – someone 60 or older or with preexisting conditions – in order to be tested.",
+    "transportation": "Car",
+    "updated": "2020-03-31",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "5",
+        "location_id": "5",
+        "address_1": "13451 S.E. 36th St.",
+        "city": "Bellevue",
+        "region": "NW Washington",
+        "state_province": "WA",
+        "postal_code": "98006",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "5",
+        "location_id": "5",
+        "number": "'+1 (425) 562-1337",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN, ES",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": []
+  },
+  {
+    "id": "6",
+    "organization_id": "3",
+    "name": "Everett - Kaiser Permanente",
+    "alternate_name": "Kaiser Permanente",
+    "description": "You do need a doctor’s order, must be showing symptoms, and be considered in a vulnerable population – someone 60 or older or with preexisting conditions – in order to be tested.",
+    "transportation": "Car",
+    "updated": "2020-03-31",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "6",
+        "location_id": "6",
+        "address_1": "The large parking lot near Everett Memorial Stadium at 3900 Broadway",
+        "city": "Everett",
+        "region": "NW Washington",
+        "state_province": "WA",
+        "postal_code": "98201",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "6",
+        "location_id": "6",
+        "number": "'+1 (425) 261-1500",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN, ES",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": []
+  },
+  {
+    "id": "7",
+    "organization_id": "3",
+    "name": "Olympia - Kaiser Permanente",
+    "alternate_name": "Kaiser Permanente Olympia Medical Center",
+    "description": "You do need a doctor’s order, must be showing symptoms, and be considered in a vulnerable population – someone 60 or older or with preexisting conditions – in order to be tested.",
+    "transportation": "Car",
+    "updated": "2020-03-31",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "7",
+        "location_id": "7",
+        "address_1": "700 Lilly Road N.E.",
+        "city": "Olympia",
+        "region": "NW Washington",
+        "state_province": "WA",
+        "postal_code": "98506",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "7",
+        "location_id": "7",
+        "number": "'+1 (360) 923-7000",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN, ES",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": []
+  },
+  {
+    "id": "8",
+    "organization_id": "3",
+    "name": "Capitol Hill Campus - Kaiser Permanente",
+    "alternate_name": "Kaiser Permanente Capitol Hill Campus",
+    "description": "You do need a doctor’s order, must be showing symptoms, and be considered in a vulnerable population – someone 60 or older or with preexisting conditions – in order to be tested.",
+    "transportation": "Car",
+    "updated": "2020-03-31",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "8",
+        "location_id": "8",
+        "address_1": "201 16th Ave. E.",
+        "city": "Seattle",
+        "region": "NW Washington",
+        "state_province": "WA",
+        "postal_code": "98112",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "8",
+        "location_id": "8",
+        "number": "'+1 (206) 326-3000",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN, ES",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": []
+  },
+  {
+    "id": "9",
+    "organization_id": "3",
+    "name": "Silverdale - Kaiser Permanente",
+    "alternate_name": "Kaiser Permanente Silverdale Medical Center",
+    "description": "You do need a doctor’s order, must be showing symptoms, and be considered in a vulnerable population – someone 60 or older or with preexisting conditions – in order to be tested.",
+    "transportation": "Car",
+    "updated": "2020-03-31",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "9",
+        "location_id": "9",
+        "address_1": "10452 Silverdale Way N.W.",
+        "city": "Silverdale",
+        "region": "W Washington",
+        "state_province": "WA",
+        "postal_code": "98383",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "9",
+        "location_id": "9",
+        "number": "'+1 (360) 307-7300",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN, ES",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": []
+  },
+  {
+    "id": "10",
+    "organization_id": "3",
+    "name": "Burien - Kaiser Permanente",
+    "alternate_name": "Kaiser Permanente Burien Medical Center",
+    "description": "You do need a doctor’s order, must be showing symptoms, and be considered in a vulnerable population – someone 60 or older or with preexisting conditions – in order to be tested.",
+    "transportation": "Car",
+    "updated": "2020-03-31",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "10",
+        "location_id": "10",
+        "address_1": "140 SW 146th St",
+        "city": "Burien",
+        "region": "W Washington",
+        "state_province": "WA",
+        "postal_code": "98166",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "10",
+        "location_id": "10",
+        "number": "'+1 (206) 630-3000",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN, ES",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": []
+  },
+  {
+    "id": "11",
+    "organization_id": "4",
+    "name": "PacMed Northgate clinic",
+    "alternate_name": "PacMed Northgate",
+    "description": "Pacific Medical Centers is offering testing to registered patients who qualify based on testing criteria and call ahead for screening.\n\nPacMed requests patients qualify and reserve a test by calling 1-888-472-2633. Tests will only be given to patients who meet symptom or risk criteria.",
+    "transportation": "Car",
+    "updated": "2020-03-31",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "11",
+        "location_id": "11",
+        "address_1": "Parking lot at 10416 5th Ave NE",
+        "city": "Seattle",
+        "region": "NW Washington",
+        "state_province": "WA",
+        "postal_code": "98125",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "11",
+        "location_id": "11",
+        "number": "'+1 (206) 517-6700",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN, ES",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": []
+  },
+  {
+    "id": "12",
+    "organization_id": "4",
+    "name": "PacMed Beacon Hill clinic",
+    "alternate_name": "PacMed Beacon Hill",
+    "description": "Pacific Medical Centers is offering testing to registered patients who qualify based on testing criteria and call ahead for screening.\n\nPacMed requests patients qualify and reserve a test by calling 1-888-472-2633. Tests will only be given to patients who meet symptom or risk criteria.",
+    "transportation": "Car",
+    "updated": "2020-03-31",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "12",
+        "location_id": "12",
+        "address_1": "2nd Fl of Patient Parking Garage, Pacific Tower, 1200 12th Ave S",
+        "city": "Seattle",
+        "region": "NW Washington",
+        "state_province": "WA",
+        "postal_code": "98144",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "12",
+        "location_id": "12",
+        "number": "'+1 (206) 326-2400",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN, ES",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": []
+  },
+  {
+    "id": "13",
+    "organization_id": "4",
+    "name": "PacMed Renton clinic",
+    "alternate_name": "PacMed Renton",
+    "description": "Pacific Medical Centers is offering testing to registered patients who qualify based on testing criteria and call ahead for screening.\n\nPacMed requests patients qualify and reserve a test by calling 1-888-472-2633. Tests will only be given to patients who meet symptom or risk criteria.",
+    "transportation": "Car",
+    "updated": "2020-03-31",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "13",
+        "location_id": "13",
+        "address_1": "Parking lot at 601 S Carr Rd",
+        "city": "Renton",
+        "region": "NW Washington",
+        "state_province": "WA",
+        "postal_code": "98055",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "13",
+        "location_id": "13",
+        "number": "'+1 (425) 227-3700",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN, ES",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": []
+  },
+  {
+    "id": "14",
+    "organization_id": "5",
+    "name": "Swedish Issaquah",
+    "alternate_name": "Swedish Issaquah",
+    "description": "Swedish Medical Center said drive-through testing is available at its Issaquah clinic, and the test site is in a parking garage – much like UW’s first clinic. It also has testing available for eligible patients at its First Hill clinic.",
+    "transportation": "Car",
+    "updated": "2020-03-31",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "14",
+        "location_id": "14",
+        "address_1": "751 N.E. Blakely Drive (parking garage)",
+        "city": "Issaquah",
+        "region": "NW Washington",
+        "state_province": "WA",
+        "postal_code": "98029",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "14",
+        "location_id": "14",
+        "number": "'+1 (425) 313-4000",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": []
+  },
+  {
+    "id": "15",
+    "organization_id": "5",
+    "name": "Swedish First Hill",
+    "alternate_name": "Swedish First Hill",
+    "description": "Swedish Medical Center said drive-through testing is available at its Issaquah clinic, and the test site is in a parking garage – much like UW’s first clinic. It also has testing available for eligible patients at its First Hill clinic.",
+    "transportation": "Car",
+    "updated": "2020-03-31",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "15",
+        "location_id": "15",
+        "address_1": "515 Minor Ave; Suite 170",
+        "city": "Seattle",
+        "region": "NW Washington",
+        "state_province": "WA",
+        "postal_code": "98104",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "15",
+        "location_id": "15",
+        "number": "'+1 206-386-9500",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": []
   }
 ]
