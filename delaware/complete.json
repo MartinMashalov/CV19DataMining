@@ -24,7 +24,7 @@
       {
         "id": "1",
         "location_id": "1",
-        "number": "302-733-1000",
+        "number": "'+1 302-733-1000",
         "extension": "None",
         "type": "Information",
         "language": "EN",
@@ -108,7 +108,7 @@
       {
         "id": "2",
         "location_id": "2",
-        "number": "302-733-1000",
+        "number": "'+1 302-733-1000",
         "extension": "None",
         "type": "Information",
         "language": "EN",
@@ -192,7 +192,7 @@
       {
         "id": "3",
         "location_id": "3",
-        "number": "302-310-8477",
+        "number": "'+1 302-310-8477",
         "extension": "None",
         "type": "Office",
         "language": "EN",
@@ -276,7 +276,7 @@
       {
         "id": "4",
         "location_id": "4",
-        "number": "302-645-3200",
+        "number": "'+1 302-645-3200",
         "extension": "None",
         "type": "Screening",
         "language": "EN",
@@ -360,7 +360,7 @@
       {
         "id": "5",
         "location_id": "5",
-        "number": "302-421-4100",
+        "number": "'+1 302-421-4100",
         "extension": "None",
         "type": "Office",
         "language": "EN",
@@ -444,7 +444,7 @@
       {
         "id": "6",
         "location_id": "6",
-        "number": "302-651-4000",
+        "number": "'+1 302-651-4000",
         "extension": "None",
         "type": "Office",
         "language": "EN",
