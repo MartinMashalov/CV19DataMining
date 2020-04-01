@@ -2,21 +2,41 @@
   {
     "id": "1",
     "organization_id": "1",
-    "name": "No Locations Yet",
-    "alternate_name": "No Locations Yet",
-    "description": "This is just the first entry in the database. We still need to crowdsource some locations.",
-    "transportation": "Bus, Uber, Car",
+    "name": "Eatontown Urgent Care",
+    "alternate_name": "Eatontown Urgent Care",
+    "description": "Central Jersey Urgent Care is testing daily at its Eatontown, Howell and Marlboro locations. Tests are currently limited to 80 patients per day at individual locations.\n\nOnly patients who have symptoms for coronavirus or who have been exposed to someone that has tested positive for COVID-19 will be tested. Patients must register online to make an appointment for the test.\n\nThe demand is high for the tests and the Eatontown location had administered its daily quota of 80 tests by 11 a.m. on Monday, according to the group.   \n\nSince the testing kits are limited, testing may alternate days at certain other locations, so check the Central Jersey Urgent Care website daily for updates.",
+    "transportation": "Car",
     "updated": "updated",
     "featured": "featured",
     "physical_address": [
       {
         "id": "1",
         "location_id": "1",
-        "address_1": "109 Capitol St.",
-        "city": "August",
-        "region": "region",
-        "state_province": "ME",
-        "postal_code": "4330",
+        "address_1": "142 Route 35",
+        "city": "Eatontown",
+        "region": "Region",
+        "state_province": "NJ",
+        "postal_code": "7724",
+        "country": "US"
+      },
+      {
+        "id": "2",
+        "location_id": "1",
+        "address_1": "167 Route 9",
+        "city": "Marlboro",
+        "region": "Region",
+        "state_province": "NJ",
+        "postal_code": "7751",
+        "country": "US"
+      },
+      {
+        "id": "3",
+        "location_id": "1",
+        "address_1": "4564 Route 9",
+        "city": "Howell",
+        "region": "Region",
+        "state_province": "NJ",
+        "postal_code": "7731",
         "country": "US"
       }
     ],
@@ -24,11 +44,29 @@
       {
         "id": "1",
         "location_id": "1",
-        "number": "555-555-5555",
+        "number": "732-515-5111",
         "extension": "None",
         "type": "Office",
         "language": "EN",
         "description": "description"
+      },
+      {
+        "id": "2",
+        "location_id": "1",
+        "number": "732-360-5799",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      },
+      {
+        "id": "3",
+        "location_id": "1",
+        "number": "732-335-0720",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
       }
     ],
     "regular_schedule": [
@@ -36,51 +74,225 @@
         "id": "1",
         "location_id": "1",
         "weekday": "1",
-        "opens_at": "8:00:00 AM",
-        "closes_at": "4:00:00 PM"
+        "opens_at": "9:00:00 AM",
+        "closes_at": "5:00:00 PM"
       },
       {
-        "id": "1",
+        "id": "2",
         "location_id": "1",
         "weekday": "2",
-        "opens_at": "8:00:00 AM",
-        "closes_at": "4:00:00 PM"
+        "opens_at": "9:00:00 AM",
+        "closes_at": "5:00:00 PM"
       },
       {
-        "id": "1",
+        "id": "3",
         "location_id": "1",
         "weekday": "3",
-        "opens_at": "8:00:00 AM",
-        "closes_at": "4:00:00 PM"
+        "opens_at": "9:00:00 AM",
+        "closes_at": "5:00:00 PM"
       },
       {
-        "id": "1",
+        "id": "4",
         "location_id": "1",
         "weekday": "4",
-        "opens_at": "8:00:00 AM",
-        "closes_at": "4:00:00 PM"
+        "opens_at": "9:00:00 AM",
+        "closes_at": "5:00:00 PM"
       },
       {
-        "id": "1",
+        "id": "5",
         "location_id": "1",
         "weekday": "5",
-        "opens_at": "8:00:00 AM",
-        "closes_at": "4:00:00 PM"
+        "opens_at": "9:00:00 AM",
+        "closes_at": "5:00:00 PM"
       },
       {
-        "id": "1",
+        "id": "6",
         "location_id": "1",
         "weekday": "6",
-        "opens_at": "8:00:00 AM",
-        "closes_at": "4:00:00 PM"
+        "opens_at": "9:00:00 AM",
+        "closes_at": "5:00:00 PM"
       },
       {
-        "id": "1",
+        "id": "7",
         "location_id": "1",
         "weekday": "7",
-        "opens_at": "8:00:00 AM",
-        "closes_at": "4:00:00 PM"
+        "opens_at": "9:00:00 AM",
+        "closes_at": "5:00:00 PM"
       }
     ]
+  },
+  {
+    "id": "2",
+    "organization_id": "1",
+    "name": "Marlboro Urgent Care",
+    "alternate_name": "Marlboro Urgent Care",
+    "description": "Central Jersey Urgent Care is testing daily at its Eatontown, Howell and Marlboro locations. Tests are currently limited to 80 patients per day at individual locations.\n\nOnly patients who have symptoms for coronavirus or who have been exposed to someone that has tested positive for COVID-19 will be tested. Patients must register online to make an appointment for the test.\n\nThe demand is high for the tests and the Eatontown location had administered its daily quota of 80 tests by 11 a.m. on Monday, according to the group.   \n\nSince the testing kits are limited, testing may alternate days at certain other locations, so check the Central Jersey Urgent Care website daily for updates.",
+    "transportation": "Car",
+    "updated": "2020-03-31",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "4",
+        "location_id": "2",
+        "address_1": "116 Garden State Pkwy",
+        "city": "Holmdel",
+        "region": "Region",
+        "state_province": "NJ",
+        "postal_code": "7733",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": [
+      {
+        "id": "8",
+        "location_id": "2",
+        "weekday": "1",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "9",
+        "location_id": "2",
+        "weekday": "2",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "10",
+        "location_id": "2",
+        "weekday": "3",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "11",
+        "location_id": "2",
+        "weekday": "4",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "12",
+        "location_id": "2",
+        "weekday": "5",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "13",
+        "location_id": "2",
+        "weekday": "6",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "14",
+        "location_id": "2",
+        "weekday": "7",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "organization_id": "1",
+    "name": "Howell Urgent Care",
+    "alternate_name": "Howell Urgent Care",
+    "description": "Central Jersey Urgent Care is testing daily at its Eatontown, Howell and Marlboro locations. Tests are currently limited to 80 patients per day at individual locations.\n\nOnly patients who have symptoms for coronavirus or who have been exposed to someone that has tested positive for COVID-19 will be tested. Patients must register online to make an appointment for the test.\n\nThe demand is high for the tests and the Eatontown location had administered its daily quota of 80 tests by 11 a.m. on Monday, according to the group.   \n\nSince the testing kits are limited, testing may alternate days at certain other locations, so check the Central Jersey Urgent Care website daily for updates.",
+    "transportation": "Car",
+    "updated": "2020-04-01",
+    "featured": "TRUE",
+    "physical_address": [],
+    "phones": [],
+    "regular_schedule": [
+      {
+        "id": "15",
+        "location_id": "3",
+        "weekday": "1",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "16",
+        "location_id": "3",
+        "weekday": "2",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "17",
+        "location_id": "3",
+        "weekday": "3",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "18",
+        "location_id": "3",
+        "weekday": "4",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "19",
+        "location_id": "3",
+        "weekday": "5",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "20",
+        "location_id": "3",
+        "weekday": "6",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "21",
+        "location_id": "3",
+        "weekday": "7",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "organization_id": "2",
+    "name": "PNC Bank Arts Center",
+    "alternate_name": "PNC Bank Arts Center",
+    "description": "Community-Based Testing Sites are for individuals who are experiencing symptoms of respiratory illness. In order to be eligible for testing, individuals must be current New Jersey residents and experiencing symptoms of respiratory illness. Priority will be given to symptomatic individuals experiencing cough, fever (99.6F or above) and shortness of breath. The drive-thru testing center will be open seven days per week, beginning at 8:00 a.m. until supplies last. Complete the self-assessment to learn what to do.",
+    "transportation": "Car",
+    "updated": "2020-04-02",
+    "featured": "TRUE",
+    "physical_address": [],
+    "phones": [],
+    "regular_schedule": []
+  },
+  {
+    "id": "5",
+    "organization_id": "3",
+    "name": "Kean University",
+    "alternate_name": "Kean University",
+    "description": "Please note that testing is by appointment only and you must be registered through your doctor or healthcare provider. Union County residents, Union County First Responders and essential personnel, who have been instructed by their doctor or healthcare provider to be tested for COVID-19, must be given a prescription and registered by their doctor or healthcare provider on a secure portal where they will receive an appointment for the drive-through. This is the only way to receive an appointment to be tested. For the safety, health and security of the volunteers at the site, the testing location will not allow patients without vehicles to enter campus, even with a valid prescription and appointment. If you do not have your own transportation, please discuss with your healthcare provider before scheduling an appointment",
+    "transportation": "Car",
+    "updated": "2020-04-03",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "5",
+        "location_id": "5",
+        "address_1": "1000 Morris Ave",
+        "city": "Union",
+        "region": "Region",
+        "state_province": "NJ",
+        "postal_code": "7083",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": []
   }
 ]
