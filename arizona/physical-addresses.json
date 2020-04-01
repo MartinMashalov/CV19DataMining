@@ -1,12 +1,1 @@
-[
-  {
-    "id": "1",
-    "location_id": "1",
-    "address_1": "150 N 18th Ave",
-    "city": "Phoenix",
-    "region": "State",
-    "state_province": "AZ",
-    "postal_code": "85007",
-    "country": "US"
-  }
-]
+[{"id":"1","location_id":"1","address_1":"1515 N 9th St","city":"Phoenix","region":"State","state_province":"AZ","postal_code":"85006","country":"US"},{"id":"2","location_id":"2","address_1":"4375 E Irma Ln","city":"Phoenix","region":"State","state_province":"AZ","postal_code":"85050","country":"US"},{"id":"3","location_id":"3","address_1":"4720 E Greenway Rd","city":"Phoenix","region":"State","state_province":"AZ","postal_code":"85032","country":"US"},{"id":"4","location_id":"4","address_1":"4135 S. Power Rd, #113","city":"Mesa","region":"State","state_province":"AZ","postal_code":"85212","country":"US"}]
