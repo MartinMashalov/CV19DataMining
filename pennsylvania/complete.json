@@ -82,5 +82,686 @@
         "closes_at": "4:00:00 PM"
       }
     ]
+  },
+  {
+    "id": "2",
+    "organization_id": "2",
+    "name": "Penn Medicine",
+    "alternate_name": "Penn Medicine",
+    "description": "Penn Medicine has two ambulatory COVID-19 testing sites, one in West Philadelphia and one in Radnor, with test kits available for those who are experiencing coronavirus-like symptoms.\n\nNo co-pays or deductibles will be charged for testing, and uninsured patients will be able to be tested for free. ",
+    "transportation": "Car & Walk",
+    "updated": "2020-04-01",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "2",
+        "location_id": "2",
+        "address_1": "250 King of Prussia Road",
+        "city": "Radnor",
+        "region": "region",
+        "state_province": "PA",
+        "postal_code": "19087",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "2",
+        "location_id": "2",
+        "number": "'+1 833-983-1350",
+        "extension": "None",
+        "type": "Hotline",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "8",
+        "location_id": "2",
+        "weekday": "1",
+        "opens_at": "10:00:00 AM",
+        "closes_at": "4:00:00 PM"
+      },
+      {
+        "id": "9",
+        "location_id": "2",
+        "weekday": "2",
+        "opens_at": "10:00:00 AM",
+        "closes_at": "4:00:00 PM"
+      },
+      {
+        "id": "10",
+        "location_id": "2",
+        "weekday": "3",
+        "opens_at": "10:00:00 AM",
+        "closes_at": "4:00:00 PM"
+      },
+      {
+        "id": "11",
+        "location_id": "2",
+        "weekday": "4",
+        "opens_at": "10:00:00 AM",
+        "closes_at": "4:00:00 PM"
+      },
+      {
+        "id": "12",
+        "location_id": "2",
+        "weekday": "5",
+        "opens_at": "10:00:00 AM",
+        "closes_at": "4:00:00 PM"
+      },
+      {
+        "id": "13",
+        "location_id": "2",
+        "weekday": "6",
+        "opens_at": "10:00:00 AM",
+        "closes_at": "4:00:00 PM"
+      },
+      {
+        "id": "14",
+        "location_id": "2",
+        "weekday": "7",
+        "opens_at": "10:00:00 AM",
+        "closes_at": "4:00:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "organization_id": "2",
+    "name": "Penn Medicine",
+    "alternate_name": "Penn Medicine",
+    "description": "Penn Medicine has two ambulatory COVID-19 testing sites, one in West Philadelphia and one in Radnor, with test kits available for those who are experiencing coronavirus-like symptoms.\n\nNo co-pays or deductibles will be charged for testing, and uninsured patients will be able to be tested for free. ",
+    "transportation": "Car & Walk",
+    "updated": "2020-04-01",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "3",
+        "location_id": "3",
+        "address_1": "4122 Market Street",
+        "city": "Philadelphia",
+        "region": "region",
+        "state_province": "PA",
+        "postal_code": "19104",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "3",
+        "location_id": "3",
+        "number": "'+1 833-983-1350",
+        "extension": "None",
+        "type": "Hotline",
+        "language": "EN",
+        "description": "Toll-free coronavirus hotline"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "15",
+        "location_id": "3",
+        "weekday": "1",
+        "opens_at": "10:00:00 AM",
+        "closes_at": "4:00:00 PM"
+      },
+      {
+        "id": "16",
+        "location_id": "3",
+        "weekday": "2",
+        "opens_at": "10:00:00 AM",
+        "closes_at": "4:00:00 PM"
+      },
+      {
+        "id": "17",
+        "location_id": "3",
+        "weekday": "3",
+        "opens_at": "10:00:00 AM",
+        "closes_at": "4:00:00 PM"
+      },
+      {
+        "id": "18",
+        "location_id": "3",
+        "weekday": "4",
+        "opens_at": "10:00:00 AM",
+        "closes_at": "4:00:00 PM"
+      },
+      {
+        "id": "19",
+        "location_id": "3",
+        "weekday": "5",
+        "opens_at": "10:00:00 AM",
+        "closes_at": "4:00:00 PM"
+      },
+      {
+        "id": "20",
+        "location_id": "3",
+        "weekday": "6",
+        "opens_at": "10:00:00 AM",
+        "closes_at": "4:00:00 PM"
+      },
+      {
+        "id": "21",
+        "location_id": "3",
+        "weekday": "7",
+        "opens_at": "10:00:00 AM",
+        "closes_at": "4:00:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "organization_id": "3",
+    "name": "Chester County Hospital",
+    "alternate_name": "Chester County Hospital",
+    "description": "Chester County Hospital is offering COVID-19 testing for community members who have valid orders from their medical providers. ",
+    "transportation": "Car",
+    "updated": "2020-04-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "4",
+        "location_id": "4",
+        "address_1": "701 E Marshall Street",
+        "city": "West Chester",
+        "region": "region",
+        "state_province": "PA",
+        "postal_code": "19380",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "4",
+        "location_id": "4",
+        "number": "'+1 267-758-4408",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Toll-free coronavirus hotline"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "22",
+        "location_id": "4",
+        "weekday": "1",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "23",
+        "location_id": "4",
+        "weekday": "2",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "24",
+        "location_id": "4",
+        "weekday": "3",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "25",
+        "location_id": "4",
+        "weekday": "4",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "26",
+        "location_id": "4",
+        "weekday": "5",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "27",
+        "location_id": "4",
+        "weekday": "6",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "28",
+        "location_id": "4",
+        "weekday": "7",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "organization_id": "4",
+    "name": "Lancaster General Health Testing Site",
+    "alternate_name": "Lancaster General Health Testing Site",
+    "description": "Penn Medicine Lancaster General Health offers a drive-thru coronavirus (COVID-19) testing site conveniently located just outside of Lancaster City at the Pennsylvania College of Health Sciences.",
+    "transportation": "Car",
+    "updated": "2020-04-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "5",
+        "location_id": "5",
+        "address_1": "850 Greenfield Road",
+        "city": "Lancaster",
+        "region": "region",
+        "state_province": "PA",
+        "postal_code": "17601",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "5",
+        "location_id": "5",
+        "number": "'+1 610-431-5000",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "29",
+        "location_id": "5",
+        "weekday": "1",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "6:00:00 PM"
+      },
+      {
+        "id": "30",
+        "location_id": "5",
+        "weekday": "2",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "6:00:00 PM"
+      },
+      {
+        "id": "31",
+        "location_id": "5",
+        "weekday": "3",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "6:00:00 PM"
+      },
+      {
+        "id": "32",
+        "location_id": "5",
+        "weekday": "4",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "6:00:00 PM"
+      },
+      {
+        "id": "33",
+        "location_id": "5",
+        "weekday": "5",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "6:00:00 PM"
+      },
+      {
+        "id": "34",
+        "location_id": "5",
+        "weekday": "6",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "2:00:00 PM"
+      },
+      {
+        "id": "35",
+        "location_id": "5",
+        "weekday": "7",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "2:00:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "organization_id": "5",
+    "name": "Allegheny Health Network",
+    "alternate_name": "ANH",
+    "description": "At Allegheny Health Network (AHN), we put our patients first. You get the right care at the right time in your neighborhood and throughout western Pennsylvania",
+    "transportation": "Car",
+    "updated": "2020-04-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "6",
+        "location_id": "6",
+        "address_1": "12311 Perry Highway",
+        "city": "Wexford",
+        "region": "region",
+        "state_province": "PA",
+        "postal_code": "15090",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "6",
+        "location_id": "6",
+        "number": "'+1 717-544-5511",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      },
+      {
+        "id": "6",
+        "location_id": "6",
+        "number": "'+1 844-497-4968",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "36",
+        "location_id": "6",
+        "weekday": "1",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "37",
+        "location_id": "6",
+        "weekday": "2",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "38",
+        "location_id": "6",
+        "weekday": "3",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "39",
+        "location_id": "6",
+        "weekday": "4",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "40",
+        "location_id": "6",
+        "weekday": "5",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "41",
+        "location_id": "6",
+        "weekday": "6",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "42",
+        "location_id": "6",
+        "weekday": "7",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "organization_id": "5",
+    "name": "Allegheny Health Network",
+    "alternate_name": "ANH",
+    "description": "At Allegheny Health Network (AHN), we put our patients first. You get the right care at the right time in your neighborhood and throughout western Pennsylvania",
+    "transportation": "Car",
+    "updated": "2020-04-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "7",
+        "location_id": "7",
+        "address_1": "1010 Higbee Drive",
+        "city": "Bethel Park",
+        "region": "region",
+        "state_province": "PA",
+        "postal_code": "15102",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "7",
+        "location_id": "7",
+        "number": "'+1 412-854-7100",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "43",
+        "location_id": "7",
+        "weekday": "1",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "44",
+        "location_id": "7",
+        "weekday": "2",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "45",
+        "location_id": "7",
+        "weekday": "3",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "46",
+        "location_id": "7",
+        "weekday": "4",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "47",
+        "location_id": "7",
+        "weekday": "5",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "48",
+        "location_id": "7",
+        "weekday": "6",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "49",
+        "location_id": "7",
+        "weekday": "7",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "organization_id": "5",
+    "name": "Allegheny Health Network",
+    "alternate_name": "ANH",
+    "description": "At Allegheny Health Network (AHN), we put our patients first. You get the right care at the right time in your neighborhood and throughout western Pennsylvania",
+    "transportation": "Car",
+    "updated": "2020-04-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "8",
+        "location_id": "8",
+        "address_1": "4220 William Penn Highway",
+        "city": "Monroeville",
+        "region": "region",
+        "state_province": "PA",
+        "postal_code": "15146",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "8",
+        "location_id": "8",
+        "number": "none",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "50",
+        "location_id": "8",
+        "weekday": "1",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "51",
+        "location_id": "8",
+        "weekday": "2",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "52",
+        "location_id": "8",
+        "weekday": "3",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "53",
+        "location_id": "8",
+        "weekday": "4",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "54",
+        "location_id": "8",
+        "weekday": "5",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "55",
+        "location_id": "8",
+        "weekday": "6",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "56",
+        "location_id": "8",
+        "weekday": "7",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "organization_id": "5",
+    "name": "Allegheny Health Network",
+    "alternate_name": "ANH",
+    "description": "At Allegheny Health Network (AHN), we put our patients first. You get the right care at the right time in your neighborhood and throughout western Pennsylvania",
+    "transportation": "Car",
+    "updated": "2020-04-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "9",
+        "location_id": "9",
+        "address_1": "4247 West Ridge Road",
+        "city": "Erie",
+        "region": "region",
+        "state_province": "PA",
+        "postal_code": "16506",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "9",
+        "location_id": "9",
+        "number": "'+1 814-838-2085",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "57",
+        "location_id": "9",
+        "weekday": "1",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "58",
+        "location_id": "9",
+        "weekday": "2",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "59",
+        "location_id": "9",
+        "weekday": "3",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "60",
+        "location_id": "9",
+        "weekday": "4",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "61",
+        "location_id": "9",
+        "weekday": "5",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "62",
+        "location_id": "9",
+        "weekday": "6",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "63",
+        "location_id": "9",
+        "weekday": "7",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      }
+    ]
   }
 ]
