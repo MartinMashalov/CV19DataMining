@@ -1,204 +1,75 @@
 [
   {
-    "id": "1",
-    "organization_id": "1",
-    "name": "Stony Brook University’s South P Lot",
-    "alternate_name": "SBU",
-    "description": "New York State has partnered with Stony Brook University to begin drive-through testing for the coronavirus at Stony Brook University’s South P Lot off Stony Brook Road. Residents can make advance appointments by calling 888-364-3065. Hours of operation are seven days a week, 7 am to 7 pm.\n\nAnyone from across Long Island, not just in Suffolk, who has contacted the New York State Department of Health (DOH) at 888-364-3065 and is part of the highest-risk population as determined by DOH will be tested. Anyone who believes they’re at risk should call the DOH Hotline, 888-364-3065, and talk to experts to determine if and how they should be tested. Walk-ins will not be seen.",
-    "transportation": "Car",
-    "updated": "updated",
-    "featured": "featured",
-    "physical_address": [
-      {
-        "id": "1",
-        "location_id": "1",
-        "address_1": "Stony Brook University South P Lot",
-        "city": "Stony Brook",
-        "region": "Region",
-        "state_province": "NY",
-        "postal_code": "11790",
-        "country": "US"
-      }
-    ],
-    "phones": [
-      {
-        "id": "1",
-        "location_id": "1",
-        "number": "888-364-3065",
-        "extension": "None",
-        "type": "Office",
-        "language": "EN",
-        "description": "description"
-      }
-    ],
-    "regular_schedule": [
-      {
-        "id": "1",
-        "location_id": "1",
-        "weekday": "1",
-        "opens_at": "7:00:00 AM",
-        "closes_at": "7:00:00 PM"
-      },
-      {
-        "id": "2",
-        "location_id": "1",
-        "weekday": "2",
-        "opens_at": "7:00:00 AM",
-        "closes_at": "7:00:00 PM"
-      },
-      {
-        "id": "3",
-        "location_id": "1",
-        "weekday": "3",
-        "opens_at": "7:00:00 AM",
-        "closes_at": "7:00:00 PM"
-      },
-      {
-        "id": "4",
-        "location_id": "1",
-        "weekday": "4",
-        "opens_at": "7:00:00 AM",
-        "closes_at": "7:00:00 PM"
-      },
-      {
-        "id": "5",
-        "location_id": "1",
-        "weekday": "5",
-        "opens_at": "7:00:00 AM",
-        "closes_at": "7:00:00 PM"
-      },
-      {
-        "id": "6",
-        "location_id": "1",
-        "weekday": "6",
-        "opens_at": "7:00:00 AM",
-        "closes_at": "7:00:00 PM"
-      },
-      {
-        "id": "7",
-        "location_id": "1",
-        "weekday": "7",
-        "opens_at": "7:00:00 AM",
-        "closes_at": "7:00:00 PM"
-      }
-    ]
-  },
-  {
-    "id": "2",
-    "organization_id": "2",
-    "name": "Intermodal Center at Dutchess Stadium",
-    "alternate_name": "Intermodal Center at Dutchess Stadium",
-    "description": "The COVID-19 drive-through collection site is an alternative location for people suspected of COVID-19 to give a specimen sample for a test; this is instead of going to the emergency department or another medical facility.\n\nWho can go to the collection site?\n\nThe collection site is ONLY for pre-screened people who meet ALL of following criteria:\n\nYou called your doctor’s office and had a consultation\nBased on your symptoms and other information you provided, your doctor determined that you meet criteria for COVID-19 testing, and ordered a test for you\nYou have a scheduled appointment at the collection site\nNo pets are allowed at the collection sites unless they are service animals.\n\nHow do I schedule an appointment at the collection site?\n\nYour doctor will give you the phone number to call to schedule an appointment at the collection site. The collection site hours of operation are Monday through Saturday, 8:30 AM to 3:30 PM, and are subject to change.\n\nWhat do I need to bring with me for my appointment?\n\nGovernment-issued photo ID (examples: driver’s license, passport)\nInsurance card (if you have one)\nPhysician order (prescription) for the COVID-19 test. Your doctor will tell you if you need to bring a paper order with you or if it will be submitted electronically.",
-    "transportation": "Car",
-    "updated": "2020-03-31",
-    "featured": "TRUE",
-    "physical_address": [
-      {
-        "id": "2",
-        "location_id": "2",
-        "address_1": "1500 NY-9D",
-        "city": "Wappingers Falls",
-        "region": "Region",
-        "state_province": "NY",
-        "postal_code": "12590",
-        "country": "US"
-      }
-    ],
-    "phones": [
-      {
-        "id": "2",
-        "location_id": "2",
-        "number": "(800) 421-1220",
-        "extension": "None",
-        "type": "Office",
-        "language": "EN",
-        "description": "Primary number pulled from Google Maps listing."
-      }
-    ],
-    "regular_schedule": [
-      {
-        "id": "8",
-        "location_id": "2",
-        "weekday": "2",
-        "opens_at": "8:30:00 AM",
-        "closes_at": "3:30:00 PM"
-      },
-      {
-        "id": "9",
-        "location_id": "2",
-        "weekday": "3",
-        "opens_at": "8:30:00 AM",
-        "closes_at": "3:30:00 PM"
-      },
-      {
-        "id": "10",
-        "location_id": "2",
-        "weekday": "4",
-        "opens_at": "8:30:00 AM",
-        "closes_at": "3:30:00 PM"
-      },
-      {
-        "id": "11",
-        "location_id": "2",
-        "weekday": "5",
-        "opens_at": "8:30:00 AM",
-        "closes_at": "3:30:00 PM"
-      },
-      {
-        "id": "12",
-        "location_id": "2",
-        "weekday": "6",
-        "opens_at": "8:30:00 AM",
-        "closes_at": "3:30:00 PM"
-      },
-      {
-        "id": "13",
-        "location_id": "2",
-        "weekday": "7",
-        "opens_at": "8:30:00 AM",
-        "closes_at": "3:30:00 PM"
-      }
-    ]
-  },
-  {
     "id": "3",
-    "organization_id": "2",
-    "name": "Tech City",
-    "alternate_name": "Tech City",
-    "description": "The COVID-19 drive-through collection site is an alternative location for people suspected of COVID-19 to give a specimen sample for a test; this is instead of going to the emergency department or another medical facility.\n\nWho can go to the collection site?\n\nThe collection site is ONLY for pre-screened people who meet ALL of following criteria:\n\nYou called your doctor’s office and had a consultation\nBased on your symptoms and other information you provided, your doctor determined that you meet criteria for COVID-19 testing, and ordered a test for you\nYou have a scheduled appointment at the collection site\nNo pets are allowed at the collection sites unless they are service animals.\n\nHow do I schedule an appointment at the collection site?\n\nYour doctor will give you the phone number to call to schedule an appointment at the collection site. The collection site hours of operation are Monday through Saturday, 8:30 AM to 3:30 PM, and are subject to change.\n\nWhat do I need to bring with me for my appointment?\n\nGovernment-issued photo ID (examples: driver’s license, passport)\nInsurance card (if you have one)\nPhysician order (prescription) for the COVID-19 test. Your doctor will tell you if you need to bring a paper order with you or if it will be submitted electronically.",
+    "organization_id": "3",
+    "name": "CVS Pharmacy",
+    "alternate_name": "CVS",
+    "description": "Patients that drive up to the site on Route 9 immediately have their temperatures taken, and if they register a fever, CVS employees volunteering at the site take nasal swabs and send them to the Quest Diagnostics Lab in Marlboro for testing",
     "transportation": "Car",
-    "updated": "2020-03-31",
+    "updated": "2020-04-01",
     "featured": "TRUE",
     "physical_address": [
       {
         "id": "3",
         "location_id": "3",
-        "address_1": "300 Enterprise Drive",
-        "city": "Kingston",
-        "region": "Region",
-        "state_province": "NY",
-        "postal_code": "12401",
+        "address_1": "720 Boston Turnpike",
+        "city": "Shrewsbury",
+        "region": "region",
+        "state_province": "MA",
+        "postal_code": "'01545",
         "country": "US"
       }
     ],
-    "phones": [
+    "phones": [],
+    "regular_schedule": [
       {
         "id": "3",
         "location_id": "3",
-        "number": "(800) 421-1220",
-        "extension": "None",
-        "type": "Office",
-        "language": "EN",
-        "description": "Primary number pulled from Google Maps listing."
-      }
-    ],
-    "regular_schedule": [
+        "weekday": "1",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "8:00:00 PM"
+      },
       {
-        "id": "14",
+        "id": "3",
         "location_id": "3",
         "weekday": "2",
-        "opens_at": "8:30:00 AM",
-        "closes_at": "3:30:00 PM"
+        "opens_at": "8:00:00 AM",
+        "closes_at": "8:00:00 PM"
+      },
+      {
+        "id": "3",
+        "location_id": "3",
+        "weekday": "3",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "8:00:00 PM"
+      },
+      {
+        "id": "3",
+        "location_id": "3",
+        "weekday": "4",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "8:00:00 PM"
+      },
+      {
+        "id": "3",
+        "location_id": "3",
+        "weekday": "5",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "8:00:00 PM"
+      },
+      {
+        "id": "3",
+        "location_id": "3",
+        "weekday": "6",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "8:00:00 PM"
+      },
+      {
+        "id": "3",
+        "location_id": "3",
+        "weekday": "7",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "8:00:00 PM"
       }
     ]
   }
