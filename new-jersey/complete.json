@@ -18,26 +18,6 @@
         "state_province": "NJ",
         "postal_code": "7724",
         "country": "US"
-      },
-      {
-        "id": "2",
-        "location_id": "1",
-        "address_1": "167 Route 9",
-        "city": "Marlboro",
-        "region": "Region",
-        "state_province": "NJ",
-        "postal_code": "7751",
-        "country": "US"
-      },
-      {
-        "id": "3",
-        "location_id": "1",
-        "address_1": "4564 Route 9",
-        "city": "Howell",
-        "region": "Region",
-        "state_province": "NJ",
-        "postal_code": "7731",
-        "country": "US"
       }
     ],
     "phones": [
@@ -132,13 +112,13 @@
     "featured": "TRUE",
     "physical_address": [
       {
-        "id": "4",
+        "id": "2",
         "location_id": "2",
-        "address_1": "116 Garden State Pkwy",
-        "city": "Holmdel",
+        "address_1": "167 Route 9",
+        "city": "Marlboro",
         "region": "Region",
         "state_province": "NJ",
-        "postal_code": "7733",
+        "postal_code": "7751",
         "country": "US"
       }
     ],
@@ -202,9 +182,20 @@
     "alternate_name": "Howell Urgent Care",
     "description": "Central Jersey Urgent Care is testing daily at its Eatontown, Howell and Marlboro locations. Tests are currently limited to 80 patients per day at individual locations.\n\nOnly patients who have symptoms for coronavirus or who have been exposed to someone that has tested positive for COVID-19 will be tested. Patients must register online to make an appointment for the test.\n\nThe demand is high for the tests and the Eatontown location had administered its daily quota of 80 tests by 11 a.m. on Monday, according to the group.   \n\nSince the testing kits are limited, testing may alternate days at certain other locations, so check the Central Jersey Urgent Care website daily for updates.",
     "transportation": "Car",
-    "updated": "2020-04-02",
+    "updated": "2020-04-01",
     "featured": "TRUE",
-    "physical_address": [],
+    "physical_address": [
+      {
+        "id": "3",
+        "location_id": "3",
+        "address_1": "4564 Route 9",
+        "city": "Howell",
+        "region": "Region",
+        "state_province": "NJ",
+        "postal_code": "7731",
+        "country": "US"
+      }
+    ],
     "phones": [],
     "regular_schedule": [
       {
@@ -265,9 +256,20 @@
     "alternate_name": "PNC Bank Arts Center",
     "description": "Community-Based Testing Sites are for individuals who are experiencing symptoms of respiratory illness. In order to be eligible for testing, individuals must be current New Jersey residents and experiencing symptoms of respiratory illness. Priority will be given to symptomatic individuals experiencing cough, fever (99.6F or above) and shortness of breath. The drive-thru testing center will be open seven days per week, beginning at 8:00 a.m. until supplies last. Complete the self-assessment to learn what to do.",
     "transportation": "Car",
-    "updated": "2020-04-03",
-    "featured": "TRUE",
-    "physical_address": [],
+    "updated": "2020-04-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "4",
+        "location_id": "4",
+        "address_1": "116 Garden State Pkwy",
+        "city": "Holmdel",
+        "region": "Region",
+        "state_province": "NJ",
+        "postal_code": "7733",
+        "country": "US"
+      }
+    ],
     "phones": [
       {
         "id": "4",
@@ -288,8 +290,8 @@
     "alternate_name": "Kean University",
     "description": "Please note that testing is by appointment only and you must be registered through your doctor or healthcare provider. Union County residents, Union County First Responders and essential personnel, who have been instructed by their doctor or healthcare provider to be tested for COVID-19, must be given a prescription and registered by their doctor or healthcare provider on a secure portal where they will receive an appointment for the drive-through. This is the only way to receive an appointment to be tested. For the safety, health and security of the volunteers at the site, the testing location will not allow patients without vehicles to enter campus, even with a valid prescription and appointment. If you do not have your own transportation, please discuss with your healthcare provider before scheduling an appointment",
     "transportation": "Car",
-    "updated": "2020-04-04",
-    "featured": "TRUE",
+    "updated": "2020-04-01",
+    "featured": "FALSE",
     "physical_address": [
       {
         "id": "5",
