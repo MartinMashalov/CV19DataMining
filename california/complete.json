@@ -6,6 +6,8 @@
     "alternate_name": "UC Davis Medical Center",
     "description": "Our hospital is taking steps to greatly expand its testing capabilities on-site, with the goal of running tests inside our hospital within the next few weeks. We are doing this in full collaboration with Sacramento County Public Health and other public health agencies, in order to take pressure off other testing labs",
     "transportation": "Bus, Uber, Car",
+    "updated": "2020-03-31",
+    "featured": "TRUE",
     "physical_address": [
       {
         "id": "1",
@@ -38,42 +40,42 @@
         "closes_at": "12:00:00 PM"
       },
       {
-        "id": "2",
+        "id": "1",
         "location_id": "1",
         "weekday": "2",
         "opens_at": "12:00:00 AM",
         "closes_at": "12:00:00 PM"
       },
       {
-        "id": "3",
+        "id": "1",
         "location_id": "1",
         "weekday": "3",
         "opens_at": "12:00:00 AM",
         "closes_at": "12:00:00 PM"
       },
       {
-        "id": "4",
+        "id": "1",
         "location_id": "1",
         "weekday": "4",
         "opens_at": "12:00:00 AM",
         "closes_at": "12:00:00 PM"
       },
       {
-        "id": "5",
+        "id": "1",
         "location_id": "1",
         "weekday": "5",
         "opens_at": "12:00:00 AM",
         "closes_at": "12:00:00 PM"
       },
       {
-        "id": "6",
+        "id": "1",
         "location_id": "1",
         "weekday": "6",
         "opens_at": "12:00:00 AM",
         "closes_at": "12:00:00 PM"
       },
       {
-        "id": "7",
+        "id": "1",
         "location_id": "1",
         "weekday": "7",
         "opens_at": "12:00:00 AM",
@@ -88,6 +90,8 @@
     "alternate_name": "UCSF",
     "description": "UCSF Health has been actively working to develop on-site testing capacity for patients who are suspected of having the novel coronavirus disease, COVID-19. We do not have the capacity to test the general community at this time.",
     "transportation": "Shuttle, Bus, Train, Uber, Car",
+    "updated": "2020-04-01",
+    "featured": "TRUE",
     "physical_address": [
       {
         "id": "2",
@@ -120,6 +124,8 @@
     "alternate_name": "UCSF",
     "description": "Yes, we are testing people who meet certain conditions. Our ability to test patients is improving, but testing remains limited so we cannot test all individuals. Your health care provider will determine if you meet the criteria for testing.",
     "transportation": "Bus, Car, Uber",
+    "updated": "2020-04-02",
+    "featured": "TRUE",
     "physical_address": [
       {
         "id": "3",
@@ -152,6 +158,8 @@
     "alternate_name": "Stanford Express Care Clinic",
     "description": "Stanford Health Care’s same-day primary care program is offering drive-through testing, by appointment, for SARS-CoV-2, the coronavirus that causes COVID-19. The service is being provided to patients who are referred for testing by a health care provider based on their symptoms and exposure.",
     "transportation": "Drive Through",
+    "updated": "2020-04-03",
+    "featured": "TRUE",
     "physical_address": [
       {
         "id": "4",
@@ -177,49 +185,49 @@
     ],
     "regular_schedule": [
       {
-        "id": "8",
+        "id": "4",
         "location_id": "4",
         "weekday": "1",
         "opens_at": "9:00:00 AM",
         "closes_at": "6:00:00 PM"
       },
       {
-        "id": "9",
+        "id": "4",
         "location_id": "4",
         "weekday": "2",
         "opens_at": "9:00:00 AM",
         "closes_at": "6:00:00 PM"
       },
       {
-        "id": "10",
+        "id": "4",
         "location_id": "4",
         "weekday": "3",
         "opens_at": "9:00:00 AM",
         "closes_at": "6:00:00 PM"
       },
       {
-        "id": "11",
+        "id": "4",
         "location_id": "4",
         "weekday": "4",
         "opens_at": "9:00:00 AM",
         "closes_at": "6:00:00 PM"
       },
       {
-        "id": "12",
+        "id": "4",
         "location_id": "4",
         "weekday": "5",
         "opens_at": "9:00:00 AM",
         "closes_at": "6:00:00 PM"
       },
       {
-        "id": "13",
+        "id": "4",
         "location_id": "4",
         "weekday": "6",
         "opens_at": "9:00:00 AM",
         "closes_at": "6:00:00 PM"
       },
       {
-        "id": "14",
+        "id": "4",
         "location_id": "4",
         "weekday": "7",
         "opens_at": "9:00:00 AM",
@@ -234,6 +242,8 @@
     "alternate_name": "Kaiser",
     "description": "COVID-19 tests are available only by a doctor's order for hisk-risk patients who meet specific criteria. If you are concerned that you or a family member are exhibiting symptoms of COVID-19, please contact us first before coming in, as you need a referral and appointment to get tested",
     "transportation": "Depends",
+    "updated": "2020-04-04",
+    "featured": "TRUE",
     "physical_address": [
       {
         "id": "5",
@@ -262,10 +272,12 @@
   {
     "id": "6",
     "organization_id": "6",
-    "name": "John Muir Health",
+    "name": "Walnut Creek - John Muir Health",
     "alternate_name": "John Muir Health",
     "description": "Testing is done by doctor’s order only, following an in-person or phone evaluation. If you are told that you are not eligible to be tested, this means that your health care provider has determined that your risk-status and symptoms indicate that you will do best with at-home care.",
     "transportation": "Car, Uber",
+    "updated": "2020-04-05",
+    "featured": "TRUE",
     "physical_address": [
       {
         "id": "6",
@@ -283,16 +295,176 @@
   },
   {
     "id": "7",
+    "organization_id": "6",
+    "name": "Brentwood Urgent Care - John Muir Health",
+    "alternate_name": "John Muir Health",
+    "description": "Testing is done by doctor’s order only, following an in-person or phone evaluation. If you are told that you are not eligible to be tested, this means that your health care provider has determined that your risk-status and symptoms indicate that you will do best with at-home care.",
+    "transportation": "Car, Uber",
+    "updated": "2020-04-06",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "7",
+        "location_id": "7",
+        "address_1": "2400 Balfour Rd Suite 120",
+        "city": "Brentwood",
+        "region": "Northern California",
+        "state_province": "CA",
+        "postal_code": "94513",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": [
+      {
+        "id": "7",
+        "location_id": "7",
+        "weekday": "1",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "7",
+        "location_id": "7",
+        "weekday": "2",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "7",
+        "location_id": "7",
+        "weekday": "3",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "7",
+        "location_id": "7",
+        "weekday": "4",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "7",
+        "location_id": "7",
+        "weekday": "5",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "7",
+        "location_id": "7",
+        "weekday": "6",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "7",
+        "location_id": "7",
+        "weekday": "7",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "organization_id": "6",
+    "name": "Pleasanton - John Muir Health",
+    "alternate_name": "John Muir Health",
+    "description": "Testing is done by doctor’s order only, following an in-person or phone evaluation. If you are told that you are not eligible to be tested, this means that your health care provider has determined that your risk-status and symptoms indicate that you will do best with at-home care.",
+    "transportation": "Car, Uber",
+    "updated": "2020-04-07",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "8",
+        "location_id": "8",
+        "address_1": "5860 Owens Dr Suite 110",
+        "city": "Pleasanton",
+        "region": "Northern California",
+        "state_province": "CA",
+        "postal_code": "94588",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": []
+  },
+  {
+    "id": "9",
+    "organization_id": "6",
+    "name": "Berkeley - John Muir Health",
+    "alternate_name": "John Muir Health",
+    "description": "Testing is done by doctor’s order only, following an in-person or phone evaluation. If you are told that you are not eligible to be tested, this means that your health care provider has determined that your risk-status and symptoms indicate that you will do best with at-home care.",
+    "transportation": "Car, Uber",
+    "updated": "2020-04-08",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "9",
+        "location_id": "9",
+        "address_1": "3100 San Pablo Ave Suite 300",
+        "city": "Berkeley",
+        "region": "Northern California",
+        "state_province": "CA",
+        "postal_code": "94702",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": [
+      {
+        "id": "9",
+        "location_id": "9",
+        "weekday": "1",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "3:00:00 PM"
+      },
+      {
+        "id": "9",
+        "location_id": "9",
+        "weekday": "2",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "3:00:00 PM"
+      },
+      {
+        "id": "9",
+        "location_id": "9",
+        "weekday": "3",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "3:00:00 PM"
+      },
+      {
+        "id": "9",
+        "location_id": "9",
+        "weekday": "4",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "3:00:00 PM"
+      },
+      {
+        "id": "9",
+        "location_id": "9",
+        "weekday": "5",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "3:00:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "10",
     "organization_id": "7",
     "name": "City of Hayward",
     "alternate_name": "City of Hayward",
     "description": "To qualify, they had to have a fever of 100.4 degrees Fahrenheit or higher, officials said, but that appeared to be the main hurdle. The tests were free, and people didn’t need a doctor’s slip to take them.\n\n“It’s for anybody, regardless of residency. You don’t have to live in the city of Hayward, you don’t have to be a citizen,” Capt. Don Nichelson of the Hayward Fire Department said. “We’ll take anybody from anywhere,” he added.\n\nThe city of Hayward set up the testing site across from the fire station at 28270 Huntwood Ave. in partnership with Avellino Labs, a private biotechnology firm based in Menlo Park.",
     "transportation": "Car",
+    "updated": "2020-04-09",
+    "featured": "TRUE",
     "physical_address": [
       {
-        "id": "7",
-        "location_id": "7",
-        "address_1": "28270 Huntwood Ave.",
+        "id": "10",
+        "location_id": "10",
+        "address_1": "28270 Huntwood Ave",
         "city": "Hayward",
         "region": "Northern California",
         "state_province": "CA",
@@ -302,8 +474,8 @@
     ],
     "phones": [
       {
-        "id": "7",
-        "location_id": "7",
+        "id": "10",
+        "location_id": "10",
         "number": "(510) 583-4000",
         "extension": "None",
         "type": "Office",
@@ -313,53 +485,1119 @@
     ],
     "regular_schedule": [
       {
-        "id": "15",
-        "location_id": "7",
+        "id": "10",
+        "location_id": "10",
         "weekday": "1",
         "opens_at": "9:00:00 AM",
-        "closes_at": "5:00:00 PM"
+        "closes_at": "3:00:00 PM"
+      },
+      {
+        "id": "10",
+        "location_id": "10",
+        "weekday": "2",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "3:00:00 PM"
+      },
+      {
+        "id": "10",
+        "location_id": "10",
+        "weekday": "3",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "3:00:00 PM"
+      },
+      {
+        "id": "10",
+        "location_id": "10",
+        "weekday": "4",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "3:00:00 PM"
+      },
+      {
+        "id": "10",
+        "location_id": "10",
+        "weekday": "5",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "3:00:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "organization_id": "8",
+    "name": "Cal Expo - Verily",
+    "alternate_name": "Verily",
+    "description": "The testing site at Cal Expo is one of four sites created by a partnership between the state-directed, federally-funded program in collaboration Google's sister company, Verily and its program Project Baseline. This means that tests conducted at these sites are free, even without insurance, and results will not be shared with insurance or medical providers.",
+    "transportation": "Car, Uber",
+    "updated": "2020-03-31",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "11",
+        "location_id": "11",
+        "address_1": "1600 Exhibition Blvd",
+        "city": "Sacramento",
+        "region": "Northern California",
+        "state_province": "CA",
+        "postal_code": "95815",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": [
+      {
+        "id": "11",
+        "location_id": "11",
+        "weekday": "1",
+        "opens_at": "1:00:00 PM",
+        "closes_at": "4:00:00 PM"
+      },
+      {
+        "id": "11",
+        "location_id": "11",
+        "weekday": "2",
+        "opens_at": "1:00:00 PM",
+        "closes_at": "4:00:00 PM"
+      },
+      {
+        "id": "11",
+        "location_id": "11",
+        "weekday": "3",
+        "opens_at": "1:00:00 PM",
+        "closes_at": "4:00:00 PM"
+      },
+      {
+        "id": "11",
+        "location_id": "11",
+        "weekday": "4",
+        "opens_at": "1:00:00 PM",
+        "closes_at": "4:00:00 PM"
+      },
+      {
+        "id": "11",
+        "location_id": "11",
+        "weekday": "5",
+        "opens_at": "1:00:00 PM",
+        "closes_at": "4:00:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "organization_id": "9",
+    "name": "Ceres - Golden Valley Health Clinic",
+    "alternate_name": "GVHC Ceres",
+    "description": "GVHC have two drive-thru viral testing sites, one in Ceres and one in Merced, but these are available only for GVHC clients from 9 a.m. to 3 p.m. with a referral from their provider.",
+    "transportation": "Car",
+    "updated": "2020-03-31",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "12",
+        "location_id": "12",
+        "address_1": "1900 Memorial Drive",
+        "city": "Ceres",
+        "region": "Central Valley",
+        "state_province": "CA",
+        "postal_code": "95307",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "12",
+        "location_id": "12",
+        "number": "(866) 682-4842",
+        "extension": "None",
+        "type": "Appointment Line",
+        "language": "EN, ES",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": []
+  },
+  {
+    "id": "13",
+    "organization_id": "9",
+    "name": "Merced - Golden Valley Health Clinic",
+    "alternate_name": "GVHC Merced",
+    "description": "GVHC have two drive-thru viral testing sites, one in Ceres and one in Merced, but these are available only for GVHC clients from 9 a.m. to 3 p.m. with a referral from their provider.",
+    "transportation": "Car",
+    "updated": "2020-03-31",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "13",
+        "location_id": "13",
+        "address_1": "3940 Sandpiper Ave",
+        "city": "Merced",
+        "region": "Central Valley",
+        "state_province": "CA",
+        "postal_code": "95340",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "13",
+        "location_id": "13",
+        "number": "(866) 682-4842",
+        "extension": "None",
+        "type": "Appointment Line",
+        "language": "EN, ES",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": []
+  },
+  {
+    "id": "14",
+    "organization_id": "10",
+    "name": "Madera - Camarena Health",
+    "alternate_name": "Camarena Health",
+    "description": "You will need a doctor’s referral and to make an appointment here as well. However, you don’t have to be an existing patient.",
+    "transportation": "Car",
+    "updated": "2020-03-31",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "14",
+        "location_id": "14",
+        "address_1": "344 E. 6th St",
+        "city": "Madera",
+        "region": "Central Valley",
+        "state_province": "CA",
+        "postal_code": "93638",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "14",
+        "location_id": "14",
+        "number": "(559) 664-4000",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN, ES",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": []
+  },
+  {
+    "id": "15",
+    "organization_id": "11",
+    "name": "Torrence Memorial Medical Center",
+    "alternate_name": "Torrence Memorial",
+    "description": "Torrance Memorial will be offering limited testing to ONLY those patients with a Torrance Memorial physician order and a scheduled appointment.",
+    "transportation": "Car",
+    "updated": "2020-03-31",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "15",
+        "location_id": "15",
+        "address_1": "3330 Lomita Blvd",
+        "city": "Torrance",
+        "region": "Southern California",
+        "state_province": "CA",
+        "postal_code": "90505",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "15",
+        "location_id": "15",
+        "number": "(310) 325-9110",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN, ES",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": []
+  },
+  {
+    "id": "16",
+    "organization_id": "12",
+    "name": "Riverside County Fairgrounds",
+    "alternate_name": "Riverside University Health System",
+    "description": "The drive-up site runs between 9 a.m. and 3 p.m. Appointment times are discussed when residents call the toll-free number at 800-945-6171. Residents must have symptoms to make an appointment, which include fever, cough, sore throat, runny nose or congestion.",
+    "transportation": "Car",
+    "updated": "2020-03-31",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "16",
+        "location_id": "16",
+        "address_1": "46517 Arabia St, parking lot 5",
+        "city": "Indio",
+        "region": "Southern California",
+        "state_province": "CA",
+        "postal_code": "92201",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": [
+      {
+        "id": "16",
+        "location_id": "16",
+        "weekday": "2",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "3:00:00 PM"
       },
       {
         "id": "16",
-        "location_id": "7",
-        "weekday": "2",
+        "location_id": "16",
+        "weekday": "3",
         "opens_at": "9:00:00 AM",
-        "closes_at": "5:00:00 PM"
+        "closes_at": "3:00:00 PM"
+      },
+      {
+        "id": "16",
+        "location_id": "16",
+        "weekday": "4",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "3:00:00 PM"
+      },
+      {
+        "id": "16",
+        "location_id": "16",
+        "weekday": "5",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "3:00:00 PM"
+      },
+      {
+        "id": "16",
+        "location_id": "16",
+        "weekday": "6",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "3:00:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "organization_id": "8",
+    "name": "Diamond Stadium - Verily",
+    "alternate_name": "Verily",
+    "description": "Those seeking tests at the Lake Elsinore location are encouraged to use the website https://www.projectbaseline.com/study/covid-19/ for appointments. Residents can also call for 800-945-6171 appointments at Lake Elsinore.",
+    "transportation": "Car",
+    "updated": "2020-03-31",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "17",
+        "location_id": "17",
+        "address_1": "500 Diamond Drive",
+        "city": "Lake Elsinore",
+        "region": "Southern California",
+        "state_province": "CA",
+        "postal_code": "92530",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": [
+      {
+        "id": "17",
+        "location_id": "17",
+        "weekday": "7",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "3:00:00 PM"
       },
       {
         "id": "17",
-        "location_id": "7",
-        "weekday": "3",
+        "location_id": "17",
+        "weekday": "1",
         "opens_at": "9:00:00 AM",
-        "closes_at": "5:00:00 PM"
+        "closes_at": "3:00:00 PM"
       },
       {
-        "id": "18",
-        "location_id": "7",
+        "id": "17",
+        "location_id": "17",
+        "weekday": "2",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "3:00:00 PM"
+      },
+      {
+        "id": "17",
+        "location_id": "17",
+        "weekday": "3",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "3:00:00 PM"
+      },
+      {
+        "id": "17",
+        "location_id": "17",
         "weekday": "4",
         "opens_at": "9:00:00 AM",
-        "closes_at": "5:00:00 PM"
+        "closes_at": "3:00:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "organization_id": "13",
+    "name": "Glendale Memorial Hospital",
+    "alternate_name": "Dignity Health",
+    "description": "Glendale Memorial Hospital is now providing Drive-thru COVID-19 Testing.  Anyone who needs testing is welcome. Please note, that we will prioritize results for healthcare workers and first responders. All patients must have a physician order for testing.",
+    "transportation": "Car",
+    "updated": "2020-03-31",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "18",
+        "location_id": "18",
+        "address_1": "1420 S Central Ave",
+        "city": "Glendale",
+        "region": "Southern California",
+        "state_province": "CA",
+        "postal_code": "91204",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": []
+  },
+  {
+    "id": "19",
+    "organization_id": "14",
+    "name": "Oakland - Carbon Health",
+    "alternate_name": "Carbon Health",
+    "description": "A doctor’s order is not needed, but Carbon Health urges patients to first use the free online coronavirus risk assessment screening tool before seeking a test. You do not have to be a Carbon Health patient to seek a test; any California resident can get one. It takes three to six days to get results.",
+    "transportation": "Car",
+    "updated": "2020-03-31",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "19",
+        "location_id": "19",
+        "address_1": "411 Grand Avenue",
+        "city": "Oakland",
+        "region": "Northern California",
+        "state_province": "CA",
+        "postal_code": "94610",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": [
+      {
+        "id": "19",
+        "location_id": "19",
+        "weekday": "1",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "6:00:00 PM"
       },
       {
         "id": "19",
-        "location_id": "7",
+        "location_id": "19",
+        "weekday": "2",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "6:00:00 PM"
+      },
+      {
+        "id": "19",
+        "location_id": "19",
+        "weekday": "3",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "6:00:00 PM"
+      },
+      {
+        "id": "19",
+        "location_id": "19",
+        "weekday": "4",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "6:00:00 PM"
+      },
+      {
+        "id": "19",
+        "location_id": "19",
         "weekday": "5",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "6:00:00 PM"
+      },
+      {
+        "id": "19",
+        "location_id": "19",
+        "weekday": "6",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "6:00:00 PM"
+      },
+      {
+        "id": "19",
+        "location_id": "19",
+        "weekday": "7",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "6:00:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "organization_id": "14",
+    "name": "Berkeley - Carbon Health",
+    "alternate_name": "Carbon Health",
+    "description": "A doctor’s order is not needed, but Carbon Health urges patients to first use the free online coronavirus risk assessment screening tool before seeking a test. You do not have to be a Carbon Health patient to seek a test; any California resident can get one. It takes three to six days to get results.",
+    "transportation": "Car",
+    "updated": "2020-03-31",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "20",
+        "location_id": "20",
+        "address_1": "2920 Telegraph Ave",
+        "city": "Berkeley",
+        "region": "Northern California",
+        "state_province": "CA",
+        "postal_code": "94705",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": [
+      {
+        "id": "20",
+        "location_id": "20",
+        "weekday": "1",
         "opens_at": "9:00:00 AM",
-        "closes_at": "5:00:00 PM"
+        "closes_at": "7:00:00 PM"
       },
       {
         "id": "20",
-        "location_id": "7",
+        "location_id": "20",
+        "weekday": "2",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "20",
+        "location_id": "20",
+        "weekday": "3",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "20",
+        "location_id": "20",
+        "weekday": "4",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "20",
+        "location_id": "20",
+        "weekday": "5",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "20",
+        "location_id": "20",
         "weekday": "6",
         "opens_at": "9:00:00 AM",
-        "closes_at": "5:00:00 PM"
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "20",
+        "location_id": "20",
+        "weekday": "7",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "organization_id": "14",
+    "name": "Castro Urgent Care San Francisco - Carbon Health",
+    "alternate_name": "Carbon Health",
+    "description": "A doctor’s order is not needed, but Carbon Health urges patients to first use the free online coronavirus risk assessment screening tool before seeking a test. You do not have to be a Carbon Health patient to seek a test; any California resident can get one. It takes three to six days to get results.",
+    "transportation": "Car",
+    "updated": "2020-03-31",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "21",
+        "location_id": "21",
+        "address_1": "1998 Market Street",
+        "city": "San Francisco",
+        "region": "Northern California",
+        "state_province": "CA",
+        "postal_code": "94102",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": [
+      {
+        "id": "21",
+        "location_id": "21",
+        "weekday": "1",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
       },
       {
         "id": "21",
-        "location_id": "7",
+        "location_id": "21",
+        "weekday": "2",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "21",
+        "location_id": "21",
+        "weekday": "3",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "21",
+        "location_id": "21",
+        "weekday": "4",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "21",
+        "location_id": "21",
+        "weekday": "5",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "21",
+        "location_id": "21",
+        "weekday": "6",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "21",
+        "location_id": "21",
         "weekday": "7",
         "opens_at": "9:00:00 AM",
-        "closes_at": "5:00:00 PM"
+        "closes_at": "7:00:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "organization_id": "14",
+    "name": "San Jose - El Camino Health Urgent Care",
+    "alternate_name": "Carbon Health",
+    "description": "A doctor’s order is not needed, but Carbon Health urges patients to first use the free online coronavirus risk assessment screening tool before seeking a test. You do not have to be a Carbon Health patient to seek a test; any California resident can get one. It takes three to six days to get results.",
+    "transportation": "Car",
+    "updated": "2020-04-01",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "22",
+        "location_id": "22",
+        "address_1": "4150 N 1st St",
+        "city": "San Jose",
+        "region": "Northern California",
+        "state_province": "CA",
+        "postal_code": "95134",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": [
+      {
+        "id": "22",
+        "location_id": "22",
+        "weekday": "1",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "22",
+        "location_id": "22",
+        "weekday": "2",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "22",
+        "location_id": "22",
+        "weekday": "3",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "22",
+        "location_id": "22",
+        "weekday": "4",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "22",
+        "location_id": "22",
+        "weekday": "5",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "22",
+        "location_id": "22",
+        "weekday": "6",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "22",
+        "location_id": "22",
+        "weekday": "7",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "organization_id": "14",
+    "name": "Mountain View - El Camino Health Urgent Care",
+    "alternate_name": "Carbon Health",
+    "description": "A doctor’s order is not needed, but Carbon Health urges patients to first use the free online coronavirus risk assessment screening tool before seeking a test. You do not have to be a Carbon Health patient to seek a test; any California resident can get one. It takes three to six days to get results.",
+    "transportation": "Car",
+    "updated": "2020-04-02",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "23",
+        "location_id": "23",
+        "address_1": "1150 West El Camino Real",
+        "city": "Mountain View",
+        "region": "Northern California",
+        "state_province": "CA",
+        "postal_code": "94040",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": [
+      {
+        "id": "23",
+        "location_id": "23",
+        "weekday": "1",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "23",
+        "location_id": "23",
+        "weekday": "2",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "23",
+        "location_id": "23",
+        "weekday": "3",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "23",
+        "location_id": "23",
+        "weekday": "4",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "23",
+        "location_id": "23",
+        "weekday": "5",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "23",
+        "location_id": "23",
+        "weekday": "6",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "23",
+        "location_id": "23",
+        "weekday": "7",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "24",
+    "organization_id": "14",
+    "name": "Cupertino - El Camino Health Urgent Care",
+    "alternate_name": "Carbon Health",
+    "description": "A doctor’s order is not needed, but Carbon Health urges patients to first use the free online coronavirus risk assessment screening tool before seeking a test. You do not have to be a Carbon Health patient to seek a test; any California resident can get one. It takes three to six days to get results.",
+    "transportation": "Car",
+    "updated": "2020-04-03",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "24",
+        "location_id": "24",
+        "address_1": "19600 Vallco Pkwy Ste 170 , #170",
+        "city": "Cupertino",
+        "region": "Northern California",
+        "state_province": "CA",
+        "postal_code": "95014",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": [
+      {
+        "id": "24",
+        "location_id": "24",
+        "weekday": "1",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "24",
+        "location_id": "24",
+        "weekday": "2",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "24",
+        "location_id": "24",
+        "weekday": "3",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "24",
+        "location_id": "24",
+        "weekday": "4",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "24",
+        "location_id": "24",
+        "weekday": "5",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "24",
+        "location_id": "24",
+        "weekday": "6",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "24",
+        "location_id": "24",
+        "weekday": "7",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "25",
+    "organization_id": "14",
+    "name": "Fairfield - Carbon Health",
+    "alternate_name": "Carbon Health",
+    "description": "A doctor’s order is not needed, but Carbon Health urges patients to first use the free online coronavirus risk assessment screening tool before seeking a test. You do not have to be a Carbon Health patient to seek a test; any California resident can get one. It takes three to six days to get results.",
+    "transportation": "Car",
+    "updated": "2020-04-04",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "25",
+        "location_id": "25",
+        "address_1": "1320 Travis Blvd , #Suite C",
+        "city": "Fairfield",
+        "region": "Northern California",
+        "state_province": "CA",
+        "postal_code": "94533",
+        "country": "us"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": [
+      {
+        "id": "25",
+        "location_id": "25",
+        "weekday": "1",
+        "opens_at": "11:00:00 AM",
+        "closes_at": "9:00:00 PM"
+      },
+      {
+        "id": "25",
+        "location_id": "25",
+        "weekday": "2",
+        "opens_at": "11:00:00 AM",
+        "closes_at": "9:00:00 PM"
+      },
+      {
+        "id": "25",
+        "location_id": "25",
+        "weekday": "3",
+        "opens_at": "11:00:00 AM",
+        "closes_at": "9:00:00 PM"
+      },
+      {
+        "id": "25",
+        "location_id": "25",
+        "weekday": "4",
+        "opens_at": "11:00:00 AM",
+        "closes_at": "9:00:00 PM"
+      },
+      {
+        "id": "25",
+        "location_id": "25",
+        "weekday": "5",
+        "opens_at": "11:00:00 AM",
+        "closes_at": "9:00:00 PM"
+      },
+      {
+        "id": "25",
+        "location_id": "25",
+        "weekday": "6",
+        "opens_at": "11:00:00 AM",
+        "closes_at": "9:00:00 PM"
+      },
+      {
+        "id": "25",
+        "location_id": "25",
+        "weekday": "7",
+        "opens_at": "11:00:00 AM",
+        "closes_at": "9:00:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "26",
+    "organization_id": "14",
+    "name": "Pasadena - Carbon Health",
+    "alternate_name": "Carbon Health",
+    "description": "A doctor’s order is not needed, but Carbon Health urges patients to first use the free online coronavirus risk assessment screening tool before seeking a test. You do not have to be a Carbon Health patient to seek a test; any California resident can get one. It takes three to six days to get results.",
+    "transportation": "Car",
+    "updated": "2020-04-05",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "26",
+        "location_id": "26",
+        "address_1": "600 E Colorado Blvd , #120",
+        "city": "Pasadena",
+        "region": "Southern California",
+        "state_province": "CA",
+        "postal_code": "91101",
+        "country": "us"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": [
+      {
+        "id": "26",
+        "location_id": "26",
+        "weekday": "1",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "26",
+        "location_id": "26",
+        "weekday": "2",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "26",
+        "location_id": "26",
+        "weekday": "3",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "26",
+        "location_id": "26",
+        "weekday": "4",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "26",
+        "location_id": "26",
+        "weekday": "5",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "26",
+        "location_id": "26",
+        "weekday": "6",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "26",
+        "location_id": "26",
+        "weekday": "7",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "organization_id": "14",
+    "name": "Echo Park - Carbon Health",
+    "alternate_name": "Carbon Health",
+    "description": "A doctor’s order is not needed, but Carbon Health urges patients to first use the free online coronavirus risk assessment screening tool before seeking a test. You do not have to be a Carbon Health patient to seek a test; any California resident can get one. It takes three to six days to get results.",
+    "transportation": "Car",
+    "updated": "2020-04-06",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "27",
+        "location_id": "27",
+        "address_1": "2110 Sunset Blvd , #Suite M",
+        "city": "Los Angeles",
+        "region": "Southern California",
+        "state_province": "CA",
+        "postal_code": "90026",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": [
+      {
+        "id": "27",
+        "location_id": "27",
+        "weekday": "1",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "27",
+        "location_id": "27",
+        "weekday": "2",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "27",
+        "location_id": "27",
+        "weekday": "3",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "27",
+        "location_id": "27",
+        "weekday": "4",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "27",
+        "location_id": "27",
+        "weekday": "5",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "27",
+        "location_id": "27",
+        "weekday": "6",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "27",
+        "location_id": "27",
+        "weekday": "7",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "28",
+    "organization_id": "14",
+    "name": "Vacaville - Carbon Health",
+    "alternate_name": "Carbon Health",
+    "description": "A doctor’s order is not needed, but Carbon Health urges patients to first use the free online coronavirus risk assessment screening tool before seeking a test. You do not have to be a Carbon Health patient to seek a test; any California resident can get one. It takes three to six days to get results.",
+    "transportation": "Car",
+    "updated": "2020-04-07",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "28",
+        "location_id": "28",
+        "address_1": "1679 E Monte Vista Ave , #Suite 104",
+        "city": "Vacaville",
+        "region": "Northern California",
+        "state_province": "CA",
+        "postal_code": "95688",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": [
+      {
+        "id": "28",
+        "location_id": "28",
+        "weekday": "1",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "28",
+        "location_id": "28",
+        "weekday": "2",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "28",
+        "location_id": "28",
+        "weekday": "3",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "28",
+        "location_id": "28",
+        "weekday": "4",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "28",
+        "location_id": "28",
+        "weekday": "5",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "28",
+        "location_id": "28",
+        "weekday": "6",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "28",
+        "location_id": "28",
+        "weekday": "7",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "7:00:00 PM"
       }
     ]
   }
