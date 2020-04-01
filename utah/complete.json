@@ -1,10 +1,86 @@
 [
   {
     "id": "1",
-    "name": "No Organizations Yet",
-    "alternate_name": "No Organizations Yet",
-    "description": "This is just the first entry into the system.",
-    "email": "No Email",
-    "url": "http://example.com"
+    "organization_id": "1",
+    "name": "Sugar House Health Center",
+    "alternate_name": "Sugar House Health Center",
+    "description": "The new Sugar House Health Center is a unique facility that gives special attention to every aspect of your family's health. We have experts in primary care and multiple specialty areas. Our doctors take the time to make sure you stay healthy throughout your life.",
+    "transportation": "Car",
+    "updated": "2020-03-31",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "1",
+        "location_id": "1",
+        "address_1": "1280 E Stringham Ave",
+        "city": "Salt Lake City",
+        "region": "region",
+        "state_province": "UT",
+        "postal_code": "84106",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "1",
+        "location_id": "1",
+        "number": "801-581-2000",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "description"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "1",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "6:00:00 PM"
+      },
+      {
+        "id": "2",
+        "location_id": "1",
+        "weekday": "2",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "6:00:00 PM"
+      },
+      {
+        "id": "3",
+        "location_id": "1",
+        "weekday": "3",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "6:00:00 PM"
+      },
+      {
+        "id": "4",
+        "location_id": "1",
+        "weekday": "4",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "6:00:00 PM"
+      },
+      {
+        "id": "5",
+        "location_id": "1",
+        "weekday": "5",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "6:00:00 PM"
+      },
+      {
+        "id": "6",
+        "location_id": "1",
+        "weekday": "6",
+        "opens_at": "10:00:00 AM",
+        "closes_at": "3:00:00 PM"
+      },
+      {
+        "id": "7",
+        "location_id": "1",
+        "weekday": "7",
+        "opens_at": "10:00:00 AM",
+        "closes_at": "3:00:00 PM"
+      }
+    ]
   }
 ]
