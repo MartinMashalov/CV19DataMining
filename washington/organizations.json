@@ -1,18 +1,1 @@
-[
-  {
-    "id": "1",
-    "name": "University of Washington (UW) Medicine",
-    "alternate_name": "UW Medicine",
-    "description": "For Puget Sound area residents who currently want, or will someday need, the highest quality care for their routine and complex conditions, the UW Medicine team provides an unmatched level of excellence. Unlike every other local health system, UW Medicine provides the highest caliber clinical care because we are the only one that directly connects that care with a top-rated medical school and an internationally recognized research organization.",
-    "email": "No Email",
-    "url": "https://www.uwmedicine.org/"
-  },
-  {
-    "id": "2",
-    "name": "Snohomish Health District",
-    "alternate_name": "Snohomish Health District",
-    "description": "The Snohomish Health District was created in 1959 as an independent special purpose district responsible for public health in Snohomish County. We are separate from Snohomish County government, although it provides financial support and is an essential partner in many functions.",
-    "email": "No Email",
-    "url": "https://www.snohd.org/"
-  }
-]
+[{"id":"1","name":"University of Washington (UW) Medicine","alternate_name":"UW Medicine","description":"For Puget Sound area residents who currently want, or will someday need, the highest quality care for their routine and complex conditions, the UW Medicine team provides an unmatched level of excellence. Unlike every other local health system, UW Medicine provides the highest caliber clinical care because we are the only one that directly connects that care with a top-rated medical school and an internationally recognized research organization.","email":"No Email","url":"https://www.uwmedicine.org/"},{"id":"2","name":"Snohomish Health District","alternate_name":"Snohomish Health District","description":"The Snohomish Health District was created in 1959 as an independent special purpose district responsible for public health in Snohomish County. We are separate from Snohomish County government, although it provides financial support and is an essential partner in many functions.","email":"No Email","url":"https://www.snohd.org/"}]
