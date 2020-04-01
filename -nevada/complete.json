@@ -1,0 +1,327 @@
+[
+  {
+    "id": "1",
+    "organization_id": "1",
+    "name": "Galena - Carbon Health",
+    "alternate_name": "Carbon Health",
+    "description": "A doctor’s order is not needed, but Carbon Health urges patients to first use the free online coronavirus risk assessment screening tool before seeking a test. You do not have to be a Carbon Health patient to seek a test; any California resident can get one. It takes three to six days to get results.",
+    "transportation": "Car",
+    "updated": "2020-03-31",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "1",
+        "location_id": "1",
+        "address_1": "18653 Wedge Pkwy",
+        "city": "Reno",
+        "region": "region",
+        "state_province": "NV",
+        "postal_code": "89511",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "1",
+        "location_id": "1",
+        "number": "775-770-7210",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "description"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "1",
+        "opens_at": "7:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "2",
+        "opens_at": "7:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "3",
+        "opens_at": "7:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "4",
+        "opens_at": "7:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "5",
+        "opens_at": "7:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "6",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "7",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "organization_id": "1",
+    "name": "Northwest Reno - Carbon Health",
+    "alternate_name": "Carbon Health",
+    "description": "A doctor’s order is not needed, but Carbon Health urges patients to first use the free online coronavirus risk assessment screening tool before seeking a test. You do not have to be a Carbon Health patient to seek a test; any California resident can get one. It takes three to six days to get results.",
+    "transportation": "Car",
+    "updated": "2020-04-01",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "2",
+        "location_id": "2",
+        "address_1": "6255 Sharlands Ave",
+        "city": "Reno",
+        "region": "region",
+        "state_province": "NV",
+        "postal_code": "89523",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "2",
+        "location_id": "2",
+        "number": "775-770-7580",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Clinic number from website"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "2",
+        "location_id": "2",
+        "weekday": "1",
+        "opens_at": "7:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "2",
+        "location_id": "2",
+        "weekday": "2",
+        "opens_at": "7:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "2",
+        "location_id": "2",
+        "weekday": "3",
+        "opens_at": "7:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "2",
+        "location_id": "2",
+        "weekday": "4",
+        "opens_at": "7:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "2",
+        "location_id": "2",
+        "weekday": "5",
+        "opens_at": "7:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "2",
+        "location_id": "2",
+        "weekday": "6",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "2",
+        "location_id": "2",
+        "weekday": "7",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "organization_id": "1",
+    "name": "North Valleys - Carbon Health",
+    "alternate_name": "Carbon Health",
+    "description": "A doctor’s order is not needed, but Carbon Health urges patients to first use the free online coronavirus risk assessment screening tool before seeking a test. You do not have to be a Carbon Health patient to seek a test; any California resident can get one. It takes three to six days to get results.",
+    "transportation": "Car",
+    "updated": "2020-04-02",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "3",
+        "location_id": "3",
+        "address_1": "280 Vista Knoll Pkwy",
+        "city": "Reno",
+        "region": "region",
+        "state_province": "NV",
+        "postal_code": "89506",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "3",
+        "location_id": "3",
+        "number": "775-770-7530",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Clinic number from website"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "3",
+        "location_id": "3",
+        "weekday": "1",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "3",
+        "location_id": "3",
+        "weekday": "2",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "3",
+        "location_id": "3",
+        "weekday": "3",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "4:00:00 PM"
+      },
+      {
+        "id": "3",
+        "location_id": "3",
+        "weekday": "4",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "3",
+        "location_id": "3",
+        "weekday": "5",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "3",
+        "location_id": "3",
+        "weekday": "6",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "3",
+        "location_id": "3",
+        "weekday": "7",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "organization_id": "1",
+    "name": "Spanish Springs - Carbon Health",
+    "alternate_name": "Carbon Health",
+    "description": "A doctor’s order is not needed, but Carbon Health urges patients to first use the free online coronavirus risk assessment screening tool before seeking a test. You do not have to be a Carbon Health patient to seek a test; any California resident can get one. It takes three to six days to get results.",
+    "transportation": "Car",
+    "updated": "2020-04-03",
+    "featured": "TRUE",
+    "physical_address": [],
+    "phones": [
+      {
+        "id": "4",
+        "location_id": "4",
+        "number": "775-770-7727",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Clinic number from website"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "4",
+        "location_id": "4",
+        "weekday": "1",
+        "opens_at": "7:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "4",
+        "location_id": "4",
+        "weekday": "2",
+        "opens_at": "7:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "4",
+        "location_id": "4",
+        "weekday": "3",
+        "opens_at": "7:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "4",
+        "location_id": "4",
+        "weekday": "4",
+        "opens_at": "7:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "4",
+        "location_id": "4",
+        "weekday": "5",
+        "opens_at": "7:00:00 AM",
+        "closes_at": "7:00:00 PM"
+      },
+      {
+        "id": "4",
+        "location_id": "4",
+        "weekday": "6",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "4",
+        "location_id": "4",
+        "weekday": "7",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      }
+    ]
+  }
+]
