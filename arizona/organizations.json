@@ -1,10 +1,1 @@
-[
-  {
-    "id": "1",
-    "name": "No Organizations Yet",
-    "alternate_name": "No Organizations Yet",
-    "description": "This is just the first entry into the system.",
-    "email": "No Email",
-    "url": "http://example.com"
-  }
-]
+[{"id":"1","name":"Banner Health","alternate_name":"Banner Health","description":"We come through for you whether you’re in the hospital, on our mobile web site, in a Banner clinic, on the phone or helping you use your health plan to the fullest. At all stages in life, you can rest assured that Banner will meet your health and medical needs through compassionate professionals and outstanding service.  Headquartered in Phoenix, Arizona., Banner Health is one of the largest, nonprofit health care systems in the country and the leading nonprofit provider of hospital services in all the communities we serve.","email":"No Email","url":"https://www.bannerhealth.com/"},{"id":"2","name":"Maready Medical","alternate_name":"Maready Medical","description":"Welcome to our Internal Medicine practice! Our mission is lofty but simple--deliver a better care experience and enable our patients to achieve better health outcomes. This has been a common goal in healthcare but with disappointing results. We believe that to change these results, we need to change our actions. To this end, we have redesigned much of the traditional care system. We hope you will come and be a part of our team.","email":"contact@mareadymedical.com","url":"https://www.mareadymedical.com/"}]
