@@ -1,10 +1,282 @@
 [
   {
     "id": "1",
-    "name": "No Organizations Yet",
-    "alternate_name": "No Organizations Yet",
-    "description": "This is just the first entry into the system.",
-    "email": "No Email",
-    "url": "http://example.com"
+    "organization_id": "1",
+    "name": "Banner Health",
+    "alternate_name": "Banner Health",
+    "description": "Banner has established four specimen collection sites in Arizona – three in the Phoenix metropolitan area and one in Tucson. If you are concerned that you might have COVID-19 and are experiencing symptoms such as fever or dry cough call 1-844-549-1851 and a member of our team will screen you over the phone. Phones will be operated 7 a.m. - 6 p.m. Monday through Thursday and 7 a.m. - 5 p.m. on Friday. \n\nCurrently Banner Health is following the Arizona Department of Health Services recommendations to prioritize testing. All those who are tested must be experiencing symptoms of COVID-19. In addition, the following criteria will be used to determine if you receive prioritization for testing:\n\nHigh-risk worker (e.g. health care, first responder, law enforcement, mass transit)\nCritical infrastructure personnel (e.g. chemical, energy, water)\nLiving in a congregate setting (e.g. skilled nursing facility, assisted living, prison, homeless shelter)\nOver 65 years old\nImmunocompromised (e.g. cancer, HIV/AIDS, transplant, on immunosuppressive drugs)\nTraveled by mass transit within the last 14 days (e.g. light rail, bus, airplane)\nIf our team member determines that you meet criteria for testing, you will be scheduled for an appointment at one of our drive-through sites. Please bring your health insurance card with you if you have one.\n\nUpon arrival, you will be asked to stay inside your car and sign paperwork stating you are experiencing symptoms of COVID-19, you agree to be tested and you will self-isolate until you are contacted by Banner with your test results. If you agree to these terms, a Banner team member will swab the inside of your nose to collect a sample. This process will take 5-20 minutes. You can then return home to isolate until we contact you with your results.\n\nIf your test results are negative, you can return to your normal daily routine if you are asymptomatic. Keep in mind you should remain at home if you are still sick. While you may have tested negative for COVID-19, it is possible you have another illness that could spread to others. Manage your symptoms at home and contact your primary care provider (PCP) if you have any questions or concerns.\n\nIf your test results are positive, Banner will notify the county and state health departments and provide you with next steps, which could include an additional quarantine period. This quarantine period is extremely important to ensure you do not spread the virus to others.",
+    "transportation": "Car",
+    "updated": "2020-04-01",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "1",
+        "location_id": "1",
+        "address_1": "1515 N 9th St",
+        "city": "Phoenix",
+        "region": "State",
+        "state_province": "AZ",
+        "postal_code": "85006",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "1",
+        "location_id": "1",
+        "number": "1-844-549-1851",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "description"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "2",
+        "opens_at": "7:00:00 AM",
+        "closes_at": "6:00:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "3",
+        "opens_at": "7:00:00 AM",
+        "closes_at": "6:00:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "4",
+        "opens_at": "7:00:00 AM",
+        "closes_at": "6:00:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "5",
+        "opens_at": "7:00:00 AM",
+        "closes_at": "6:00:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "6",
+        "opens_at": "7:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "organization_id": "1",
+    "name": "Banner Health Center",
+    "alternate_name": "Banner Health Center",
+    "description": "Banner has established four specimen collection sites in Arizona – three in the Phoenix metropolitan area and one in Tucson. If you are concerned that you might have COVID-19 and are experiencing symptoms such as fever or dry cough call 1-844-549-1851 and a member of our team will screen you over the phone. Phones will be operated 7 a.m. - 6 p.m. Monday through Thursday and 7 a.m. - 5 p.m. on Friday. \n\nCurrently Banner Health is following the Arizona Department of Health Services recommendations to prioritize testing. All those who are tested must be experiencing symptoms of COVID-19. In addition, the following criteria will be used to determine if you receive prioritization for testing:\n\nHigh-risk worker (e.g. health care, first responder, law enforcement, mass transit)\nCritical infrastructure personnel (e.g. chemical, energy, water)\nLiving in a congregate setting (e.g. skilled nursing facility, assisted living, prison, homeless shelter)\nOver 65 years old\nImmunocompromised (e.g. cancer, HIV/AIDS, transplant, on immunosuppressive drugs)\nTraveled by mass transit within the last 14 days (e.g. light rail, bus, airplane)\nIf our team member determines that you meet criteria for testing, you will be scheduled for an appointment at one of our drive-through sites. Please bring your health insurance card with you if you have one.\n\nUpon arrival, you will be asked to stay inside your car and sign paperwork stating you are experiencing symptoms of COVID-19, you agree to be tested and you will self-isolate until you are contacted by Banner with your test results. If you agree to these terms, a Banner team member will swab the inside of your nose to collect a sample. This process will take 5-20 minutes. You can then return home to isolate until we contact you with your results.\n\nIf your test results are negative, you can return to your normal daily routine if you are asymptomatic. Keep in mind you should remain at home if you are still sick. While you may have tested negative for COVID-19, it is possible you have another illness that could spread to others. Manage your symptoms at home and contact your primary care provider (PCP) if you have any questions or concerns.\n\nIf your test results are positive, Banner will notify the county and state health departments and provide you with next steps, which could include an additional quarantine period. This quarantine period is extremely important to ensure you do not spread the virus to others.",
+    "transportation": "Car",
+    "updated": "2020-04-01",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "2",
+        "location_id": "2",
+        "address_1": "4375 E Irma Ln",
+        "city": "Phoenix",
+        "region": "State",
+        "state_province": "AZ",
+        "postal_code": "85050",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "1",
+        "location_id": "2",
+        "number": "1-844-549-1851",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "1",
+        "location_id": "2",
+        "weekday": "2",
+        "opens_at": "7:00:00 AM",
+        "closes_at": "6:00:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "2",
+        "weekday": "3",
+        "opens_at": "7:00:00 AM",
+        "closes_at": "6:00:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "2",
+        "weekday": "4",
+        "opens_at": "7:00:00 AM",
+        "closes_at": "6:00:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "2",
+        "weekday": "5",
+        "opens_at": "7:00:00 AM",
+        "closes_at": "6:00:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "2",
+        "weekday": "6",
+        "opens_at": "7:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "organization_id": "1",
+    "name": "Banner Health Center",
+    "alternate_name": "Banner Health Center",
+    "description": "Banner has established four specimen collection sites in Arizona – three in the Phoenix metropolitan area and one in Tucson. If you are concerned that you might have COVID-19 and are experiencing symptoms such as fever or dry cough call 1-844-549-1851 and a member of our team will screen you over the phone. Phones will be operated 7 a.m. - 6 p.m. Monday through Thursday and 7 a.m. - 5 p.m. on Friday. \n\nCurrently Banner Health is following the Arizona Department of Health Services recommendations to prioritize testing. All those who are tested must be experiencing symptoms of COVID-19. In addition, the following criteria will be used to determine if you receive prioritization for testing:\n\nHigh-risk worker (e.g. health care, first responder, law enforcement, mass transit)\nCritical infrastructure personnel (e.g. chemical, energy, water)\nLiving in a congregate setting (e.g. skilled nursing facility, assisted living, prison, homeless shelter)\nOver 65 years old\nImmunocompromised (e.g. cancer, HIV/AIDS, transplant, on immunosuppressive drugs)\nTraveled by mass transit within the last 14 days (e.g. light rail, bus, airplane)\nIf our team member determines that you meet criteria for testing, you will be scheduled for an appointment at one of our drive-through sites. Please bring your health insurance card with you if you have one.\n\nUpon arrival, you will be asked to stay inside your car and sign paperwork stating you are experiencing symptoms of COVID-19, you agree to be tested and you will self-isolate until you are contacted by Banner with your test results. If you agree to these terms, a Banner team member will swab the inside of your nose to collect a sample. This process will take 5-20 minutes. You can then return home to isolate until we contact you with your results.\n\nIf your test results are negative, you can return to your normal daily routine if you are asymptomatic. Keep in mind you should remain at home if you are still sick. While you may have tested negative for COVID-19, it is possible you have another illness that could spread to others. Manage your symptoms at home and contact your primary care provider (PCP) if you have any questions or concerns.\n\nIf your test results are positive, Banner will notify the county and state health departments and provide you with next steps, which could include an additional quarantine period. This quarantine period is extremely important to ensure you do not spread the virus to others.",
+    "transportation": "Car",
+    "updated": "2020-04-01",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "3",
+        "location_id": "3",
+        "address_1": "4720 E Greenway Rd",
+        "city": "Phoenix",
+        "region": "State",
+        "state_province": "AZ",
+        "postal_code": "85032",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "1",
+        "location_id": "3",
+        "number": "1-844-549-1851",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "2",
+        "opens_at": "7:00:00 AM",
+        "closes_at": "6:00:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "3",
+        "opens_at": "7:00:00 AM",
+        "closes_at": "6:00:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "4",
+        "opens_at": "7:00:00 AM",
+        "closes_at": "6:00:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "5",
+        "opens_at": "7:00:00 AM",
+        "closes_at": "6:00:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "6",
+        "opens_at": "7:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "organization_id": "2",
+    "name": "Maready Medical",
+    "alternate_name": "Maready Medical",
+    "description": "We are offering to test new and existing patients who are symptomatic for COVID-19. We require all symptomatic patients to be seen first by virtual visits (Telehealth). If you meet the criteria for a COVID-19 test, you can drive up to our office, our address is 4135 S. Power Rd, #113 Mesa, AZ, and we will come to you to perform the test. To schedule, you can call our office or book online by clicking here and select one of the Telehealth options. We are working hard to do our part to detect, treat and stop the spread of COVID-19.",
+    "transportation": "Car",
+    "updated": "2020-04-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "4",
+        "location_id": "4",
+        "address_1": "4135 S. Power Rd, #113",
+        "city": "Mesa",
+        "region": "State",
+        "state_province": "AZ",
+        "postal_code": "85212",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "1",
+        "location_id": "4",
+        "number": "(480) 626-2444",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "2",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "3",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "4",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "5",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "6",
+        "opens_at": "9:00:00 AM",
+        "closes_at": "5:00:00 PM"
+      }
+    ]
   }
 ]
