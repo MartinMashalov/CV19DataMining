@@ -1,1 +1,506 @@
-[]
+[
+  {
+    "id": "1",
+    "organization_id": "1",
+    "name": "ChristianaCare",
+    "alternate_name": "ChristianaCare",
+    "description": "We serve our neighbors as respectufl, expert, caring partners in their health. We do this by creating innovative, effective, affordable systems of care that our neighbors value. ChristianaCare has testing for COVID-19 at our Patient Referral Center.",
+    "transportation": "Car",
+    "updated": "2020-03-31",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "1",
+        "location_id": "1",
+        "address_1": "200 Hygeia Drive",
+        "city": "Newark",
+        "region": "Mid-Atlantic Region",
+        "state_province": "DE",
+        "postal_code": "19713",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "1",
+        "location_id": "1",
+        "number": "302-733-1000",
+        "extension": "None",
+        "type": "Information",
+        "language": "EN",
+        "description": "description"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "1",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "8:00:00 PM"
+      },
+      {
+        "id": "2",
+        "location_id": "1",
+        "weekday": "2",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "8:00:00 PM"
+      },
+      {
+        "id": "3",
+        "location_id": "1",
+        "weekday": "3",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "8:00:00 PM"
+      },
+      {
+        "id": "4",
+        "location_id": "1",
+        "weekday": "4",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "8:00:00 PM"
+      },
+      {
+        "id": "5",
+        "location_id": "1",
+        "weekday": "5",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "8:00:00 PM"
+      },
+      {
+        "id": "6",
+        "location_id": "1",
+        "weekday": "6",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "8:00:00 PM"
+      },
+      {
+        "id": "7",
+        "location_id": "1",
+        "weekday": "7",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "8:00:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "organization_id": "1",
+    "name": "ChristianaCare",
+    "alternate_name": "ChristianaCare",
+    "description": "We serve our neighbors as respectufl, expert, caring partners in their health. We do this by creating innovative, effective, affordable systems of care that our neighbors value. ChristianaCare has testing for COVID-19 at our Patient Referral Center.",
+    "transportation": "Car",
+    "updated": "2020-03-31",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "2",
+        "location_id": "2",
+        "address_1": "625 W. 12th Street",
+        "city": "Wilmington",
+        "region": "Mid-Atlantic Region",
+        "state_province": "DE",
+        "postal_code": "19801",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "2",
+        "location_id": "2",
+        "number": "302-733-1000",
+        "extension": "None",
+        "type": "Information",
+        "language": "EN",
+        "description": "Primary number pulled from Christinacare.gor/about/contact/phone/"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "8",
+        "location_id": "2",
+        "weekday": "1",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "9",
+        "location_id": "2",
+        "weekday": "2",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "10",
+        "location_id": "2",
+        "weekday": "3",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "11",
+        "location_id": "2",
+        "weekday": "4",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "12",
+        "location_id": "2",
+        "weekday": "5",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "13",
+        "location_id": "2",
+        "weekday": "6",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "14",
+        "location_id": "2",
+        "weekday": "7",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "organization_id": "2",
+    "name": "Bay Health",
+    "alternate_name": "Bay Health",
+    "description": "Bayhealth’s mission is to strengthen the health of our community, one life at a time.\n\nAs central and southern Delaware’s largest healthcare system, Bayhealth is comprised of Bayhealth Hospital, Kent Campus and Bayhealth Hospital, Sussex Campus, the freestanding Emergency Department in Smyrna as well as numerous satellite facilities and employed physician practices encompassing a variety of specialties.",
+    "transportation": "Car",
+    "updated": "2020-03-31",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "3",
+        "location_id": "3",
+        "address_1": "640 South State Street",
+        "city": "Dover",
+        "region": "Mid-Atlantic Region",
+        "state_province": "DE",
+        "postal_code": "19901",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "3",
+        "location_id": "3",
+        "number": "302-310-8477",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Christinacare.gor/about/contact/phone/"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "15",
+        "location_id": "3",
+        "weekday": "1",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "16",
+        "location_id": "3",
+        "weekday": "2",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "17",
+        "location_id": "3",
+        "weekday": "3",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "18",
+        "location_id": "3",
+        "weekday": "4",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "19",
+        "location_id": "3",
+        "weekday": "5",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "20",
+        "location_id": "3",
+        "weekday": "6",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "21",
+        "location_id": "3",
+        "weekday": "7",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "organization_id": "3",
+    "name": "Beebe Health Care",
+    "alternate_name": "Beebe Health Care",
+    "description": "Beebe Healthcare serves the Sussex County community with a medical center located in beautiful, historic Lewes, Delaware, and outpatient locations in Georgetown, Millsboro, Milton, Millville, and Rehoboth Beach. ",
+    "transportation": "Car",
+    "updated": "2020-03-31",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "4",
+        "location_id": "4",
+        "address_1": "424 Savannah Road",
+        "city": "Lewes",
+        "region": "Mid-Atlantic Region",
+        "state_province": "DE",
+        "postal_code": "19958",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "4",
+        "location_id": "4",
+        "number": "302-645-3200",
+        "extension": "None",
+        "type": "Screening",
+        "language": "EN",
+        "description": "Bayhealth's coronavirus triage team"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "22",
+        "location_id": "4",
+        "weekday": "1",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "23",
+        "location_id": "4",
+        "weekday": "2",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "24",
+        "location_id": "4",
+        "weekday": "3",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "25",
+        "location_id": "4",
+        "weekday": "4",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "26",
+        "location_id": "4",
+        "weekday": "5",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "27",
+        "location_id": "4",
+        "weekday": "6",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "28",
+        "location_id": "4",
+        "weekday": "7",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "organization_id": "4",
+    "name": "Saint Francis Healthcare",
+    "alternate_name": "Saint Francis Healthcare",
+    "description": "For over 90 years, Saint Francis Healthcare has been a renowned medical provider in the Wilmington area. Our method of care is focused on the patient experience—we want to hear your thoughts and concerns so that we can create a personalized treatment plan. ",
+    "transportation": "Car",
+    "updated": "2020-04-01",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "5",
+        "location_id": "5",
+        "address_1": "701 N. Clayton St.",
+        "city": "Wilmington",
+        "region": "Mid-Atlantic Region",
+        "state_province": "DE",
+        "postal_code": "19805",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "5",
+        "location_id": "5",
+        "number": "302-421-4100",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Coronavirus Screening Line"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "29",
+        "location_id": "5",
+        "weekday": "1",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "30",
+        "location_id": "5",
+        "weekday": "2",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "31",
+        "location_id": "5",
+        "weekday": "3",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "32",
+        "location_id": "5",
+        "weekday": "4",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "33",
+        "location_id": "5",
+        "weekday": "5",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "34",
+        "location_id": "5",
+        "weekday": "6",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "35",
+        "location_id": "5",
+        "weekday": "7",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "organization_id": "5",
+    "name": "Nemours/Alfred I. duPont Hospital for Children",
+    "alternate_name": "Nemours/Alfred I. duPont Hospital for Children",
+    "description": "Nemours Alfred I. duPont Hospital for Children is a pediatric hospital located in Wilmington, Delaware.",
+    "transportation": "Car",
+    "updated": "2020-04-02",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "6",
+        "location_id": "6",
+        "address_1": "1600 Rockland Road",
+        "city": "Wilmington",
+        "region": "Mid-Atlantic Region",
+        "state_province": "DE",
+        "postal_code": "19803",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "6",
+        "location_id": "6",
+        "number": "302-651-4000",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "36",
+        "location_id": "6",
+        "weekday": "1",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "37",
+        "location_id": "6",
+        "weekday": "2",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "38",
+        "location_id": "6",
+        "weekday": "3",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "39",
+        "location_id": "6",
+        "weekday": "4",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "40",
+        "location_id": "6",
+        "weekday": "5",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "41",
+        "location_id": "6",
+        "weekday": "6",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "42",
+        "location_id": "6",
+        "weekday": "7",
+        "opens_at": "12:00:00 AM",
+        "closes_at": "11:59:00 PM"
+      }
+    ]
+  }
+]
