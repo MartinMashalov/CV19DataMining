@@ -1,10 +1,86 @@
 [
   {
     "id": "1",
-    "name": "No Organizations Yet",
-    "alternate_name": "No Organizations Yet",
-    "description": "This is just the first entry into the system.",
-    "email": "No Email",
-    "url": "http://example.com"
+    "organization_id": "1",
+    "name": "Temple University Ambler Campus",
+    "alternate_name": "Temple University Ambler Campus",
+    "description": "Community based testing site at Temple University's Ambler Campus in Upper Dublin Township",
+    "transportation": "Car",
+    "updated": "2020-03-31",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "1",
+        "location_id": "1",
+        "address_1": "1440 East Butler Pike",
+        "city": "Ambler",
+        "region": "region",
+        "state_province": "PA",
+        "postal_code": "19002",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "1",
+        "location_id": "1",
+        "number": "'+1 610-631-3000",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "description"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "1",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "4:00:00 PM"
+      },
+      {
+        "id": "2",
+        "location_id": "1",
+        "weekday": "2",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "4:00:00 PM"
+      },
+      {
+        "id": "3",
+        "location_id": "1",
+        "weekday": "3",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "4:00:00 PM"
+      },
+      {
+        "id": "4",
+        "location_id": "1",
+        "weekday": "4",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "4:00:00 PM"
+      },
+      {
+        "id": "5",
+        "location_id": "1",
+        "weekday": "5",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "4:00:00 PM"
+      },
+      {
+        "id": "6",
+        "location_id": "1",
+        "weekday": "6",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "4:00:00 PM"
+      },
+      {
+        "id": "7",
+        "location_id": "1",
+        "weekday": "7",
+        "opens_at": "8:00:00 AM",
+        "closes_at": "4:00:00 PM"
+      }
+    ]
   }
 ]
