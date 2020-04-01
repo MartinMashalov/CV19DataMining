@@ -448,7 +448,7 @@
         "location_id": "9",
         "number": "'+1 (510) 985-5000",
         "extension": "None",
-        "type": "Office",
+        "type": "OFFICE",
         "language": "EN",
         "description": "Primary number pulled from Google Maps listing."
       }
@@ -588,7 +588,7 @@
         "location_id": "11",
         "number": "None",
         "extension": "None",
-        "type": "Office",
+        "type": "None",
         "language": "EN",
         "description": "None"
       }
