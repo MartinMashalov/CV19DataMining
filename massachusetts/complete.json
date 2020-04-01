@@ -24,7 +24,7 @@
       {
         "id": "1",
         "location_id": "1",
-        "number": "'+1 781-430-8161",
+        "number": " +1 781-430-8161",
         "extension": "None",
         "type": "Office",
         "language": "EN",
@@ -36,8 +36,8 @@
         "id": "1",
         "location_id": "1",
         "weekday": "5",
-        "opens_at": "9:00:00 AM",
-        "closes_at": "5:00:00 PM"
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
       }
     ]
   },
@@ -68,8 +68,8 @@
         "id": "2",
         "location_id": "2",
         "weekday": "6",
-        "opens_at": "9:00:00 AM",
-        "closes_at": "5:00:00 PM"
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
       }
     ]
   },
@@ -100,50 +100,50 @@
         "id": "3",
         "location_id": "3",
         "weekday": "1",
-        "opens_at": "8:00:00 AM",
-        "closes_at": "8:00:00 PM"
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
       },
       {
         "id": "3",
         "location_id": "3",
         "weekday": "2",
-        "opens_at": "8:00:00 AM",
-        "closes_at": "8:00:00 PM"
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
       },
       {
         "id": "3",
         "location_id": "3",
         "weekday": "3",
-        "opens_at": "8:00:00 AM",
-        "closes_at": "8:00:00 PM"
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
       },
       {
         "id": "3",
         "location_id": "3",
         "weekday": "4",
-        "opens_at": "8:00:00 AM",
-        "closes_at": "8:00:00 PM"
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
       },
       {
         "id": "3",
         "location_id": "3",
         "weekday": "5",
-        "opens_at": "8:00:00 AM",
-        "closes_at": "8:00:00 PM"
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
       },
       {
         "id": "3",
         "location_id": "3",
         "weekday": "6",
-        "opens_at": "8:00:00 AM",
-        "closes_at": "8:00:00 PM"
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
       },
       {
         "id": "3",
         "location_id": "3",
         "weekday": "7",
-        "opens_at": "8:00:00 AM",
-        "closes_at": "8:00:00 PM"
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
       }
     ]
   },
@@ -174,50 +174,50 @@
         "id": "4",
         "location_id": "4",
         "weekday": "1",
-        "opens_at": "9:00:00 AM",
-        "closes_at": "3:00:00 PM"
+        "opens_at": "9:00 AM",
+        "closes_at": "3:00 PM"
       },
       {
         "id": "4",
         "location_id": "4",
         "weekday": "2",
-        "opens_at": "9:00:00 AM",
-        "closes_at": "3:00:00 PM"
+        "opens_at": "9:00 AM",
+        "closes_at": "3:00 PM"
       },
       {
         "id": "4",
         "location_id": "4",
         "weekday": "3",
-        "opens_at": "9:00:00 AM",
-        "closes_at": "3:00:00 PM"
+        "opens_at": "9:00 AM",
+        "closes_at": "3:00 PM"
       },
       {
         "id": "4",
         "location_id": "4",
         "weekday": "4",
-        "opens_at": "9:00:00 AM",
-        "closes_at": "3:00:00 PM"
+        "opens_at": "9:00 AM",
+        "closes_at": "3:00 PM"
       },
       {
         "id": "4",
         "location_id": "4",
         "weekday": "5",
-        "opens_at": "9:00:00 AM",
-        "closes_at": "3:00:00 PM"
+        "opens_at": "9:00 AM",
+        "closes_at": "3:00 PM"
       },
       {
         "id": "4",
         "location_id": "4",
         "weekday": "6",
-        "opens_at": "9:00:00 AM",
-        "closes_at": "3:00:00 PM"
+        "opens_at": "9:00 AM",
+        "closes_at": "3:00 PM"
       },
       {
         "id": "4",
         "location_id": "4",
         "weekday": "7",
-        "opens_at": "9:00:00 AM",
-        "closes_at": "3:00:00 PM"
+        "opens_at": "9:00 AM",
+        "closes_at": "3:00 PM"
       }
     ]
   },
@@ -248,50 +248,50 @@
         "id": "5",
         "location_id": "5",
         "weekday": "1",
-        "opens_at": "8:00:00 AM",
-        "closes_at": "7:00:00 PM"
+        "opens_at": "8:00 AM",
+        "closes_at": "7:00 PM"
       },
       {
         "id": "5",
         "location_id": "5",
         "weekday": "2",
-        "opens_at": "8:00:00 AM",
-        "closes_at": "7:00:00 PM"
+        "opens_at": "8:00 AM",
+        "closes_at": "7:00 PM"
       },
       {
         "id": "5",
         "location_id": "5",
         "weekday": "3",
-        "opens_at": "8:00:00 AM",
-        "closes_at": "7:00:00 PM"
+        "opens_at": "8:00 AM",
+        "closes_at": "7:00 PM"
       },
       {
         "id": "5",
         "location_id": "5",
         "weekday": "4",
-        "opens_at": "8:00:00 AM",
-        "closes_at": "7:00:00 PM"
+        "opens_at": "8:00 AM",
+        "closes_at": "7:00 PM"
       },
       {
         "id": "5",
         "location_id": "5",
         "weekday": "5",
-        "opens_at": "8:00:00 AM",
-        "closes_at": "7:00:00 PM"
+        "opens_at": "8:00 AM",
+        "closes_at": "7:00 PM"
       },
       {
         "id": "5",
         "location_id": "5",
         "weekday": "6",
-        "opens_at": "8:00:00 AM",
-        "closes_at": "4:00:00 PM"
+        "opens_at": "8:00 AM",
+        "closes_at": "4:00 PM"
       },
       {
         "id": "5",
         "location_id": "5",
         "weekday": "6",
-        "opens_at": "8:00:00 AM",
-        "closes_at": "4:00:00 PM"
+        "opens_at": "8:00 AM",
+        "closes_at": "4:00 PM"
       }
     ]
   },
