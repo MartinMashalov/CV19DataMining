@@ -1,12 +1,1 @@
-[
-  {
-    "id": "1",
-    "location_id": "1",
-    "address_1": "30 Kline Village",
-    "city": "Harrisburg",
-    "region": "Region",
-    "state_province": "PA",
-    "postal_code": "17104",
-    "country": "US"
-  }
-]
+[{"id":"1","location_id":"1","address_1":"1440 East Butler Pike","city":"Ambler","region":"region","state_province":"PA","postal_code":"19002","country":"US"},{"id":"2","location_id":"2","address_1":"250 King of Prussia Road","city":"Radnor","region":"region","state_province":"PA","postal_code":"19087","country":"US"},{"id":"3","location_id":"3","address_1":"4122 Market Street","city":"Philadelphia","region":"region","state_province":"PA","postal_code":"19104","country":"US"},{"id":"4","location_id":"4","address_1":"701 E Marshall Street","city":"West Chester","region":"region","state_province":"PA","postal_code":"19380","country":"US"},{"id":"5","location_id":"5","address_1":"850 Greenfield Road","city":"Lancaster","region":"region","state_province":"PA","postal_code":"17601","country":"US"},{"id":"6","location_id":"6","address_1":"12311 Perry Highway","city":"Wexford","region":"region","state_province":"PA","postal_code":"15090","country":"US"},{"id":"7","location_id":"7","address_1":"1010 Higbee Drive","city":"Bethel Park","region":"region","state_province":"PA","postal_code":"15102","country":"US"},{"id":"8","location_id":"8","address_1":"4220 William Penn Highway","city":"Monroeville","region":"region","state_province":"PA","postal_code":"15146","country":"US"},{"id":"9","location_id":"9","address_1":"4247 West Ridge Road","city":"Erie","region":"region","state_province":"PA","postal_code":"16506","country":"US"}]
