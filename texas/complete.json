@@ -26,8 +26,8 @@
         "location_id": "1",
         "number": "None",
         "extension": "None",
-        "type": "Office",
-        "language": "EN",
+        "type": "None",
+        "language": "None",
         "description": "description"
       }
     ],
@@ -112,7 +112,7 @@
         "extension": "None",
         "type": "Office",
         "language": "EN",
-        "description": "Primary number pulled from Google Maps listing."
+        "description": "None"
       }
     ],
     "regular_schedule": [
@@ -384,7 +384,7 @@
         "extension": "None",
         "type": "Main line",
         "language": "EN",
-        "description": "Main hospital number"
+        "description": "Primary number pulled from Google Maps listing."
       }
     ],
     "regular_schedule": [
@@ -468,7 +468,7 @@
         "extension": "None",
         "type": "COVID-19 Hotline",
         "language": "EN",
-        "description": "Main hospital number"
+        "description": "Primary number pulled from Google Maps listing."
       }
     ],
     "regular_schedule": []
@@ -502,7 +502,7 @@
         "extension": "None",
         "type": "Main line",
         "language": "EN",
-        "description": "Main hospital number"
+        "description": "Hotline"
       }
     ],
     "regular_schedule": []
