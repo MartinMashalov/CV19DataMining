@@ -62,7 +62,17 @@
         "country": "US"
       }
     ],
-    "phones": [],
+    "phones": [
+      {
+        "id": "2",
+        "location_id": "2",
+        "number": " +1 781-430-8161",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
     "regular_schedule": [
       {
         "id": "2",
@@ -94,7 +104,17 @@
         "country": "US"
       }
     ],
-    "phones": [],
+    "phones": [
+      {
+        "id": "3",
+        "location_id": "3",
+        "number": " +1 (508) 845-6009",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from website"
+      }
+    ],
     "regular_schedule": [
       {
         "id": "3",
@@ -168,7 +188,17 @@
         "country": "US"
       }
     ],
-    "phones": [],
+    "phones": [
+      {
+        "id": "4",
+        "location_id": "4",
+        "number": " +1 (617) 591-4500",
+        "extension": "None",
+        "type": "Hospital Main",
+        "language": "EN",
+        "description": "Primary number pulled from Google"
+      }
+    ],
     "regular_schedule": [
       {
         "id": "4",
@@ -242,7 +272,17 @@
         "country": "US"
       }
     ],
-    "phones": [],
+    "phones": [
+      {
+        "id": "5",
+        "location_id": "5",
+        "number": " +1 508-862-5595",
+        "extension": "None",
+        "type": "Dedicated line",
+        "language": "EN",
+        "description": "Primary number pulled from Google"
+      }
+    ],
     "regular_schedule": [
       {
         "id": "5",
@@ -316,7 +356,17 @@
         "country": "US"
       }
     ],
-    "phones": [],
+    "phones": [
+      {
+        "id": "6",
+        "location_id": "6",
+        "number": " +1 508-771-1800",
+        "extension": "None",
+        "type": "Hospital Main",
+        "language": "EN",
+        "description": "Number pulled from testing site instructions "
+      }
+    ],
     "regular_schedule": []
   },
   {
@@ -340,7 +390,17 @@
         "country": "US"
       }
     ],
-    "phones": [],
+    "phones": [
+      {
+        "id": "7",
+        "location_id": "7",
+        "number": " +1 508-548-5300",
+        "extension": "None",
+        "type": "Hospital Main",
+        "language": "EN",
+        "description": "Primary number pulled from website"
+      }
+    ],
     "regular_schedule": []
   }
 ]
