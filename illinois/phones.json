@@ -1,11 +1,1 @@
-[
-  {
-    "id": "1",
-    "location_id": "1",
-    "number": "555-555-5555",
-    "extension": "None",
-    "type": "Office",
-    "language": "EN",
-    "description": "description"
-  }
-]
+[{"id":"1","location_id":"1","number":" +1 (630) 771-1494","extension":"None","type":"Store ","language":"EN","description":"description"},{"id":"2","location_id":"2","number":" +1 (773) 836-9497","extension":"None","type":"Store ","language":"EN","description":"Primary number pulled from Google Maps listing."}]
