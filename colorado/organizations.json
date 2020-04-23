@@ -1,10 +1,1 @@
-[
-  {
-    "id": "1",
-    "name": "No Organizations Yet",
-    "alternate_name": "No Organizations Yet",
-    "description": "This is just the first entry into the system.",
-    "email": "No Email",
-    "url": "http://example.com"
-  }
-]
+[{"id":"1","name":"Stride Community Health Center","alternate_name":"STRIDE","description":"STRIDE Community Health Center is your neighborhood health care provider in Denver Metro, Colorado. When you need a clinic near you, we'll be there.","email":"No Email","url":"https://stridechc.org/"}]
