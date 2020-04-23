@@ -1,10 +1,327 @@
 [
   {
+    "id": "2",
+    "organization_id": "1",
+    "name": "Aurora Health & Wellness Plaza - Stride",
+    "alternate_name": "STRIDE",
+    "description": "Open STRIDE CHC locations are screening all patients at the time of scheduling and ALL people are being screened at the doors of all our open health centers. We are using caution to NOT expose staff and patients to anyone who meets COVID-19 at-risk criteria. We kindly ask for your patience and acceptance of these additional screening criteria and the time it might take to accomplish them",
+    "transportation": "Car",
+    "updated": "2020-04-02",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "2",
+        "location_id": "2",
+        "address_1": "3292 Peoria St",
+        "city": "Aurora",
+        "region": "State",
+        "state_province": "CO",
+        "postal_code": "80010",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "2",
+        "location_id": "2",
+        "number": " +1 303-360-6276",
+        "extension": "None",
+        "type": "Patient Care Line",
+        "language": "EN",
+        "description": "Patient Care Line"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "2",
+        "location_id": "2",
+        "weekday": "1",
+        "opens_at": "7:30:00 AM",
+        "closes_at": "5:30:00 PM"
+      },
+      {
+        "id": "2",
+        "location_id": "2",
+        "weekday": "2",
+        "opens_at": "7:30:00 AM",
+        "closes_at": "5:30:00 PM"
+      },
+      {
+        "id": "2",
+        "location_id": "2",
+        "weekday": "3",
+        "opens_at": "7:30:00 AM",
+        "closes_at": "5:30:00 PM"
+      },
+      {
+        "id": "2",
+        "location_id": "2",
+        "weekday": "4",
+        "opens_at": "7:30:00 AM",
+        "closes_at": "5:30:00 PM"
+      },
+      {
+        "id": "2",
+        "location_id": "2",
+        "weekday": "5",
+        "opens_at": "7:30:00 AM",
+        "closes_at": "5:30:00 PM"
+      }
+    ]
+  },
+  {
     "id": "1",
-    "name": "No Organizations Yet",
-    "alternate_name": "No Organizations Yet",
-    "description": "This is just the first entry into the system.",
-    "email": "No Email",
-    "url": "http://example.com"
+    "organization_id": "1",
+    "name": "North Aurora Family Health Services Center - Stride",
+    "alternate_name": "STRIDE",
+    "description": "Open STRIDE CHC locations are screening all patients at the time of scheduling and ALL people are being screened at the doors of all our open health centers. We are using caution to NOT expose staff and patients to anyone who meets COVID-19 at-risk criteria. We kindly ask for your patience and acceptance of these additional screening criteria and the time it might take to accomplish them",
+    "transportation": "Car",
+    "updated": "2020-04-02",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "1",
+        "location_id": "1",
+        "address_1": "10680 Del Mar Pkwy",
+        "city": "Aurora",
+        "region": "State",
+        "state_province": "CO",
+        "postal_code": "80010",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "1",
+        "location_id": "1",
+        "number": " +1 303-360-6276",
+        "extension": "None",
+        "type": "Patient Care Line",
+        "language": "EN",
+        "description": "description"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "1",
+        "opens_at": "7:00 AM",
+        "closes_at": "5:30:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "2",
+        "opens_at": "7:00 AM",
+        "closes_at": "5:30:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "3",
+        "opens_at": "7:00 AM",
+        "closes_at": "5:30:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "4",
+        "opens_at": "7:00 AM",
+        "closes_at": "5:30:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "5",
+        "opens_at": "7:00 AM",
+        "closes_at": "5:30:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "6",
+        "opens_at": "8:00 AM",
+        "closes_at": "2:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "organization_id": "1",
+    "name": "Jeffco Family Health Services Center - Stride",
+    "alternate_name": "STRIDE",
+    "description": "Open STRIDE CHC locations are screening all patients at the time of scheduling and ALL people are being screened at the doors of all our open health centers. We are using caution to NOT expose staff and patients to anyone who meets COVID-19 at-risk criteria. We kindly ask for your patience and acceptance of these additional screening criteria and the time it might take to accomplish them",
+    "transportation": "Car",
+    "updated": "2020-04-02",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "3",
+        "location_id": "3",
+        "address_1": "7495 W 29th Ave",
+        "city": "Wheat Ridge",
+        "region": "State",
+        "state_province": "CO",
+        "postal_code": "80033",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "3",
+        "location_id": "3",
+        "number": " +1 303-360-6276",
+        "extension": "None",
+        "type": "Patient Care Line",
+        "language": "EN",
+        "description": "Patient Care Line"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "3",
+        "location_id": "3",
+        "weekday": "1",
+        "opens_at": "7:00 AM",
+        "closes_at": "5:30:00 PM"
+      },
+      {
+        "id": "3",
+        "location_id": "3",
+        "weekday": "2",
+        "opens_at": "7:00 AM",
+        "closes_at": "5:30:00 PM"
+      },
+      {
+        "id": "3",
+        "location_id": "3",
+        "weekday": "3",
+        "opens_at": "7:00 AM",
+        "closes_at": "5:30:00 PM"
+      },
+      {
+        "id": "3",
+        "location_id": "3",
+        "weekday": "4",
+        "opens_at": "7:00 AM",
+        "closes_at": "5:30:00 PM"
+      },
+      {
+        "id": "3",
+        "location_id": "3",
+        "weekday": "5",
+        "opens_at": "7:00 AM",
+        "closes_at": "5:30:00 PM"
+      },
+      {
+        "id": "3",
+        "location_id": "3",
+        "weekday": "6",
+        "opens_at": "8:00 AM",
+        "closes_at": "1:30:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "organization_id": "1",
+    "name": "South Aurora Family Health Services",
+    "alternate_name": "STRIDE CHC South Aurora Family Health Services",
+    "description": "Open STRIDE CHC locations are screening all patients at the time of scheduling and ALL people are being screened at the doors of all our open health centers. We are using caution to NOT expose staff and patients to anyone who meets COVID-19 at-risk criteria. We kindly ask for your patience and acceptance of these additional screening criteria and the time it might take to accomplish them",
+    "transportation": "Car",
+    "updated": "2020-04-02",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "4",
+        "location_id": "4",
+        "address_1": "15132 E Hampden Ave",
+        "city": "Aurora",
+        "region": "State",
+        "state_province": "CO",
+        "postal_code": "80014",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "4",
+        "location_id": "4",
+        "number": " +1 303-360-6276",
+        "extension": "None",
+        "type": "Patient Care Line",
+        "language": "EN",
+        "description": "Patient Care Line"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "4",
+        "location_id": "4",
+        "weekday": "1",
+        "opens_at": "7:00 AM",
+        "closes_at": "5:30:00 PM"
+      },
+      {
+        "id": "4",
+        "location_id": "4",
+        "weekday": "2",
+        "opens_at": "7:00 AM",
+        "closes_at": "5:30:00 PM"
+      },
+      {
+        "id": "4",
+        "location_id": "4",
+        "weekday": "3",
+        "opens_at": "7:00 AM",
+        "closes_at": "5:30:00 PM"
+      },
+      {
+        "id": "4",
+        "location_id": "4",
+        "weekday": "4",
+        "opens_at": "7:00 AM",
+        "closes_at": "5:30:00 PM"
+      },
+      {
+        "id": "4",
+        "location_id": "4",
+        "weekday": "5",
+        "opens_at": "7:00 AM",
+        "closes_at": "5:30:00 PM"
+      },
+      {
+        "id": "4",
+        "location_id": "4",
+        "weekday": "6",
+        "opens_at": "8:00 AM",
+        "closes_at": "1:30:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "organization_id": "2",
+    "name": "Harrison K-8 School",
+    "alternate_name": "Harrison K-8 School",
+    "description": "The FCDPHE announced last week that appointments would be based on referrals from providers for patients that meet testing criteria (health-care workers, persons 60 and older, immunocompromised) or severity of symptoms.",
+    "transportation": "Car",
+    "updated": "2020-04-22",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "5",
+        "location_id": "5",
+        "address_1": "920 Field Ave",
+        "city": "Cañon City",
+        "region": "State",
+        "state_province": "CO",
+        "postal_code": "81212",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": []
   }
 ]
