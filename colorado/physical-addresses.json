@@ -1,12 +1,1 @@
-[
-  {
-    "id": "1",
-    "location_id": "1",
-    "address_1": "222 S 6th Street",
-    "city": "Grand Junction",
-    "region": "State",
-    "state_province": "CO",
-    "postal_code": "81501",
-    "country": "US"
-  }
-]
+[{"id":"2","location_id":"2","address_1":"3292 Peoria St","city":"Aurora","region":"State","state_province":"CO","postal_code":"80010","country":"US"},{"id":"1","location_id":"1","address_1":"10680 Del Mar Pkwy","city":"Aurora","region":"State","state_province":"CO","postal_code":"80010","country":"US"},{"id":"3","location_id":"3","address_1":"7495 W 29th Ave","city":"Wheat Ridge","region":"State","state_province":"CO","postal_code":"80033","country":"US"},{"id":"4","location_id":"4","address_1":"15132 E Hampden Ave","city":"Aurora","region":"State","state_province":"CO","postal_code":"80014","country":"US"},{"id":"5","location_id":"5","address_1":"920 Field Ave","city":"Cañon City","region":"State","state_province":"CO","postal_code":"81212","country":"US"}]
