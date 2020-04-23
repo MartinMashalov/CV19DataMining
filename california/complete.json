@@ -1780,5 +1780,453 @@
         "closes_at": "7:00 PM"
       }
     ]
+  },
+  {
+    "id": "29",
+    "organization_id": "15",
+    "name": "AltaMed-Anaheim",
+    "alternate_name": "AltaMed-Anaheim",
+    "description": "Call (888) 499-9303 for an appointment",
+    "transportation": "Car",
+    "updated": "2020-04-23",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "29",
+        "location_id": "29",
+        "address_1": "1325 N. Anaheim Blvd.",
+        "city": "Anaheim",
+        "region": "Southern California",
+        "state_province": "CA",
+        "postal_code": "92801",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "29",
+        "location_id": "29",
+        "number": " +1 (888) 499-9303 ",
+        "extension": "None",
+        "type": "Appointment Line",
+        "language": "EN",
+        "description": "None"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "29",
+        "location_id": "29",
+        "weekday": "1",
+        "opens_at": "9:00 AM",
+        "closes_at": "3:00 PM"
+      },
+      {
+        "id": "29",
+        "location_id": "29",
+        "weekday": "2",
+        "opens_at": "9:00 AM",
+        "closes_at": "3:00 PM"
+      },
+      {
+        "id": "29",
+        "location_id": "29",
+        "weekday": "3",
+        "opens_at": "9:00 AM",
+        "closes_at": "3:00 PM"
+      },
+      {
+        "id": "29",
+        "location_id": "29",
+        "weekday": "4",
+        "opens_at": "9:00 AM",
+        "closes_at": "3:00 PM"
+      },
+      {
+        "id": "29",
+        "location_id": "29",
+        "weekday": "5",
+        "opens_at": "9:00 AM",
+        "closes_at": "3:00 PM"
+      },
+      {
+        "id": "29",
+        "location_id": "29",
+        "weekday": "6",
+        "opens_at": "9:00 AM",
+        "closes_at": "3:00 PM"
+      },
+      {
+        "id": "29",
+        "location_id": "29",
+        "weekday": "7",
+        "opens_at": "9:00 AM",
+        "closes_at": "3:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "30",
+    "organization_id": "15",
+    "name": "AltaMed-Santa Ana Bristol",
+    "alternate_name": "AltaMed-Santa Ana Bristol",
+    "description": "Call (888) 499-9303 for an appointment",
+    "transportation": "Car",
+    "updated": "2020-04-23",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "30",
+        "location_id": "30",
+        "address_1": "2720 S Bristol St. #104",
+        "city": "Santa Ana",
+        "region": "Southern California",
+        "state_province": "CA",
+        "postal_code": "92704",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "30",
+        "location_id": "30",
+        "number": " +1 (888) 499-9303 ",
+        "extension": "None",
+        "type": "Appointment Line",
+        "language": "EN",
+        "description": "None"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "30",
+        "location_id": "30",
+        "weekday": "1",
+        "opens_at": "9:00 AM",
+        "closes_at": "3:00 PM"
+      },
+      {
+        "id": "30",
+        "location_id": "30",
+        "weekday": "2",
+        "opens_at": "9:00 AM",
+        "closes_at": "3:00 PM"
+      },
+      {
+        "id": "30",
+        "location_id": "30",
+        "weekday": "3",
+        "opens_at": "9:00 AM",
+        "closes_at": "3:00 PM"
+      },
+      {
+        "id": "30",
+        "location_id": "30",
+        "weekday": "4",
+        "opens_at": "9:00 AM",
+        "closes_at": "3:00 PM"
+      },
+      {
+        "id": "30",
+        "location_id": "30",
+        "weekday": "5",
+        "opens_at": "9:00 AM",
+        "closes_at": "3:00 PM"
+      },
+      {
+        "id": "30",
+        "location_id": "30",
+        "weekday": "6",
+        "opens_at": "9:00 AM",
+        "closes_at": "3:00 PM"
+      },
+      {
+        "id": "30",
+        "location_id": "30",
+        "weekday": "7",
+        "opens_at": "9:00 AM",
+        "closes_at": "3:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "31",
+    "organization_id": "16",
+    "name": "Nhan Hoa Comprehensive Health Care Clinic",
+    "alternate_name": "Nhan Hoa Comprehensive Health Care Clinic",
+    "description": "Registration REQUIRED on our website at www.nhanhoa.org",
+    "transportation": "Car",
+    "updated": "2020-04-23",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "31",
+        "location_id": "31",
+        "address_1": "7761 Garden Grove Blvd",
+        "city": "Garden Grove",
+        "region": "Southern California",
+        "state_province": "CA",
+        "postal_code": "92843",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "31",
+        "location_id": "31",
+        "number": " +1 (714) 898-8888",
+        "extension": "None",
+        "type": "Question Line",
+        "language": "EN, VT",
+        "description": "None"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "31",
+        "location_id": "31",
+        "weekday": "1",
+        "opens_at": "9:30:00 AM",
+        "closes_at": "4:30:00 PM"
+      },
+      {
+        "id": "31",
+        "location_id": "31",
+        "weekday": "2",
+        "opens_at": "9:30:00 AM",
+        "closes_at": "4:30:00 PM"
+      },
+      {
+        "id": "31",
+        "location_id": "31",
+        "weekday": "3",
+        "opens_at": "9:30:00 AM",
+        "closes_at": "4:30:00 PM"
+      },
+      {
+        "id": "31",
+        "location_id": "31",
+        "weekday": "4",
+        "opens_at": "9:30:00 AM",
+        "closes_at": "4:30:00 PM"
+      },
+      {
+        "id": "31",
+        "location_id": "31",
+        "weekday": "5",
+        "opens_at": "9:30:00 AM",
+        "closes_at": "4:30:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "32",
+    "organization_id": "17",
+    "name": "MemorialCare - San Clemente",
+    "alternate_name": "MemorialCare - San Clemente",
+    "description": "Appointments are needed to be tested at this site and can be made by calling (877) MYMEMCARE (696-3622). A physician order is required before calling to schedule your appointment. ",
+    "transportation": "Car",
+    "updated": "2020-04-23",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "32",
+        "location_id": "32",
+        "address_1": "654 Camino de los Mares",
+        "city": "San Clemente",
+        "region": "Southern California",
+        "state_province": "CA",
+        "postal_code": "92673",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "32",
+        "location_id": "32",
+        "number": " +1 877-696-3622",
+        "extension": "None",
+        "type": "Appointment Line",
+        "language": "EN",
+        "description": "None"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "32",
+        "location_id": "32",
+        "weekday": "1",
+        "opens_at": "9:00 AM",
+        "closes_at": "4:00 PM"
+      },
+      {
+        "id": "32",
+        "location_id": "32",
+        "weekday": "2",
+        "opens_at": "9:00 AM",
+        "closes_at": "4:00 PM"
+      },
+      {
+        "id": "32",
+        "location_id": "32",
+        "weekday": "3",
+        "opens_at": "9:00 AM",
+        "closes_at": "4:00 PM"
+      },
+      {
+        "id": "32",
+        "location_id": "32",
+        "weekday": "4",
+        "opens_at": "9:00 AM",
+        "closes_at": "4:00 PM"
+      },
+      {
+        "id": "32",
+        "location_id": "32",
+        "weekday": "5",
+        "opens_at": "9:00 AM",
+        "closes_at": "4:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "33",
+    "organization_id": "18",
+    "name": "Harvest Christian Fellowship church",
+    "alternate_name": "Harvest Christian Fellowship church",
+    "description": "Testing is done only by appointment. Everyone being tested meet certain criteria and they are all showing symptoms",
+    "transportation": "Car",
+    "updated": "2020-04-23",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "33",
+        "location_id": "33",
+        "address_1": "6115 Arlington Ave",
+        "city": "Riverside",
+        "region": "Southern California",
+        "state_province": "CA",
+        "postal_code": "92504",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "33",
+        "location_id": "33",
+        "number": " +1 800-945-6171",
+        "extension": "None",
+        "type": "Appointment Line",
+        "language": "EN",
+        "description": "None"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "33",
+        "location_id": "33",
+        "weekday": "2",
+        "opens_at": "8:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "33",
+        "location_id": "33",
+        "weekday": "3",
+        "opens_at": "8:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "33",
+        "location_id": "33",
+        "weekday": "4",
+        "opens_at": "8:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "33",
+        "location_id": "33",
+        "weekday": "5",
+        "opens_at": "8:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "33",
+        "location_id": "33",
+        "weekday": "6",
+        "opens_at": "8:00 AM",
+        "closes_at": "12:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "34",
+    "organization_id": "19",
+    "name": "Hemet Global Medical Center",
+    "alternate_name": "Hemet Global Medical Center",
+    "description": "The testing sites asked that those who feel they are suffering from the disease and the elderly should call first to make an appointment to be tested at the center. Those symptoms are fever, cough, fatigue, aching all over and difficulty breathing.",
+    "transportation": "Car",
+    "updated": "2020-04-23",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "34",
+        "location_id": "34",
+        "address_1": "1117 E. Devonshire Ave.",
+        "city": "Hemet",
+        "region": "Southern California",
+        "state_province": "CA",
+        "postal_code": "92543",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "34",
+        "location_id": "34",
+        "number": " +1 (951) 765-4757",
+        "extension": "None",
+        "type": "Hotline",
+        "language": "EN",
+        "description": "None"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "34",
+        "location_id": "34",
+        "weekday": "1",
+        "opens_at": "8:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "34",
+        "location_id": "34",
+        "weekday": "2",
+        "opens_at": "8:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "34",
+        "location_id": "34",
+        "weekday": "3",
+        "opens_at": "8:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "34",
+        "location_id": "34",
+        "weekday": "4",
+        "opens_at": "8:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "34",
+        "location_id": "34",
+        "weekday": "5",
+        "opens_at": "8:00 AM",
+        "closes_at": "12:00 PM"
+      }
+    ]
   }
 ]
