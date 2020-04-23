@@ -16,7 +16,7 @@
         "city": "Eatontown",
         "region": "Region",
         "state_province": "NJ",
-        "postal_code": "7724",
+        "postal_code": "  07724",
         "country": "US"
       }
     ],
@@ -91,7 +91,7 @@
     "description": "Central Jersey Urgent Care is testing daily at its Eatontown, Howell and Marlboro locations. Tests are currently limited to 80 patients per day at individual locations.\n\nOnly patients who have symptoms for coronavirus or who have been exposed to someone that has tested positive for COVID-19 will be tested. Patients must register online to make an appointment for the test.\n\nThe demand is high for the tests and the Eatontown location had administered its daily quota of 80 tests by 11 a.m. on Monday, according to the group.   \n\nSince the testing kits are limited, testing may alternate days at certain other locations, so check the Central Jersey Urgent Care website daily for updates.",
     "transportation": "Car",
     "updated": "2020-04-01",
-    "featured": "TRUE",
+    "featured": "FALSE",
     "physical_address": [
       {
         "id": "2",
@@ -100,7 +100,7 @@
         "city": "Marlboro",
         "region": "Region",
         "state_province": "NJ",
-        "postal_code": "7751",
+        "postal_code": "  07751",
         "country": "US"
       }
     ],
@@ -175,7 +175,7 @@
     "description": "Central Jersey Urgent Care is testing daily at its Eatontown, Howell and Marlboro locations. Tests are currently limited to 80 patients per day at individual locations.\n\nOnly patients who have symptoms for coronavirus or who have been exposed to someone that has tested positive for COVID-19 will be tested. Patients must register online to make an appointment for the test.\n\nThe demand is high for the tests and the Eatontown location had administered its daily quota of 80 tests by 11 a.m. on Monday, according to the group.   \n\nSince the testing kits are limited, testing may alternate days at certain other locations, so check the Central Jersey Urgent Care website daily for updates.",
     "transportation": "Car",
     "updated": "2020-04-01",
-    "featured": "TRUE",
+    "featured": "FALSE",
     "physical_address": [
       {
         "id": "3",
@@ -184,7 +184,7 @@
         "city": "Howell",
         "region": "Region",
         "state_province": "NJ",
-        "postal_code": "7731",
+        "postal_code": "  07731",
         "country": "US"
       }
     ],
@@ -258,7 +258,7 @@
     "alternate_name": "PNC Bank Arts Center",
     "description": "Community-Based Testing Sites are for individuals who are experiencing symptoms of respiratory illness. In order to be eligible for testing, individuals must be current New Jersey residents and experiencing symptoms of respiratory illness. Priority will be given to symptomatic individuals experiencing cough, fever (99.6F or above) and shortness of breath. The drive-thru testing center will be open seven days per week, beginning at 8:00 a.m. until supplies last. Complete the self-assessment to learn what to do.",
     "transportation": "Car",
-    "updated": "2020-04-01",
+    "updated": "2020-04-22",
     "featured": "FALSE",
     "physical_address": [
       {
@@ -268,7 +268,7 @@
         "city": "Holmdel",
         "region": "Region",
         "state_province": "NJ",
-        "postal_code": "7733",
+        "postal_code": "  07733",
         "country": "US"
       }
     ],
@@ -292,7 +292,7 @@
     "alternate_name": "Kean University",
     "description": "Please note that testing is by appointment only and you must be registered through your doctor or healthcare provider. Union County residents, Union County First Responders and essential personnel, who have been instructed by their doctor or healthcare provider to be tested for COVID-19, must be given a prescription and registered by their doctor or healthcare provider on a secure portal where they will receive an appointment for the drive-through. This is the only way to receive an appointment to be tested. For the safety, health and security of the volunteers at the site, the testing location will not allow patients without vehicles to enter campus, even with a valid prescription and appointment. If you do not have your own transportation, please discuss with your healthcare provider before scheduling an appointment",
     "transportation": "Car",
-    "updated": "2020-04-01",
+    "updated": "2020-04-22",
     "featured": "FALSE",
     "physical_address": [
       {
@@ -302,7 +302,7 @@
         "city": "Union",
         "region": "Region",
         "state_province": "NJ",
-        "postal_code": "7083",
+        "postal_code": "  07083",
         "country": "US"
       }
     ],
@@ -318,5 +318,297 @@
       }
     ],
     "regular_schedule": []
+  },
+  {
+    "id": "6",
+    "organization_id": "4",
+    "name": "Paramus Bergen Community College",
+    "alternate_name": "Paramus Bergen Community College",
+    "description": "“Drive-through” COVID-19 testing began at the main campus today. Federal, state and county officials are coordinating all aspects of this event.",
+    "transportation": "Car",
+    "updated": "2020-04-22",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "6",
+        "location_id": "6",
+        "address_1": "Bergen Community College, Paramus Campus – Lots B & C, 400 Paramus Road",
+        "city": "Paramas",
+        "region": "Region",
+        "state_province": "NJ",
+        "postal_code": " 07652",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "6",
+        "location_id": "6",
+        "number": " +1 (201) 447-7100 ",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "School medical center"
+      }
+    ],
+    "regular_schedule": []
+  },
+  {
+    "id": "7",
+    "organization_id": "5",
+    "name": "Camden County College",
+    "alternate_name": "Camden County College",
+    "description": "The Camden County site is open to county residents who make an appointment. They must be displaying COVID-19 symptoms and have received a referral from a medical provider. The site, open weekdays from 10 a.m. to 4 p.m., is being run by the Camden County Health Department and Jefferson Health New Jersey. ",
+    "transportation": "Car",
+    "updated": "2020-04-23",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "7",
+        "location_id": "7",
+        "address_1": "200 College Dr",
+        "city": "Blackwood",
+        "region": "Region",
+        "state_province": "NJ",
+        "postal_code": " 08012",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "7",
+        "location_id": "7",
+        "number": " +1 (856) 227-7200",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "School main number"
+      }
+    ],
+    "regular_schedule": []
+  },
+  {
+    "id": "8",
+    "organization_id": "6",
+    "name": "Hudson Regional Hospital",
+    "alternate_name": "Hudson Regional Hospital",
+    "description": " The testing center will provide a by-appointment service only. Starting at noon tomorrow (Monday) appointments may be made by calling 201-388-1097.\n\nThe testing site will operate from 10am to 5pm, Monday through Friday. It will also be able to test our first responders and expedite their return, so they can continue to perform their important public safety duties.",
+    "transportation": "Car",
+    "updated": "2020-04-23",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "8",
+        "location_id": "8",
+        "address_1": "55 Meadowlands Pkwy",
+        "city": "Secaucus",
+        "region": "Region",
+        "state_province": "NJ",
+        "postal_code": "07094",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "8",
+        "location_id": "8",
+        "number": " +1 201-388-1097",
+        "extension": "None",
+        "type": "Appointment Line",
+        "language": "EN",
+        "description": "School main number"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "8",
+        "location_id": "8",
+        "weekday": "1",
+        "opens_at": "10:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "8",
+        "location_id": "8",
+        "weekday": "2",
+        "opens_at": "10:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "8",
+        "location_id": "8",
+        "weekday": "3",
+        "opens_at": "10:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "8",
+        "location_id": "8",
+        "weekday": "4",
+        "opens_at": "10:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "8",
+        "location_id": "8",
+        "weekday": "5",
+        "opens_at": "10:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "organization_id": "7",
+    "name": "Riverside Medical Group/Secaucus",
+    "alternate_name": "Riverside Medical Group/Secaucus",
+    "description": "BY APPOINTMENT ONLY. Patients with symptoms concerning for COVID-19 are evaluated through a telemedicine platform and if they meet certain criteria are scheduled for drive thru testing and evaluation at the Command Center.",
+    "transportation": "Car",
+    "updated": "2020-04-23",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "9",
+        "location_id": "9",
+        "address_1": "714 Tenth Street",
+        "city": "Secaucus",
+        "region": "Region",
+        "state_province": "NJ",
+        "postal_code": " 07094",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "9",
+        "location_id": "9",
+        "number": " +1 201-863-3346",
+        "extension": "None",
+        "type": "Hotline",
+        "language": "EN",
+        "description": "Appointment Line"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "9",
+        "location_id": "9",
+        "weekday": "1",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "9",
+        "location_id": "9",
+        "weekday": "2",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "9",
+        "location_id": "9",
+        "weekday": "3",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "9",
+        "location_id": "9",
+        "weekday": "4",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "9",
+        "location_id": "9",
+        "weekday": "5",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "9",
+        "location_id": "9",
+        "weekday": "6",
+        "opens_at": "10:00 AM",
+        "closes_at": "1:00 PM"
+      },
+      {
+        "id": "9",
+        "location_id": "9",
+        "weekday": "7",
+        "opens_at": "10:00 AM",
+        "closes_at": "1:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "organization_id": "4",
+    "name": "PNC Bank Arts Center",
+    "alternate_name": "PNC Bank Arts Center",
+    "description": " Priority will be given to people with a fever of 99.6F or above and are experiencing a cough and shortness of breath. A valid New Jersey ID will need to be presented to receive testing. Residents who do not meet that criteria will be turned away at the site, which is staffed by the state Department of Health, the New Jersey State Police and the New Jersey National Guard.",
+    "transportation": "Car",
+    "updated": "2020-04-23",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "10",
+        "location_id": "10",
+        "address_1": "116 Garden State Pkwy",
+        "city": "Holmdel",
+        "region": "Region",
+        "state_province": "NJ",
+        "postal_code": " 07733",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "10",
+        "location_id": "10",
+        "number": " +1 201-388-1097",
+        "extension": "None",
+        "type": "Appointment Line",
+        "language": "EN",
+        "description": "Hotline"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "10",
+        "location_id": "10",
+        "weekday": "1",
+        "opens_at": "10:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "10",
+        "location_id": "10",
+        "weekday": "2",
+        "opens_at": "10:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "10",
+        "location_id": "10",
+        "weekday": "3",
+        "opens_at": "10:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "10",
+        "location_id": "10",
+        "weekday": "4",
+        "opens_at": "10:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "10",
+        "location_id": "10",
+        "weekday": "5",
+        "opens_at": "10:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
   }
 ]
