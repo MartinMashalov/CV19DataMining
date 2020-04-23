@@ -86,7 +86,7 @@
   {
     "id": "2",
     "organization_id": "2",
-    "name": "Penn Medicine",
+    "name": "Penn Medicine - Radnor",
     "alternate_name": "Penn Medicine",
     "description": "Penn Medicine has two ambulatory COVID-19 testing sites, one in West Philadelphia and one in Radnor, with test kits available for those who are experiencing coronavirus-like symptoms.\n\nNo co-pays or deductibles will be charged for testing, and uninsured patients will be able to be tested for free. ",
     "transportation": "Car & Walk",
@@ -760,6 +760,373 @@
         "location_id": "9",
         "weekday": "7",
         "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "organization_id": "6",
+    "name": "Abington Hospital Temporary Testing Site",
+    "alternate_name": "Abington Hospital Temporary Testing Site",
+    "description": "The new site is for referral by a physician at Abington-Jefferson Health only, officials stress. Residents looking for a test are not permitted to show up otherwise.",
+    "transportation": "Car",
+    "updated": "2020-04-23",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "10",
+        "location_id": "10",
+        "address_1": "1200 Old York Rd",
+        "city": "Abington",
+        "region": "region",
+        "state_province": "PA",
+        "postal_code": "19001",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "10",
+        "location_id": "10",
+        "number": "none",
+        "extension": "None",
+        "type": "none",
+        "language": "none",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": []
+  },
+  {
+    "id": "11",
+    "organization_id": "7",
+    "name": "Genesis Diagnostics",
+    "alternate_name": "Genesis Diagnostics",
+    "description": "Schedule an appointment online. Approved by the Pennsylvania Department of Health, the test is for those who exhibit coronavirus symptoms and those who believe they have been exposed, said Miller. Such persons should contact a physician, who will order the test and contact the lab, Miller said.",
+    "transportation": "Car",
+    "updated": "2020-04-23",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "11",
+        "location_id": "11",
+        "address_1": "900 Town Center Dr",
+        "city": "Langhorn",
+        "region": "region",
+        "state_province": "PA",
+        "postal_code": "19047",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "11",
+        "location_id": "11",
+        "number": " +1 267-201-8457 ",
+        "extension": "None",
+        "type": "Appointment Line",
+        "language": "none",
+        "description": "None"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "11",
+        "location_id": "11",
+        "weekday": "1",
+        "opens_at": "9:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "11",
+        "location_id": "11",
+        "weekday": "2",
+        "opens_at": "9:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "11",
+        "location_id": "11",
+        "weekday": "3",
+        "opens_at": "9:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "11",
+        "location_id": "11",
+        "weekday": "4",
+        "opens_at": "9:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "11",
+        "location_id": "11",
+        "weekday": "5",
+        "opens_at": "9:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "11",
+        "location_id": "11",
+        "weekday": "6",
+        "opens_at": "9:00 AM",
+        "closes_at": "6:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "organization_id": "8",
+    "name": "Montgomery County Community College",
+    "alternate_name": "Montgomery County Community College",
+    "description": "Online registration opens at 8:00 AM each day that the test site is open. We strongly encourage you to ONLY register for a testing appointment on a day that you’re available to get tested. Our testing is performed on the same day that you register.",
+    "transportation": "Car",
+    "updated": "2020-04-23",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "12",
+        "location_id": "12",
+        "address_1": "340 DeKalb Pike",
+        "city": "Blue Bell",
+        "region": "region",
+        "state_province": "PA",
+        "postal_code": "19422",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "12",
+        "location_id": "12",
+        "number": " +1 (610) 631-3000",
+        "extension": "None",
+        "type": "Appointment Line",
+        "language": "none",
+        "description": "Appointment Line"
+      }
+    ],
+    "regular_schedule": []
+  },
+  {
+    "id": "13",
+    "organization_id": "9",
+    "name": "Rite Aid",
+    "alternate_name": "Rite Aid",
+    "description": "To be tested here, you must be a healthcare worker or a first responder AND have symptoms consistent with COVID-19.",
+    "transportation": "Car",
+    "updated": "2020-04-23",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "13",
+        "location_id": "13",
+        "address_1": "7401 Ogontz Ave.",
+        "city": "Philadelphia",
+        "region": "region",
+        "state_province": "PA",
+        "postal_code": "19138",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": [
+      {
+        "id": "13",
+        "location_id": "13",
+        "weekday": "1",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "13",
+        "location_id": "13",
+        "weekday": "2",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "13",
+        "location_id": "13",
+        "weekday": "3",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "13",
+        "location_id": "13",
+        "weekday": "4",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "13",
+        "location_id": "13",
+        "weekday": "5",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "13",
+        "location_id": "13",
+        "weekday": "6",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "13",
+        "location_id": "13",
+        "weekday": "7",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "organization_id": "10",
+    "name": "AFC Urgent Care Northern Liberties",
+    "alternate_name": "AFC Urgent Care Northern Liberties",
+    "description": "Walk up testing. To be tested here, you must be screened via TeleCare in advance. Visit www.afcurgentcarenolibs.com OR www.afcurgentcarecheltenham.com and click “Book a Virtual Visit Online” to be seen by an AFC provider from your device in the comfort of your home.",
+    "transportation": "Car",
+    "updated": "2020-04-23",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "14",
+        "location_id": "14",
+        "address_1": "180 W. Girard Ave.",
+        "city": "Philadelphia",
+        "region": "region",
+        "state_province": "PA",
+        "postal_code": "19123",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": [
+      {
+        "id": "14",
+        "location_id": "14",
+        "weekday": "1",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "14",
+        "location_id": "14",
+        "weekday": "2",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "14",
+        "location_id": "14",
+        "weekday": "3",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "14",
+        "location_id": "14",
+        "weekday": "4",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "14",
+        "location_id": "14",
+        "weekday": "5",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "14",
+        "location_id": "14",
+        "weekday": "6",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "14",
+        "location_id": "14",
+        "weekday": "7",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "organization_id": "10",
+    "name": "AFC Urgent Care Cheltenham",
+    "alternate_name": "AFC Urgent Care Cheltenham",
+    "description": "Walk up testing. To be tested here, you must be screened via TeleCare in advance. Visit www.afcurgentcarenolibs.com OR www.afcurgentcarecheltenham.com and click “Book a Virtual Visit Online” to be seen by an AFC provider from your device in the comfort of your home.",
+    "transportation": "Car",
+    "updated": "2020-04-23",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "15",
+        "location_id": "15",
+        "address_1": "2401 W. Cheltenham Ave.",
+        "city": "Philadelphia",
+        "region": "region",
+        "state_province": "PA",
+        "postal_code": "19095",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": [
+      {
+        "id": "15",
+        "location_id": "15",
+        "weekday": "1",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "15",
+        "location_id": "15",
+        "weekday": "2",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "15",
+        "location_id": "15",
+        "weekday": "3",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "15",
+        "location_id": "15",
+        "weekday": "4",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "15",
+        "location_id": "15",
+        "weekday": "5",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "15",
+        "location_id": "15",
+        "weekday": "6",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "15",
+        "location_id": "15",
+        "weekday": "7",
+        "opens_at": "9:00 AM",
         "closes_at": "5:00 PM"
       }
     ]
