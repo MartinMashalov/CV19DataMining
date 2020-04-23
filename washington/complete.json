@@ -24,7 +24,7 @@
       {
         "id": "1",
         "location_id": "1",
-        "number": "'+1 (206) 364-0500",
+        "number": " +1 (206) 364-0500",
         "extension": "None",
         "type": "Office",
         "language": "EN",
@@ -108,7 +108,7 @@
       {
         "id": "2",
         "location_id": "2",
-        "number": "'+1 (425) 339-5200",
+        "number": " +1 (425) 339-5200",
         "extension": "None",
         "type": "Office",
         "language": "EN",
@@ -171,7 +171,7 @@
       {
         "id": "3",
         "location_id": "3",
-        "number": "'+1 (425) 672-6400",
+        "number": " +1 (425) 672-6400",
         "extension": "None",
         "type": "Office",
         "language": "EN, ES",
@@ -205,7 +205,7 @@
       {
         "id": "4",
         "location_id": "4",
-        "number": "'+1 (253) 435-3100",
+        "number": " +1 (253) 435-3100",
         "extension": "None",
         "type": "Office",
         "language": "EN, ES",
@@ -239,7 +239,7 @@
       {
         "id": "5",
         "location_id": "5",
-        "number": "'+1 (425) 562-1337",
+        "number": " +1 (425) 562-1337",
         "extension": "None",
         "type": "Office",
         "language": "EN, ES",
@@ -273,7 +273,7 @@
       {
         "id": "6",
         "location_id": "6",
-        "number": "'+1 (425) 261-1500",
+        "number": " +1 (425) 261-1500",
         "extension": "None",
         "type": "Office",
         "language": "EN, ES",
@@ -307,7 +307,7 @@
       {
         "id": "7",
         "location_id": "7",
-        "number": "'+1 (360) 923-7000",
+        "number": " +1 (360) 923-7000",
         "extension": "None",
         "type": "Office",
         "language": "EN, ES",
@@ -341,7 +341,7 @@
       {
         "id": "8",
         "location_id": "8",
-        "number": "'+1 (206) 326-3000",
+        "number": " +1 (206) 326-3000",
         "extension": "None",
         "type": "Office",
         "language": "EN, ES",
@@ -375,7 +375,7 @@
       {
         "id": "9",
         "location_id": "9",
-        "number": "'+1 (360) 307-7300",
+        "number": " +1 (360) 307-7300",
         "extension": "None",
         "type": "Office",
         "language": "EN, ES",
@@ -409,7 +409,7 @@
       {
         "id": "10",
         "location_id": "10",
-        "number": "'+1 (206) 630-3000",
+        "number": " +1 (206) 630-3000",
         "extension": "None",
         "type": "Office",
         "language": "EN, ES",
@@ -443,7 +443,7 @@
       {
         "id": "11",
         "location_id": "11",
-        "number": "'+1 (206) 517-6700",
+        "number": " +1 (206) 517-6700",
         "extension": "None",
         "type": "Office",
         "language": "EN, ES",
@@ -477,7 +477,7 @@
       {
         "id": "12",
         "location_id": "12",
-        "number": "'+1 (206) 326-2400",
+        "number": " +1 (206) 326-2400",
         "extension": "None",
         "type": "Office",
         "language": "EN, ES",
@@ -511,7 +511,7 @@
       {
         "id": "13",
         "location_id": "13",
-        "number": "'+1 (425) 227-3700",
+        "number": " +1 (425) 227-3700",
         "extension": "None",
         "type": "Office",
         "language": "EN, ES",
@@ -545,7 +545,7 @@
       {
         "id": "14",
         "location_id": "14",
-        "number": "'+1 (425) 313-4000",
+        "number": " +1 (425) 313-4000",
         "extension": "None",
         "type": "Office",
         "language": "EN",
@@ -579,7 +579,7 @@
       {
         "id": "15",
         "location_id": "15",
-        "number": "'+1 206-386-9500",
+        "number": " +1 206-386-9500",
         "extension": "None",
         "type": "Office",
         "language": "EN",
