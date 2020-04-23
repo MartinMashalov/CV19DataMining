@@ -75,7 +75,7 @@
     "description": "Someone can come into any of our clinics. They don't have to call ahead for an appointment and they will come up to the door,\" Dr. Wollin said. \"If a temperature is over 100 degrees or they answer yes to any symptoms, then they have to go back out to their car and get the rest of the examination done out there.\"",
     "transportation": "transportation",
     "updated": "2020-04-21",
-    "featured": "TRUE",
+    "featured": "FALSE",
     "physical_address": [
       {
         "id": "3",
@@ -149,7 +149,7 @@
     "description": "Someone can come into any of our clinics. They don't have to call ahead for an appointment and they will come up to the door,\" Dr. Wollin said. \"If a temperature is over 100 degrees or they answer yes to any symptoms, then they have to go back out to their car and get the rest of the examination done out there.\"",
     "transportation": "transportation",
     "updated": "2020-04-22",
-    "featured": "TRUE",
+    "featured": "FALSE",
     "physical_address": [
       {
         "id": "4",
@@ -357,7 +357,7 @@
     "description": "Someone can come into any of our clinics. They don't have to call ahead for an appointment and they will come up to the door,\" Dr. Wollin said. \"If a temperature is over 100 degrees or they answer yes to any symptoms, then they have to go back out to their car and get the rest of the examination done out there.\"",
     "transportation": "transportation",
     "updated": "2020-04-22",
-    "featured": "TRUE",
+    "featured": "FALSE",
     "physical_address": [
       {
         "id": "7",
@@ -417,7 +417,7 @@
     "description": "Someone can come into any of our clinics. They don't have to call ahead for an appointment and they will come up to the door,\" Dr. Wollin said. \"If a temperature is over 100 degrees or they answer yes to any symptoms, then they have to go back out to their car and get the rest of the examination done out there.\"",
     "transportation": "transportation",
     "updated": "2020-04-22",
-    "featured": "TRUE",
+    "featured": "FALSE",
     "physical_address": [
       {
         "id": "8",
@@ -476,8 +476,8 @@
     "alternate_name": "Old Town",
     "description": "Someone can come into any of our clinics. They don't have to call ahead for an appointment and they will come up to the door,\" Dr. Wollin said. \"If a temperature is over 100 degrees or they answer yes to any symptoms, then they have to go back out to their car and get the rest of the examination done out there.\"",
     "transportation": "transportation",
-    "updated": "2020-04-22",
-    "featured": "TRUE",
+    "updated": "2020-04-23",
+    "featured": "FALSE",
     "physical_address": [
       {
         "id": "9",
@@ -536,8 +536,8 @@
     "alternate_name": "Urgent Care Six Corners",
     "description": "Someone can come into any of our clinics. They don't have to call ahead for an appointment and they will come up to the door,\" Dr. Wollin said. \"If a temperature is over 100 degrees or they answer yes to any symptoms, then they have to go back out to their car and get the rest of the examination done out there.\"",
     "transportation": "transportation",
-    "updated": "2020-04-22",
-    "featured": "TRUE",
+    "updated": "2020-04-23",
+    "featured": "FALSE",
     "physical_address": [
       {
         "id": "10",
@@ -610,8 +610,8 @@
     "alternate_name": "Urgent Care West Loop",
     "description": "Someone can come into any of our clinics. They don't have to call ahead for an appointment and they will come up to the door,\" Dr. Wollin said. \"If a temperature is over 100 degrees or they answer yes to any symptoms, then they have to go back out to their car and get the rest of the examination done out there.\"",
     "transportation": "transportation",
-    "updated": "2020-04-22",
-    "featured": "TRUE",
+    "updated": "2020-04-23",
+    "featured": "FALSE",
     "physical_address": [
       {
         "id": "11",
