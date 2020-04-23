@@ -1,10 +1,1 @@
-[
-  {
-    "id": "1",
-    "name": "No Organizations Yet",
-    "alternate_name": "No Organizations Yet",
-    "description": "This is just the first entry into the system.",
-    "email": "No Email",
-    "url": "http://example.com"
-  }
-]
+[{"id":"1","name":"Walgreens","alternate_name":"Walgreens","description":"Walgreens is an American company that operates as the second-largest pharmacy store chain in the United States behind CVS Health. It specializes in filling prescriptions, health and wellness products, health information, and photo services.","email":"No email","url":"www.walgreens.com"},{"id":"2","name":"Physicians Immediate Care","alternate_name":"Physicians Immediate Care","description":"Physicians Immediate Care clinics offer immunizations, physicals, occupational health services, and more. Open 7 days/week—no appointment necessary.","email":"No email","url":"https://physiciansimmediatecare.com/"}]
