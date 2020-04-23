@@ -4,7 +4,7 @@
     "organization_id": "1",
     "name": "Sugar House Health Center",
     "alternate_name": "Sugar House Health Center",
-    "description": "The new Sugar House Health Center is a unique facility that gives special attention to every aspect of your family's health. We have experts in primary care and multiple specialty areas. Our doctors take the time to make sure you stay healthy throughout your life.",
+    "description": "After calling U of U Health’s coronavirus hotline, a patient who is presenting COVID-19 symptoms will either be scheduled a virtual urgent care appointment or be sent to a testing site for a drive-up evaluation, officials say.",
     "transportation": "Car",
     "updated": "2020-03-31",
     "featured": "TRUE",
@@ -1770,7 +1770,7 @@
     "alternate_name": "Southridge InstaCare",
     "description": "InstaCare is an excellent option for treatment when you need medical attention within 24 hours and the situation is not life-threatening. We offer expanded hours, including weekends and holidays.",
     "transportation": "Car",
-    "updated": "2020-04-01",
+    "updated": "2020-04-23",
     "featured": "FALSE",
     "physical_address": [
       {
@@ -1854,7 +1854,7 @@
     "alternate_name": "Springville InstaCare",
     "description": "InstaCare is an excellent option for treatment when you need medical attention within 24 hours and the situation is not life-threatening. We offer expanded hours, including weekends and holidays.",
     "transportation": "Car",
-    "updated": "2020-04-01",
+    "updated": "2020-04-23",
     "featured": "FALSE",
     "physical_address": [
       {
@@ -1938,7 +1938,7 @@
     "alternate_name": "Taylorsville InstaCare",
     "description": "InstaCare is an excellent option for treatment when you need medical attention within 24 hours and the situation is not life-threatening. We offer expanded hours, including weekends and holidays.",
     "transportation": "Car",
-    "updated": "2020-04-01",
+    "updated": "2020-04-23",
     "featured": "FALSE",
     "physical_address": [
       {
@@ -2022,7 +2022,7 @@
     "alternate_name": "Tooele InstaCare",
     "description": "InstaCare is an excellent option for treatment when you need medical attention within 24 hours and the situation is not life-threatening. We offer expanded hours, including weekends and holidays.",
     "transportation": "Car",
-    "updated": "2020-04-01",
+    "updated": "2020-04-23",
     "featured": "FALSE",
     "physical_address": [
       {
