@@ -426,7 +426,7 @@
     "alternate_name": "Nemours/Alfred I. duPont Hospital for Children",
     "description": "Nemours Alfred I. duPont Hospital for Children is a pediatric hospital located in Wilmington, Delaware.",
     "transportation": "Car",
-    "updated": "2020-04-01",
+    "updated": "2020-04-22",
     "featured": "FALSE",
     "physical_address": [
       {
@@ -510,7 +510,7 @@
     "alternate_name": "Nanticoke Health Systems",
     "description": "Nanticoke Memorial Hospital (NMH) is an award-winning non-profit community hospital providing comprehensive care for our community. ",
     "transportation": "Car",
-    "updated": "2020-04-01",
+    "updated": "2020-04-23",
     "featured": "FALSE",
     "physical_address": [
       {
@@ -586,5 +586,116 @@
         "closes_at": "11:59:00 PM"
       }
     ]
+  },
+  {
+    "id": "8",
+    "organization_id": "1",
+    "name": "Physician Referral Center – HCCC",
+    "alternate_name": "Physician Referral Center – HCCC",
+    "description": "Save your spot online. ChristianaCare is providing COVID-19 testing at our Provider Referral Centers. Only patients referred by their provider and in possession (physically or electronically) of a testing order will be tested. Patients will need to arrive to the testing site with their ID and insurance card as well.",
+    "transportation": "Car",
+    "updated": "2020-04-23",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "8",
+        "location_id": "8",
+        "address_1": "200 Hygeia Drive",
+        "city": "Newark",
+        "region": "Mid-Atlantic Region",
+        "state_province": "DE",
+        "postal_code": "19713",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "8",
+        "location_id": "8",
+        "number": "None",
+        "extension": "None",
+        "type": "None",
+        "language": "None",
+        "description": "Primary number"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "50",
+        "location_id": "8",
+        "weekday": "1",
+        "opens_at": "10:00 AM",
+        "closes_at": "1:00 PM"
+      },
+      {
+        "id": "8",
+        "location_id": "8",
+        "weekday": "2",
+        "opens_at": "10:00 AM",
+        "closes_at": "1:00 PM"
+      },
+      {
+        "id": "8",
+        "location_id": "8",
+        "weekday": "3",
+        "opens_at": "10:00 AM",
+        "closes_at": "1:00 PM"
+      },
+      {
+        "id": "8",
+        "location_id": "8",
+        "weekday": "4",
+        "opens_at": "10:00 AM",
+        "closes_at": "1:00 PM"
+      },
+      {
+        "id": "8",
+        "location_id": "8",
+        "weekday": "5",
+        "opens_at": "10:00 AM",
+        "closes_at": "1:00 PM"
+      },
+      {
+        "id": "8",
+        "location_id": "8",
+        "weekday": "7",
+        "opens_at": "10:00 AM",
+        "closes_at": "12:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "organization_id": "1",
+    "name": "Physician Referral Center – Wilmington SurgiCenter",
+    "alternate_name": "Physician Referral Center – Wilmington SurgiCenter",
+    "description": "No appointment necessary. ChristianaCare is providing COVID-19 testing at our Provider Referral Centers. Only patients referred by their provider and in possession (physically or electronically) of a testing order will be tested. Patients will need to arrive to the testing site with their ID and insurance card as well.",
+    "transportation": "Car",
+    "updated": "2020-04-23",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "9",
+        "location_id": "9",
+        "address_1": "625 W 12th St",
+        "city": "Wilmington",
+        "region": "Mid-Atlantic Region",
+        "state_province": "DE",
+        "postal_code": "19801",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "9",
+        "location_id": "9",
+        "number": "None",
+        "extension": "None",
+        "type": "None",
+        "language": "None",
+        "description": "None"
+      }
+    ],
+    "regular_schedule": []
   }
 ]
