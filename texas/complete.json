@@ -4,7 +4,7 @@
     "organization_id": "1",
     "name": "Dallas Victor Plaza Testing Site",
     "alternate_name": "Dallas Victor Plaza Testing Site",
-    "description": "Criteria for testing sites is as follows:\n\n- Must be 6% years-odl; or\n- Must be a first responder; or\n- Must be a healthcare worker; or\n- Must be a DART driver; AND\n- Must show a temperature of 99.6 or higher",
+    "description": "Criteria for testing sites is as follows:\n\n- Must be 6+ years-old; or\n- Must be a first responder; or\n- Must be a healthcare worker; or\n- Must be a DART driver; AND\n- Must show a temperature of 99.6 or higher",
     "transportation": "CAR",
     "updated": "2020-04-01",
     "featured": "TRUE",
@@ -88,7 +88,7 @@
     "organization_id": "1",
     "name": "Dallas Polk Street Testing Site",
     "alternate_name": "Dallas Polk Street Testing Site",
-    "description": "Criteria for testing sites is as follows:\n\n- Must be 6% years-odl; or\n- Must be a first responder; or\n- Must be a healthcare worker; or\n- Must be a DART driver; AND\n- Must show a temperature of 99.6 or higher",
+    "description": "Criteria for testing sites is as follows:\n\n- Must be 6+ years-old; or\n- Must be a first responder; or\n- Must be a healthcare worker; or\n- Must be a DART driver; AND\n- Must show a temperature of 99.6 or higher",
     "transportation": "CAR",
     "updated": "2020-04-01",
     "featured": "TRUE",
@@ -192,7 +192,7 @@
       {
         "id": "3",
         "location_id": "3",
-        "number": "'+1 512.509.0200",
+        "number": " +1 512.509.0200",
         "extension": "None",
         "type": "Office",
         "language": "EN",
@@ -262,7 +262,7 @@
       {
         "id": "4",
         "location_id": "4",
-        "number": "'+1 512.654.2100",
+        "number": " +1 512.654.2100",
         "extension": "None",
         "type": "Hospital",
         "language": "EN",
@@ -346,7 +346,7 @@
       {
         "id": "5",
         "location_id": "5",
-        "number": "'+1 (833) 882-2737",
+        "number": " +1 (833) 882-2737",
         "extension": "None",
         "type": "Office",
         "language": "EN",
@@ -358,7 +358,7 @@
   {
     "id": "6",
     "organization_id": "4",
-    "name": "Toney Berger Activity Cente",
+    "name": "Toney Berger Activity Center",
     "alternate_name": "Remedy",
     "description": "Due to ongoing, global constraints around testing supplies, and in accordance with CDC and Austin Public Health guidelines, all potential patients must first book a 24/7 Video Visit, where our providers will assess and diagnose. If further testing is recommended, patients will prioritized and directed to the new testing center with an appointment time, and provided further instructions for how to proceed.",
     "transportation": "CAR",
@@ -380,7 +380,7 @@
       {
         "id": "6",
         "location_id": "6",
-        "number": "'+1 844 736-3395",
+        "number": " +1 844 736-3395",
         "extension": "None",
         "type": "Main line",
         "language": "EN",
@@ -464,7 +464,7 @@
       {
         "id": "7",
         "location_id": "7",
-        "number": "'+1 214-590-8060",
+        "number": " +1 214-590-8060",
         "extension": "None",
         "type": "COVID-19 Hotline",
         "language": "EN",
@@ -498,7 +498,7 @@
       {
         "id": "8",
         "location_id": "8",
-        "number": "'+1 972-275-6910",
+        "number": " +1 972-275-6910",
         "extension": "None",
         "type": "Main line",
         "language": "EN",
