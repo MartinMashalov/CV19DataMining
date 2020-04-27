@@ -1,12 +1,1 @@
-[
-  {
-    "id": "1",
-    "location_id": "1",
-    "address_1": "4815 W Markham Street",
-    "city": "Little Rock",
-    "region": "State",
-    "state_province": "AR",
-    "postal_code": "72205",
-    "country": "US"
-  }
-]
+[{"id":"1","location_id":"1","address_1":"4815 W Markham Street","city":"Little Rock","region":"State","state_province":"AR","postal_code":"72205","country":"US"}]
