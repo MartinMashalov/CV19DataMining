@@ -2,21 +2,21 @@
   {
     "id": "1",
     "organization_id": "1",
-    "name": "No Locations Yet",
-    "alternate_name": "No Locations Yet",
-    "description": "This is just the first entry in the database. We still need to crowdsource some locations.",
-    "transportation": "Bus, Uber, Car",
-    "updated": "2020-03-31",
+    "name": "East Bank Hospital - M Health Fairview University of Minnesota Medical Center",
+    "alternate_name": "East Bank Hospital - M Health Fairview University of Minnesota Medical Center",
+    "description": "Due to limited supplies, the state lab is only testing the highest priority samples, which include hospitalized COVID-19 patients, ill health care workers and ill people living in group settings like nursing homes. People who do not have symptoms should not be tested for COVID-19.",
+    "transportation": "Car, Uber",
+    "updated": "2020-03-14",
     "featured": "TRUE",
     "physical_address": [
       {
         "id": "1",
         "location_id": "1",
-        "address_1": "570 E Woodrow Wilson Ave",
-        "city": "Jackson",
-        "region": "Region",
-        "state_province": "MS",
-        "postal_code": "39216",
+        "address_1": "​500 Harvard St. SE",
+        "city": "Minneapolis",
+        "region": "Minneapolis",
+        "state_province": "MN",
+        "postal_code": "55455",
         "country": "US"
       }
     ],
@@ -24,9 +24,9 @@
       {
         "id": "1",
         "location_id": "1",
-        "number": "555-555-5555",
+        "number": " +1 (612) 273-3000",
         "extension": "None",
-        "type": "Office",
+        "type": "Main Line",
         "language": "EN",
         "description": "description"
       }
@@ -36,51 +36,287 @@
         "id": "1",
         "location_id": "1",
         "weekday": "1",
-        "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
       },
       {
         "id": "1",
         "location_id": "1",
         "weekday": "2",
-        "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
       },
       {
         "id": "1",
         "location_id": "1",
         "weekday": "3",
-        "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
       },
       {
         "id": "1",
         "location_id": "1",
         "weekday": "4",
-        "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
       },
       {
         "id": "1",
         "location_id": "1",
         "weekday": "5",
-        "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
       },
       {
         "id": "1",
         "location_id": "1",
         "weekday": "6",
-        "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
       },
       {
         "id": "1",
         "location_id": "1",
         "weekday": "7",
-        "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
       }
     ]
+  },
+  {
+    "id": "2",
+    "organization_id": "1",
+    "name": "M Health Fairview Ridges Hospital",
+    "alternate_name": "Ridges Hospital",
+    "description": "Due to limited supplies, the state lab is only testing the highest priority samples, which include hospitalized COVID-19 patients, ill health care workers and ill people living in group settings like nursing homes. People who do not have symptoms should not be tested for COVID-19.",
+    "transportation": "Car, Uber",
+    "updated": "2020-03-14",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "2",
+        "location_id": "2",
+        "address_1": "201 E. Nicollet Blvd.",
+        "city": "Burnsville",
+        "region": "Burnsville",
+        "state_province": "MN",
+        "postal_code": "55337",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "2",
+        "location_id": "2",
+        "number": " +1 (952) 892‑2000",
+        "extension": "None",
+        "type": "Main Line",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "2",
+        "location_id": "2",
+        "weekday": "1",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "2",
+        "location_id": "2",
+        "weekday": "2",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "2",
+        "location_id": "2",
+        "weekday": "3",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "2",
+        "location_id": "2",
+        "weekday": "4",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "2",
+        "location_id": "2",
+        "weekday": "5",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "2",
+        "location_id": "2",
+        "weekday": "6",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "2",
+        "location_id": "2",
+        "weekday": "7",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "organization_id": "1",
+    "name": "M Health Fairview Clinics and Surgery Center - Minneapolis",
+    "alternate_name": "M Health Fairview Clinics and Surgery Center - Minneapolis",
+    "description": "Due to limited supplies, the state lab is only testing the highest priority samples, which include hospitalized COVID-19 patients, ill health care workers and ill people living in group settings like nursing homes. People who do not have symptoms should not be tested for COVID-19.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-03-14",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "3",
+        "location_id": "3",
+        "address_1": "909 Fulton St. SE",
+        "city": "Minneapolis",
+        "region": "Minneapolis",
+        "state_province": "MN",
+        "postal_code": "55455",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "3",
+        "location_id": "3",
+        "number": " +1 (612) 273-8383",
+        "extension": "None",
+        "type": "Main Line",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "3",
+        "location_id": "3",
+        "weekday": "1",
+        "opens_at": "6:30:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "3",
+        "location_id": "3",
+        "weekday": "2",
+        "opens_at": "6:30:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "3",
+        "location_id": "3",
+        "weekday": "3",
+        "opens_at": "6:30:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "3",
+        "location_id": "3",
+        "weekday": "4",
+        "opens_at": "6:30:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "3",
+        "location_id": "3",
+        "weekday": "5",
+        "opens_at": "6:30:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "3",
+        "location_id": "3",
+        "weekday": "6",
+        "opens_at": "6:30:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "3",
+        "location_id": "3",
+        "weekday": "7",
+        "opens_at": "6:30:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "organization_id": "2",
+    "name": "Mayo Building and Gonda Building",
+    "alternate_name": "Mayo Building and Gonda Building",
+    "description": "Your doctor may determine whether to conduct tests for COVID-19 based on your signs and symptoms. To decide whether to conduct tests for COVID-19, he or she may also consider whether you have had close contact with someone diagnosed with COVID-19 or traveled to or lived in any areas with ongoing community spread of COVID-19 in the last 14 days.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-27",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "4",
+        "location_id": "4",
+        "address_1": "200 First Street SW",
+        "city": "Rochester",
+        "region": "Rochester",
+        "state_province": "MN",
+        "postal_code": "55905",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "4",
+        "location_id": "4",
+        "number": " +1 (507) 284-2511",
+        "extension": "None",
+        "type": "Main Line",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": []
+  },
+  {
+    "id": "5",
+    "organization_id": "2",
+    "name": "Mayo Clinic Hospital, Saint Marys Campus",
+    "alternate_name": "Mayo Clinic Hospital, Saint Marys Campus",
+    "description": "Your doctor may determine whether to conduct tests for COVID-19 based on your signs and symptoms. To decide whether to conduct tests for COVID-19, he or she may also consider whether you have had close contact with someone diagnosed with COVID-19 or traveled to or lived in any areas with ongoing community spread of COVID-19 in the last 14 days.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-27",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "5",
+        "location_id": "5",
+        "address_1": "1216 Second St. SW",
+        "city": "Rochester",
+        "region": "Rochester",
+        "state_province": "MN",
+        "postal_code": "55902",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "5",
+        "location_id": "5",
+        "number": " +1 (507) 255-5123",
+        "extension": "None",
+        "type": "Main Line",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": []
   }
 ]
