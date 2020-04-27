@@ -1215,7 +1215,7 @@
     "alternate_name": "Shannon Medical Center",
     "description": "This site enables patients to drive up and be evaluated in their vehicle by a medical provider. If the provider determines the patient may have COVID-19, according to the criteria set by the CDC, the patient will then be tested on site. Personnel will collect the necessary samples to send off for the test. The patient will then receive instructions regarding self-quarantine and next steps they must take until test results are returned.",
     "transportation": "CAR",
-    "updated": "2020-04-23",
+    "updated": "2020-04-27",
     "featured": "FALSE",
     "physical_address": [],
     "phones": [
@@ -1288,7 +1288,7 @@
     "alternate_name": "Advent Health Central Texas",
     "description": "Drive-Thru Testing is now available for the general public with symptoms or known exposure. Appointments are required.",
     "transportation": "CAR",
-    "updated": "2020-04-23",
+    "updated": "2020-04-27",
     "featured": "FALSE",
     "physical_address": [],
     "phones": [
