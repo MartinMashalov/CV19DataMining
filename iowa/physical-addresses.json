@@ -1,12 +1,1 @@
-[
-  {
-    "id": "1",
-    "location_id": "1",
-    "address_1": "31 E 12th St.",
-    "city": "Des Moines",
-    "region": "Region",
-    "state_province": "IA",
-    "postal_code": "50319",
-    "country": "US"
-  }
-]
+[{"id":"1","location_id":"1","address_1":"5950 University Avenue","city":"Des Moines","region":"Region","state_province":"IA","postal_code":"50266","country":"US"}]
