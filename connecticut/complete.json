@@ -1,10 +1,969 @@
 [
   {
     "id": "1",
-    "name": "No Organizations Yet",
-    "alternate_name": "No Organizations Yet",
-    "description": "This is just the first entry into the system.",
-    "email": "No Email",
-    "url": "http://example.com"
+    "organization_id": "1",
+    "name": "Bridgeport Hospital",
+    "alternate_name": "Bridgeport Hospital",
+    "description": "Yale New Haven Health is currently providing diagnostic testing for patients who may have COVID-19.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-22",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "1",
+        "location_id": "1",
+        "address_1": "831 Boston Post Road",
+        "city": "Milford",
+        "region": "Region",
+        "state_province": "CT",
+        "postal_code": " 06460",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "1",
+        "location_id": "1",
+        "number": " +1 833-275-9644",
+        "extension": "None",
+        "type": "Hotline",
+        "language": "EN",
+        "description": "description"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "1",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "2",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "3",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "4",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "5",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "6",
+        "opens_at": "9:00 AM",
+        "closes_at": "3:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "7",
+        "opens_at": "9:00 AM",
+        "closes_at": "3:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "organization_id": "2",
+    "name": "Danbury Hospital",
+    "alternate_name": "Danbury Hospital",
+    "description": "To schedule an appointment at the collection site, one should call (203) 739-4344. The appointments will be made within 24 hours",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-22",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "2",
+        "location_id": "2",
+        "address_1": "95 Locust Ave.",
+        "city": "Danbury",
+        "region": "Region",
+        "state_province": "CT",
+        "postal_code": " 06810",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": [
+      {
+        "id": "2",
+        "location_id": "2",
+        "weekday": "1",
+        "opens_at": "8:30:00 AM",
+        "closes_at": "3:30:00 PM"
+      },
+      {
+        "id": "2",
+        "location_id": "2",
+        "weekday": "2",
+        "opens_at": "8:30:00 AM",
+        "closes_at": "3:30:00 PM"
+      },
+      {
+        "id": "2",
+        "location_id": "2",
+        "weekday": "3",
+        "opens_at": "8:30:00 AM",
+        "closes_at": "3:30:00 PM"
+      },
+      {
+        "id": "2",
+        "location_id": "2",
+        "weekday": "4",
+        "opens_at": "8:30:00 AM",
+        "closes_at": "3:30:00 PM"
+      },
+      {
+        "id": "2",
+        "location_id": "2",
+        "weekday": "5",
+        "opens_at": "8:30:00 AM",
+        "closes_at": "3:30:00 PM"
+      },
+      {
+        "id": "2",
+        "location_id": "2",
+        "weekday": "6",
+        "opens_at": "8:30:00 AM",
+        "closes_at": "3:30:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "organization_id": "3",
+    "name": "Greenwich Hospital",
+    "alternate_name": "Greenwich Hospital",
+    "description": "Yale New Haven Health is currently providing diagnostic testing for patients who may have COVID-19.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-22",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "3",
+        "location_id": "3",
+        "address_1": "5 Perryridge Rd",
+        "city": "Greenwich",
+        "region": "Region",
+        "state_province": "CT",
+        "postal_code": " 06830",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "3",
+        "location_id": "3",
+        "number": " +1 833-275-9644",
+        "extension": "None",
+        "type": "Hotline",
+        "language": "EN",
+        "description": "Appointment Line"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "3",
+        "location_id": "3",
+        "weekday": "1",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "3",
+        "location_id": "3",
+        "weekday": "2",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "3",
+        "location_id": "3",
+        "weekday": "3",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "3",
+        "location_id": "3",
+        "weekday": "4",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "3",
+        "location_id": "3",
+        "weekday": "5",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "3",
+        "location_id": "3",
+        "weekday": "6",
+        "opens_at": "9:00 AM",
+        "closes_at": "3:00 PM"
+      },
+      {
+        "id": "3",
+        "location_id": "3",
+        "weekday": "7",
+        "opens_at": "9:00 AM",
+        "closes_at": "3:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "organization_id": "4",
+    "name": "Lawrence + Memorial Hospital",
+    "alternate_name": "Lawrence + Memorial Hospital",
+    "description": "Yale New Haven Health is currently providing diagnostic testing for patients who may have COVID-19.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-22",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "4",
+        "location_id": "4",
+        "address_1": "365 Montauk Ave",
+        "city": "New London",
+        "region": "Region",
+        "state_province": "CT",
+        "postal_code": "06320",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "4",
+        "location_id": "4",
+        "number": " +1 833-275-9644",
+        "extension": "None",
+        "type": "Hotline",
+        "language": "EN",
+        "description": "COVID Hotline"
+      }
+    ],
+    "regular_schedule": []
+  },
+  {
+    "id": "5",
+    "organization_id": "5",
+    "name": "Murphy Medical Associates/New Canaan",
+    "alternate_name": "Lawrence + Memorial Hospital",
+    "description": "All collections are made by appointment-only, and patients need a physician order to book an appointment. Most collections are done via drive-thru, though some require people to get out of their cars.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-22",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "5",
+        "location_id": "5",
+        "address_1": "564 South Ave.",
+        "city": "New Canaan",
+        "region": "Region",
+        "state_province": "CT",
+        "postal_code": "06840",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "5",
+        "location_id": "5",
+        "number": " +1 203-658-6051",
+        "extension": "None",
+        "type": "Hotline",
+        "language": "EN",
+        "description": "COVID Hotline"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "5",
+        "location_id": "5",
+        "weekday": "5",
+        "opens_at": "9:30:00 AM",
+        "closes_at": "12:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "organization_id": "5",
+    "name": "Darien High School",
+    "alternate_name": "Darien High School",
+    "description": "You must be prescreened and have a preset appoint approved by the testing organization. For questions, contact Murphy Medical Associates at 203-658-6051",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-22",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "6",
+        "location_id": "6",
+        "address_1": "80 High School Lane",
+        "city": "Darien",
+        "region": "Region",
+        "state_province": "CT",
+        "postal_code": "06820",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "6",
+        "location_id": "6",
+        "number": " +1 203-658-6051",
+        "extension": "None",
+        "type": "Hotline",
+        "language": "EN",
+        "description": "COVID Hotline"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "6",
+        "location_id": "6",
+        "weekday": "1",
+        "opens_at": "1:00 PM",
+        "closes_at": "4:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "organization_id": "6",
+    "name": "Griffin Hospital",
+    "alternate_name": "Griffin Hospital",
+    "description": "In order to initiate the testing process at the new collection facility, a person with COVID-19 symptoms will need to have a valid order for the test from a licensed independent healthcare practitioner (MD, DO, APRN or PA). Patients with a valid order can schedule an appointment at 203-437-6815",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-22",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "7",
+        "location_id": "7",
+        "address_1": "130 Division St.",
+        "city": "Durby",
+        "region": "Region",
+        "state_province": "CT",
+        "postal_code": "06418",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": [
+      {
+        "id": "7",
+        "location_id": "7",
+        "weekday": "1",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "7",
+        "location_id": "7",
+        "weekday": "2",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "7",
+        "location_id": "7",
+        "weekday": "3",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "7",
+        "location_id": "7",
+        "weekday": "4",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "7",
+        "location_id": "7",
+        "weekday": "5",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "7",
+        "location_id": "7",
+        "weekday": "6",
+        "opens_at": "8:00 AM",
+        "closes_at": "3:00 PM"
+      },
+      {
+        "id": "7",
+        "location_id": "7",
+        "weekday": "7",
+        "opens_at": "8:00 AM",
+        "closes_at": "3:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "organization_id": "7",
+    "name": "West Hill High School",
+    "alternate_name": "West Hill High School",
+    "description": "Testing for COVID-19 is by appointment only and requires a referral/prescription from a primary care physician. Currently, due to a nationwide testing kit shortage, Stamford is only able to test individuals that are showing COVID-19 symptoms.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-22",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "8",
+        "location_id": "8",
+        "address_1": "125 Roxbury Rd",
+        "city": "Stamford",
+        "region": "Region",
+        "state_province": "CT",
+        "postal_code": "06902",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": [
+      {
+        "id": "8",
+        "location_id": "8",
+        "weekday": "1",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:00 PM"
+      },
+      {
+        "id": "8",
+        "location_id": "8",
+        "weekday": "2",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:00 PM"
+      },
+      {
+        "id": "8",
+        "location_id": "8",
+        "weekday": "3",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:00 PM"
+      },
+      {
+        "id": "8",
+        "location_id": "8",
+        "weekday": "4",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:00 PM"
+      },
+      {
+        "id": "8",
+        "location_id": "8",
+        "weekday": "5",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "organization_id": "8",
+    "name": "Stamford Hospital - Bennett Medical Center",
+    "alternate_name": "Stamford Hospital - Bennett Medical Center",
+    "description": "Testing for COVID-19 is by appointment only and requires a referral/prescription from a primary care provider. \n\nResidents who want an appointment to get tested in Stamford — including those without health insurance or a primary care physician — can call the City’s dedicated COVID-19 Testing hotline at 833.508.8378 for more information. This hotline is operated seven days a week from 8 a.m. to 4 p.m.\n\nIf you do not have health insurance or a private doctor you can still get evaluated for Covid-19.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-23",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "9",
+        "location_id": "9",
+        "address_1": "One Hospital Plaza",
+        "city": "Stamford",
+        "region": "Region",
+        "state_province": "CT",
+        "postal_code": "06902",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": [
+      {
+        "id": "9",
+        "location_id": "9",
+        "weekday": "1",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:00 PM"
+      },
+      {
+        "id": "9",
+        "location_id": "9",
+        "weekday": "2",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:00 PM"
+      },
+      {
+        "id": "9",
+        "location_id": "9",
+        "weekday": "3",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:00 PM"
+      },
+      {
+        "id": "9",
+        "location_id": "9",
+        "weekday": "4",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:00 PM"
+      },
+      {
+        "id": "9",
+        "location_id": "9",
+        "weekday": "5",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "organization_id": "10",
+    "name": "Charlotte Hungerford Hospital",
+    "alternate_name": "Charlotte Hungerford Hospital",
+    "description": "To be tested, patients must have a referral through the Hartford HealthCare Clinical Command Center at 860.972.8100 or, toll-free, 833.621.0600.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-23",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "10",
+        "location_id": "10",
+        "address_1": "540 Litchfield Street",
+        "city": "Torrington",
+        "region": "Region",
+        "state_province": "CT",
+        "postal_code": "06790",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "10",
+        "location_id": "10",
+        "number": " +1 833.621.0600",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Appointment Line"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "10",
+        "location_id": "10",
+        "weekday": "1",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "10",
+        "location_id": "10",
+        "weekday": "2",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "10",
+        "location_id": "10",
+        "weekday": "3",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "10",
+        "location_id": "10",
+        "weekday": "4",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "10",
+        "location_id": "10",
+        "weekday": "5",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "10",
+        "location_id": "10",
+        "weekday": "6",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "10",
+        "location_id": "10",
+        "weekday": "7",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "organization_id": "10",
+    "name": "Hartford Hospital",
+    "alternate_name": "Hartford Hospital",
+    "description": "To be tested, patients must have a referral through the Hartford HealthCare Clinical Command Center at 860.972.8100 or, toll-free, 833.621.0600.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-23",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "11",
+        "location_id": "11",
+        "address_1": "560 Hudson Street",
+        "city": "Hartford",
+        "region": "Region",
+        "state_province": "CT",
+        "postal_code": "06106",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "11",
+        "location_id": "11",
+        "number": " +1 833.621.0600",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Main Testing Line"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "11",
+        "location_id": "11",
+        "weekday": "1",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "11",
+        "location_id": "11",
+        "weekday": "2",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "11",
+        "location_id": "11",
+        "weekday": "3",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "11",
+        "location_id": "11",
+        "weekday": "4",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "11",
+        "location_id": "11",
+        "weekday": "5",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "11",
+        "location_id": "11",
+        "weekday": "6",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "11",
+        "location_id": "11",
+        "weekday": "7",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "organization_id": "10",
+    "name": "Backus Hospital",
+    "alternate_name": "Backus Hospital",
+    "description": "To be tested, patients must have a referral through the Hartford HealthCare Clinical Command Center at 860.972.8100 or, toll-free, 833.621.0600.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-23",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "12",
+        "location_id": "12",
+        "address_1": "326 Washington St",
+        "city": "Norwich",
+        "region": "Region",
+        "state_province": "CT",
+        "postal_code": "06360",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "12",
+        "location_id": "12",
+        "number": " +1 833.621.0600",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Main Testing Line"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "12",
+        "location_id": "12",
+        "weekday": "1",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "12",
+        "location_id": "12",
+        "weekday": "2",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "12",
+        "location_id": "12",
+        "weekday": "3",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "12",
+        "location_id": "12",
+        "weekday": "4",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "12",
+        "location_id": "12",
+        "weekday": "5",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "12",
+        "location_id": "12",
+        "weekday": "6",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "12",
+        "location_id": "12",
+        "weekday": "7",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "organization_id": "10",
+    "name": "MidState Medical Center",
+    "alternate_name": "MidState Medical Center",
+    "description": "To be tested, patients must have a referral through the Hartford HealthCare Clinical Command Center at 860.972.8100 or, toll-free, 833.621.0600.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-27",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "13",
+        "location_id": "13",
+        "address_1": "435 Lewis Ave",
+        "city": "Meridian",
+        "region": "Region",
+        "state_province": "CT",
+        "postal_code": "06451",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "13",
+        "location_id": "13",
+        "number": " +1 833.621.0600",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Main Testing Line"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "13",
+        "location_id": "13",
+        "weekday": "1",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "13",
+        "location_id": "13",
+        "weekday": "2",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "13",
+        "location_id": "13",
+        "weekday": "3",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "13",
+        "location_id": "13",
+        "weekday": "4",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "13",
+        "location_id": "13",
+        "weekday": "5",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "13",
+        "location_id": "13",
+        "weekday": "6",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "13",
+        "location_id": "13",
+        "weekday": "7",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "organization_id": "10",
+    "name": "St. Vincent’s Medical Center",
+    "alternate_name": "St. Vincent’s Medical Center",
+    "description": "To be tested, patients must have a referral through the Hartford HealthCare Clinical Command Center at 860.972.8100 or, toll-free, 833.621.0600.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-27",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "14",
+        "location_id": "14",
+        "address_1": "2979 Main Street",
+        "city": "Bridgeport",
+        "region": "Region",
+        "state_province": "CT",
+        "postal_code": "06610",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "14",
+        "location_id": "14",
+        "number": " +1 833.621.0600",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Main Testing Line"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "14",
+        "location_id": "14",
+        "weekday": "1",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "14",
+        "location_id": "14",
+        "weekday": "2",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "14",
+        "location_id": "14",
+        "weekday": "3",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "14",
+        "location_id": "14",
+        "weekday": "4",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "14",
+        "location_id": "14",
+        "weekday": "5",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "14",
+        "location_id": "14",
+        "weekday": "6",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "14",
+        "location_id": "14",
+        "weekday": "7",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
   }
 ]
