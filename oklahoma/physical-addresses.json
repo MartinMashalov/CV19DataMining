@@ -1,12 +1,1 @@
-[
-  {
-    "id": "1",
-    "location_id": "1",
-    "address_1": "1000 NE 10th St.",
-    "city": "Oklahoma City",
-    "region": "Region",
-    "state_province": "OK",
-    "postal_code": "73104",
-    "country": "US"
-  }
-]
+[{"id":"1","location_id":"1","address_1":"433 Fairview Ave,","city":"Ponca City","region":"Region","state_province":"OK","postal_code":"74601","country":"US"}]
