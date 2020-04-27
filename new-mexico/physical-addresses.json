@@ -1,12 +1,1 @@
-[
-  {
-    "id": "1",
-    "location_id": "1",
-    "address_1": "7704 2nd St NW",
-    "city": "Albuquerque",
-    "region": "Region",
-    "state_province": "NM",
-    "postal_code": "87107",
-    "country": "US"
-  }
-]
+[{"id":"1","location_id":"1","address_1":"4401 Alameda Blvd NE","city":"Albuquerque","region":"NONE","state_province":"NM","postal_code":"87113","country":"US"},{"id":"2","location_id":"2","address_1":"5150 Journal Center Blvd NE","city":"Albuquerque","region":"NONE","state_province":"NM","postal_code":"87109","country":"US"},{"id":"3","location_id":"3","address_1":"13701 Encantado Rd NE","city":"Albuquerque","region":"NONE","state_province":"NM","postal_code":"87123","country":"US"},{"id":"4","location_id":"4","address_1":"1721 Rio Rancho Blvd SE","city":"Rio Rancho","region":"NONE","state_province":"NM","postal_code":"87124","country":"US"},{"id":"5","location_id":"5","address_1":"2669 N Scenic Dr.","city":"Alamogordo","region":"NONE","state_province":"NM","postal_code":"88310","country":"US"},{"id":"6","location_id":"6","address_1":"11 Elliott Baker Ln.","city":"Angel Fire","region":"NONE","state_province":"NM","postal_code":"87710","country":"US"},{"id":"7","location_id":"7","address_1":"356 9th St","city":"Cimarron","region":"NONE","state_province":"NM","postal_code":"87714","country":"US"},{"id":"8","location_id":"8","address_1":"300 Wilson St.","city":"Clayton","region":"NONE","state_province":"NM","postal_code":"88415","country":"US"}]
