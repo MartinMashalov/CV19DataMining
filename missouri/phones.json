@@ -1,11 +1,1 @@
-[
-  {
-    "id": "1",
-    "location_id": "1",
-    "number": "555-555-5555",
-    "extension": "None",
-    "type": "Office",
-    "language": "EN",
-    "description": "description"
-  }
-]
+[{"id":"1","location_id":"1","number":" +1 314-251-0500","extension":"None","type":"Clinic","language":"EN","description":"description"},{"id":"2","location_id":"2","number":"none","extension":"None","type":"Clinic","language":"EN","description":"Clinical Care line"},{"id":"3","location_id":"3","number":" +1 314-251-0500","extension":"None","type":"none","language":"none","description":"Clinical Care line"},{"id":"4","location_id":"4","number":" +1 314-251-0500","extension":"None","type":"Clinic","language":"EN","description":"none"},{"id":"5","location_id":"5","number":"none","extension":"None","type":"none","language":"none","description":"Clinical Care line"},{"id":"6","location_id":"6","number":" +1 314-966-9107","extension":"none","type":"Hotline","language":"EN","description":"none"},{"id":"7","location_id":"7","number":" +1 314-833-2777","extension":"none","type":"Hotline","language":"EN","description":"Appointments"}]
