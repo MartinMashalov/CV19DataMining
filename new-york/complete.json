@@ -2,21 +2,21 @@
   {
     "id": "1",
     "organization_id": "1",
-    "name": "Balloon Fiesta Park",
-    "alternate_name": "Balloon Fiesta Park",
-    "description": "Balloon Fiesta Museum Drive will be closed to northbound traffic from Alameda Blvd and drivers should not use San Mateo Blvd north of Alameda Blvd.",
+    "name": "Stony Brook University’s South P Lot",
+    "alternate_name": "SBU",
+    "description": "New York State has partnered with Stony Brook University to begin drive-through testing for the coronavirus at Stony Brook University’s South P Lot off Stony Brook Road. Residents can make advance appointments by calling 888-364-3065. Hours of operation are seven days a week, 7 am to 7 pm.\n\nAnyone from across Long Island, not just in Suffolk, who has contacted the New York State Department of Health (DOH) at 888-364-3065 and is part of the highest-risk population as determined by DOH will be tested. Anyone who believes they’re at risk should call the DOH Hotline, 888-364-3065, and talk to experts to determine if and how they should be tested. Walk-ins will not be seen.",
     "transportation": "Car",
-    "updated": "2020-04-02",
+    "updated": "2020-03-31",
     "featured": "TRUE",
     "physical_address": [
       {
         "id": "1",
         "location_id": "1",
-        "address_1": "4401 Alameda Blvd NE",
-        "city": "Albuquerque",
-        "region": "NONE",
-        "state_province": "NM",
-        "postal_code": "87113",
+        "address_1": "Stony Brook University South P Lot",
+        "city": "Stony Brook",
+        "region": "Region",
+        "state_province": "NY",
+        "postal_code": "11790",
         "country": "US"
       }
     ],
@@ -24,9 +24,9 @@
       {
         "id": "1",
         "location_id": "1",
-        "number": " +1 (505) 596-2200",
+        "number": " +1 888-364-3065",
         "extension": "None",
-        "type": "Hotline",
+        "type": "Office",
         "language": "EN",
         "description": "description"
       }
@@ -36,49 +36,49 @@
         "id": "1",
         "location_id": "1",
         "weekday": "1",
-        "opens_at": "9:00 AM",
+        "opens_at": "7:00 AM",
         "closes_at": "7:00 PM"
       },
       {
-        "id": "1",
+        "id": "2",
         "location_id": "1",
         "weekday": "2",
-        "opens_at": "9:00 AM",
+        "opens_at": "7:00 AM",
         "closes_at": "7:00 PM"
       },
       {
-        "id": "1",
+        "id": "3",
         "location_id": "1",
         "weekday": "3",
-        "opens_at": "9:00 AM",
+        "opens_at": "7:00 AM",
         "closes_at": "7:00 PM"
       },
       {
-        "id": "1",
+        "id": "4",
         "location_id": "1",
         "weekday": "4",
-        "opens_at": "9:00 AM",
+        "opens_at": "7:00 AM",
         "closes_at": "7:00 PM"
       },
       {
-        "id": "1",
+        "id": "5",
         "location_id": "1",
         "weekday": "5",
-        "opens_at": "9:00 AM",
+        "opens_at": "7:00 AM",
         "closes_at": "7:00 PM"
       },
       {
-        "id": "1",
+        "id": "6",
         "location_id": "1",
         "weekday": "6",
-        "opens_at": "9:00 AM",
+        "opens_at": "7:00 AM",
         "closes_at": "7:00 PM"
       },
       {
-        "id": "1",
+        "id": "7",
         "location_id": "1",
         "weekday": "7",
-        "opens_at": "9:00 AM",
+        "opens_at": "7:00 AM",
         "closes_at": "7:00 PM"
       }
     ]
@@ -86,21 +86,21 @@
   {
     "id": "2",
     "organization_id": "2",
-    "name": "Optum Urgent Care - Journal Center",
-    "alternate_name": "Optum Urgent Care - Journal Center",
-    "description": "Optum New Mexico March 27 is transitioning its three testing locations in the Albuquerque metro area to serve solely as Fever Upper Respiratory Infection (FURI) sites. This change will complement drive-through testing so that if a patient with COVID-19 symptoms requires additional care or a more in-depth medical evaluation, they will be brought into these clinics to receive that care.",
+    "name": "Dutchess Stadium",
+    "alternate_name": "Dutchess Stadium",
+    "description": "Open to anyone who has been pre-screened by a doctor and calls the number provided by doctor to set up an appointment. Hours are Monday-Saturday 8:30am-3:30pm.",
     "transportation": "Car",
-    "updated": "2020-04-02",
+    "updated": "2020-03-31",
     "featured": "TRUE",
     "physical_address": [
       {
         "id": "2",
         "location_id": "2",
-        "address_1": "5150 Journal Center Blvd NE",
-        "city": "Albuquerque",
-        "region": "NONE",
-        "state_province": "NM",
-        "postal_code": "87109",
+        "address_1": "Dutchess Stadium, 1500 NY-9D",
+        "city": "Wappingers Falls",
+        "region": "Region",
+        "state_province": "NY",
+        "postal_code": "12590",
         "country": "US"
       }
     ],
@@ -108,83 +108,83 @@
       {
         "id": "2",
         "location_id": "2",
-        "number": " +1 (505) 232-1010",
+        "number": " +1 888-667-9262",
         "extension": "None",
-        "type": "Hotline",
+        "type": "Information Line",
         "language": "EN",
-        "description": "Pre-screening hotline"
+        "description": "Primary number pulled from Google Maps listing."
       }
     ],
     "regular_schedule": [
       {
-        "id": "2",
+        "id": "7",
         "location_id": "2",
         "weekday": "1",
-        "opens_at": "7:00 AM",
-        "closes_at": "5:00 PM"
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
       },
       {
-        "id": "2",
+        "id": "8",
         "location_id": "2",
         "weekday": "2",
-        "opens_at": "7:00 AM",
-        "closes_at": "5:00 PM"
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
       },
       {
-        "id": "2",
+        "id": "9",
         "location_id": "2",
         "weekday": "3",
-        "opens_at": "7:00 AM",
-        "closes_at": "5:00 PM"
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
       },
       {
-        "id": "2",
+        "id": "10",
         "location_id": "2",
         "weekday": "4",
-        "opens_at": "7:00 AM",
-        "closes_at": "5:00 PM"
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
       },
       {
-        "id": "2",
+        "id": "11",
         "location_id": "2",
         "weekday": "5",
-        "opens_at": "7:00 AM",
-        "closes_at": "5:00 PM"
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
       },
       {
-        "id": "2",
+        "id": "12",
         "location_id": "2",
         "weekday": "6",
-        "opens_at": "7:00 AM",
-        "closes_at": "5:00 PM"
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
       },
       {
-        "id": "2",
+        "id": "13",
         "location_id": "2",
         "weekday": "7",
-        "opens_at": "7:00 AM",
-        "closes_at": "5:00 PM"
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
       }
     ]
   },
   {
     "id": "3",
     "organization_id": "2",
-    "name": "Optum Urgent Care - Tramway",
-    "alternate_name": "Optum Urgent Care - Tramway",
-    "description": "Optum New Mexico March 27 is transitioning its three testing locations in the Albuquerque metro area to serve solely as Fever Upper Respiratory Infection (FURI) sites. This change will complement drive-through testing so that if a patient with COVID-19 symptoms requires additional care or a more in-depth medical evaluation, they will be brought into these clinics to receive that care.",
+    "name": "Tech City - Nuvance Health",
+    "alternate_name": "Tech City - Nuvance Health",
+    "description": "Open to anyone who has been pre-screened by a doctor and calls the number provided by doctor to set up an appointment. Hours are Monday-Saturday 8:30am-3:30pm.",
     "transportation": "Car",
-    "updated": "2020-04-02",
-    "featured": "FALSE",
+    "updated": "2020-03-31",
+    "featured": "TRUE",
     "physical_address": [
       {
         "id": "3",
         "location_id": "3",
-        "address_1": "13701 Encantado Rd NE",
-        "city": "Albuquerque",
-        "region": "NONE",
-        "state_province": "NM",
-        "postal_code": "87123",
+        "address_1": "300 Enterprise Drive",
+        "city": "Kingston",
+        "region": "Region",
+        "state_province": "NY",
+        "postal_code": "12401",
         "country": "US"
       }
     ],
@@ -192,1108 +192,1252 @@
       {
         "id": "3",
         "location_id": "3",
-        "number": " +1 (505) 232-1010",
+        "number": " +1 888-667-9262",
         "extension": "None",
-        "type": "Hotline",
+        "type": "Information Line",
         "language": "EN",
-        "description": "Pre-screening hotline"
+        "description": "Primary number pulled from Google Maps listing."
       }
     ],
     "regular_schedule": [
       {
-        "id": "3",
+        "id": "14",
         "location_id": "3",
         "weekday": "1",
         "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "closes_at": "6:00 PM"
       },
       {
-        "id": "3",
+        "id": "15",
         "location_id": "3",
         "weekday": "2",
         "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "closes_at": "6:00 PM"
       },
       {
-        "id": "3",
+        "id": "16",
         "location_id": "3",
         "weekday": "3",
         "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "closes_at": "6:00 PM"
       },
       {
-        "id": "3",
+        "id": "17",
         "location_id": "3",
         "weekday": "4",
         "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "closes_at": "6:00 PM"
       },
       {
-        "id": "3",
+        "id": "18",
         "location_id": "3",
         "weekday": "5",
         "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "19",
+        "location_id": "3",
+        "weekday": "6",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "20",
+        "location_id": "3",
+        "weekday": "7",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
       }
     ]
   },
   {
     "id": "4",
-    "organization_id": "2",
-    "name": "Optum Urgent Care - Rio Rancho",
-    "alternate_name": "Optum Urgent Care - Rio Rancho",
-    "description": "Optum New Mexico March 27 is transitioning its three testing locations in the Albuquerque metro area to serve solely as Fever Upper Respiratory Infection (FURI) sites. This change will complement drive-through testing so that if a patient with COVID-19 symptoms requires additional care or a more in-depth medical evaluation, they will be brought into these clinics to receive that care.",
+    "organization_id": "3",
+    "name": "NYC Health + Hospitals/Bellevue",
+    "alternate_name": "NYC Health + Hospitals/Bellevue",
+    "description": "All testing sites require an appointment, which can be made calling 718-918-5700 or the Health Department Coronavirus hotline at 1-888-364-3065.\n\nAs tests are still limited in NYC, a number of prescreening questions will be asked. Individuals with no/mild symptoms are currently not tested at these centers to allow testing to be performed to individuals who have increased health risk.\nAn expert COVID-19 physician will then be reached. He/she will determine be if testing eligibility applies. If so, the patient will be added to a waitlist to be called back with an appointment date. Due to high demand, testing will most likely not be for the same day.",
     "transportation": "Car",
-    "updated": "2020-04-02",
+    "updated": "2020-04-22",
     "featured": "FALSE",
     "physical_address": [
       {
         "id": "4",
         "location_id": "4",
-        "address_1": "1721 Rio Rancho Blvd SE",
-        "city": "Rio Rancho",
-        "region": "NONE",
-        "state_province": "NM",
-        "postal_code": "87124",
+        "address_1": "462 First Avenue",
+        "city": "New York",
+        "region": "Region",
+        "state_province": "NY",
+        "postal_code": "10016",
         "country": "US"
       }
     ],
-    "phones": [
-      {
-        "id": "4",
-        "location_id": "4",
-        "number": " +1 (505) 232-1010",
-        "extension": "None",
-        "type": "Hotline",
-        "language": "EN",
-        "description": "Pre-screening hotline"
-      }
-    ],
-    "regular_schedule": [
-      {
-        "id": "4",
-        "location_id": "4",
-        "weekday": "1",
-        "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
-      },
-      {
-        "id": "4",
-        "location_id": "4",
-        "weekday": "2",
-        "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
-      },
-      {
-        "id": "4",
-        "location_id": "4",
-        "weekday": "3",
-        "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
-      },
-      {
-        "id": "4",
-        "location_id": "4",
-        "weekday": "4",
-        "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
-      },
-      {
-        "id": "4",
-        "location_id": "4",
-        "weekday": "5",
-        "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
-      }
-    ]
+    "phones": [],
+    "regular_schedule": []
   },
   {
     "id": "5",
     "organization_id": "3",
-    "name": "Gerald Champion Regional Medical Center",
-    "alternate_name": "Gerald Champion Regional Medical Center",
-    "description": "Call for an appointment: 575-443-7505",
+    "name": "NYC Health + Hospitals/Elmhurts",
+    "alternate_name": "NYC Health + Hospitals/Bellevue",
+    "description": "All testing sites require an appointment, which can be made calling 718-918-5700 or the Health Department Coronavirus hotline at 1-888-364-3065.\n\nAs tests are still limited in NYC, a number of prescreening questions will be asked. Individuals with no/mild symptoms are currently not tested at these centers to allow testing to be performed to individuals who have increased health risk.\nAn expert COVID-19 physician will then be reached. He/she will determine be if testing eligibility applies. If so, the patient will be added to a waitlist to be called back with an appointment date. Due to high demand, testing will most likely not be for the same day.",
     "transportation": "Car",
-    "updated": "2020-04-02",
+    "updated": "2020-04-22",
     "featured": "FALSE",
     "physical_address": [
       {
         "id": "5",
         "location_id": "5",
-        "address_1": "2669 N Scenic Dr.",
-        "city": "Alamogordo",
-        "region": "NONE",
-        "state_province": "NM",
-        "postal_code": "88310",
+        "address_1": "79-01 Broadway",
+        "city": "Elmhurts",
+        "region": "Region",
+        "state_province": "NY",
+        "postal_code": "11373",
         "country": "US"
       }
     ],
-    "phones": [
-      {
-        "id": "5",
-        "location_id": "5",
-        "number": " +1 575-443-7505",
-        "extension": "None",
-        "type": "Appointment Line",
-        "language": "EN",
-        "description": "Pre-screening hotline"
-      }
-    ],
+    "phones": [],
     "regular_schedule": []
   },
   {
     "id": "6",
-    "organization_id": "4",
-    "name": "Moreno Valley Healthcare",
-    "alternate_name": "Moreno Valley Healthcare",
-    "description": "Drive-thru testing. Referral required. People must call ahead, their case will be triaged by telephone.",
+    "organization_id": "3",
+    "name": "NYC Health + Hospitals/Harlem",
+    "alternate_name": "NYC Health + Hospitals/Harlem",
+    "description": "All testing sites require an appointment, which can be made calling 718-918-5700 or the Health Department Coronavirus hotline at 1-888-364-3065.\n\nAs tests are still limited in NYC, a number of prescreening questions will be asked. Individuals with no/mild symptoms are currently not tested at these centers to allow testing to be performed to individuals who have increased health risk.\nAn expert COVID-19 physician will then be reached. He/she will determine be if testing eligibility applies. If so, the patient will be added to a waitlist to be called back with an appointment date. Due to high demand, testing will most likely not be for the same day.",
     "transportation": "Car",
-    "updated": "2020-04-02",
+    "updated": "2020-04-22",
     "featured": "FALSE",
     "physical_address": [
       {
         "id": "6",
         "location_id": "6",
-        "address_1": "11 Elliott Baker Ln.",
-        "city": "Angel Fire",
-        "region": "NONE",
-        "state_province": "NM",
-        "postal_code": "87710",
+        "address_1": "506 Lenox Avenue",
+        "city": "New York",
+        "region": "Region",
+        "state_province": "NY",
+        "postal_code": "10037",
         "country": "US"
       }
     ],
-    "phones": [
-      {
-        "id": "6",
-        "location_id": "6",
-        "number": " +1 (575) 377-3301",
-        "extension": "None",
-        "type": "Hotline",
-        "language": "EN",
-        "description": "Appointment Line"
-      }
-    ],
-    "regular_schedule": [
-      {
-        "id": "6",
-        "location_id": "6",
-        "weekday": "1",
-        "opens_at": "8:30:00 AM",
-        "closes_at": "1:00 PM"
-      },
-      {
-        "id": "6",
-        "location_id": "6",
-        "weekday": "1",
-        "opens_at": "2:00 PM",
-        "closes_at": "4:30:00 PM"
-      },
-      {
-        "id": "6",
-        "location_id": "6",
-        "weekday": "2",
-        "opens_at": "8:30:00 AM",
-        "closes_at": "1:00 PM"
-      },
-      {
-        "id": "6",
-        "location_id": "6",
-        "weekday": "2",
-        "opens_at": "2:00 PM",
-        "closes_at": "4:30:00 PM"
-      },
-      {
-        "id": "6",
-        "location_id": "6",
-        "weekday": "3",
-        "opens_at": "8:30:00 AM",
-        "closes_at": "1:00 PM"
-      },
-      {
-        "id": "6",
-        "location_id": "6",
-        "weekday": "3",
-        "opens_at": "2:00 PM",
-        "closes_at": "4:30:00 PM"
-      },
-      {
-        "id": "6",
-        "location_id": "6",
-        "weekday": "4",
-        "opens_at": "8:30:00 AM",
-        "closes_at": "1:00 PM"
-      },
-      {
-        "id": "6",
-        "location_id": "6",
-        "weekday": "4",
-        "opens_at": "2:00 PM",
-        "closes_at": "4:30:00 PM"
-      },
-      {
-        "id": "6",
-        "location_id": "6",
-        "weekday": "5",
-        "opens_at": "8:30:00 AM",
-        "closes_at": "1:00 PM"
-      },
-      {
-        "id": "6",
-        "location_id": "6",
-        "weekday": "5",
-        "opens_at": "2:00 PM",
-        "closes_at": "4:30:00 PM"
-      }
-    ]
+    "phones": [],
+    "regular_schedule": []
   },
   {
     "id": "7",
-    "organization_id": "5",
-    "name": "Cimarron Healthcare Clinic",
-    "alternate_name": "Cimarron Healthcare Clinic",
-    "description": "Drive-thru testing. People must call ahead, their case will be triaged by telephone.",
+    "organization_id": "3",
+    "name": "NYC Health + Hospitals/Metropolitan",
+    "alternate_name": "NYC Health + Hospitals/Metropolitan",
+    "description": "All testing sites require an appointment, which can be made calling 718-918-5700 or the Health Department Coronavirus hotline at 1-888-364-3065.\n\nAs tests are still limited in NYC, a number of prescreening questions will be asked. Individuals with no/mild symptoms are currently not tested at these centers to allow testing to be performed to individuals who have increased health risk.\nAn expert COVID-19 physician will then be reached. He/she will determine be if testing eligibility applies. If so, the patient will be added to a waitlist to be called back with an appointment date. Due to high demand, testing will most likely not be for the same day.",
     "transportation": "Car",
-    "updated": "2020-04-02",
+    "updated": "2020-04-22",
     "featured": "FALSE",
     "physical_address": [
       {
         "id": "7",
         "location_id": "7",
-        "address_1": "356 9th St",
-        "city": "Cimarron",
-        "region": "NONE",
-        "state_province": "NM",
-        "postal_code": "87714",
+        "address_1": "1901 First Avenue",
+        "city": "New York",
+        "region": "Region",
+        "state_province": "NY",
+        "postal_code": "10029",
         "country": "US"
       }
     ],
-    "phones": [
-      {
-        "id": "7",
-        "location_id": "7",
-        "number": " +1 (575) 376-2402",
-        "extension": "None",
-        "type": "Hotline",
-        "language": "EN",
-        "description": "Pre-screening hotline"
-      }
-    ],
-    "regular_schedule": [
-      {
-        "id": "7",
-        "location_id": "7",
-        "weekday": "1",
-        "opens_at": "8:00 AM",
-        "closes_at": "12:00 PM"
-      },
-      {
-        "id": "7",
-        "location_id": "7",
-        "weekday": "1",
-        "opens_at": "1:00 PM",
-        "closes_at": "5:00 PM"
-      },
-      {
-        "id": "7",
-        "location_id": "7",
-        "weekday": "2",
-        "opens_at": "8:00 AM",
-        "closes_at": "12:00 PM"
-      },
-      {
-        "id": "7",
-        "location_id": "7",
-        "weekday": "2",
-        "opens_at": "1:00 PM",
-        "closes_at": "5:00 PM"
-      },
-      {
-        "id": "7",
-        "location_id": "7",
-        "weekday": "3",
-        "opens_at": "8:00 AM",
-        "closes_at": "12:00 PM"
-      },
-      {
-        "id": "7",
-        "location_id": "7",
-        "weekday": "3",
-        "opens_at": "1:00 PM",
-        "closes_at": "5:00 PM"
-      },
-      {
-        "id": "7",
-        "location_id": "7",
-        "weekday": "4",
-        "opens_at": "8:00 AM",
-        "closes_at": "12:00 PM"
-      },
-      {
-        "id": "7",
-        "location_id": "7",
-        "weekday": "4",
-        "opens_at": "1:00 PM",
-        "closes_at": "5:00 PM"
-      },
-      {
-        "id": "7",
-        "location_id": "7",
-        "weekday": "5",
-        "opens_at": "8:00 AM",
-        "closes_at": "12:00 PM"
-      },
-      {
-        "id": "7",
-        "location_id": "7",
-        "weekday": "5",
-        "opens_at": "1:00 PM",
-        "closes_at": "5:00 PM"
-      }
-    ]
+    "phones": [],
+    "regular_schedule": []
   },
   {
     "id": "8",
-    "organization_id": "6",
-    "name": "Union County General Hospital",
-    "alternate_name": "Union County General Hospital",
-    "description": "People will be assessed first by the phone, then they will be given directions to come to a quarantine area in the emergency room to determine what services are needed.",
+    "organization_id": "3",
+    "name": "NYC Health + Hospitals/Kings County",
+    "alternate_name": "NYC Health + Hospitals/Kings County",
+    "description": "All testing sites require an appointment, which can be made calling 718-918-5700 or the Health Department Coronavirus hotline at 1-888-364-3065.\n\nAs tests are still limited in NYC, a number of prescreening questions will be asked. Individuals with no/mild symptoms are currently not tested at these centers to allow testing to be performed to individuals who have increased health risk.\nAn expert COVID-19 physician will then be reached. He/she will determine be if testing eligibility applies. If so, the patient will be added to a waitlist to be called back with an appointment date. Due to high demand, testing will most likely not be for the same day.",
     "transportation": "Car",
-    "updated": "2020-04-02",
+    "updated": "2020-04-22",
     "featured": "FALSE",
     "physical_address": [
       {
         "id": "8",
         "location_id": "8",
-        "address_1": "300 Wilson St.",
-        "city": "Clayton",
-        "region": "NONE",
-        "state_province": "NM",
-        "postal_code": "88415",
+        "address_1": "451 Clarkson Avenue",
+        "city": "Brooklyn",
+        "region": "Region",
+        "state_province": "NY",
+        "postal_code": "11203",
         "country": "US"
       }
     ],
-    "phones": [
-      {
-        "id": "8",
-        "location_id": "8",
-        "number": " +1 (575) 374-2585",
-        "extension": "None",
-        "type": "Hotline",
-        "language": "EN",
-        "description": "Pre-screening hotline"
-      }
-    ],
-    "regular_schedule": [
-      {
-        "id": "8",
-        "location_id": "8",
-        "weekday": "1",
-        "opens_at": "12:00 AM",
-        "closes_at": "11:59:00 PM"
-      },
-      {
-        "id": "8",
-        "location_id": "8",
-        "weekday": "2",
-        "opens_at": "12:00 AM",
-        "closes_at": "11:59:00 PM"
-      },
-      {
-        "id": "8",
-        "location_id": "8",
-        "weekday": "3",
-        "opens_at": "12:00 AM",
-        "closes_at": "11:59:00 PM"
-      },
-      {
-        "id": "8",
-        "location_id": "8",
-        "weekday": "4",
-        "opens_at": "12:00 AM",
-        "closes_at": "11:59:00 PM"
-      },
-      {
-        "id": "8",
-        "location_id": "8",
-        "weekday": "5",
-        "opens_at": "12:00 AM",
-        "closes_at": "11:59:00 PM"
-      },
-      {
-        "id": "8",
-        "location_id": "8",
-        "weekday": "6",
-        "opens_at": "12:00 AM",
-        "closes_at": "11:59:00 PM"
-      },
-      {
-        "id": "8",
-        "location_id": "8",
-        "weekday": "7",
-        "opens_at": "12:00 AM",
-        "closes_at": "11:59:00 PM"
-      }
-    ]
+    "phones": [],
+    "regular_schedule": []
   },
   {
     "id": "9",
-    "organization_id": "7",
-    "name": "Presbyterian Española Hospital",
-    "alternate_name": "Presbyterian Española Hospital",
-    "description": "Must call site first and be screened before going.",
+    "organization_id": "3",
+    "name": "NYC Health + Hospitals/Lincoln",
+    "alternate_name": "NYC Health + Hospitals/Lincoln",
+    "description": "All testing sites require an appointment, which can be made calling 718-918-5700 or the Health Department Coronavirus hotline at 1-888-364-3065.\n\nAs tests are still limited in NYC, a number of prescreening questions will be asked. Individuals with no/mild symptoms are currently not tested at these centers to allow testing to be performed to individuals who have increased health risk.\nAn expert COVID-19 physician will then be reached. He/she will determine be if testing eligibility applies. If so, the patient will be added to a waitlist to be called back with an appointment date. Due to high demand, testing will most likely not be for the same day.",
     "transportation": "Car",
-    "updated": "2020-04-02",
-    "featured": "TRUE",
-    "physical_address": [],
-    "phones": [
+    "updated": "2020-04-22",
+    "featured": "FALSE",
+    "physical_address": [
       {
         "id": "9",
         "location_id": "9",
-        "number": " +1 (505) 753-7111",
-        "extension": "None",
-        "type": "Hotline",
-        "language": "EN",
-        "description": "Pre-screening hotline"
+        "address_1": "234 East 149th Street",
+        "city": "Bronx",
+        "region": "Region",
+        "state_province": "NY",
+        "postal_code": "10451",
+        "country": "US"
       }
     ],
-    "regular_schedule": [
-      {
-        "id": "9",
-        "location_id": "9",
-        "weekday": "1",
-        "opens_at": "1:00 PM",
-        "closes_at": "5:00 PM"
-      },
-      {
-        "id": "9",
-        "location_id": "9",
-        "weekday": "2",
-        "opens_at": "1:00 PM",
-        "closes_at": "5:00 PM"
-      },
-      {
-        "id": "9",
-        "location_id": "9",
-        "weekday": "3",
-        "opens_at": "1:00 PM",
-        "closes_at": "5:00 PM"
-      },
-      {
-        "id": "9",
-        "location_id": "9",
-        "weekday": "4",
-        "opens_at": "1:00 PM",
-        "closes_at": "5:00 PM"
-      },
-      {
-        "id": "9",
-        "location_id": "9",
-        "weekday": "5",
-        "opens_at": "1:00 PM",
-        "closes_at": "5:00 PM"
-      },
-      {
-        "id": "9",
-        "location_id": "9",
-        "weekday": "6",
-        "opens_at": "1:00 PM",
-        "closes_at": "5:00 PM"
-      },
-      {
-        "id": "9",
-        "location_id": "9",
-        "weekday": "7",
-        "opens_at": "1:00 PM",
-        "closes_at": "5:00 PM"
-      }
-    ]
+    "phones": [],
+    "regular_schedule": []
   },
   {
     "id": "10",
-    "organization_id": "8",
-    "name": "Gallup Indian Medical Center",
-    "alternate_name": "Gallup Indian Medical Center",
-    "description": "None",
+    "organization_id": "3",
+    "name": "NYC Health + Hospitals/Woodhull",
+    "alternate_name": "NYC Health + Hospitals/Woodhull",
+    "description": "All testing sites require an appointment, which can be made calling 718-918-5700 or the Health Department Coronavirus hotline at 1-888-364-3065.\n\nAs tests are still limited in NYC, a number of prescreening questions will be asked. Individuals with no/mild symptoms are currently not tested at these centers to allow testing to be performed to individuals who have increased health risk.\nAn expert COVID-19 physician will then be reached. He/she will determine be if testing eligibility applies. If so, the patient will be added to a waitlist to be called back with an appointment date. Due to high demand, testing will most likely not be for the same day.",
     "transportation": "Car",
-    "updated": "2020-04-02",
+    "updated": "2020-04-22",
     "featured": "FALSE",
-    "physical_address": [],
-    "phones": [
+    "physical_address": [
       {
         "id": "10",
         "location_id": "10",
-        "number": " +1 (505) 722-1000",
-        "extension": "None",
-        "type": "Hotline",
-        "language": "EN",
-        "description": "Pre-screening hotline"
+        "address_1": "760 Broadway",
+        "city": "Brooklyn",
+        "region": "Region",
+        "state_province": "NY",
+        "postal_code": "11206",
+        "country": "US"
       }
     ],
-    "regular_schedule": [
-      {
-        "id": "10",
-        "location_id": "10",
-        "weekday": "1",
-        "opens_at": "10:00 AM",
-        "closes_at": "2:00 PM"
-      },
-      {
-        "id": "10",
-        "location_id": "10",
-        "weekday": "3",
-        "opens_at": "10:00 AM",
-        "closes_at": "2:00 PM"
-      },
-      {
-        "id": "10",
-        "location_id": "10",
-        "weekday": "5",
-        "opens_at": "10:00 AM",
-        "closes_at": "2:00 PM"
-      }
-    ]
+    "phones": [],
+    "regular_schedule": []
   },
   {
     "id": "11",
-    "organization_id": "9",
-    "name": "Rehoboth McKinley Christian Healthcare Services",
-    "alternate_name": "Rehoboth McKinley Christian Healthcare Services",
-    "description": "Drive-thru site open daily from 8 a.m. to 7 p.m",
+    "organization_id": "3",
+    "name": "NYC Health + Hospitals/Queens",
+    "alternate_name": "NYC Health + Hospitals/Queens",
+    "description": "All testing sites require an appointment, which can be made calling 718-918-5700 or the Health Department Coronavirus hotline at 1-888-364-3065.\n\nAs tests are still limited in NYC, a number of prescreening questions will be asked. Individuals with no/mild symptoms are currently not tested at these centers to allow testing to be performed to individuals who have increased health risk.\nAn expert COVID-19 physician will then be reached. He/she will determine be if testing eligibility applies. If so, the patient will be added to a waitlist to be called back with an appointment date. Due to high demand, testing will most likely not be for the same day.",
     "transportation": "Car",
-    "updated": "2020-04-02",
+    "updated": "2020-04-22",
     "featured": "FALSE",
-    "physical_address": [],
-    "phones": [
+    "physical_address": [
       {
         "id": "11",
         "location_id": "11",
-        "number": " +1 (505) 236-1074",
-        "extension": "None",
-        "type": "Hotline",
-        "language": "EN",
-        "description": "Pre-screening hotline"
+        "address_1": "82-68 164th Street",
+        "city": "Jamaica",
+        "region": "Region",
+        "state_province": "NY",
+        "postal_code": "11432",
+        "country": "US"
       }
     ],
-    "regular_schedule": [
-      {
-        "id": "11",
-        "location_id": "11",
-        "weekday": "1",
-        "opens_at": "8:00 AM",
-        "closes_at": "7:00 PM"
-      },
-      {
-        "id": "11",
-        "location_id": "11",
-        "weekday": "2",
-        "opens_at": "8:00 AM",
-        "closes_at": "7:00 PM"
-      },
-      {
-        "id": "11",
-        "location_id": "11",
-        "weekday": "3",
-        "opens_at": "8:00 AM",
-        "closes_at": "7:00 PM"
-      },
-      {
-        "id": "11",
-        "location_id": "11",
-        "weekday": "4",
-        "opens_at": "8:00 AM",
-        "closes_at": "7:00 PM"
-      },
-      {
-        "id": "11",
-        "location_id": "11",
-        "weekday": "5",
-        "opens_at": "8:00 AM",
-        "closes_at": "7:00 PM"
-      },
-      {
-        "id": "11",
-        "location_id": "11",
-        "weekday": "6",
-        "opens_at": "8:00 AM",
-        "closes_at": "7:00 PM"
-      },
-      {
-        "id": "11",
-        "location_id": "11",
-        "weekday": "7",
-        "opens_at": "8:00 AM",
-        "closes_at": "7:00 PM"
-      }
-    ]
+    "phones": [],
+    "regular_schedule": []
   },
   {
     "id": "12",
-    "organization_id": "10",
-    "name": "Cibola General Hosptial",
-    "alternate_name": "Cibola General Hosptial",
-    "description": "Call the hospital before coming in.",
+    "organization_id": "3",
+    "name": "NYC Health + Hospitals/Coney Island",
+    "alternate_name": "NYC Health + Hospitals/Coney Island",
+    "description": "All testing sites require an appointment, which can be made calling 718-918-5700 or the Health Department Coronavirus hotline at 1-888-364-3065.\n\nAs tests are still limited in NYC, a number of prescreening questions will be asked. Individuals with no/mild symptoms are currently not tested at these centers to allow testing to be performed to individuals who have increased health risk.\nAn expert COVID-19 physician will then be reached. He/she will determine be if testing eligibility applies. If so, the patient will be added to a waitlist to be called back with an appointment date. Due to high demand, testing will most likely not be for the same day.",
     "transportation": "Car",
-    "updated": "2020-04-02",
+    "updated": "2020-04-22",
     "featured": "FALSE",
-    "physical_address": [],
-    "phones": [
+    "physical_address": [
       {
         "id": "12",
         "location_id": "12",
-        "number": " +1 (505) 287-4446",
-        "extension": "None",
-        "type": "Hotline",
-        "language": "EN",
-        "description": "Pre-screening hotline"
+        "address_1": "2601 Ocean Parkway",
+        "city": "Brooklyn",
+        "region": "Region",
+        "state_province": "NY",
+        "postal_code": "11235",
+        "country": "US"
       }
     ],
-    "regular_schedule": [
-      {
-        "id": "12",
-        "location_id": "12",
-        "weekday": "1",
-        "opens_at": "12:00 AM",
-        "closes_at": "11:59:00 PM"
-      },
-      {
-        "id": "12",
-        "location_id": "12",
-        "weekday": "2",
-        "opens_at": "12:00 AM",
-        "closes_at": "11:59:00 PM"
-      },
-      {
-        "id": "12",
-        "location_id": "12",
-        "weekday": "3",
-        "opens_at": "12:00 AM",
-        "closes_at": "11:59:00 PM"
-      },
-      {
-        "id": "12",
-        "location_id": "12",
-        "weekday": "4",
-        "opens_at": "12:00 AM",
-        "closes_at": "11:59:00 PM"
-      },
-      {
-        "id": "12",
-        "location_id": "12",
-        "weekday": "5",
-        "opens_at": "12:00 AM",
-        "closes_at": "11:59:00 PM"
-      },
-      {
-        "id": "12",
-        "location_id": "12",
-        "weekday": "6",
-        "opens_at": "12:00 AM",
-        "closes_at": "11:59:00 PM"
-      },
-      {
-        "id": "12",
-        "location_id": "12",
-        "weekday": "7",
-        "opens_at": "12:00 AM",
-        "closes_at": "11:59:00 PM"
-      }
-    ]
+    "phones": [],
+    "regular_schedule": []
   },
   {
     "id": "13",
-    "organization_id": "11",
-    "name": "Alta Vista Regional Hosptial",
-    "alternate_name": "Alta Vista Regional Hosptial",
-    "description": "Drive-thru testing Monday – Friday from 2 p.m. to 3 p.m.",
+    "organization_id": "3",
+    "name": "NYC Health + Hospitals/Jacobi",
+    "alternate_name": "NYC Health + Hospitals/Jacobi",
+    "description": "All testing sites require an appointment, which can be made calling 718-918-5700 or the Health Department Coronavirus hotline at 1-888-364-3065.\n\nAs tests are still limited in NYC, a number of prescreening questions will be asked. Individuals with no/mild symptoms are currently not tested at these centers to allow testing to be performed to individuals who have increased health risk.\nAn expert COVID-19 physician will then be reached. He/she will determine be if testing eligibility applies. If so, the patient will be added to a waitlist to be called back with an appointment date. Due to high demand, testing will most likely not be for the same day.",
     "transportation": "Car",
-    "updated": "2020-04-02",
+    "updated": "2020-04-22",
     "featured": "FALSE",
-    "physical_address": [],
-    "phones": [
+    "physical_address": [
       {
         "id": "13",
         "location_id": "13",
-        "number": " +1 (505) 426-3615",
-        "extension": "None",
-        "type": "Hotline",
-        "language": "EN",
-        "description": "Pre-screening hotline"
+        "address_1": "1400 Pelham Parkway South",
+        "city": "Bronx",
+        "region": "Region",
+        "state_province": "NY",
+        "postal_code": "10461",
+        "country": "US"
       }
     ],
-    "regular_schedule": [
-      {
-        "id": "13",
-        "location_id": "13",
-        "weekday": "1",
-        "opens_at": "2:00 PM",
-        "closes_at": "3:00 PM"
-      },
-      {
-        "id": "13",
-        "location_id": "13",
-        "weekday": "2",
-        "opens_at": "2:00 PM",
-        "closes_at": "3:00 PM"
-      },
-      {
-        "id": "13",
-        "location_id": "13",
-        "weekday": "3",
-        "opens_at": "2:00 PM",
-        "closes_at": "3:00 PM"
-      },
-      {
-        "id": "13",
-        "location_id": "13",
-        "weekday": "4",
-        "opens_at": "2:00 PM",
-        "closes_at": "3:00 PM"
-      },
-      {
-        "id": "13",
-        "location_id": "13",
-        "weekday": "5",
-        "opens_at": "2:00 PM",
-        "closes_at": "3:00 PM"
-      }
-    ]
+    "phones": [],
+    "regular_schedule": []
   },
   {
     "id": "14",
-    "organization_id": "12",
-    "name": "Nor-Lea General Hosptial",
-    "alternate_name": "Nor-Lea General Hosptial",
-    "description": "Drive-thru site. People must call site first and be screened before going.",
+    "organization_id": "3",
+    "name": "NYC Health + Hospitals/Gotham Health, Morrisania",
+    "alternate_name": "NYC Health + Hospitals/Gotham Health, Morrisania",
+    "description": "All testing sites require an appointment, which can be made calling 718-918-5700 or the Health Department Coronavirus hotline at 1-888-364-3065.\n\nAs tests are still limited in NYC, a number of prescreening questions will be asked. Individuals with no/mild symptoms are currently not tested at these centers to allow testing to be performed to individuals who have increased health risk.\nAn expert COVID-19 physician will then be reached. He/she will determine be if testing eligibility applies. If so, the patient will be added to a waitlist to be called back with an appointment date. Due to high demand, testing will most likely not be for the same day.",
     "transportation": "Car",
-    "updated": "2020-04-02",
+    "updated": "2020-04-22",
     "featured": "FALSE",
-    "physical_address": [],
-    "phones": [
+    "physical_address": [
       {
         "id": "14",
         "location_id": "14",
-        "number": " +1 (575) 396-9090",
-        "extension": "None",
-        "type": "Hotline",
-        "language": "EN",
-        "description": "Hotline"
+        "address_1": "1225 Gerard Avenue",
+        "city": "Bronx",
+        "region": "Region",
+        "state_province": "NY",
+        "postal_code": "10452",
+        "country": "US"
       }
     ],
-    "regular_schedule": [
-      {
-        "id": "14",
-        "location_id": "14",
-        "weekday": "1",
-        "opens_at": "10:00 AM",
-        "closes_at": "4:00 PM"
-      },
-      {
-        "id": "14",
-        "location_id": "14",
-        "weekday": "2",
-        "opens_at": "10:00 AM",
-        "closes_at": "4:00 PM"
-      },
-      {
-        "id": "14",
-        "location_id": "14",
-        "weekday": "3",
-        "opens_at": "10:00 AM",
-        "closes_at": "4:00 PM"
-      },
-      {
-        "id": "14",
-        "location_id": "14",
-        "weekday": "4",
-        "opens_at": "10:00 AM",
-        "closes_at": "4:00 PM"
-      },
-      {
-        "id": "14",
-        "location_id": "14",
-        "weekday": "5",
-        "opens_at": "10:00 AM",
-        "closes_at": "4:00 PM"
-      },
-      {
-        "id": "14",
-        "location_id": "14",
-        "weekday": "6",
-        "opens_at": "10:00 AM",
-        "closes_at": "4:00 PM"
-      },
-      {
-        "id": "14",
-        "location_id": "14",
-        "weekday": "7",
-        "opens_at": "10:00 AM",
-        "closes_at": "4:00 PM"
-      }
-    ]
+    "phones": [],
+    "regular_schedule": []
   },
   {
     "id": "15",
-    "organization_id": "13",
-    "name": "Presbyterian Rust Medical",
-    "alternate_name": "Presbyterian Rust Medical",
-    "description": "None",
+    "organization_id": "3",
+    "name": "NYC Health + Hospitals/Gotham Health, Belvis",
+    "alternate_name": "NYC Health + Hospitals/Gotham Health, Belvis",
+    "description": "All testing sites require an appointment, which can be made calling 718-918-5700 or the Health Department Coronavirus hotline at 1-888-364-3065.\n\nAs tests are still limited in NYC, a number of prescreening questions will be asked. Individuals with no/mild symptoms are currently not tested at these centers to allow testing to be performed to individuals who have increased health risk.\nAn expert COVID-19 physician will then be reached. He/she will determine be if testing eligibility applies. If so, the patient will be added to a waitlist to be called back with an appointment date. Due to high demand, testing will most likely not be for the same day.",
     "transportation": "Car",
-    "updated": "2020-04-23",
+    "updated": "2020-04-22",
     "featured": "FALSE",
-    "physical_address": [],
-    "phones": [
+    "physical_address": [
       {
         "id": "15",
         "location_id": "15",
-        "number": " +1  (505) 232-1010",
-        "extension": "None",
-        "type": "Hotline",
-        "language": "EN",
-        "description": "Pre-screening hotline"
+        "address_1": "545 East 142nd Street",
+        "city": "Bronx",
+        "region": "Region",
+        "state_province": "NY",
+        "postal_code": "10454",
+        "country": "US"
       }
     ],
-    "regular_schedule": [
-      {
-        "id": "15",
-        "location_id": "15",
-        "weekday": "1",
-        "opens_at": "12:00 AM",
-        "closes_at": "11:59:00 PM"
-      },
-      {
-        "id": "15",
-        "location_id": "15",
-        "weekday": "2",
-        "opens_at": "12:00 AM",
-        "closes_at": "11:59:00 PM"
-      },
-      {
-        "id": "15",
-        "location_id": "15",
-        "weekday": "3",
-        "opens_at": "12:00 AM",
-        "closes_at": "11:59:00 PM"
-      },
-      {
-        "id": "15",
-        "location_id": "15",
-        "weekday": "4",
-        "opens_at": "12:00 AM",
-        "closes_at": "11:59:00 PM"
-      },
-      {
-        "id": "15",
-        "location_id": "15",
-        "weekday": "5",
-        "opens_at": "12:00 AM",
-        "closes_at": "11:59:00 PM"
-      },
-      {
-        "id": "15",
-        "location_id": "15",
-        "weekday": "6",
-        "opens_at": "12:00 AM",
-        "closes_at": "11:59:00 PM"
-      },
-      {
-        "id": "15",
-        "location_id": "15",
-        "weekday": "7",
-        "opens_at": "12:00 AM",
-        "closes_at": "11:59:00 PM"
-      }
-    ]
+    "phones": [],
+    "regular_schedule": []
   },
   {
     "id": "16",
-    "organization_id": "14",
-    "name": "Christus St. Vincent Hospital",
-    "alternate_name": "Christus St. Vincent Hospital",
-    "description": "Call for hours",
+    "organization_id": "3",
+    "name": "NYC Health + Hospitals/Gotham Health, Cumberland",
+    "alternate_name": "NYC Health + Hospitals/Gotham Health, Cumberland",
+    "description": "All testing sites require an appointment, which can be made calling 718-918-5700 or the Health Department Coronavirus hotline at 1-888-364-3065.\n\nAs tests are still limited in NYC, a number of prescreening questions will be asked. Individuals with no/mild symptoms are currently not tested at these centers to allow testing to be performed to individuals who have increased health risk.\nAn expert COVID-19 physician will then be reached. He/she will determine be if testing eligibility applies. If so, the patient will be added to a waitlist to be called back with an appointment date. Due to high demand, testing will most likely not be for the same day.",
     "transportation": "Car",
-    "updated": "2020-04-23",
+    "updated": "2020-04-22",
     "featured": "FALSE",
-    "physical_address": [],
-    "phones": [
+    "physical_address": [
       {
         "id": "16",
         "location_id": "16",
-        "number": " +1 (505) 913-3361",
-        "extension": "None",
-        "type": "Hotline",
-        "language": "EN",
-        "description": "Triage Line"
+        "address_1": "100 North Portland Avenue",
+        "city": "Brooklyn",
+        "region": "Region",
+        "state_province": "NY",
+        "postal_code": "11205",
+        "country": "US"
       }
     ],
+    "phones": [],
     "regular_schedule": []
   },
   {
     "id": "17",
-    "organization_id": "15",
-    "name": "Presbyterian Santa Fe Medical Center",
-    "alternate_name": "Presbyterian Santa Fe Medical Center",
-    "description": "Near the ambulance bay",
+    "organization_id": "3",
+    "name": "NYC Health + Hospitals/Gotham Health, East New York",
+    "alternate_name": "NYC Health + Hospitals/Gotham Health, East New York",
+    "description": "All testing sites require an appointment, which can be made calling 718-918-5700 or the Health Department Coronavirus hotline at 1-888-364-3065.\n\nAs tests are still limited in NYC, a number of prescreening questions will be asked. Individuals with no/mild symptoms are currently not tested at these centers to allow testing to be performed to individuals who have increased health risk.\nAn expert COVID-19 physician will then be reached. He/she will determine be if testing eligibility applies. If so, the patient will be added to a waitlist to be called back with an appointment date. Due to high demand, testing will most likely not be for the same day.",
     "transportation": "Car",
-    "updated": "2020-04-23",
+    "updated": "2020-04-22",
     "featured": "FALSE",
-    "physical_address": [],
-    "phones": [
+    "physical_address": [
       {
         "id": "17",
         "location_id": "17",
-        "number": " +1 (505) 772-1234",
-        "extension": "None",
-        "type": "Hotline",
-        "language": "EN",
-        "description": "Pre-screening hotline"
+        "address_1": "2094 Pitkin Avenue",
+        "city": "Brooklyn",
+        "region": "Region",
+        "state_province": "NY",
+        "postal_code": "11207",
+        "country": "US"
       }
     ],
-    "regular_schedule": [
-      {
-        "id": "17",
-        "location_id": "17",
-        "weekday": "1",
-        "opens_at": "11:00 AM",
-        "closes_at": "5:00 PM"
-      },
-      {
-        "id": "17",
-        "location_id": "17",
-        "weekday": "2",
-        "opens_at": "11:00 AM",
-        "closes_at": "5:00 PM"
-      },
-      {
-        "id": "17",
-        "location_id": "17",
-        "weekday": "3",
-        "opens_at": "11:00 AM",
-        "closes_at": "5:00 PM"
-      },
-      {
-        "id": "17",
-        "location_id": "17",
-        "weekday": "4",
-        "opens_at": "11:00 AM",
-        "closes_at": "5:00 PM"
-      },
-      {
-        "id": "17",
-        "location_id": "17",
-        "weekday": "5",
-        "opens_at": "11:00 AM",
-        "closes_at": "5:00 PM"
-      },
-      {
-        "id": "17",
-        "location_id": "17",
-        "weekday": "6",
-        "opens_at": "11:00 AM",
-        "closes_at": "5:00 PM"
-      },
-      {
-        "id": "17",
-        "location_id": "17",
-        "weekday": "7",
-        "opens_at": "11:00 AM",
-        "closes_at": "5:00 PM"
-      }
-    ]
+    "phones": [],
+    "regular_schedule": []
   },
   {
     "id": "18",
-    "organization_id": "16",
-    "name": "Guadalupe County Hospital",
-    "alternate_name": "Guadalupe County Hospital",
-    "description": "Call before you go",
+    "organization_id": "3",
+    "name": "NYC Health + Hospitals/Gotham Health, Gouverneur",
+    "alternate_name": "NYC Health + Hospitals/Gotham Health, Gouverneur",
+    "description": "All testing sites require an appointment, which can be made calling 718-918-5700 or the Health Department Coronavirus hotline at 1-888-364-3065.\n\nAs tests are still limited in NYC, a number of prescreening questions will be asked. Individuals with no/mild symptoms are currently not tested at these centers to allow testing to be performed to individuals who have increased health risk.\nAn expert COVID-19 physician will then be reached. He/she will determine be if testing eligibility applies. If so, the patient will be added to a waitlist to be called back with an appointment date. Due to high demand, testing will most likely not be for the same day.",
     "transportation": "Car",
-    "updated": "2020-04-23",
+    "updated": "2020-04-22",
     "featured": "FALSE",
-    "physical_address": [],
-    "phones": [
+    "physical_address": [
       {
         "id": "18",
         "location_id": "18",
-        "number": " +1 (575) 472-3417",
-        "extension": "None",
-        "type": "Hotline",
-        "language": "EN",
-        "description": "Pre-screening hotline"
+        "address_1": "227 Madison Street",
+        "city": "New York",
+        "region": "Region",
+        "state_province": "NY",
+        "postal_code": "10002",
+        "country": "US"
       }
     ],
+    "phones": [],
+    "regular_schedule": []
+  },
+  {
+    "id": "19",
+    "organization_id": "3",
+    "name": "NYC Health + Hospitals/Gotham Health, Sydenham",
+    "alternate_name": "NYC Health + Hospitals/Gotham Health, Sydenham",
+    "description": "All testing sites require an appointment, which can be made calling 718-918-5700 or the Health Department Coronavirus hotline at 1-888-364-3065.\n\nAs tests are still limited in NYC, a number of prescreening questions will be asked. Individuals with no/mild symptoms are currently not tested at these centers to allow testing to be performed to individuals who have increased health risk.\nAn expert COVID-19 physician will then be reached. He/she will determine be if testing eligibility applies. If so, the patient will be added to a waitlist to be called back with an appointment date. Due to high demand, testing will most likely not be for the same day.",
+    "transportation": "Car",
+    "updated": "2020-04-22",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "19",
+        "location_id": "19",
+        "address_1": "264 West 118th Street",
+        "city": "New York",
+        "region": "Region",
+        "state_province": "NY",
+        "postal_code": "10026",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": []
+  },
+  {
+    "id": "20",
+    "organization_id": "3",
+    "name": "NYC Health + Hospitals/Gotham Health, Vanderbilt",
+    "alternate_name": "NYC Health + Hospitals/Gotham Health, Vanderbilt",
+    "description": "All testing sites require an appointment, which can be made calling 718-918-5700 or the Health Department Coronavirus hotline at 1-888-364-3065.\n\nAs tests are still limited in NYC, a number of prescreening questions will be asked. Individuals with no/mild symptoms are currently not tested at these centers to allow testing to be performed to individuals who have increased health risk.\nAn expert COVID-19 physician will then be reached. He/she will determine be if testing eligibility applies. If so, the patient will be added to a waitlist to be called back with an appointment date. Due to high demand, testing will most likely not be for the same day.",
+    "transportation": "Car",
+    "updated": "2020-04-22",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "20",
+        "location_id": "20",
+        "address_1": "165 Vanderbilt Avenue",
+        "city": "Staten Island",
+        "region": "Region",
+        "state_province": "NY",
+        "postal_code": "10304",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": []
+  },
+  {
+    "id": "21",
+    "organization_id": "4",
+    "name": "Anthony Wayne State Park",
+    "alternate_name": "Anthony Wayne State Park",
+    "description": "Anthony Wayne State Park is currently closed to the public for hiking, recreational activity or other park related access. This site is host to a COVID-19 testing facility. The drive-through sites are prioritizing sampling for individuals that are part of the highest risk population. Residents who would like to be tested can make an appointment by calling 888-364-3065. ",
+    "transportation": "Car",
+    "updated": "2020-04-22",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "21",
+        "location_id": "21",
+        "address_1": "Palisades Parkway, Exit 17",
+        "city": "Bear Mountain",
+        "region": "Region",
+        "state_province": "NY",
+        "postal_code": "10911",
+        "country": "US"
+      }
+    ],
+    "phones": [],
     "regular_schedule": [
       {
-        "id": "18",
-        "location_id": "18",
+        "id": "20",
+        "location_id": "21",
         "weekday": "1",
-        "opens_at": "12:00 AM",
-        "closes_at": "11:59:00 PM"
+        "opens_at": "7:00 AM",
+        "closes_at": "7:00 PM"
       },
       {
-        "id": "18",
-        "location_id": "18",
+        "id": "20",
+        "location_id": "21",
         "weekday": "2",
-        "opens_at": "12:00 AM",
-        "closes_at": "11:59:00 PM"
+        "opens_at": "7:00 AM",
+        "closes_at": "7:00 PM"
       },
       {
-        "id": "18",
-        "location_id": "18",
+        "id": "20",
+        "location_id": "21",
         "weekday": "3",
-        "opens_at": "12:00 AM",
-        "closes_at": "11:59:00 PM"
+        "opens_at": "7:00 AM",
+        "closes_at": "7:00 PM"
       },
       {
-        "id": "18",
-        "location_id": "18",
+        "id": "20",
+        "location_id": "21",
         "weekday": "4",
-        "opens_at": "12:00 AM",
-        "closes_at": "11:59:00 PM"
+        "opens_at": "7:00 AM",
+        "closes_at": "7:00 PM"
       },
       {
-        "id": "18",
-        "location_id": "18",
+        "id": "20",
+        "location_id": "21",
         "weekday": "5",
-        "opens_at": "12:00 AM",
-        "closes_at": "11:59:00 PM"
+        "opens_at": "7:00 AM",
+        "closes_at": "7:00 PM"
       },
       {
-        "id": "18",
-        "location_id": "18",
+        "id": "20",
+        "location_id": "21",
         "weekday": "6",
-        "opens_at": "12:00 AM",
-        "closes_at": "11:59:00 PM"
+        "opens_at": "7:00 AM",
+        "closes_at": "7:00 PM"
       },
       {
-        "id": "18",
-        "location_id": "18",
+        "id": "20",
+        "location_id": "21",
         "weekday": "7",
-        "opens_at": "12:00 AM",
-        "closes_at": "11:59:00 PM"
+        "opens_at": "7:00 AM",
+        "closes_at": "7:00 PM"
       }
     ]
   },
   {
-    "id": "19",
-    "organization_id": "17",
-    "name": "Holy Cross Hospital",
-    "alternate_name": "Holy Cross Hospital",
-    "description": "Call for hours",
+    "id": "22",
+    "organization_id": "4",
+    "name": "Glen Island Park",
+    "alternate_name": "Glen Island Park",
+    "description": "Appointment Only",
+    "transportation": "Car",
+    "updated": "2020-04-22",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "22",
+        "location_id": "22",
+        "address_1": "Weyman Ave",
+        "city": "New Rochelle",
+        "region": "Region",
+        "state_province": "NY",
+        "postal_code": "10805",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": [
+      {
+        "id": "22",
+        "location_id": "22",
+        "weekday": "2",
+        "opens_at": "7:00 AM",
+        "closes_at": "7:00 PM"
+      },
+      {
+        "id": "22",
+        "location_id": "22",
+        "weekday": "3",
+        "opens_at": "7:00 AM",
+        "closes_at": "7:00 PM"
+      },
+      {
+        "id": "22",
+        "location_id": "22",
+        "weekday": "4",
+        "opens_at": "7:00 AM",
+        "closes_at": "7:00 PM"
+      },
+      {
+        "id": "22",
+        "location_id": "22",
+        "weekday": "5",
+        "opens_at": "7:00 AM",
+        "closes_at": "7:00 PM"
+      },
+      {
+        "id": "22",
+        "location_id": "22",
+        "weekday": "6",
+        "opens_at": "7:00 AM",
+        "closes_at": "7:00 PM"
+      },
+      {
+        "id": "22",
+        "location_id": "22",
+        "weekday": "7",
+        "opens_at": "7:00 AM",
+        "closes_at": "7:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "organization_id": "4",
+    "name": "Jones Beach State Park",
+    "alternate_name": "Jones Beach State Park",
+    "description": "Appointment Only",
+    "transportation": "Car",
+    "updated": "2020-04-22",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "23",
+        "location_id": "23",
+        "address_1": "1 Ocean Pkwy",
+        "city": "Wantagh",
+        "region": "Region",
+        "state_province": "NY",
+        "postal_code": "11793",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": []
+  },
+  {
+    "id": "24",
+    "organization_id": "5",
+    "name": "ProHEALTH Urgent Care of Jericho",
+    "alternate_name": "ProHEALTH Urgent Care of Jericho",
+    "description": "If you have COVID-19 symptoms, call our dedicated hotline at 1-516-874-0411 to talk to a medical professional. If your symptoms suggest you need a test, you'll be scheduled for drive-thru testing and an appointment at one of our urgent care locations listed below.\n\nHours and locations are listed below. All locations are open to all patients who require testing. Appointments are required in advance.",
+    "transportation": "Car",
+    "updated": "2020-04-22",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "24",
+        "location_id": "24",
+        "address_1": "555 N. Broadway",
+        "city": "Jerico",
+        "region": "Region",
+        "state_province": "NY",
+        "postal_code": "11753",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": [
+      {
+        "id": "24",
+        "location_id": "24",
+        "weekday": "1",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "24",
+        "location_id": "24",
+        "weekday": "2",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "24",
+        "location_id": "24",
+        "weekday": "3",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "24",
+        "location_id": "24",
+        "weekday": "4",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "24",
+        "location_id": "24",
+        "weekday": "5",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "24",
+        "location_id": "24",
+        "weekday": "6",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "24",
+        "location_id": "24",
+        "weekday": "7",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "25",
+    "organization_id": "5",
+    "name": "ProHEALTH Campus – Lake Success",
+    "alternate_name": "ProHEALTH Campus – Lake Success",
+    "description": "If you have COVID-19 symptoms, call our dedicated hotline at 1-516-874-0411 to talk to a medical professional. If your symptoms suggest you need a test, you'll be scheduled for drive-thru testing and an appointment at one of our urgent care locations listed below.\n\nHours and locations are listed below. All locations are open to all patients who require testing. Appointments are required in advance.",
+    "transportation": "Car",
+    "updated": "2020-04-22",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "25",
+        "location_id": "25",
+        "address_1": "3 Delaware Drive",
+        "city": "Lake Success",
+        "region": "Region",
+        "state_province": "NY",
+        "postal_code": "11042",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": [
+      {
+        "id": "25",
+        "location_id": "25",
+        "weekday": "1",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "25",
+        "location_id": "25",
+        "weekday": "2",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "25",
+        "location_id": "25",
+        "weekday": "3",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "25",
+        "location_id": "25",
+        "weekday": "4",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "25",
+        "location_id": "25",
+        "weekday": "5",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "25",
+        "location_id": "25",
+        "weekday": "6",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "25",
+        "location_id": "25",
+        "weekday": "7",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "26",
+    "organization_id": "5",
+    "name": "ProHEALTH Urgent Care of Fort Hamilton",
+    "alternate_name": "ProHEALTH Urgent Care of Fort Hamilton",
+    "description": "If you have COVID-19 symptoms, call our dedicated hotline at 1-516-874-0411 to talk to a medical professional. If your symptoms suggest you need a test, you'll be scheduled for drive-thru testing and an appointment at one of our urgent care locations listed below.\n\nHours and locations are listed below. All locations are open to all patients who require testing. Appointments are required in advance.",
+    "transportation": "Car",
+    "updated": "2020-04-22",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "26",
+        "location_id": "26",
+        "address_1": "10033 4th Ave.",
+        "city": "Brooklyn",
+        "region": "Region",
+        "state_province": "NY",
+        "postal_code": "11232",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": [
+      {
+        "id": "26",
+        "location_id": "26",
+        "weekday": "1",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "26",
+        "location_id": "26",
+        "weekday": "2",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "26",
+        "location_id": "26",
+        "weekday": "3",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "26",
+        "location_id": "26",
+        "weekday": "4",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "26",
+        "location_id": "26",
+        "weekday": "5",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "26",
+        "location_id": "26",
+        "weekday": "6",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "26",
+        "location_id": "26",
+        "weekday": "7",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "organization_id": "5",
+    "name": "ProHEALTH Urgent Care of Gramercy Park",
+    "alternate_name": "ProHEALTH Urgent Care of Gramercy Park",
+    "description": "If you have COVID-19 symptoms, call our dedicated hotline at 1-516-874-0411 to talk to a medical professional. If your symptoms suggest you need a test, you'll be scheduled for drive-thru testing and an appointment at one of our urgent care locations listed below.\n\nHours and locations are listed below. All locations are open to all patients who require testing. Appointments are required in advance.",
+    "transportation": "Car",
+    "updated": "2020-04-22",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "27",
+        "location_id": "27",
+        "address_1": "291 3rd Ave.",
+        "city": "New York",
+        "region": "Region",
+        "state_province": "NY",
+        "postal_code": "10010",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": [
+      {
+        "id": "27",
+        "location_id": "27",
+        "weekday": "1",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "27",
+        "location_id": "27",
+        "weekday": "2",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "27",
+        "location_id": "27",
+        "weekday": "3",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "27",
+        "location_id": "27",
+        "weekday": "4",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "27",
+        "location_id": "27",
+        "weekday": "5",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "27",
+        "location_id": "27",
+        "weekday": "6",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "27",
+        "location_id": "27",
+        "weekday": "7",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "28",
+    "organization_id": "5",
+    "name": "ProHEALTH Urgent Care of Little Neck",
+    "alternate_name": "ProHEALTH Urgent Care of Little Neck",
+    "description": "If you have COVID-19 symptoms, call our dedicated hotline at 1-516-874-0411 to talk to a medical professional. If your symptoms suggest you need a test, you'll be scheduled for drive-thru testing and an appointment at one of our urgent care locations listed below.\n\nHours and locations are listed below. All locations are open to all patients who require testing. Appointments are required in advance.",
+    "transportation": "Car",
+    "updated": "2020-04-22",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "28",
+        "location_id": "28",
+        "address_1": "254-61 Nassau Blvd.",
+        "city": "Queens",
+        "region": "Region",
+        "state_province": "NY",
+        "postal_code": "11362",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": [
+      {
+        "id": "28",
+        "location_id": "28",
+        "weekday": "1",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "28",
+        "location_id": "28",
+        "weekday": "2",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "28",
+        "location_id": "28",
+        "weekday": "3",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "28",
+        "location_id": "28",
+        "weekday": "4",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "28",
+        "location_id": "28",
+        "weekday": "5",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "28",
+        "location_id": "28",
+        "weekday": "6",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "28",
+        "location_id": "28",
+        "weekday": "7",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "29",
+    "organization_id": "5",
+    "name": "ProHEALTH Urgent Care of Riverhead",
+    "alternate_name": "ProHEALTH Urgent Care of Riverhead",
+    "description": "If you have COVID-19 symptoms, call our dedicated hotline at 1-516-874-0411 to talk to a medical professional. If your symptoms suggest you need a test, you'll be scheduled for drive-thru testing and an appointment at one of our urgent care locations listed below.\n\nHours and locations are listed below. All locations are open to all patients who require testing. Appointments are required in advance.",
     "transportation": "Car",
     "updated": "2020-04-23",
     "featured": "FALSE",
-    "physical_address": [],
-    "phones": [
+    "physical_address": [
       {
-        "id": "19",
-        "location_id": "19",
-        "number": " +1 (800) 755-6236",
-        "extension": "None",
-        "type": "Hospital",
-        "language": "EN",
-        "description": "Pre-screening hotline"
+        "id": "29",
+        "location_id": "29",
+        "address_1": "1149 Old Country Road",
+        "city": "Riverhead",
+        "region": "Region",
+        "state_province": "NY",
+        "postal_code": "11901",
+        "country": "US"
       }
     ],
+    "phones": [],
+    "regular_schedule": [
+      {
+        "id": "29",
+        "location_id": "29",
+        "weekday": "1",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "29",
+        "location_id": "29",
+        "weekday": "2",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "29",
+        "location_id": "29",
+        "weekday": "3",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "29",
+        "location_id": "29",
+        "weekday": "4",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "29",
+        "location_id": "29",
+        "weekday": "5",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "29",
+        "location_id": "29",
+        "weekday": "6",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "29",
+        "location_id": "29",
+        "weekday": "7",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "30",
+    "organization_id": "5",
+    "name": "ProHEALTH Pediatric Urgent Care of Wantagh",
+    "alternate_name": "ProHEALTH Pediatric Urgent Care of Wantagh",
+    "description": "If you have COVID-19 symptoms, call our dedicated hotline at 1-516-874-0411 to talk to a medical professional. If your symptoms suggest you need a test, you'll be scheduled for drive-thru testing and an appointment at one of our urgent care locations listed below.\n\nHours and locations are listed below. All locations are open to all patients who require testing. Appointments are required in advance.",
+    "transportation": "Car",
+    "updated": "2020-04-23",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "30",
+        "location_id": "30",
+        "address_1": "1167 Wantagh Ave.",
+        "city": "Wantagh",
+        "region": "Region",
+        "state_province": "NY",
+        "postal_code": "11793",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": [
+      {
+        "id": "30",
+        "location_id": "30",
+        "weekday": "1",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "30",
+        "location_id": "30",
+        "weekday": "2",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "30",
+        "location_id": "30",
+        "weekday": "3",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "30",
+        "location_id": "30",
+        "weekday": "4",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "30",
+        "location_id": "30",
+        "weekday": "5",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "30",
+        "location_id": "30",
+        "weekday": "6",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "30",
+        "location_id": "30",
+        "weekday": "7",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "31",
+    "organization_id": "5",
+    "name": "ProHEALTH Pediatric Urgent Care of Yorkville",
+    "alternate_name": "ProHEALTH Pediatric Urgent Care of Yorkville",
+    "description": "If you have COVID-19 symptoms, call our dedicated hotline at 1-516-874-0411 to talk to a medical professional. If your symptoms suggest you need a test, you'll be scheduled for drive-thru testing and an appointment at one of our urgent care locations listed below.\n\nHours and locations are listed below. All locations are open to all patients who require testing. Appointments are required in advance.",
+    "transportation": "Car",
+    "updated": "2020-04-23",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "31",
+        "location_id": "31",
+        "address_1": "1601 3rd Ave. (90th St.)",
+        "city": "New York",
+        "region": "Region",
+        "state_province": "NY",
+        "postal_code": "10128",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": [
+      {
+        "id": "31",
+        "location_id": "31",
+        "weekday": "1",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "31",
+        "location_id": "31",
+        "weekday": "2",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "31",
+        "location_id": "31",
+        "weekday": "3",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "31",
+        "location_id": "31",
+        "weekday": "4",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "31",
+        "location_id": "31",
+        "weekday": "5",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "31",
+        "location_id": "31",
+        "weekday": "6",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "31",
+        "location_id": "31",
+        "weekday": "7",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "32",
+    "organization_id": "6",
+    "name": "Cornerstone Family Healthcare",
+    "alternate_name": "Cornerstone Family Healthcare",
+    "description": "Cornerstone Medical Center in Newburgh is offering curbside testing for their patients in their cars. The testing takes place after Cornerstone patients are triaged through a telemedicine process with providers, which reduces risk to other patients and staff.",
+    "transportation": "Car",
+    "updated": "2020-04-23",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "32",
+        "location_id": "32",
+        "address_1": "147 Lake St",
+        "city": "Newburgh",
+        "region": "Region",
+        "state_province": "NY",
+        "postal_code": "12550",
+        "country": "US"
+      }
+    ],
+    "phones": [],
     "regular_schedule": []
   }
 ]
