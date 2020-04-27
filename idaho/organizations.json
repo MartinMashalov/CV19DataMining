@@ -1,10 +1,1 @@
-[
-  {
-    "id": "1",
-    "name": "No Organizations Yet",
-    "alternate_name": "No Organizations Yet",
-    "description": "This is just the first entry into the system.",
-    "email": "No Email",
-    "url": "http://example.com"
-  }
-]
+[{"id":"1","name":"St. Lukes","alternate_name":"St. Lukes","description":"This is just the first entry into the system.","email":"No Email","url":"https://www.stlukesonline.org/blogs/st-lukes/notes-and-announcements/2020/apr/st-lukes-covid-19-coronavirus-announcement"},{"id":"2","name":"Saltzer Health","alternate_name":"Saltzer Health","description":"Saltzer Health is a fast-growing, dynamic healthcare organization with clinics and urgent care locations in Nampa, Caldwell, Meridian & Boise Idaho.","email":"No email","url":"https://saltzerhealth.com/"},{"id":"3","name":"Primary Health Medical Group","alternate_name":"Primary Health Medical Group","description":"Founded by physicians more than 25 years ago, today Primary Health is the largest independent medical group in Idaho with multiple locations throughout Southwest Idaho. Clinics are based on a patient-centered model where medical decisions respect the unique needs of each patient and their families.","email":"No email","url":"https://www.primaryhealth.com/"},{"id":"4","name":"Saint Alphonsus","alternate_name":"Saint Alphonsus","description":"Saint Alphonsus Health System has the region's most advanced Trauma Center. Visit our Boise hopsital, today.","email":"No email","url":"https://www.saintalphonsus.org/"}]
