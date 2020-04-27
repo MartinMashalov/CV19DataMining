@@ -1,12 +1,1 @@
-[
-  {
-    "id": "1",
-    "location_id": "1",
-    "address_1": "201 W Preston St",
-    "city": "Baltimore",
-    "region": "Region",
-    "state_province": "MD",
-    "postal_code": "21201",
-    "country": "US"
-  }
-]
+[{"id":"1","location_id":"1","address_1":"9396 Baltimore Nat'l Pk","city":"Ellicott City","region":"Region","state_province":"MD","postal_code":"21042","country":"US"}]
