@@ -1,12 +1,1 @@
-[
-  {
-    "id": "1",
-    "location_id": "1",
-    "address_1": "930 Wildwood Dr",
-    "city": "Jefferson City",
-    "region": "Region",
-    "state_province": "O",
-    "postal_code": "65109",
-    "country": "US"
-  }
-]
+[{"id":"1","location_id":"1","address_1":"15740 S Outer Forty Road","city":"Chesterfield","region":"Region","state_province":"MO","postal_code":"63017","country":"US"}]
