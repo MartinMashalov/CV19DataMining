@@ -14,7 +14,7 @@
         "location_id": "1",
         "address_1": "129 Turnpike Street",
         "city": "North Andover",
-        "region": "region",
+        "region": "none",
         "state_province": "MA",
         "postal_code": "'01845",
         "country": "US"
@@ -56,7 +56,7 @@
         "location_id": "2",
         "address_1": "16 Main Street",
         "city": "Stoneham",
-        "region": "region",
+        "region": "none",
         "state_province": "MA",
         "postal_code": "'02180",
         "country": "US"
@@ -98,7 +98,7 @@
         "location_id": "3",
         "address_1": "720 Boston Turnpike",
         "city": "Shrewsbury",
-        "region": "region",
+        "region": "none",
         "state_province": "MA",
         "postal_code": "'01545",
         "country": "US"
@@ -182,7 +182,7 @@
         "location_id": "4",
         "address_1": "33 Tower St",
         "city": "Somerville",
-        "region": "region",
+        "region": "none",
         "state_province": "MA",
         "postal_code": "'02143",
         "country": "US"
@@ -266,7 +266,7 @@
         "location_id": "5",
         "address_1": "2240 Iyannough Rd",
         "city": "West Barnstable",
-        "region": "region",
+        "region": "none",
         "state_province": "MA",
         "postal_code": "'02668",
         "country": "US"
@@ -350,7 +350,7 @@
         "location_id": "6",
         "address_1": "27 Park Street",
         "city": "Hyannis",
-        "region": "region",
+        "region": "none",
         "state_province": "MA",
         "postal_code": "'02601",
         "country": "US"
@@ -384,7 +384,7 @@
         "location_id": "7",
         "address_1": "100 Ter Heun Drive",
         "city": "Falmouth",
-        "region": "region",
+        "region": "none",
         "state_province": "MA",
         "postal_code": "'02540",
         "country": "US"
