@@ -2,29 +2,29 @@
   {
     "id": "1",
     "organization_id": "1",
-    "name": "No Locations Yet",
-    "alternate_name": "No Locations Yet",
-    "description": "This is just the first entry in the database. We still need to crowdsource some locations.",
-    "transportation": "Bus, Uber, Car",
+    "name": "UC Health Precision Medicine Laboratory",
+    "alternate_name": "UC Health Precision Medicine Laboratory",
+    "description": "At UC Health, we not only lead the region in breakthroughs, we embrace a spirit of purpose – allowing us to offer our patients and their families something that surpasses traditional healthcare providers. At UC Health, we offer hope.",
+    "transportation": "Car",
     "updated": "2020-03-31",
     "featured": "TRUE",
     "physical_address": [
       {
         "id": "1",
         "location_id": "1",
-        "address_1": "246 High St.",
-        "city": "Columbus",
-        "region": "Region",
+        "address_1": "234 Goodman Street",
+        "city": "Cincinnati",
+        "region": "region",
         "state_province": "OH",
         "postal_code": "43215",
-        "country": "US"
+        "country": "USA"
       }
     ],
     "phones": [
       {
         "id": "1",
         "location_id": "1",
-        "number": "555-555-5555",
+        "number": " +1 513-584-1000",
         "extension": "None",
         "type": "Office",
         "language": "EN",
@@ -36,50 +36,218 @@
         "id": "1",
         "location_id": "1",
         "weekday": "1",
-        "opens_at": "8:00:00 AM",
-        "closes_at": "4:00:00 PM"
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
       },
       {
         "id": "1",
         "location_id": "1",
         "weekday": "2",
-        "opens_at": "8:00:00 AM",
-        "closes_at": "4:00:00 PM"
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
       },
       {
         "id": "1",
         "location_id": "1",
         "weekday": "3",
-        "opens_at": "8:00:00 AM",
-        "closes_at": "4:00:00 PM"
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
       },
       {
         "id": "1",
         "location_id": "1",
         "weekday": "4",
-        "opens_at": "8:00:00 AM",
-        "closes_at": "4:00:00 PM"
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
       },
       {
         "id": "1",
         "location_id": "1",
         "weekday": "5",
-        "opens_at": "8:00:00 AM",
-        "closes_at": "4:00:00 PM"
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
       },
       {
         "id": "1",
         "location_id": "1",
         "weekday": "6",
-        "opens_at": "8:00:00 AM",
-        "closes_at": "4:00:00 PM"
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
       },
       {
         "id": "1",
         "location_id": "1",
         "weekday": "7",
-        "opens_at": "8:00:00 AM",
-        "closes_at": "4:00:00 PM"
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "organization_id": "2",
+    "name": "Cleveland Clinic",
+    "alternate_name": "Cleveland Clinic",
+    "description": "Cleveland Clinic is one of the largest and most respected hospitals in the country. Our mission is to provide better care of the sick, investigation into their problems, and further education of those who serve.",
+    "transportation": "Car",
+    "updated": "2020-04-27",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "2",
+        "location_id": "2",
+        "address_1": "10524 Euclid Avenue",
+        "city": "Cleveland",
+        "region": "region",
+        "state_province": "OH",
+        "postal_code": "44195",
+        "country": "USA"
+      }
+    ],
+    "phones": [
+      {
+        "id": "2",
+        "location_id": "2",
+        "number": " +1 216-444-2200",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "2",
+        "location_id": "2",
+        "weekday": "1",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "2",
+        "location_id": "2",
+        "weekday": "2",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "2",
+        "location_id": "2",
+        "weekday": "3",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "2",
+        "location_id": "2",
+        "weekday": "4",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "2",
+        "location_id": "2",
+        "weekday": "5",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "2",
+        "location_id": "2",
+        "weekday": "6",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "2",
+        "location_id": "2",
+        "weekday": "7",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "organization_id": "3",
+    "name": "University Hospital",
+    "alternate_name": "UH",
+    "description": "University Hospitals is one of the nation’s leading health care systems, providing patient-centered care that meets the highest standards for quality and patient safety and have received numerous awards and recognitions from some of the most prestigious institutions in the country for our leadership and exceptional patient outcomes. ",
+    "transportation": "Car",
+    "updated": "2020-04-27",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "3",
+        "location_id": "3",
+        "address_1": "5850 Landerbrook Dr",
+        "city": "Mayfield Heights",
+        "region": "region",
+        "state_province": "OH",
+        "postal_code": "44124",
+        "country": "USA"
+      }
+    ],
+    "phones": [
+      {
+        "id": "3",
+        "location_id": "3",
+        "number": " +1 216-259-8954",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "3",
+        "location_id": "3",
+        "weekday": "1",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "3",
+        "location_id": "3",
+        "weekday": "2",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "3",
+        "location_id": "3",
+        "weekday": "3",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "3",
+        "location_id": "3",
+        "weekday": "4",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "3",
+        "location_id": "3",
+        "weekday": "5",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "3",
+        "location_id": "3",
+        "weekday": "6",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        "id": "3",
+        "location_id": "3",
+        "weekday": "7",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
       }
     ]
   }
