@@ -1,12 +1,1 @@
-[
-  {
-    "id": "1",
-    "location_id": "1",
-    "address_1": "275 E Main St",
-    "city": "Frankfort",
-    "region": "Region",
-    "state_province": "KY",
-    "postal_code": "40601",
-    "country": "US"
-  }
-]
+[{"id":"1","location_id":"1","address_1":"275 E Main St","city":"Frankfort","region":"Region","state_province":"KY","postal_code":"40601","country":"US"}]
