@@ -1217,7 +1217,18 @@
     "transportation": "CAR",
     "updated": "2020-04-27",
     "featured": "FALSE",
-    "physical_address": [],
+    "physical_address": [
+      {
+        "id": "20",
+        "location_id": "20",
+        "address_1": "120 E. Harris Ave.",
+        "city": "San Angelo",
+        "region": "None",
+        "state_province": "TX",
+        "postal_code": "76903",
+        "country": "US"
+      }
+    ],
     "phones": [
       {
         "id": "20",
@@ -1290,7 +1301,18 @@
     "transportation": "CAR",
     "updated": "2020-04-27",
     "featured": "FALSE",
-    "physical_address": [],
+    "physical_address": [
+      {
+        "id": "21",
+        "location_id": "21",
+        "address_1": "2201 S Clear Creek",
+        "city": "Killeen",
+        "region": "none",
+        "state_province": "TX",
+        "postal_code": "76549",
+        "country": "US"
+      }
+    ],
     "phones": [
       {
         "id": "21",
