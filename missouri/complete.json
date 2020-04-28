@@ -42,7 +42,18 @@
     "transportation": "Car",
     "updated": "2020-04-02",
     "featured": "TRUE",
-    "physical_address": [],
+    "physical_address": [
+      {
+        "id": "2",
+        "location_id": "2",
+        "address_1": "6 Fairgrounds Rd",
+        "city": "Washington",
+        "region": "Region",
+        "state_province": "MO",
+        "postal_code": "63090",
+        "country": "US"
+      }
+    ],
     "phones": [
       {
         "id": "2",
@@ -65,7 +76,18 @@
     "transportation": "Car",
     "updated": "2020-04-02",
     "featured": "FALSE",
-    "physical_address": [],
+    "physical_address": [
+      {
+        "id": "3",
+        "location_id": "3",
+        "address_1": "13045 Tesson Ferry Rd.",
+        "city": "St. Louis",
+        "region": "Region",
+        "state_province": "MO",
+        "postal_code": "63128",
+        "country": "US"
+      }
+    ],
     "phones": [
       {
         "id": "3",
@@ -88,7 +110,18 @@
     "transportation": "Car",
     "updated": "2020-04-02",
     "featured": "FALSE",
-    "physical_address": [],
+    "physical_address": [
+      {
+        "id": "4",
+        "location_id": "4",
+        "address_1": "10349 Business 21",
+        "city": "Hillsboro",
+        "region": "Region",
+        "state_province": "MO",
+        "postal_code": "63050",
+        "country": "US"
+      }
+    ],
     "phones": [
       {
         "id": "4",
@@ -111,7 +144,18 @@
     "transportation": "Car",
     "updated": "2020-04-02",
     "featured": "TRUE",
-    "physical_address": [],
+    "physical_address": [
+      {
+        "id": "5",
+        "location_id": "5",
+        "address_1": "4000 N. Illinois Lane",
+        "city": "Swansea",
+        "region": "Region",
+        "state_province": "MO",
+        "postal_code": "62226",
+        "country": "US"
+      }
+    ],
     "phones": [
       {
         "id": "5",
@@ -184,7 +228,18 @@
     "transportation": "Car",
     "updated": "2020-04-27",
     "featured": "FALSE",
-    "physical_address": [],
+    "physical_address": [
+      {
+        "id": "6",
+        "location_id": "6",
+        "address_1": "101 St Luke's Center Dr",
+        "city": "Chesterfield",
+        "region": "Region",
+        "state_province": "MO",
+        "postal_code": "63017",
+        "country": "US"
+      }
+    ],
     "phones": [
       {
         "id": "6",
@@ -243,7 +298,18 @@
     "transportation": "Car",
     "updated": "2020-04-27",
     "featured": "FALSE",
-    "physical_address": [],
+    "physical_address": [
+      {
+        "id": "7",
+        "location_id": "7",
+        "address_1": "1717 Biddle St",
+        "city": "St. Louis",
+        "region": "Region",
+        "state_province": "MO",
+        "postal_code": "63106",
+        "country": "US"
+      }
+    ],
     "phones": [
       {
         "id": "7",
