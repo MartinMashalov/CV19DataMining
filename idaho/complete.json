@@ -14,7 +14,7 @@
         "location_id": "1",
         "address_1": "20 S. Eagle Rd",
         "city": "Meridian",
-        "region": "region",
+        "region": "none",
         "state_province": "ID",
         "postal_code": "83642",
         "country": "US"
@@ -98,7 +98,7 @@
         "location_id": "2",
         "address_1": "800 E. Park Blvd",
         "city": "Boise",
-        "region": "region",
+        "region": "none",
         "state_province": "ID",
         "postal_code": "83712",
         "country": "US"
@@ -182,7 +182,7 @@
         "location_id": "3",
         "address_1": "1000 State St",
         "city": "McCall",
-        "region": "region",
+        "region": "none",
         "state_province": "ID",
         "postal_code": "83638",
         "country": "US"
@@ -266,7 +266,7 @@
         "location_id": "4",
         "address_1": "575 Pole Line Rd. W.",
         "city": "Twin Falls",
-        "region": "region",
+        "region": "none",
         "state_province": "ID",
         "postal_code": "83301",
         "country": "US"
@@ -350,7 +350,7 @@
         "location_id": "5",
         "address_1": "9850 W. St. Luke’s Drive",
         "city": "Nampa",
-        "region": "region",
+        "region": "none",
         "state_province": "ID",
         "postal_code": "83687",
         "country": "US"
@@ -424,7 +424,7 @@
         "location_id": "6",
         "address_1": "215 E. Hawaii Ave",
         "city": "Nampa",
-        "region": "region",
+        "region": "none",
         "state_province": "ID",
         "postal_code": "83686",
         "country": "US"
