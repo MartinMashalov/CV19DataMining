@@ -230,7 +230,7 @@
     "alternate_name": "STRIDE CHC South Aurora Family Health Services",
     "description": "Open STRIDE CHC locations are screening all patients at the time of scheduling and ALL people are being screened at the doors of all our open health centers. We are using caution to NOT expose staff and patients to anyone who meets COVID-19 at-risk criteria. We kindly ask for your patience and acceptance of these additional screening criteria and the time it might take to accomplish them",
     "transportation": "Car",
-    "updated": "2020-04-27",
+    "updated": "2020-04-23",
     "featured": "FALSE",
     "physical_address": [
       {
@@ -307,8 +307,8 @@
     "alternate_name": "Harrison K-8 School",
     "description": "The FCDPHE announced last week that appointments would be based on referrals from providers for patients that meet testing criteria (health-care workers, persons 60 and older, immunocompromised) or severity of symptoms.",
     "transportation": "Car",
-    "updated": "2020-04-27",
-    "featured": "TRUE",
+    "updated": "2020-04-23",
+    "featured": "FALSE",
     "physical_address": [
       {
         "id": "5",
@@ -323,5 +323,644 @@
     ],
     "phones": [],
     "regular_schedule": []
+  },
+  {
+    "id": "6",
+    "organization_id": "3",
+    "name": "Brighton Location",
+    "alternate_name": "Brighton Location",
+    "description": "If you are symptomatic, call the hotline. A provider will direct you to a drive-through location. Please schedule an online visit by clicking HERE or you can call our online visit phone number at 303-558-0509.",
+    "transportation": "Car",
+    "updated": "2020-04-27",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "6",
+        "location_id": "6",
+        "address_1": "2801 Purcell Street",
+        "city": "Brighton",
+        "region": "State",
+        "state_province": "CO",
+        "postal_code": "80601",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": [
+      {
+        "id": "6",
+        "location_id": "6",
+        "weekday": "1",
+        "opens_at": "10:00 AM",
+        "closes_at": "2:00 PM"
+      },
+      {
+        "id": "6",
+        "location_id": "6",
+        "weekday": "2",
+        "opens_at": "10:00 AM",
+        "closes_at": "2:00 PM"
+      },
+      {
+        "id": "6",
+        "location_id": "6",
+        "weekday": "3",
+        "opens_at": "10:00 AM",
+        "closes_at": "2:00 PM"
+      },
+      {
+        "id": "6",
+        "location_id": "6",
+        "weekday": "4",
+        "opens_at": "10:00 AM",
+        "closes_at": "2:00 PM"
+      },
+      {
+        "id": "6",
+        "location_id": "6",
+        "weekday": "5",
+        "opens_at": "10:00 AM",
+        "closes_at": "2:00 PM"
+      },
+      {
+        "id": "6",
+        "location_id": "6",
+        "weekday": "6",
+        "opens_at": "10:00 AM",
+        "closes_at": "2:00 PM"
+      },
+      {
+        "id": "6",
+        "location_id": "6",
+        "weekday": "7",
+        "opens_at": "10:00 AM",
+        "closes_at": "2:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "organization_id": "3",
+    "name": "Stapleton Location",
+    "alternate_name": "Stapleton Location",
+    "description": "If you are symptomatic, call the hotline. A provider will direct you to a drive-through location. Please schedule an online visit by clicking HERE or you can call our online visit phone number at 303-558-0509.",
+    "transportation": "Car",
+    "updated": "2020-04-27",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "7",
+        "location_id": "7",
+        "address_1": "3890 Quebec St., Ste A & B",
+        "city": "Denver",
+        "region": "State",
+        "state_province": "CO",
+        "postal_code": "80207",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": []
+  },
+  {
+    "id": "8",
+    "organization_id": "3",
+    "name": "Lafayette Location",
+    "alternate_name": "Lafayette Location",
+    "description": "If you are symptomatic, call the hotline. A provider will direct you to a drive-through location. Please schedule an online visit by clicking HERE or you can call our online visit phone number at 303-558-0509.",
+    "transportation": "Car",
+    "updated": "2020-04-27",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "8",
+        "location_id": "8",
+        "address_1": "297 US-287 Ste 110",
+        "city": "Lafayette",
+        "region": "State",
+        "state_province": "CO",
+        "postal_code": "80026",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": []
+  },
+  {
+    "id": "9",
+    "organization_id": "3",
+    "name": "Broomfield Location",
+    "alternate_name": "Broomfield Location",
+    "description": "If you are symptomatic, call the hotline. A provider will direct you to a drive-through location. Please schedule an online visit by clicking HERE or you can call our online visit phone number at 303-558-0509.",
+    "transportation": "Car",
+    "updated": "2020-04-27",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "9",
+        "location_id": "9",
+        "address_1": "3950 W 144th Ave",
+        "city": "Broomfield",
+        "region": "State",
+        "state_province": "CO",
+        "postal_code": "80023",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": []
+  },
+  {
+    "id": "10",
+    "organization_id": "4",
+    "name": "DENVER LEETSDALE",
+    "alternate_name": "DENVER LEETSDALE",
+    "description": "COVID-19 drive-through testing available at all of our locations with appointments only. Schedule testing at: https://afcurgentcaredenver.com/",
+    "transportation": "Car",
+    "updated": "2020-04-27",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "10",
+        "location_id": "10",
+        "address_1": "850 S. Monaco Pkwy",
+        "city": "Denver",
+        "region": "State",
+        "state_province": "CO",
+        "postal_code": "80224",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": [
+      {
+        "id": "10",
+        "location_id": "10",
+        "weekday": "1",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "10",
+        "location_id": "10",
+        "weekday": "2",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "10",
+        "location_id": "10",
+        "weekday": "3",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "10",
+        "location_id": "10",
+        "weekday": "4",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "10",
+        "location_id": "10",
+        "weekday": "5",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "10",
+        "location_id": "10",
+        "weekday": "6",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "10",
+        "location_id": "10",
+        "weekday": "7",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "organization_id": "4",
+    "name": "DENVER SPEER",
+    "alternate_name": "DENVER SPEER",
+    "description": "COVID-19 drive-through testing available at all of our locations with appointments only. Schedule testing at: https://afcurgentcaredenver.com/",
+    "transportation": "Car",
+    "updated": "2020-04-27",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "11",
+        "location_id": "11",
+        "address_1": "777 E Speer Blvd",
+        "city": "Denver",
+        "region": "State",
+        "state_province": "CO",
+        "postal_code": "80203",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": [
+      {
+        "id": "11",
+        "location_id": "11",
+        "weekday": "1",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "11",
+        "location_id": "11",
+        "weekday": "2",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "11",
+        "location_id": "11",
+        "weekday": "3",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "11",
+        "location_id": "11",
+        "weekday": "4",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "11",
+        "location_id": "11",
+        "weekday": "5",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "11",
+        "location_id": "11",
+        "weekday": "6",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "11",
+        "location_id": "11",
+        "weekday": "7",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "organization_id": "4",
+    "name": "DENVER EAST",
+    "alternate_name": "DENVER EAST",
+    "description": "COVID-19 drive-through testing available at all of our locations with appointments only. Schedule testing at: https://afcurgentcaredenver.com/",
+    "transportation": "Car",
+    "updated": "2020-04-27",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "12",
+        "location_id": "12",
+        "address_1": "1295 Colorado Blvd.",
+        "city": "Denver",
+        "region": "State",
+        "state_province": "CO",
+        "postal_code": "80206",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": [
+      {
+        "id": "12",
+        "location_id": "12",
+        "weekday": "1",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "12",
+        "location_id": "12",
+        "weekday": "2",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "12",
+        "location_id": "12",
+        "weekday": "3",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "12",
+        "location_id": "12",
+        "weekday": "4",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "12",
+        "location_id": "12",
+        "weekday": "5",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "12",
+        "location_id": "12",
+        "weekday": "6",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "12",
+        "location_id": "12",
+        "weekday": "7",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "organization_id": "4",
+    "name": "DENVER HIGHLANDS",
+    "alternate_name": "DENVER HIGHLANDS",
+    "description": "COVID-19 drive-through testing available at all of our locations with appointments only. Schedule testing at: https://afcurgentcaredenver.com/",
+    "transportation": "Car",
+    "updated": "2020-04-27",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "13",
+        "location_id": "13",
+        "address_1": "3800 Irving St.",
+        "city": "Denver",
+        "region": "State",
+        "state_province": "CO",
+        "postal_code": "80211",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": [
+      {
+        "id": "13",
+        "location_id": "13",
+        "weekday": "1",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "13",
+        "location_id": "13",
+        "weekday": "2",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "13",
+        "location_id": "13",
+        "weekday": "3",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "13",
+        "location_id": "13",
+        "weekday": "4",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "13",
+        "location_id": "13",
+        "weekday": "5",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "13",
+        "location_id": "13",
+        "weekday": "6",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "13",
+        "location_id": "13",
+        "weekday": "7",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "organization_id": "4",
+    "name": "DENVER CHERRY CREEK",
+    "alternate_name": "DENVER CHERRY CREEK",
+    "description": "COVID-19 drive-through testing available at all of our locations with appointments only. Schedule testing at: https://afcurgentcaredenver.com/",
+    "transportation": "Car",
+    "updated": "2020-04-27",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "14",
+        "location_id": "14",
+        "address_1": "760 S. Colorado Blvd.",
+        "city": "Denver",
+        "region": "State",
+        "state_province": "CO",
+        "postal_code": "80246",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": [
+      {
+        "id": "14",
+        "location_id": "14",
+        "weekday": "1",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "14",
+        "location_id": "14",
+        "weekday": "2",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "14",
+        "location_id": "14",
+        "weekday": "3",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "14",
+        "location_id": "14",
+        "weekday": "4",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "14",
+        "location_id": "14",
+        "weekday": "5",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "14",
+        "location_id": "14",
+        "weekday": "6",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "organization_id": "5",
+    "name": "Lakewood Health Center",
+    "alternate_name": "Lakewood Health Center",
+    "description": "Walk in, no physician referral needed, but must be symptomatic.",
+    "transportation": "Car",
+    "updated": "2020-04-27",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "15",
+        "location_id": "15",
+        "address_1": "8500 Colfax Ave",
+        "city": "Lakewood",
+        "region": "State",
+        "state_province": "CO",
+        "postal_code": "80215",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": [
+      {
+        "id": "15",
+        "location_id": "15",
+        "weekday": "7",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "15",
+        "location_id": "15",
+        "weekday": "1",
+        "opens_at": "9:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "15",
+        "location_id": "15",
+        "weekday": "1",
+        "opens_at": "1:00 PM",
+        "closes_at": "4:00 PM"
+      },
+      {
+        "id": "15",
+        "location_id": "15",
+        "weekday": "2",
+        "opens_at": "9:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "15",
+        "location_id": "15",
+        "weekday": "2",
+        "opens_at": "1:00 PM",
+        "closes_at": "4:00 PM"
+      },
+      {
+        "id": "15",
+        "location_id": "15",
+        "weekday": "3",
+        "opens_at": "9:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "15",
+        "location_id": "15",
+        "weekday": "3",
+        "opens_at": "1:00 PM",
+        "closes_at": "4:00 PM"
+      },
+      {
+        "id": "15",
+        "location_id": "15",
+        "weekday": "4",
+        "opens_at": "9:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "15",
+        "location_id": "15",
+        "weekday": "4",
+        "opens_at": "1:00 PM",
+        "closes_at": "4:00 PM"
+      },
+      {
+        "id": "15",
+        "location_id": "15",
+        "weekday": "5",
+        "opens_at": "9:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "15",
+        "location_id": "15",
+        "weekday": "5",
+        "opens_at": "1:00 PM",
+        "closes_at": "4:00 PM"
+      },
+      {
+        "id": "15",
+        "location_id": "15",
+        "weekday": "6",
+        "opens_at": "9:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "15",
+        "location_id": "15",
+        "weekday": "6",
+        "opens_at": "1:00 PM",
+        "closes_at": "4:00 PM"
+      },
+      {
+        "id": "15",
+        "location_id": "15",
+        "weekday": "7",
+        "opens_at": "9:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "15",
+        "location_id": "15",
+        "weekday": "7",
+        "opens_at": "1:00 PM",
+        "closes_at": "4:00 PM"
+      }
+    ]
   }
 ]
