@@ -161,7 +161,7 @@
         "location_id": "3",
         "address_1": "20200 54th Ave W",
         "city": "Lynnwood",
-        "region": "NW Washington",
+        "region": "None",
         "state_province": "WA",
         "postal_code": "98036",
         "country": "US"
@@ -195,7 +195,7 @@
         "location_id": "4",
         "address_1": "1007 39th Ave. S.E.",
         "city": "Puyallup",
-        "region": "NW Washington",
+        "region": "None",
         "state_province": "WA",
         "postal_code": "98374",
         "country": "US"
@@ -229,7 +229,7 @@
         "location_id": "5",
         "address_1": "13451 S.E. 36th St.",
         "city": "Bellevue",
-        "region": "NW Washington",
+        "region": "None",
         "state_province": "WA",
         "postal_code": "98006",
         "country": "US"
@@ -263,7 +263,7 @@
         "location_id": "6",
         "address_1": "The large parking lot near Everett Memorial Stadium at 3900 Broadway",
         "city": "Everett",
-        "region": "NW Washington",
+        "region": "None",
         "state_province": "WA",
         "postal_code": "98201",
         "country": "US"
@@ -297,7 +297,7 @@
         "location_id": "7",
         "address_1": "700 Lilly Road N.E.",
         "city": "Olympia",
-        "region": "NW Washington",
+        "region": "None",
         "state_province": "WA",
         "postal_code": "98506",
         "country": "US"
