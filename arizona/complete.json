@@ -586,7 +586,17 @@
         "country": "US"
       }
     ],
-    "phones": [],
+    "phones": [
+      {
+        "id": "9",
+        "location_id": "9",
+        "number": " +1 480-573-0352",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Hotline number for screening"
+      }
+    ],
     "regular_schedule": [
       {
         "id": "9",
@@ -646,7 +656,17 @@
         "country": "US"
       }
     ],
-    "phones": [],
+    "phones": [
+      {
+        "id": "10",
+        "location_id": "10",
+        "number": " +1 (520) 290-0667",
+        "extension": "None",
+        "type": "Store",
+        "language": "EN",
+        "description": "Clinic number from website"
+      }
+    ],
     "regular_schedule": []
   },
   {
@@ -670,7 +690,51 @@
         "country": "US"
       }
     ],
-    "phones": [],
+    "phones": [
+      {
+        "id": "11",
+        "location_id": "11",
+        "number": " +1 (623) 583-8248",
+        "extension": "None",
+        "type": "Store",
+        "language": "EN",
+        "description": "Store number from Google Maps listing"
+      }
+    ],
+    "regular_schedule": []
+  },
+  {
+    "id": "12",
+    "organization_id": "7",
+    "name": "Maready Medical",
+    "alternate_name": "Maready Medical",
+    "description": "They require symptomatic patients to be seen first by virtual visits and if you meet the criteria, you can drive to their office located at 4135 S. Power Rd. #113. To schedule, call the office at 480-626-2444 or book online.",
+    "transportation": "Car",
+    "updated": "2020-04-27",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "12",
+        "location_id": "12",
+        "address_1": "4135 S. Power Rd. #113",
+        "city": "Mesa",
+        "region": "NONE",
+        "state_province": "AZ",
+        "postal_code": "85212",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "12",
+        "location_id": "12",
+        "number": " +1 480-626-2444",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Store number from Google Maps listing"
+      }
+    ],
     "regular_schedule": []
   }
 ]
