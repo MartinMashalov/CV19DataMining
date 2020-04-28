@@ -14,7 +14,7 @@
         "location_id": "1",
         "address_1": "15921 Boundary Drive",
         "city": "Ashland",
-        "region": "region",
+        "region": "none",
         "state_province": "MS",
         "postal_code": "38603",
         "country": "US"
@@ -98,7 +98,7 @@
         "location_id": "2",
         "address_1": "531 Main Street",
         "city": "Walnut",
-        "region": "region",
+        "region": "none",
         "state_province": "MS",
         "postal_code": "38683",
         "country": "US"
@@ -132,7 +132,7 @@
         "location_id": "3",
         "address_1": "749 S Line Street",
         "city": "Ripley",
-        "region": "region",
+        "region": "none",
         "state_province": "MS",
         "postal_code": "38663",
         "country": "US"
@@ -166,7 +166,7 @@
         "location_id": "4",
         "address_1": "208 North First Street",
         "city": "Booneville",
-        "region": "region",
+        "region": "none",
         "state_province": "MS",
         "postal_code": "38829",
         "country": "US"
@@ -200,7 +200,7 @@
         "location_id": "5",
         "address_1": "1415 South Harper Rd",
         "city": "Corinth",
-        "region": "region",
+        "region": "none",
         "state_province": "MS",
         "postal_code": "38834",
         "country": "US"
@@ -234,7 +234,7 @@
         "location_id": "6",
         "address_1": "1310 Main St.",
         "city": "Tishomingo",
-        "region": "region",
+        "region": "none",
         "state_province": "MS",
         "postal_code": "38873",
         "country": "US"
@@ -268,7 +268,7 @@
         "location_id": "7",
         "address_1": "218A Oxford Rd",
         "city": "New-Albany",
-        "region": "region",
+        "region": "none",
         "state_province": "MS",
         "postal_code": "38652",
         "country": "US"
@@ -302,7 +302,7 @@
         "location_id": "8",
         "address_1": "2716 W. Oxford Loop Suite 171",
         "city": "Oxford",
-        "region": "region",
+        "region": "none",
         "state_province": "MS",
         "postal_code": "38655",
         "country": "US"
