@@ -14,7 +14,7 @@
         "location_id": "1",
         "address_1": "18653 Wedge Pkwy",
         "city": "Reno",
-        "region": "region",
+        "region": "none",
         "state_province": "NV",
         "postal_code": "89511",
         "country": "US"
@@ -98,7 +98,7 @@
         "location_id": "2",
         "address_1": "6255 Sharlands Ave",
         "city": "Reno",
-        "region": "region",
+        "region": "none",
         "state_province": "NV",
         "postal_code": "89523",
         "country": "US"
@@ -182,7 +182,7 @@
         "location_id": "3",
         "address_1": "280 Vista Knoll Pkwy",
         "city": "Reno",
-        "region": "region",
+        "region": "none",
         "state_province": "NV",
         "postal_code": "89506",
         "country": "US"
@@ -260,7 +260,18 @@
     "transportation": "Car",
     "updated": "2020-04-27",
     "featured": "FALSE",
-    "physical_address": [],
+    "physical_address": [
+      {
+        "id": "4",
+        "location_id": "4",
+        "address_1": "5070 Ion Dr",
+        "city": "Sparks",
+        "region": "none",
+        "state_province": "NV",
+        "postal_code": "89436",
+        "country": "US"
+      }
+    ],
     "phones": [
       {
         "id": "4",
