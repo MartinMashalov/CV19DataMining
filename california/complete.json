@@ -494,21 +494,21 @@
   {
     "id": "10",
     "organization_id": "7",
-    "name": "City of Hayward",
-    "alternate_name": "City of Hayward",
+    "name": "Cal State East Bay",
+    "alternate_name": "Cal State East Bay",
     "description": "To qualify, they had to have a fever of 100.4 degrees Fahrenheit or higher, officials said, but that appeared to be the main hurdle. The tests were free, and people didn’t need a doctor’s slip to take them.\n\n“It’s for anybody, regardless of residency. You don’t have to live in the city of Hayward, you don’t have to be a citizen,” Capt. Don Nichelson of the Hayward Fire Department said. “We’ll take anybody from anywhere,” he added.\n\nThe city of Hayward set up the testing site across from the fire station at 28270 Huntwood Ave. in partnership with Avellino Labs, a private biotechnology firm based in Menlo Park.",
     "transportation": "Car",
-    "updated": "2020-04-01",
+    "updated": "2020-04-27",
     "featured": "FALSE",
     "physical_address": [
       {
         "id": "10",
         "location_id": "10",
-        "address_1": "28270 Huntwood Ave",
+        "address_1": "Lot A, W Loop Road",
         "city": "Hayward",
         "region": "Northern California",
         "state_province": "CA",
-        "postal_code": "94544",
+        "postal_code": "94542",
         "country": "US"
       }
     ],
@@ -1390,7 +1390,7 @@
         "extension": "None",
         "type": "Office",
         "language": "EN",
-        "description": "None"
+        "description": "Office"
       }
     ],
     "regular_schedule": [
@@ -1474,7 +1474,7 @@
         "extension": "None",
         "type": "Office",
         "language": "EN",
-        "description": "None"
+        "description": "Office"
       }
     ],
     "regular_schedule": [
@@ -1558,7 +1558,7 @@
         "extension": "None",
         "type": "Office",
         "language": "EN",
-        "description": "None"
+        "description": "Office"
       }
     ],
     "regular_schedule": [
@@ -1642,7 +1642,7 @@
         "extension": "None",
         "type": "Office",
         "language": "EN",
-        "description": "None"
+        "description": "Office"
       }
     ],
     "regular_schedule": [
@@ -1726,7 +1726,7 @@
         "extension": "None",
         "type": "Office",
         "language": "EN",
-        "description": "None"
+        "description": "Office"
       }
     ],
     "regular_schedule": [
@@ -1810,7 +1810,7 @@
         "extension": "None",
         "type": "Appointment Line",
         "language": "EN",
-        "description": "None"
+        "description": "Office"
       }
     ],
     "regular_schedule": [
@@ -1894,7 +1894,7 @@
         "extension": "None",
         "type": "Appointment Line",
         "language": "EN",
-        "description": "None"
+        "description": "Appointment Line"
       }
     ],
     "regular_schedule": [
@@ -1978,7 +1978,7 @@
         "extension": "None",
         "type": "Question Line",
         "language": "EN, VT",
-        "description": "None"
+        "description": "Appointment Line"
       }
     ],
     "regular_schedule": [
@@ -2048,7 +2048,7 @@
         "extension": "None",
         "type": "Appointment Line",
         "language": "EN",
-        "description": "None"
+        "description": "Question Line"
       }
     ],
     "regular_schedule": [
@@ -2118,7 +2118,7 @@
         "extension": "None",
         "type": "Appointment Line",
         "language": "EN",
-        "description": "None"
+        "description": "Appointment Line"
       }
     ],
     "regular_schedule": [
@@ -2166,7 +2166,7 @@
     "alternate_name": "Hemet Global Medical Center",
     "description": "The testing sites asked that those who feel they are suffering from the disease and the elderly should call first to make an appointment to be tested at the center. Those symptoms are fever, cough, fatigue, aching all over and difficulty breathing.",
     "transportation": "Car",
-    "updated": "2020-04-23",
+    "updated": "2020-04-26",
     "featured": "FALSE",
     "physical_address": [
       {
@@ -2188,7 +2188,7 @@
         "extension": "None",
         "type": "Hotline",
         "language": "EN",
-        "description": "None"
+        "description": "Appointment Line"
       }
     ],
     "regular_schedule": [
@@ -2226,6 +2226,234 @@
         "weekday": "5",
         "opens_at": "8:00 AM",
         "closes_at": "12:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "35",
+    "organization_id": "20",
+    "name": "Fremont Fire Testing Center",
+    "alternate_name": "Fremont Fire Testing Center",
+    "description": "The testing center at 7200 Stevenson Blvd. doesn't require a medical referral. Tests are available for symptomatic members of the public. It's drive-thru only (no walk-up tests allowed) and you'll have to wait in your car. Schedule a test in advance by calling (510) 789-7231.",
+    "transportation": "Car",
+    "updated": "2020-04-27",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "35",
+        "location_id": "35",
+        "address_1": "7200 Stevenson Blvd",
+        "city": "Fremont",
+        "region": "Northern California",
+        "state_province": "CA",
+        "postal_code": "94538",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "35",
+        "location_id": "35",
+        "number": " +1 (510) 789-7231",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Hotline"
+      }
+    ],
+    "regular_schedule": []
+  },
+  {
+    "id": "36",
+    "organization_id": "21",
+    "name": "Kaiser Convention Center",
+    "alternate_name": "Kaiser Convention Center",
+    "description": "The drive-thru testing center is by appointment only, and you can register for an appointment here: https://www.oaklandca.gov/services/covid-19-testing",
+    "transportation": "Car",
+    "updated": "2020-04-27",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "36",
+        "location_id": "36",
+        "address_1": "10 Tenth Street",
+        "city": "Oakland",
+        "region": "Northern California",
+        "state_province": "CA",
+        "postal_code": "94607",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "36",
+        "location_id": "36",
+        "number": "None",
+        "extension": "None",
+        "type": "None",
+        "language": "None",
+        "description": "Office"
+      }
+    ],
+    "regular_schedule": []
+  },
+  {
+    "id": "37",
+    "organization_id": "4",
+    "name": "Alameda County Fairgrounds",
+    "alternate_name": "Alameda County Fairgrounds",
+    "description": "It's open to Pleasanton, Dublin and Livermore residents who are experiencing symptoms or are high risk for the virus. The testing site is located at Gate 12 and you do not need an appointment.",
+    "transportation": "Car",
+    "updated": "2020-04-27",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "37",
+        "location_id": "37",
+        "address_1": "4501 Pleasanton Ave",
+        "city": "Pleasanton",
+        "region": "Northern California",
+        "state_province": "CA",
+        "postal_code": "94566",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "37",
+        "location_id": "37",
+        "number": "None",
+        "extension": "None",
+        "type": "None",
+        "language": "None",
+        "description": "None"
+      }
+    ],
+    "regular_schedule": []
+  },
+  {
+    "id": "38",
+    "organization_id": "22",
+    "name": "Piers 30-32",
+    "alternate_name": "Piers 30-32",
+    "description": "It is meant for drive-thru tests. We can accommodate those without personal vehicles. Please note when you sign up.  On April 22, Mayor Breed announced the testing site would be opened up to all essential workers, in the private and public sectors. People can make an appointment to get a test here: https://sf.gov/citytestsf",
+    "transportation": "Car",
+    "updated": "2020-04-27",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "38",
+        "location_id": "38",
+        "address_1": "Piers 30-32",
+        "city": "San Francisco",
+        "region": "Northern California",
+        "state_province": "CA",
+        "postal_code": "94105",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "38",
+        "location_id": "38",
+        "number": "None",
+        "extension": "None",
+        "type": "None",
+        "language": "None",
+        "description": "None"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "38",
+        "location_id": "38",
+        "weekday": "1",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "38",
+        "location_id": "38",
+        "weekday": "2",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "38",
+        "location_id": "38",
+        "weekday": "3",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "38",
+        "location_id": "38",
+        "weekday": "4",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "38",
+        "location_id": "38",
+        "weekday": "5",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "38",
+        "location_id": "38",
+        "weekday": "6",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "38",
+        "location_id": "38",
+        "weekday": "7",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "39",
+    "organization_id": "22",
+    "name": "CityTestSF",
+    "alternate_name": "CityTestSF",
+    "description": "This site opens Monday April 27. You can schedule a test for SOMA now. Convenient for people on foot.",
+    "transportation": "Car",
+    "updated": "2020-04-27",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "39",
+        "location_id": "39",
+        "address_1": "600 7th St",
+        "city": "San Francisco",
+        "region": "Northern California",
+        "state_province": "CA",
+        "postal_code": "94103",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "39",
+        "location_id": "39",
+        "number": "None",
+        "extension": "None",
+        "type": "None",
+        "language": "None",
+        "description": "None"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "39",
+        "location_id": "39",
+        "weekday": "1",
+        "opens_at": "10:00 AM",
+        "closes_at": "4:00 PM"
       }
     ]
   }
