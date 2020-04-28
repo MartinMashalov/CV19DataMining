@@ -1,10 +1,314 @@
 [
   {
     "id": "1",
-    "name": "No Organizations Yet",
-    "alternate_name": "No Organizations Yet",
-    "description": "This is just the first entry into the system.",
-    "email": "No Email",
-    "url": "http://example.com"
+    "organization_id": "1",
+    "name": "Benton Medical Center",
+    "alternate_name": "Benton Medical Center",
+    "description": "If you believe or are concerned that you might have the COVID-19 virus, you must call our hotline in order to make an appointment for testing. The operator will ask questions about why you believe you may be infected and determine whether testing is appropriate for you. ",
+    "transportation": "transportation",
+    "updated": "2020-04-27",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "1",
+        "location_id": "1",
+        "address_1": "15921 Boundary Drive",
+        "city": "Ashland",
+        "region": "region",
+        "state_province": "MS",
+        "postal_code": "38603",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "1",
+        "location_id": "1",
+        "number": " +1 662-224-8951",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "description"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "1",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "2",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "3",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "4",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "5",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "6",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "7",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "organization_id": "1",
+    "name": "Walnut Medical Center",
+    "alternate_name": "Walnut Medical Center",
+    "description": "If you believe or are concerned that you might have the COVID-19 virus, you must call our hotline in order to make an appointment for testing. The operator will ask questions about why you believe you may be infected and determine whether testing is appropriate for you. ",
+    "transportation": "transportation",
+    "updated": "2020-04-27",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "2",
+        "location_id": "2",
+        "address_1": "531 Main Street",
+        "city": "Walnut",
+        "region": "region",
+        "state_province": "MS",
+        "postal_code": "38683",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "2",
+        "location_id": "2",
+        "number": " +1 662-223-4011",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Clinic number"
+      }
+    ],
+    "regular_schedule": []
+  },
+  {
+    "id": "3",
+    "organization_id": "1",
+    "name": "Ripley Health Care Associates",
+    "alternate_name": "Ripley Health Care Associates",
+    "description": "If you believe or are concerned that you might have the COVID-19 virus, you must call our hotline in order to make an appointment for testing. The operator will ask questions about why you believe you may be infected and determine whether testing is appropriate for you. ",
+    "transportation": "transportation",
+    "updated": "2020-04-27",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "3",
+        "location_id": "3",
+        "address_1": "749 S Line Street",
+        "city": "Ripley",
+        "region": "region",
+        "state_province": "MS",
+        "postal_code": "38663",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "3",
+        "location_id": "3",
+        "number": " +1 662-837-0000",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Clinic number"
+      }
+    ],
+    "regular_schedule": []
+  },
+  {
+    "id": "4",
+    "organization_id": "1",
+    "name": "Booneville Community Health Center",
+    "alternate_name": "Booneville Community Health Center",
+    "description": "If you believe or are concerned that you might have the COVID-19 virus, you must call our hotline in order to make an appointment for testing. The operator will ask questions about why you believe you may be infected and determine whether testing is appropriate for you. ",
+    "transportation": "transportation",
+    "updated": "2020-04-27",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "4",
+        "location_id": "4",
+        "address_1": "208 North First Street",
+        "city": "Booneville",
+        "region": "region",
+        "state_province": "MS",
+        "postal_code": "38829",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "4",
+        "location_id": "4",
+        "number": " +1 662-728-3313",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Clinic number"
+      }
+    ],
+    "regular_schedule": []
+  },
+  {
+    "id": "5",
+    "organization_id": "1",
+    "name": "Corinth Community Health Center",
+    "alternate_name": "Corinth Community Health Center",
+    "description": "If you believe or are concerned that you might have the COVID-19 virus, you must call our hotline in order to make an appointment for testing. The operator will ask questions about why you believe you may be infected and determine whether testing is appropriate for you. ",
+    "transportation": "transportation",
+    "updated": "2020-04-27",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "5",
+        "location_id": "5",
+        "address_1": "1415 South Harper Rd",
+        "city": "Corinth",
+        "region": "region",
+        "state_province": "MS",
+        "postal_code": "38834",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "5",
+        "location_id": "5",
+        "number": " +1 662-396-4406",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Clinic number"
+      }
+    ],
+    "regular_schedule": []
+  },
+  {
+    "id": "6",
+    "organization_id": "1",
+    "name": "Tishomingo Health Care Associates",
+    "alternate_name": "Tishomingo Health Care Associates",
+    "description": "If you believe or are concerned that you might have the COVID-19 virus, you must call our hotline in order to make an appointment for testing. The operator will ask questions about why you believe you may be infected and determine whether testing is appropriate for you. ",
+    "transportation": "transportation",
+    "updated": "2020-04-27",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "6",
+        "location_id": "6",
+        "address_1": "1310 Main St.",
+        "city": "Tishomingo",
+        "region": "region",
+        "state_province": "MS",
+        "postal_code": "38873",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "6",
+        "location_id": "6",
+        "number": " +1 662-471-9416",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Clinic number"
+      }
+    ],
+    "regular_schedule": []
+  },
+  {
+    "id": "7",
+    "organization_id": "1",
+    "name": "New Albany Health Care Associates",
+    "alternate_name": "New Albany Health Care Associates",
+    "description": "If you believe or are concerned that you might have the COVID-19 virus, you must call our hotline in order to make an appointment for testing. The operator will ask questions about why you believe you may be infected and determine whether testing is appropriate for you. ",
+    "transportation": "transportation",
+    "updated": "2020-04-27",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "7",
+        "location_id": "7",
+        "address_1": "218A Oxford Rd",
+        "city": "New-Albany",
+        "region": "region",
+        "state_province": "MS",
+        "postal_code": "38652",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "7",
+        "location_id": "7",
+        "number": " +1 662-598-0007",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Clinic number"
+      }
+    ],
+    "regular_schedule": []
+  },
+  {
+    "id": "8",
+    "organization_id": "1",
+    "name": "Oxford Health Care Associates",
+    "alternate_name": "Oxford Health Care Associates",
+    "description": "If you believe or are concerned that you might have the COVID-19 virus, you must call our hotline in order to make an appointment for testing. The operator will ask questions about why you believe you may be infected and determine whether testing is appropriate for you. ",
+    "transportation": "transportation",
+    "updated": "2020-04-27",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "8",
+        "location_id": "8",
+        "address_1": "2716 W. Oxford Loop Suite 171",
+        "city": "Oxford",
+        "region": "region",
+        "state_province": "MS",
+        "postal_code": "38655",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": []
   }
 ]
