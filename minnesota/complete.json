@@ -972,7 +972,18 @@
     "transportation": "Bus, Uber, Car",
     "updated": "2020-04-27",
     "featured": "FALSE",
-    "physical_address": [],
+    "physical_address": [
+      {
+        "id": "14",
+        "location_id": "14",
+        "address_1": "12800 Rolling Ridge Rd",
+        "city": "Becker",
+        "region": "region",
+        "state_province": "MN",
+        "postal_code": "55308",
+        "country": "US"
+      }
+    ],
     "phones": [
       {
         "id": "14",
@@ -1031,8 +1042,219 @@
     "transportation": "Bus, Uber, Car",
     "updated": "2020-04-27",
     "featured": "FALSE",
-    "physical_address": [],
-    "phones": [],
-    "regular_schedule": []
+    "physical_address": [
+      {
+        "id": "15",
+        "location_id": "15",
+        "address_1": "7920 Old Cedar Ave S",
+        "city": "Bloomington",
+        "region": "region",
+        "state_province": "MN",
+        "postal_code": "55425",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "15",
+        "location_id": "15",
+        "number": " +1 952-428-1800",
+        "extension": "None",
+        "type": "Main Line",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "15",
+        "location_id": "15",
+        "weekday": "1",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:30:00 PM"
+      },
+      {
+        "id": "15",
+        "location_id": "15",
+        "weekday": "2",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:30:00 PM"
+      },
+      {
+        "id": "15",
+        "location_id": "15",
+        "weekday": "3",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:30:00 PM"
+      },
+      {
+        "id": "15",
+        "location_id": "15",
+        "weekday": "4",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:30:00 PM"
+      },
+      {
+        "id": "15",
+        "location_id": "15",
+        "weekday": "5",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:30:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "organization_id": "10",
+    "name": "Buffalo Clinic",
+    "alternate_name": "Buffalo Clinic",
+    "description": "Accepting any symptomatic patient",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-27",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "16",
+        "location_id": "16",
+        "address_1": "1700 Highway 25 N",
+        "city": "Buffalo",
+        "region": "region",
+        "state_province": "MN",
+        "postal_code": "55313",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "16",
+        "location_id": "16",
+        "number": " +1 763-682-1313",
+        "extension": "None",
+        "type": "Main Line",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "16",
+        "location_id": "16",
+        "weekday": "1",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "16",
+        "location_id": "16",
+        "weekday": "2",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "16",
+        "location_id": "16",
+        "weekday": "3",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "16",
+        "location_id": "16",
+        "weekday": "4",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "16",
+        "location_id": "16",
+        "weekday": "5",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "organization_id": "11",
+    "name": "CCM Health Drive Through Testing Station",
+    "alternate_name": "CCM Health Drive Through Testing Station",
+    "description": "Call before arriving. Symptomatic patients at risk, or with underlying conditions, homeless, healthcare works, child care workers",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-27",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "17",
+        "location_id": "17",
+        "address_1": "824 N 11th St",
+        "city": "Montevideo",
+        "region": "region",
+        "state_province": "MN",
+        "postal_code": "56265",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "17",
+        "location_id": "17",
+        "number": " +1 320-269-8877",
+        "extension": "None",
+        "type": "Main Line",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "17",
+        "location_id": "17",
+        "weekday": "1",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "17",
+        "location_id": "17",
+        "weekday": "2",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "17",
+        "location_id": "17",
+        "weekday": "3",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "17",
+        "location_id": "17",
+        "weekday": "4",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "17",
+        "location_id": "17",
+        "weekday": "5",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "17",
+        "location_id": "17",
+        "weekday": "6",
+        "opens_at": "8:00 AM",
+        "closes_at": "2:00 PM"
+      },
+      {
+        "id": "17",
+        "location_id": "17",
+        "weekday": "7",
+        "opens_at": "8:00 AM",
+        "closes_at": "2:00 PM"
+      }
+    ]
   }
 ]
