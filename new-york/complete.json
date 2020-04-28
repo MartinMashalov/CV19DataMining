@@ -257,7 +257,7 @@
     "name": "NYC Health + Hospitals/Bellevue",
     "alternate_name": "NYC Health + Hospitals/Bellevue",
     "description": "All testing sites require an appointment, which can be made calling 718-918-5700 or the Health Department Coronavirus hotline at 1-888-364-3065.\n\nAs tests are still limited in NYC, a number of prescreening questions will be asked. Individuals with no/mild symptoms are currently not tested at these centers to allow testing to be performed to individuals who have increased health risk.\nAn expert COVID-19 physician will then be reached. He/she will determine be if testing eligibility applies. If so, the patient will be added to a waitlist to be called back with an appointment date. Due to high demand, testing will most likely not be for the same day.",
-    "transportation": "Car",
+    "transportation": "N/A",
     "updated": "2020-04-22",
     "featured": "FALSE",
     "physical_address": [
@@ -272,7 +272,17 @@
         "country": "US"
       }
     ],
-    "phones": [],
+    "phones": [
+      {
+        "id": "4",
+        "location_id": "4",
+        "number": "  +1 888-364-3065",
+        "extension": "None",
+        "type": "Hotline",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
     "regular_schedule": []
   },
   {
@@ -281,7 +291,7 @@
     "name": "NYC Health + Hospitals/Elmhurts",
     "alternate_name": "NYC Health + Hospitals/Bellevue",
     "description": "All testing sites require an appointment, which can be made calling 718-918-5700 or the Health Department Coronavirus hotline at 1-888-364-3065.\n\nAs tests are still limited in NYC, a number of prescreening questions will be asked. Individuals with no/mild symptoms are currently not tested at these centers to allow testing to be performed to individuals who have increased health risk.\nAn expert COVID-19 physician will then be reached. He/she will determine be if testing eligibility applies. If so, the patient will be added to a waitlist to be called back with an appointment date. Due to high demand, testing will most likely not be for the same day.",
-    "transportation": "Car",
+    "transportation": "N/A",
     "updated": "2020-04-22",
     "featured": "FALSE",
     "physical_address": [
@@ -296,7 +306,17 @@
         "country": "US"
       }
     ],
-    "phones": [],
+    "phones": [
+      {
+        "id": "5",
+        "location_id": "5",
+        "number": "  +1 888-364-3065",
+        "extension": "None",
+        "type": "Hotline",
+        "language": "EN",
+        "description": "Covid Hotline listed on United Nations instructions"
+      }
+    ],
     "regular_schedule": []
   },
   {
@@ -305,7 +325,7 @@
     "name": "NYC Health + Hospitals/Harlem",
     "alternate_name": "NYC Health + Hospitals/Harlem",
     "description": "All testing sites require an appointment, which can be made calling 718-918-5700 or the Health Department Coronavirus hotline at 1-888-364-3065.\n\nAs tests are still limited in NYC, a number of prescreening questions will be asked. Individuals with no/mild symptoms are currently not tested at these centers to allow testing to be performed to individuals who have increased health risk.\nAn expert COVID-19 physician will then be reached. He/she will determine be if testing eligibility applies. If so, the patient will be added to a waitlist to be called back with an appointment date. Due to high demand, testing will most likely not be for the same day.",
-    "transportation": "Car",
+    "transportation": "N/A",
     "updated": "2020-04-22",
     "featured": "FALSE",
     "physical_address": [
@@ -320,7 +340,17 @@
         "country": "US"
       }
     ],
-    "phones": [],
+    "phones": [
+      {
+        "id": "6",
+        "location_id": "6",
+        "number": "  +1 888-364-3065",
+        "extension": "None",
+        "type": "Hotline",
+        "language": "EN",
+        "description": "Covid Hotline listed on United Nations instructions"
+      }
+    ],
     "regular_schedule": []
   },
   {
@@ -329,7 +359,7 @@
     "name": "NYC Health + Hospitals/Metropolitan",
     "alternate_name": "NYC Health + Hospitals/Metropolitan",
     "description": "All testing sites require an appointment, which can be made calling 718-918-5700 or the Health Department Coronavirus hotline at 1-888-364-3065.\n\nAs tests are still limited in NYC, a number of prescreening questions will be asked. Individuals with no/mild symptoms are currently not tested at these centers to allow testing to be performed to individuals who have increased health risk.\nAn expert COVID-19 physician will then be reached. He/she will determine be if testing eligibility applies. If so, the patient will be added to a waitlist to be called back with an appointment date. Due to high demand, testing will most likely not be for the same day.",
-    "transportation": "Car",
+    "transportation": "N/A",
     "updated": "2020-04-22",
     "featured": "FALSE",
     "physical_address": [
@@ -344,7 +374,17 @@
         "country": "US"
       }
     ],
-    "phones": [],
+    "phones": [
+      {
+        "id": "7",
+        "location_id": "7",
+        "number": "  +1 888-364-3065",
+        "extension": "None",
+        "type": "Hotline",
+        "language": "EN",
+        "description": "Covid Hotline listed on United Nations instructions"
+      }
+    ],
     "regular_schedule": []
   },
   {
@@ -353,7 +393,7 @@
     "name": "NYC Health + Hospitals/Kings County",
     "alternate_name": "NYC Health + Hospitals/Kings County",
     "description": "All testing sites require an appointment, which can be made calling 718-918-5700 or the Health Department Coronavirus hotline at 1-888-364-3065.\n\nAs tests are still limited in NYC, a number of prescreening questions will be asked. Individuals with no/mild symptoms are currently not tested at these centers to allow testing to be performed to individuals who have increased health risk.\nAn expert COVID-19 physician will then be reached. He/she will determine be if testing eligibility applies. If so, the patient will be added to a waitlist to be called back with an appointment date. Due to high demand, testing will most likely not be for the same day.",
-    "transportation": "Car",
+    "transportation": "N/A",
     "updated": "2020-04-22",
     "featured": "FALSE",
     "physical_address": [
@@ -368,7 +408,17 @@
         "country": "US"
       }
     ],
-    "phones": [],
+    "phones": [
+      {
+        "id": "8",
+        "location_id": "8",
+        "number": "  +1 888-364-3065",
+        "extension": "None",
+        "type": "Hotline",
+        "language": "EN",
+        "description": "Covid Hotline listed on United Nations instructions"
+      }
+    ],
     "regular_schedule": []
   },
   {
@@ -377,7 +427,7 @@
     "name": "NYC Health + Hospitals/Lincoln",
     "alternate_name": "NYC Health + Hospitals/Lincoln",
     "description": "All testing sites require an appointment, which can be made calling 718-918-5700 or the Health Department Coronavirus hotline at 1-888-364-3065.\n\nAs tests are still limited in NYC, a number of prescreening questions will be asked. Individuals with no/mild symptoms are currently not tested at these centers to allow testing to be performed to individuals who have increased health risk.\nAn expert COVID-19 physician will then be reached. He/she will determine be if testing eligibility applies. If so, the patient will be added to a waitlist to be called back with an appointment date. Due to high demand, testing will most likely not be for the same day.",
-    "transportation": "Car",
+    "transportation": "N/A",
     "updated": "2020-04-22",
     "featured": "FALSE",
     "physical_address": [
@@ -392,7 +442,17 @@
         "country": "US"
       }
     ],
-    "phones": [],
+    "phones": [
+      {
+        "id": "9",
+        "location_id": "9",
+        "number": "  +1 888-364-3065",
+        "extension": "None",
+        "type": "Hotline",
+        "language": "EN",
+        "description": "Covid Hotline listed on United Nations instructions"
+      }
+    ],
     "regular_schedule": []
   },
   {
@@ -401,7 +461,7 @@
     "name": "NYC Health + Hospitals/Woodhull",
     "alternate_name": "NYC Health + Hospitals/Woodhull",
     "description": "All testing sites require an appointment, which can be made calling 718-918-5700 or the Health Department Coronavirus hotline at 1-888-364-3065.\n\nAs tests are still limited in NYC, a number of prescreening questions will be asked. Individuals with no/mild symptoms are currently not tested at these centers to allow testing to be performed to individuals who have increased health risk.\nAn expert COVID-19 physician will then be reached. He/she will determine be if testing eligibility applies. If so, the patient will be added to a waitlist to be called back with an appointment date. Due to high demand, testing will most likely not be for the same day.",
-    "transportation": "Car",
+    "transportation": "N/A",
     "updated": "2020-04-22",
     "featured": "FALSE",
     "physical_address": [
@@ -416,7 +476,17 @@
         "country": "US"
       }
     ],
-    "phones": [],
+    "phones": [
+      {
+        "id": "10",
+        "location_id": "10",
+        "number": "  +1 888-364-3065",
+        "extension": "None",
+        "type": "Hotline",
+        "language": "EN",
+        "description": "Covid Hotline listed on United Nations instructions"
+      }
+    ],
     "regular_schedule": []
   },
   {
@@ -425,7 +495,7 @@
     "name": "NYC Health + Hospitals/Queens",
     "alternate_name": "NYC Health + Hospitals/Queens",
     "description": "All testing sites require an appointment, which can be made calling 718-918-5700 or the Health Department Coronavirus hotline at 1-888-364-3065.\n\nAs tests are still limited in NYC, a number of prescreening questions will be asked. Individuals with no/mild symptoms are currently not tested at these centers to allow testing to be performed to individuals who have increased health risk.\nAn expert COVID-19 physician will then be reached. He/she will determine be if testing eligibility applies. If so, the patient will be added to a waitlist to be called back with an appointment date. Due to high demand, testing will most likely not be for the same day.",
-    "transportation": "Car",
+    "transportation": "N/A",
     "updated": "2020-04-22",
     "featured": "FALSE",
     "physical_address": [
@@ -440,7 +510,17 @@
         "country": "US"
       }
     ],
-    "phones": [],
+    "phones": [
+      {
+        "id": "11",
+        "location_id": "11",
+        "number": "  +1 888-364-3065",
+        "extension": "None",
+        "type": "Hotline",
+        "language": "EN",
+        "description": "Covid Hotline listed on United Nations instructions"
+      }
+    ],
     "regular_schedule": []
   },
   {
@@ -449,7 +529,7 @@
     "name": "NYC Health + Hospitals/Coney Island",
     "alternate_name": "NYC Health + Hospitals/Coney Island",
     "description": "All testing sites require an appointment, which can be made calling 718-918-5700 or the Health Department Coronavirus hotline at 1-888-364-3065.\n\nAs tests are still limited in NYC, a number of prescreening questions will be asked. Individuals with no/mild symptoms are currently not tested at these centers to allow testing to be performed to individuals who have increased health risk.\nAn expert COVID-19 physician will then be reached. He/she will determine be if testing eligibility applies. If so, the patient will be added to a waitlist to be called back with an appointment date. Due to high demand, testing will most likely not be for the same day.",
-    "transportation": "Car",
+    "transportation": "N/A",
     "updated": "2020-04-22",
     "featured": "FALSE",
     "physical_address": [
@@ -464,7 +544,17 @@
         "country": "US"
       }
     ],
-    "phones": [],
+    "phones": [
+      {
+        "id": "12",
+        "location_id": "12",
+        "number": "  +1 888-364-3065",
+        "extension": "None",
+        "type": "Hotline",
+        "language": "EN",
+        "description": "Covid Hotline listed on United Nations instructions"
+      }
+    ],
     "regular_schedule": []
   },
   {
@@ -473,7 +563,7 @@
     "name": "NYC Health + Hospitals/Jacobi",
     "alternate_name": "NYC Health + Hospitals/Jacobi",
     "description": "All testing sites require an appointment, which can be made calling 718-918-5700 or the Health Department Coronavirus hotline at 1-888-364-3065.\n\nAs tests are still limited in NYC, a number of prescreening questions will be asked. Individuals with no/mild symptoms are currently not tested at these centers to allow testing to be performed to individuals who have increased health risk.\nAn expert COVID-19 physician will then be reached. He/she will determine be if testing eligibility applies. If so, the patient will be added to a waitlist to be called back with an appointment date. Due to high demand, testing will most likely not be for the same day.",
-    "transportation": "Car",
+    "transportation": "N/A",
     "updated": "2020-04-22",
     "featured": "FALSE",
     "physical_address": [
@@ -488,7 +578,17 @@
         "country": "US"
       }
     ],
-    "phones": [],
+    "phones": [
+      {
+        "id": "13",
+        "location_id": "13",
+        "number": "  +1 888-364-3065",
+        "extension": "None",
+        "type": "Hotline",
+        "language": "EN",
+        "description": "Covid Hotline listed on United Nations instructions"
+      }
+    ],
     "regular_schedule": []
   },
   {
@@ -497,7 +597,7 @@
     "name": "NYC Health + Hospitals/Gotham Health, Morrisania",
     "alternate_name": "NYC Health + Hospitals/Gotham Health, Morrisania",
     "description": "All testing sites require an appointment, which can be made calling 718-918-5700 or the Health Department Coronavirus hotline at 1-888-364-3065.\n\nAs tests are still limited in NYC, a number of prescreening questions will be asked. Individuals with no/mild symptoms are currently not tested at these centers to allow testing to be performed to individuals who have increased health risk.\nAn expert COVID-19 physician will then be reached. He/she will determine be if testing eligibility applies. If so, the patient will be added to a waitlist to be called back with an appointment date. Due to high demand, testing will most likely not be for the same day.",
-    "transportation": "Car",
+    "transportation": "N/A",
     "updated": "2020-04-22",
     "featured": "FALSE",
     "physical_address": [
@@ -512,7 +612,17 @@
         "country": "US"
       }
     ],
-    "phones": [],
+    "phones": [
+      {
+        "id": "14",
+        "location_id": "14",
+        "number": "  +1 888-364-3065",
+        "extension": "None",
+        "type": "Hotline",
+        "language": "EN",
+        "description": "Covid Hotline listed on United Nations instructions"
+      }
+    ],
     "regular_schedule": []
   },
   {
@@ -521,7 +631,7 @@
     "name": "NYC Health + Hospitals/Gotham Health, Belvis",
     "alternate_name": "NYC Health + Hospitals/Gotham Health, Belvis",
     "description": "All testing sites require an appointment, which can be made calling 718-918-5700 or the Health Department Coronavirus hotline at 1-888-364-3065.\n\nAs tests are still limited in NYC, a number of prescreening questions will be asked. Individuals with no/mild symptoms are currently not tested at these centers to allow testing to be performed to individuals who have increased health risk.\nAn expert COVID-19 physician will then be reached. He/she will determine be if testing eligibility applies. If so, the patient will be added to a waitlist to be called back with an appointment date. Due to high demand, testing will most likely not be for the same day.",
-    "transportation": "Car",
+    "transportation": "N/A",
     "updated": "2020-04-22",
     "featured": "FALSE",
     "physical_address": [
@@ -536,7 +646,17 @@
         "country": "US"
       }
     ],
-    "phones": [],
+    "phones": [
+      {
+        "id": "15",
+        "location_id": "15",
+        "number": "  +1 888-364-3065",
+        "extension": "None",
+        "type": "Hotline",
+        "language": "EN",
+        "description": "Covid Hotline listed on United Nations instructions"
+      }
+    ],
     "regular_schedule": []
   },
   {
@@ -545,7 +665,7 @@
     "name": "NYC Health + Hospitals/Gotham Health, Cumberland",
     "alternate_name": "NYC Health + Hospitals/Gotham Health, Cumberland",
     "description": "All testing sites require an appointment, which can be made calling 718-918-5700 or the Health Department Coronavirus hotline at 1-888-364-3065.\n\nAs tests are still limited in NYC, a number of prescreening questions will be asked. Individuals with no/mild symptoms are currently not tested at these centers to allow testing to be performed to individuals who have increased health risk.\nAn expert COVID-19 physician will then be reached. He/she will determine be if testing eligibility applies. If so, the patient will be added to a waitlist to be called back with an appointment date. Due to high demand, testing will most likely not be for the same day.",
-    "transportation": "Car",
+    "transportation": "N/A",
     "updated": "2020-04-22",
     "featured": "FALSE",
     "physical_address": [
@@ -560,7 +680,17 @@
         "country": "US"
       }
     ],
-    "phones": [],
+    "phones": [
+      {
+        "id": "16",
+        "location_id": "16",
+        "number": "  +1 888-364-3065",
+        "extension": "None",
+        "type": "Hotline",
+        "language": "EN",
+        "description": "Covid Hotline listed on United Nations instructions"
+      }
+    ],
     "regular_schedule": []
   },
   {
@@ -569,7 +699,7 @@
     "name": "NYC Health + Hospitals/Gotham Health, East New York",
     "alternate_name": "NYC Health + Hospitals/Gotham Health, East New York",
     "description": "All testing sites require an appointment, which can be made calling 718-918-5700 or the Health Department Coronavirus hotline at 1-888-364-3065.\n\nAs tests are still limited in NYC, a number of prescreening questions will be asked. Individuals with no/mild symptoms are currently not tested at these centers to allow testing to be performed to individuals who have increased health risk.\nAn expert COVID-19 physician will then be reached. He/she will determine be if testing eligibility applies. If so, the patient will be added to a waitlist to be called back with an appointment date. Due to high demand, testing will most likely not be for the same day.",
-    "transportation": "Car",
+    "transportation": "N/A",
     "updated": "2020-04-22",
     "featured": "FALSE",
     "physical_address": [
@@ -584,7 +714,17 @@
         "country": "US"
       }
     ],
-    "phones": [],
+    "phones": [
+      {
+        "id": "17",
+        "location_id": "17",
+        "number": "  +1 888-364-3065",
+        "extension": "None",
+        "type": "Hotline",
+        "language": "EN",
+        "description": "Covid Hotline listed on United Nations instructions"
+      }
+    ],
     "regular_schedule": []
   },
   {
@@ -593,7 +733,7 @@
     "name": "NYC Health + Hospitals/Gotham Health, Gouverneur",
     "alternate_name": "NYC Health + Hospitals/Gotham Health, Gouverneur",
     "description": "All testing sites require an appointment, which can be made calling 718-918-5700 or the Health Department Coronavirus hotline at 1-888-364-3065.\n\nAs tests are still limited in NYC, a number of prescreening questions will be asked. Individuals with no/mild symptoms are currently not tested at these centers to allow testing to be performed to individuals who have increased health risk.\nAn expert COVID-19 physician will then be reached. He/she will determine be if testing eligibility applies. If so, the patient will be added to a waitlist to be called back with an appointment date. Due to high demand, testing will most likely not be for the same day.",
-    "transportation": "Car",
+    "transportation": "N/A",
     "updated": "2020-04-22",
     "featured": "FALSE",
     "physical_address": [
@@ -608,7 +748,17 @@
         "country": "US"
       }
     ],
-    "phones": [],
+    "phones": [
+      {
+        "id": "18",
+        "location_id": "18",
+        "number": "  +1 888-364-3065",
+        "extension": "None",
+        "type": "Hotline",
+        "language": "EN",
+        "description": "Covid Hotline listed on United Nations instructions"
+      }
+    ],
     "regular_schedule": []
   },
   {
@@ -617,7 +767,7 @@
     "name": "NYC Health + Hospitals/Gotham Health, Sydenham",
     "alternate_name": "NYC Health + Hospitals/Gotham Health, Sydenham",
     "description": "All testing sites require an appointment, which can be made calling 718-918-5700 or the Health Department Coronavirus hotline at 1-888-364-3065.\n\nAs tests are still limited in NYC, a number of prescreening questions will be asked. Individuals with no/mild symptoms are currently not tested at these centers to allow testing to be performed to individuals who have increased health risk.\nAn expert COVID-19 physician will then be reached. He/she will determine be if testing eligibility applies. If so, the patient will be added to a waitlist to be called back with an appointment date. Due to high demand, testing will most likely not be for the same day.",
-    "transportation": "Car",
+    "transportation": "N/A",
     "updated": "2020-04-22",
     "featured": "FALSE",
     "physical_address": [
@@ -632,7 +782,17 @@
         "country": "US"
       }
     ],
-    "phones": [],
+    "phones": [
+      {
+        "id": "19",
+        "location_id": "19",
+        "number": "  +1 888-364-3065",
+        "extension": "None",
+        "type": "Hotline",
+        "language": "EN",
+        "description": "Covid Hotline listed on United Nations instructions"
+      }
+    ],
     "regular_schedule": []
   },
   {
@@ -641,7 +801,7 @@
     "name": "NYC Health + Hospitals/Gotham Health, Vanderbilt",
     "alternate_name": "NYC Health + Hospitals/Gotham Health, Vanderbilt",
     "description": "All testing sites require an appointment, which can be made calling 718-918-5700 or the Health Department Coronavirus hotline at 1-888-364-3065.\n\nAs tests are still limited in NYC, a number of prescreening questions will be asked. Individuals with no/mild symptoms are currently not tested at these centers to allow testing to be performed to individuals who have increased health risk.\nAn expert COVID-19 physician will then be reached. He/she will determine be if testing eligibility applies. If so, the patient will be added to a waitlist to be called back with an appointment date. Due to high demand, testing will most likely not be for the same day.",
-    "transportation": "Car",
+    "transportation": "N/A",
     "updated": "2020-04-22",
     "featured": "FALSE",
     "physical_address": [
@@ -656,7 +816,17 @@
         "country": "US"
       }
     ],
-    "phones": [],
+    "phones": [
+      {
+        "id": "20",
+        "location_id": "20",
+        "number": "  +1 888-364-3065",
+        "extension": "None",
+        "type": "Hotline",
+        "language": "EN",
+        "description": "Covid Hotline listed on United Nations instructions"
+      }
+    ],
     "regular_schedule": []
   },
   {
@@ -665,7 +835,7 @@
     "name": "Anthony Wayne State Park",
     "alternate_name": "Anthony Wayne State Park",
     "description": "Anthony Wayne State Park is currently closed to the public for hiking, recreational activity or other park related access. This site is host to a COVID-19 testing facility. The drive-through sites are prioritizing sampling for individuals that are part of the highest risk population. Residents who would like to be tested can make an appointment by calling 888-364-3065. ",
-    "transportation": "Car",
+    "transportation": "N/A",
     "updated": "2020-04-22",
     "featured": "FALSE",
     "physical_address": [
@@ -680,7 +850,17 @@
         "country": "US"
       }
     ],
-    "phones": [],
+    "phones": [
+      {
+        "id": "21",
+        "location_id": "21",
+        "number": " +1 888-364-3065",
+        "extension": "None",
+        "type": "Appointment Line",
+        "language": "EN",
+        "description": "Covid Hotline listed on United Nations instructions"
+      }
+    ],
     "regular_schedule": [
       {
         "id": "20",
@@ -739,7 +919,7 @@
     "name": "Glen Island Park",
     "alternate_name": "Glen Island Park",
     "description": "Appointment Only",
-    "transportation": "Car",
+    "transportation": "N/A",
     "updated": "2020-04-22",
     "featured": "FALSE",
     "physical_address": [
@@ -754,7 +934,17 @@
         "country": "US"
       }
     ],
-    "phones": [],
+    "phones": [
+      {
+        "id": "22",
+        "location_id": "22",
+        "number": " +1 888-364-3065",
+        "extension": "None",
+        "type": "Appointment Line",
+        "language": "EN",
+        "description": "Number from state park page"
+      }
+    ],
     "regular_schedule": [
       {
         "id": "22",
@@ -806,7 +996,7 @@
     "name": "Jones Beach State Park",
     "alternate_name": "Jones Beach State Park",
     "description": "Appointment Only",
-    "transportation": "Car",
+    "transportation": "N/A",
     "updated": "2020-04-22",
     "featured": "FALSE",
     "physical_address": [
@@ -821,7 +1011,17 @@
         "country": "US"
       }
     ],
-    "phones": [],
+    "phones": [
+      {
+        "id": "23",
+        "location_id": "23",
+        "number": " +1 888-364-3065",
+        "extension": "None",
+        "type": "Appointment Line",
+        "language": "EN",
+        "description": "Number from state park page"
+      }
+    ],
     "regular_schedule": []
   },
   {
@@ -830,7 +1030,7 @@
     "name": "ProHEALTH Urgent Care of Jericho",
     "alternate_name": "ProHEALTH Urgent Care of Jericho",
     "description": "If you have COVID-19 symptoms, call our dedicated hotline at 1-516-874-0411 to talk to a medical professional. If your symptoms suggest you need a test, you'll be scheduled for drive-thru testing and an appointment at one of our urgent care locations listed below.\n\nHours and locations are listed below. All locations are open to all patients who require testing. Appointments are required in advance.",
-    "transportation": "Car",
+    "transportation": "N/A",
     "updated": "2020-04-22",
     "featured": "FALSE",
     "physical_address": [
@@ -845,7 +1045,17 @@
         "country": "US"
       }
     ],
-    "phones": [],
+    "phones": [
+      {
+        "id": "24",
+        "location_id": "24",
+        "number": " +1 516-874-0411",
+        "extension": "None",
+        "type": "Hotline",
+        "language": "EN",
+        "description": "Number from state park page"
+      }
+    ],
     "regular_schedule": [
       {
         "id": "24",
@@ -904,7 +1114,7 @@
     "name": "ProHEALTH Campus – Lake Success",
     "alternate_name": "ProHEALTH Campus – Lake Success",
     "description": "If you have COVID-19 symptoms, call our dedicated hotline at 1-516-874-0411 to talk to a medical professional. If your symptoms suggest you need a test, you'll be scheduled for drive-thru testing and an appointment at one of our urgent care locations listed below.\n\nHours and locations are listed below. All locations are open to all patients who require testing. Appointments are required in advance.",
-    "transportation": "Car",
+    "transportation": "N/A",
     "updated": "2020-04-22",
     "featured": "FALSE",
     "physical_address": [
@@ -919,7 +1129,17 @@
         "country": "US"
       }
     ],
-    "phones": [],
+    "phones": [
+      {
+        "id": "25",
+        "location_id": "25",
+        "number": " +1 516-874-0411",
+        "extension": "None",
+        "type": "Hotline",
+        "language": "EN",
+        "description": "Hotline from ProHealth website"
+      }
+    ],
     "regular_schedule": [
       {
         "id": "25",
@@ -978,7 +1198,7 @@
     "name": "ProHEALTH Urgent Care of Fort Hamilton",
     "alternate_name": "ProHEALTH Urgent Care of Fort Hamilton",
     "description": "If you have COVID-19 symptoms, call our dedicated hotline at 1-516-874-0411 to talk to a medical professional. If your symptoms suggest you need a test, you'll be scheduled for drive-thru testing and an appointment at one of our urgent care locations listed below.\n\nHours and locations are listed below. All locations are open to all patients who require testing. Appointments are required in advance.",
-    "transportation": "Car",
+    "transportation": "N/A",
     "updated": "2020-04-22",
     "featured": "FALSE",
     "physical_address": [
@@ -993,7 +1213,17 @@
         "country": "US"
       }
     ],
-    "phones": [],
+    "phones": [
+      {
+        "id": "26",
+        "location_id": "26",
+        "number": " +1 516-874-0411",
+        "extension": "None",
+        "type": "Hotline",
+        "language": "EN",
+        "description": "Hotline from ProHealth website"
+      }
+    ],
     "regular_schedule": [
       {
         "id": "26",
@@ -1052,7 +1282,7 @@
     "name": "ProHEALTH Urgent Care of Gramercy Park",
     "alternate_name": "ProHEALTH Urgent Care of Gramercy Park",
     "description": "If you have COVID-19 symptoms, call our dedicated hotline at 1-516-874-0411 to talk to a medical professional. If your symptoms suggest you need a test, you'll be scheduled for drive-thru testing and an appointment at one of our urgent care locations listed below.\n\nHours and locations are listed below. All locations are open to all patients who require testing. Appointments are required in advance.",
-    "transportation": "Car",
+    "transportation": "N/A",
     "updated": "2020-04-22",
     "featured": "FALSE",
     "physical_address": [
@@ -1067,7 +1297,17 @@
         "country": "US"
       }
     ],
-    "phones": [],
+    "phones": [
+      {
+        "id": "27",
+        "location_id": "27",
+        "number": " +1 516-874-0411",
+        "extension": "None",
+        "type": "Hotline",
+        "language": "EN",
+        "description": "Hotline from ProHealth website"
+      }
+    ],
     "regular_schedule": [
       {
         "id": "27",
@@ -1126,7 +1366,7 @@
     "name": "ProHEALTH Urgent Care of Little Neck",
     "alternate_name": "ProHEALTH Urgent Care of Little Neck",
     "description": "If you have COVID-19 symptoms, call our dedicated hotline at 1-516-874-0411 to talk to a medical professional. If your symptoms suggest you need a test, you'll be scheduled for drive-thru testing and an appointment at one of our urgent care locations listed below.\n\nHours and locations are listed below. All locations are open to all patients who require testing. Appointments are required in advance.",
-    "transportation": "Car",
+    "transportation": "N/A",
     "updated": "2020-04-22",
     "featured": "FALSE",
     "physical_address": [
@@ -1141,7 +1381,17 @@
         "country": "US"
       }
     ],
-    "phones": [],
+    "phones": [
+      {
+        "id": "28",
+        "location_id": "28",
+        "number": " +1 516-874-0411",
+        "extension": "None",
+        "type": "Hotline",
+        "language": "EN",
+        "description": "Hotline from ProHealth website"
+      }
+    ],
     "regular_schedule": [
       {
         "id": "28",
@@ -1200,7 +1450,7 @@
     "name": "ProHEALTH Urgent Care of Riverhead",
     "alternate_name": "ProHEALTH Urgent Care of Riverhead",
     "description": "If you have COVID-19 symptoms, call our dedicated hotline at 1-516-874-0411 to talk to a medical professional. If your symptoms suggest you need a test, you'll be scheduled for drive-thru testing and an appointment at one of our urgent care locations listed below.\n\nHours and locations are listed below. All locations are open to all patients who require testing. Appointments are required in advance.",
-    "transportation": "Car",
+    "transportation": "N/A",
     "updated": "2020-04-23",
     "featured": "FALSE",
     "physical_address": [
@@ -1215,7 +1465,17 @@
         "country": "US"
       }
     ],
-    "phones": [],
+    "phones": [
+      {
+        "id": "29",
+        "location_id": "29",
+        "number": " +1 516-874-0411",
+        "extension": "None",
+        "type": "Hotline",
+        "language": "EN",
+        "description": "Hotline from ProHealth website"
+      }
+    ],
     "regular_schedule": [
       {
         "id": "29",
@@ -1274,7 +1534,7 @@
     "name": "ProHEALTH Pediatric Urgent Care of Wantagh",
     "alternate_name": "ProHEALTH Pediatric Urgent Care of Wantagh",
     "description": "If you have COVID-19 symptoms, call our dedicated hotline at 1-516-874-0411 to talk to a medical professional. If your symptoms suggest you need a test, you'll be scheduled for drive-thru testing and an appointment at one of our urgent care locations listed below.\n\nHours and locations are listed below. All locations are open to all patients who require testing. Appointments are required in advance.",
-    "transportation": "Car",
+    "transportation": "N/A",
     "updated": "2020-04-23",
     "featured": "FALSE",
     "physical_address": [
@@ -1289,7 +1549,17 @@
         "country": "US"
       }
     ],
-    "phones": [],
+    "phones": [
+      {
+        "id": "30",
+        "location_id": "30",
+        "number": " +1 516-874-0411",
+        "extension": "None",
+        "type": "Hotline",
+        "language": "EN",
+        "description": "Hotline from ProHealth website"
+      }
+    ],
     "regular_schedule": [
       {
         "id": "30",
@@ -1348,7 +1618,7 @@
     "name": "ProHEALTH Pediatric Urgent Care of Yorkville",
     "alternate_name": "ProHEALTH Pediatric Urgent Care of Yorkville",
     "description": "If you have COVID-19 symptoms, call our dedicated hotline at 1-516-874-0411 to talk to a medical professional. If your symptoms suggest you need a test, you'll be scheduled for drive-thru testing and an appointment at one of our urgent care locations listed below.\n\nHours and locations are listed below. All locations are open to all patients who require testing. Appointments are required in advance.",
-    "transportation": "Car",
+    "transportation": "N/A",
     "updated": "2020-04-23",
     "featured": "FALSE",
     "physical_address": [
@@ -1363,7 +1633,17 @@
         "country": "US"
       }
     ],
-    "phones": [],
+    "phones": [
+      {
+        "id": "31",
+        "location_id": "31",
+        "number": " +1 516-874-0411",
+        "extension": "None",
+        "type": "Hotline",
+        "language": "EN",
+        "description": "Hotline from ProHealth website"
+      }
+    ],
     "regular_schedule": [
       {
         "id": "31",
@@ -1422,7 +1702,7 @@
     "name": "Cornerstone Family Healthcare",
     "alternate_name": "Cornerstone Family Healthcare",
     "description": "Cornerstone Medical Center in Newburgh is offering curbside testing for their patients in their cars. The testing takes place after Cornerstone patients are triaged through a telemedicine process with providers, which reduces risk to other patients and staff.",
-    "transportation": "Car",
+    "transportation": "N/A",
     "updated": "2020-04-23",
     "featured": "FALSE",
     "physical_address": [
@@ -1437,7 +1717,17 @@
         "country": "US"
       }
     ],
-    "phones": [],
+    "phones": [
+      {
+        "id": "32",
+        "location_id": "32",
+        "number": " +1 (845) 563-8000",
+        "extension": "None",
+        "type": "Hotline",
+        "language": "EN",
+        "description": "Hotline from ProHealth website"
+      }
+    ],
     "regular_schedule": []
   }
 ]
