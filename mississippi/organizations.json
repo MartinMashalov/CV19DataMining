@@ -1,10 +1,1 @@
-[
-  {
-    "id": "1",
-    "name": "No Organizations Yet",
-    "alternate_name": "No Organizations Yet",
-    "description": "This is just the first entry into the system.",
-    "email": "No Email",
-    "url": "http://example.com"
-  }
-]
+[{"id":"1","name":"North Mississippi Primary Health Care","alternate_name":"North Mississippi Primary Health Care","description":"We are a private-nonprofit Community Health Center organization with six clinics and a mobile unit in north Mississippi. We are partially funded through HRSA (Section 330 U.S. Public Health). We are a Federal Qualified Health Center and all of our clinics are FTCA deemed facilities. We exist to give the entire community access to healthcare.  Our focus is on those in the community who need care the most and yet have the least access.","email":"No Email","url":"http://www.nmphc.org/"}]
