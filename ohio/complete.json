@@ -14,7 +14,7 @@
         "location_id": "1",
         "address_1": "234 Goodman Street",
         "city": "Cincinnati",
-        "region": "region",
+        "region": "none",
         "state_province": "OH",
         "postal_code": "43215",
         "country": "USA"
@@ -98,7 +98,7 @@
         "location_id": "2",
         "address_1": "10524 Euclid Avenue",
         "city": "Cleveland",
-        "region": "region",
+        "region": "none",
         "state_province": "OH",
         "postal_code": "44195",
         "country": "USA"
@@ -182,7 +182,7 @@
         "location_id": "3",
         "address_1": "5850 Landerbrook Dr",
         "city": "Mayfield Heights",
-        "region": "region",
+        "region": "none",
         "state_province": "OH",
         "postal_code": "44124",
         "country": "USA"
