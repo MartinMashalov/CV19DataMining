@@ -2,8 +2,8 @@
   {
     "id": "1",
     "organization_id": "1",
-    "name": "No Locations Yet",
-    "alternate_name": "No Locations Yet",
+    "name": "Muhlenberg Community Hospital",
+    "alternate_name": "Muhlenberg Community Hospital",
     "description": "This is just the first entry in the database. We still need to crowdsource some locations.",
     "transportation": "Bus, Uber, Car",
     "updated": "2020-03-31",
@@ -12,11 +12,11 @@
       {
         "id": "1",
         "location_id": "1",
-        "address_1": "275 E Main St",
-        "city": "Frankfort",
+        "address_1": "440 Hopkinsville Street",
+        "city": "Greenville",
         "region": "Region",
         "state_province": "KY",
-        "postal_code": "40601",
+        "postal_code": "42345",
         "country": "US"
       }
     ],
@@ -24,7 +24,7 @@
       {
         "id": "1",
         "location_id": "1",
-        "number": "555-555-5555",
+        "number": "(270) 338-8000",
         "extension": "None",
         "type": "Office",
         "language": "EN",
@@ -36,50 +36,50 @@
         "id": "1",
         "location_id": "1",
         "weekday": "1",
-        "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
       },
       {
         "id": "1",
         "location_id": "1",
         "weekday": "2",
-        "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
       },
       {
         "id": "1",
         "location_id": "1",
         "weekday": "3",
-        "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
       },
       {
         "id": "1",
         "location_id": "1",
         "weekday": "4",
-        "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
       },
       {
         "id": "1",
         "location_id": "1",
         "weekday": "5",
-        "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
       },
       {
         "id": "1",
         "location_id": "1",
         "weekday": "6",
-        "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
       },
       {
         "id": "1",
         "location_id": "1",
         "weekday": "7",
-        "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
       }
     ]
   }
