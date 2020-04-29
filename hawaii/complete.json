@@ -2,21 +2,21 @@
   {
     "id": "1",
     "organization_id": "1",
-    "name": "No Locations Yet",
-    "alternate_name": "No Locations Yet",
-    "description": "This is just the first entry in the database. We still need to crowdsource some locations.",
+    "name": "Kalihi Kai Urgent Care",
+    "alternate_name": "Ewa Mahiko District Park",
+    "description": "On Oahu, Kalihi Kai Urgent Care will be conducting testing at ʻEwa Mahiko District Park in ʻEwa Beach on Friday. Testing will run from 8 a.m. to 2 p.m. Those seeking a test should enter the line from Kapolei Parkway on the corner of Renton Road, facing mauka, where a screening station will be set up. For additional information, call Kalihi Kai Urgent Care at 808-841-2273.",
     "transportation": "Bus, Uber, Car",
-    "updated": "2020-03-31",
+    "updated": "2020-04-28",
     "featured": "TRUE",
     "physical_address": [
       {
         "id": "1",
         "location_id": "1",
-        "address_1": "1250 PUnchbowl St.",
-        "city": "Honolulu",
+        "address_1": "91-1205 Renton Rd",
+        "city": "Ewa Beach",
         "region": "Region",
         "state_province": "HI",
-        "postal_code": "96813",
+        "postal_code": "96706",
         "country": "US"
       }
     ],
@@ -24,7 +24,7 @@
       {
         "id": "1",
         "location_id": "1",
-        "number": "555-555-5555",
+        "number": "808-841-2273",
         "extension": "None",
         "type": "Office",
         "language": "EN",
@@ -35,52 +35,247 @@
       {
         "id": "1",
         "location_id": "1",
-        "weekday": "1",
-        "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
-      },
-      {
-        "id": "1",
-        "location_id": "1",
-        "weekday": "2",
-        "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
-      },
-      {
-        "id": "1",
-        "location_id": "1",
-        "weekday": "3",
-        "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
-      },
-      {
-        "id": "1",
-        "location_id": "1",
-        "weekday": "4",
-        "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
-      },
-      {
-        "id": "1",
-        "location_id": "1",
-        "weekday": "5",
-        "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
-      },
-      {
-        "id": "1",
-        "location_id": "1",
         "weekday": "6",
         "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "closes_at": "2:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "organization_id": "2",
+    "name": "Premier Medical Group Hawaii",
+    "alternate_name": "Kahuku Medical Center",
+    "description": "Premier Medical Group Hawaii will administer free drive-thru testing Saturday in the rear parking lot of Kahuku Medical Center, 56-117 Pualalea St. Testing will also be available Sunday at Waimanalo District Park. Motorists may access the park from Hihimanu Street. Testing at both sites will be conducted from 9 a.m. to 1 p.m. For more information, call Premier Medical Group Hawaii at 808-304-8816 or 808-367-6020.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-28",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "2",
+        "location_id": "2",
+        "address_1": "56-117 Pualalea St",
+        "city": "Kahuku",
+        "region": "Region",
+        "state_province": "HI",
+        "postal_code": "96731",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "2",
+        "location_id": "2",
+        "number": "808-304-8816",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "1",
+        "location_id": "2",
+        "weekday": "1",
+        "opens_at": "9:00 AM",
+        "closes_at": "1:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "organization_id": "2",
+    "name": "Premier Medical Group Hawaii",
+    "alternate_name": "Waimanalo District Park",
+    "description": "Premier Medical Group Hawaii will administer free drive-thru testing Saturday in the rear parking lot of Kahuku Medical Center, 56-117 Pualalea St. Testing will also be available Sunday at Waimanalo District Park. Motorists may access the park from Hihimanu Street. Testing at both sites will be conducted from 9 a.m. to 1 p.m. For more information, call Premier Medical Group Hawaii at 808-304-8816 or 808-367-6020.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-28",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "3",
+        "location_id": "3",
+        "address_1": "41-415 Hihimanu St,",
+        "city": "Waimanalo",
+        "region": "Region",
+        "state_province": "HI",
+        "postal_code": "96795",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "3",
+        "location_id": "3",
+        "number": "808-304-8816",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "1",
+        "opens_at": "9:00 AM",
+        "closes_at": "1:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "organization_id": "3",
+    "name": "Windward Urgent Care",
+    "alternate_name": "Walgreens Kaneohe",
+    "description": "Windward Urgent Care: testing will be available at a drive through station open at Walgreens Kaneohe, call (808) 234-1094 head of time.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-28",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "4",
+        "location_id": "4",
+        "address_1": "46-021 Kamehameha Hwy",
+        "city": "Kaneohe",
+        "region": "Region",
+        "state_province": "HI",
+        "postal_code": "96744",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "4",
+        "location_id": "4",
+        "number": "(808) 234-1094",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "2",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
       },
       {
         "id": "1",
-        "location_id": "1",
+        "location_id": "4",
+        "weekday": "3",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "4",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "5",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "6",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "1",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "2",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "3",
+        "opens_at": "12:00 PM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "4",
+        "opens_at": "12:00 PM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "5",
+        "opens_at": "12:00 PM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "6",
+        "opens_at": "12:00 PM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "4",
         "weekday": "7",
-        "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "opens_at": "12:00 PM",
+        "closes_at": "12:00 PM"
       }
     ]
+  },
+  {
+    "id": "5",
+    "organization_id": "4",
+    "name": "‍The Queen’s Medical Center-Punchbowl",
+    "alternate_name": "‍The Queen’s Medical Center-Punchbowl",
+    "description": "‍Queen’s Medical Center (Punchbowl and West Oahu): Call the Queen’s Medical physician hotline — (808) 691-2619 — for information on testing. If you’re experiencing shortness of breath, call 911.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-28",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "5",
+        "location_id": "5",
+        "address_1": "1301 Punchbowl St,",
+        "city": "Honolulu",
+        "region": "Region",
+        "state_province": "HI",
+        "postal_code": "96813",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "5",
+        "location_id": "5",
+        "number": "(808) 691-1000",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary"
+      }
+    ],
+    "regular_schedule": []
   }
 ]
