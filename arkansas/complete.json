@@ -82,5 +82,312 @@
         "closes_at": "8:00 PM"
       }
     ]
+  },
+  {
+    "id": "2",
+    "organization_id": "2",
+    "name": "Karas Urgent Care",
+    "alternate_name": "Karas Urgent Care",
+    "description": "Welcome to Karas Health Care, where we value our patients and work hard towards maintaining life-long health! Whether you are an established patient, or looking to visit our clinic for the first time, we want you to know that you are welcome, and we will do our best to give you the highest quality compassionate health care. We offer convenient care with walk-in appointments Monday through Saturday treating everything from minor illnesses to injuries to physicals and more! We have on-site lab services and x-ray to evaluate your medical needs promptly and efficiently. It is our belief that everyone deserves great healthcare.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-01",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "2",
+        "location_id": "2",
+        "address_1": "114 Harrison Ave",
+        "city": "Lowell",
+        "region": "State",
+        "state_province": "AR",
+        "postal_code": "72745",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "2",
+        "location_id": "2",
+        "number": "(479) 770-4343",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "8",
+        "location_id": "2",
+        "weekday": "2",
+        "opens_at": "9:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "9",
+        "location_id": "2",
+        "weekday": "3",
+        "opens_at": "9:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "10",
+        "location_id": "2",
+        "weekday": "4",
+        "opens_at": "9:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "11",
+        "location_id": "2",
+        "weekday": "5",
+        "opens_at": "9:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "12",
+        "location_id": "2",
+        "weekday": "6",
+        "opens_at": "9:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "13",
+        "location_id": "2",
+        "weekday": "7",
+        "opens_at": "9:00 AM",
+        "closes_at": "6:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "organization_id": "3",
+    "name": "Karas Health Care - Fayetteville Clinic",
+    "alternate_name": "Karas Health Care - Fayetteville Clinic",
+    "description": "Welcome to Karas Health Care, where we value our patients and work hard towards maintaining life-long health! Whether you are an established patient, or looking to visit our clinic for the first time, we want you to know that you are welcome, and we will do our best to give you the highest quality compassionate health care. We offer convenient care with walk-in appointments Monday through Saturday treating everything from minor illnesses to injuries to physicals and more! We have on-site lab services and x-ray to evaluate your medical needs promptly and efficiently. It is our belief that everyone deserves great healthcare.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-02",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "3",
+        "location_id": "3",
+        "address_1": "767 W North St",
+        "city": "Fayetteville",
+        "region": "State",
+        "state_province": "AR",
+        "postal_code": "72701",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "3",
+        "location_id": "3",
+        "number": "(479) 966-5088",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "14",
+        "location_id": "3",
+        "weekday": "2",
+        "opens_at": "9:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "15",
+        "location_id": "3",
+        "weekday": "3",
+        "opens_at": "9:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "16",
+        "location_id": "3",
+        "weekday": "4",
+        "opens_at": "9:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "17",
+        "location_id": "3",
+        "weekday": "5",
+        "opens_at": "9:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "18",
+        "location_id": "3",
+        "weekday": "6",
+        "opens_at": "9:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "19",
+        "location_id": "3",
+        "weekday": "7",
+        "opens_at": "9:00 AM",
+        "closes_at": "1:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "organization_id": "4",
+    "name": "Washington Regional Medical Center",
+    "alternate_name": "Washington Regional Medical Center",
+    "description": "Due to limited testing availability, only individuals who meet the Arkansas Department of Health (ADH) guidelines will be tested. Those guidelines state individuals must meet these criteria: have current, active symptoms of a respiratory infection including fever AND cough or shortness of breath AND meet any of the guidelines below: are over the age of 65 have a chronic illness (such as heart, lung or kidney disease; diabetes; immune system conditions; or take medications that impact the immune system) have had close contact (within 6 feet) in last 14 days with an individual who has suspected or laboratory confirmed coronavirus infection are a healthcare worker",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-03",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "4",
+        "location_id": "4",
+        "address_1": " 3215 N Northhills Blvd",
+        "city": "Fayetteville",
+        "region": "State",
+        "state_province": "AR",
+        "postal_code": "72703",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "4",
+        "location_id": "4",
+        "number": "(479) 463-1000",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "20",
+        "location_id": "4",
+        "weekday": "1",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "21",
+        "location_id": "4",
+        "weekday": "2",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "22",
+        "location_id": "4",
+        "weekday": "3",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "23",
+        "location_id": "4",
+        "weekday": "4",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "24",
+        "location_id": "4",
+        "weekday": "5",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "25",
+        "location_id": "4",
+        "weekday": "6",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "26",
+        "location_id": "4",
+        "weekday": "7",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "27",
+        "location_id": "4",
+        "weekday": "2",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "28",
+        "location_id": "4",
+        "weekday": "3",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "29",
+        "location_id": "4",
+        "weekday": "4",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "30",
+        "location_id": "4",
+        "weekday": "5",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "31",
+        "location_id": "4",
+        "weekday": "6",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "organization_id": "5",
+    "name": "Mediserve Walk-in Clinic",
+    "alternate_name": "Mediserve Walk-in Clinic",
+    "description": "MANA Urgent Care is offering Screening Televisits for COVID-19. If you have symptoms (fever, cough, shortness of breath, chills, sore throat or body aches), please request a TeleVisit to find out if you should be tested based on your current state and CDC testing criteria.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-04",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "5",
+        "location_id": "5",
+        "address_1": "3383 N Mana Ct",
+        "city": "Fayetteville",
+        "region": "State",
+        "state_province": "AR",
+        "postal_code": "72703",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "5",
+        "location_id": "5",
+        "number": "(479) 571-6780",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number"
+      }
+    ],
+    "regular_schedule": []
   }
 ]
