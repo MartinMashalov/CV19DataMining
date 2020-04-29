@@ -1,12 +1,1 @@
-[
-  {
-    "id": "1",
-    "location_id": "1",
-    "address_1": "5605 Six Forks Rd.",
-    "city": "Raleigh",
-    "region": "region",
-    "state_province": "NC",
-    "postal_code": "27609",
-    "country": "US"
-  }
-]
+[{"id":"1","location_id":"1","address_1":"1713 S Church Street","city":"Burlington","region":"region","state_province":"NC","postal_code":"27215","country":"US"},{"id":"2","location_id":"2","address_1":"1110 Kildaire Farm Rd","city":"Cary","region":"region","state_province":"NC","postal_code":"27215","country":"US"},{"id":"3","location_id":"3","address_1":"615 S Hughes Blvd","city":"Elizabeth City","region":"region","state_province":"NC","postal_code":"27511","country":"US"},{"id":"4","location_id":"4","address_1":"217 Glensford Dr","city":"Fayetteville","region":"region","state_province":"NC","postal_code":"27909","country":"US"},{"id":"5","location_id":"5","address_1":"3680 Robinwood Rd","city":"Gastonia","region":"region","state_province":"NC","postal_code":"28314","country":"US"},{"id":"6","location_id":"6","address_1":"4100 Wake Forest Rd","city":"Raleigh","region":"region","state_province":"NC","postal_code":"28054","country":"US"},{"id":"7","location_id":"7","address_1":"419 Earl Rd","city":"Shelby","region":"region","state_province":"NC","postal_code":"27609","country":"US"}]
