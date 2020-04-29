@@ -242,7 +242,7 @@
     "description": "Yale New Haven Health is currently providing diagnostic testing for patients who may have COVID-19.",
     "transportation": "Bus, Uber, Car",
     "updated": "2020-04-22",
-    "featured": "TRUE",
+    "featured": "FALSE",
     "physical_address": [
       {
         "id": "4",
@@ -276,7 +276,7 @@
     "description": "All collections are made by appointment-only, and patients need a physician order to book an appointment. Most collections are done via drive-thru, though some require people to get out of their cars.",
     "transportation": "Bus, Uber, Car",
     "updated": "2020-04-22",
-    "featured": "TRUE",
+    "featured": "FALSE",
     "physical_address": [
       {
         "id": "5",
@@ -318,7 +318,7 @@
     "description": "You must be prescreened and have a preset appoint approved by the testing organization. For questions, contact Murphy Medical Associates at 203-658-6051",
     "transportation": "Bus, Uber, Car",
     "updated": "2020-04-22",
-    "featured": "TRUE",
+    "featured": "FALSE",
     "physical_address": [
       {
         "id": "6",
@@ -360,7 +360,7 @@
     "description": "In order to initiate the testing process at the new collection facility, a person with COVID-19 symptoms will need to have a valid order for the test from a licensed independent healthcare practitioner (MD, DO, APRN or PA). Patients with a valid order can schedule an appointment at 203-437-6815",
     "transportation": "Bus, Uber, Car",
     "updated": "2020-04-22",
-    "featured": "TRUE",
+    "featured": "FALSE",
     "physical_address": [
       {
         "id": "7",
@@ -434,7 +434,7 @@
     "description": "Testing for COVID-19 is by appointment only and requires a referral/prescription from a primary care physician. Currently, due to a nationwide testing kit shortage, Stamford is only able to test individuals that are showing COVID-19 symptoms.",
     "transportation": "Bus, Uber, Car",
     "updated": "2020-04-22",
-    "featured": "TRUE",
+    "featured": "FALSE",
     "physical_address": [
       {
         "id": "8",
@@ -494,7 +494,7 @@
     "description": "Testing for COVID-19 is by appointment only and requires a referral/prescription from a primary care provider. \n\nResidents who want an appointment to get tested in Stamford — including those without health insurance or a primary care physician — can call the City’s dedicated COVID-19 Testing hotline at 833.508.8378 for more information. This hotline is operated seven days a week from 8 a.m. to 4 p.m.\n\nIf you do not have health insurance or a private doctor you can still get evaluated for Covid-19.",
     "transportation": "Bus, Uber, Car",
     "updated": "2020-04-23",
-    "featured": "TRUE",
+    "featured": "FALSE",
     "physical_address": [
       {
         "id": "9",
@@ -554,7 +554,7 @@
     "description": "To be tested, patients must have a referral through the Hartford HealthCare Clinical Command Center at 860.972.8100 or, toll-free, 833.621.0600.",
     "transportation": "Bus, Uber, Car",
     "updated": "2020-04-23",
-    "featured": "TRUE",
+    "featured": "FALSE",
     "physical_address": [
       {
         "id": "10",
@@ -638,7 +638,7 @@
     "description": "To be tested, patients must have a referral through the Hartford HealthCare Clinical Command Center at 860.972.8100 or, toll-free, 833.621.0600.",
     "transportation": "Bus, Uber, Car",
     "updated": "2020-04-23",
-    "featured": "TRUE",
+    "featured": "FALSE",
     "physical_address": [
       {
         "id": "11",
@@ -722,7 +722,7 @@
     "description": "To be tested, patients must have a referral through the Hartford HealthCare Clinical Command Center at 860.972.8100 or, toll-free, 833.621.0600.",
     "transportation": "Bus, Uber, Car",
     "updated": "2020-04-23",
-    "featured": "TRUE",
+    "featured": "FALSE",
     "physical_address": [
       {
         "id": "12",
@@ -806,7 +806,7 @@
     "description": "To be tested, patients must have a referral through the Hartford HealthCare Clinical Command Center at 860.972.8100 or, toll-free, 833.621.0600.",
     "transportation": "Bus, Uber, Car",
     "updated": "2020-04-27",
-    "featured": "TRUE",
+    "featured": "FALSE",
     "physical_address": [
       {
         "id": "13",
@@ -890,7 +890,7 @@
     "description": "To be tested, patients must have a referral through the Hartford HealthCare Clinical Command Center at 860.972.8100 or, toll-free, 833.621.0600.",
     "transportation": "Bus, Uber, Car",
     "updated": "2020-04-27",
-    "featured": "TRUE",
+    "featured": "FALSE",
     "physical_address": [
       {
         "id": "14",
