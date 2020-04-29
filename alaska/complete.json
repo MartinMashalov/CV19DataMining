@@ -2,21 +2,21 @@
   {
     "id": "1",
     "organization_id": "1",
-    "name": "No Locations Yet",
-    "alternate_name": "No Locations Yet",
-    "description": "This is just the first entry in the database. We still need to crowdsource some locations.",
+    "name": "Creekside Family Health Clinic",
+    "alternate_name": "Creekside Family Health Clinic",
+    "description": "Founded in 2008, Creekside Family Health Clinic has developed a strong reputation for quality, affordable, and accessible healthcare for the whole family. Our extended weekday and weekend hours, along with same-day and walk-in appointment availability, provide flexibility to our patients for access to care when they need it the most.",
     "transportation": "Bus, Uber, Car",
-    "updated": "2020-03-31",
+    "updated": "2020-04-28",
     "featured": "TRUE",
     "physical_address": [
       {
         "id": "1",
         "location_id": "1",
-        "address_1": "3601 C St #902",
-        "city": "Anchorage",
+        "address_1": "320 Bawden St #313",
+        "city": "Ketchikan",
         "region": "State",
         "state_province": "AK",
-        "postal_code": "99503",
+        "postal_code": "99901",
         "country": "US"
       }
     ],
@@ -24,7 +24,7 @@
       {
         "id": "1",
         "location_id": "1",
-        "number": "555-555-5555",
+        "number": "(907) 220-9982",
         "extension": "None",
         "type": "Office",
         "language": "EN",
@@ -35,51 +35,287 @@
       {
         "id": "1",
         "location_id": "1",
-        "weekday": "1",
-        "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
-      },
-      {
-        "id": "1",
-        "location_id": "1",
         "weekday": "2",
         "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "closes_at": "6:00 PM"
       },
       {
-        "id": "1",
+        "id": "2",
         "location_id": "1",
         "weekday": "3",
         "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "closes_at": "6:00 PM"
       },
       {
-        "id": "1",
+        "id": "3",
         "location_id": "1",
         "weekday": "4",
         "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "closes_at": "6:00 PM"
       },
       {
-        "id": "1",
+        "id": "4",
         "location_id": "1",
         "weekday": "5",
         "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "closes_at": "6:00 PM"
       },
       {
-        "id": "1",
+        "id": "5",
         "location_id": "1",
         "weekday": "6",
         "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "closes_at": "6:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "organization_id": "2",
+    "name": "Juneau Urgent Care",
+    "alternate_name": "Juneau Urgent Care",
+    "description": "Juneau Urgent and Family Care has cared for families in Juneau and the surrounding areas since 1993. As experienced and trusted family medicine and urgent care providers, our board-certified physicians treat all kinds of acute and minor illnesses and injuries, including work injuries, sports injuries, and accidents. At Juneau Urgent and Family Care, we emphasize wellness and disease prevention to keep you healthy and out of the doctor’s office, and to decrease your overall healthcare costs.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-29",
+    "featured": "TRUE",
+    "physical_address": [],
+    "phones": [
+      {
+        "id": "2",
+        "location_id": "2",
+        "number": "(907) 790-4111",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "6",
+        "location_id": "2",
+        "weekday": "1",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
       },
       {
-        "id": "1",
-        "location_id": "1",
-        "weekday": "7",
+        "id": "7",
+        "location_id": "2",
+        "weekday": "2",
         "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "8",
+        "location_id": "2",
+        "weekday": "3",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "9",
+        "location_id": "2",
+        "weekday": "4",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "10",
+        "location_id": "2",
+        "weekday": "5",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "11",
+        "location_id": "2",
+        "weekday": "6",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "12",
+        "location_id": "2",
+        "weekday": "7",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "organization_id": "3",
+    "name": "Hoonah Health Center",
+    "alternate_name": "Hoonah Health Center",
+    "description": "Hoonah Health Center is open to everyone and is now accepting appointments for primary care and family medicine. Check the Traveling/Specialty Clinics schedule for upcoming services.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-30",
+    "featured": "TRUE",
+    "physical_address": [],
+    "phones": [
+      {
+        "id": "3",
+        "location_id": "3",
+        "number": "(907) 945-2735",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "13",
+        "location_id": "3",
+        "weekday": "2",
+        "opens_at": "7:30:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "14",
+        "location_id": "3",
+        "weekday": "3",
+        "opens_at": "7:30:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "15",
+        "location_id": "3",
+        "weekday": "4",
+        "opens_at": "7:30:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "16",
+        "location_id": "3",
+        "weekday": "5",
+        "opens_at": "7:30:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "17",
+        "location_id": "3",
+        "weekday": "6",
+        "opens_at": "7:30:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "organization_id": "4",
+    "name": "SEARHC - Mt. Edgecumbe Medical Center",
+    "alternate_name": "SEARHC - Mt. Edgecumbe Medical Center",
+    "description": "Mt. Edgecumbe Medical Center (MEMC) is an acute, specialty, primary- and behavioral-health provider committed to delivering comprehensive medical services to anyone living, working, or visiting Southeast Alaska.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-05-01",
+    "featured": "FALSE",
+    "physical_address": [],
+    "phones": [
+      {
+        "id": "4",
+        "location_id": "4",
+        "number": "(907) 966-2411",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "18",
+        "location_id": "4",
+        "weekday": "2",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "19",
+        "location_id": "4",
+        "weekday": "3",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "20",
+        "location_id": "4",
+        "weekday": "4",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "21",
+        "location_id": "4",
+        "weekday": "5",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "22",
+        "location_id": "4",
+        "weekday": "6",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "organization_id": "5",
+    "name": "SEARHC - Gustavus Clinic",
+    "alternate_name": "SEARHC - Gustavus Clinic",
+    "description": "The Gustavus Clinic offers appointments with a full-time Nurse Practitioner to address acute and chronic health care needs for the community of Gustavus.  A physician from the Wrangell Medical Clinic oversees all medical services provided in Gustavus and makes scheduled visits to Gustavus on a regular basis to see patients.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-05-02",
+    "featured": "FALSE",
+    "physical_address": [],
+    "phones": [
+      {
+        "id": "5",
+        "location_id": "5",
+        "number": "(907) 697-3008",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "23",
+        "location_id": "5",
+        "weekday": "2",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "24",
+        "location_id": "5",
+        "weekday": "3",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "25",
+        "location_id": "5",
+        "weekday": "4",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "26",
+        "location_id": "5",
+        "weekday": "5",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "27",
+        "location_id": "5",
+        "weekday": "6",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
       }
     ]
   }
