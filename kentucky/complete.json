@@ -4,9 +4,9 @@
     "organization_id": "1",
     "name": "Muhlenberg Community Hospital",
     "alternate_name": "Muhlenberg Community Hospital",
-    "description": "This is just the first entry in the database. We still need to crowdsource some locations.",
+    "description": "Thank you for choosing Owensboro Health Muhlenberg Community Hospital for your healthcare needs. We have been serving the patients of Muhlenberg County since 1938. We look forward to providing you with excellent, quality care at our acute-care hospital or one of our nine outpatient clinics, including Owensboro Health Muhlenberg Healthplex.",
     "transportation": "Bus, Uber, Car",
-    "updated": "2020-03-31",
+    "updated": "2020-04-28",
     "featured": "TRUE",
     "physical_address": [
       {
@@ -80,6 +80,342 @@
         "weekday": "7",
         "opens_at": "12:00 AM",
         "closes_at": "12:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "organization_id": "2",
+    "name": "Wayne Medical Center",
+    "alternate_name": "Wayne Medical Center",
+    "description": "The mission of Wayne County Hospital is to deliver high quality healthcare regardless of an individuals economic status, sex, race or religion. Wayne County Hospital will maintain high standards of quality in all aspects of care, and will strive to meet the patients’ needs promptly, professionally, and efficiently in a friendly and caring manner. Care will be delivered in an individualized approach and in a safe environment.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-28",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "2",
+        "location_id": "2",
+        "address_1": "103 J V Mangubat Dr",
+        "city": "Waynesboro",
+        "region": "Region",
+        "state_province": "KY",
+        "postal_code": "38485",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "2",
+        "location_id": "2",
+        "number": "(270) 931-2059",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "1",
+        "location_id": "2",
+        "weekday": "1",
+        "opens_at": "1:00 PM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "2",
+        "weekday": "2",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "2",
+        "weekday": "3",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "2",
+        "weekday": "4",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "2",
+        "weekday": "5",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "2",
+        "weekday": "6",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "2",
+        "weekday": "7",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "organization_id": "3",
+    "name": "Fast Pace Urgent Care Clinic - Central City",
+    "alternate_name": "Fast Pace Urgent Care Clinic - Central City",
+    "description": "Fast Pace Health is now offering telehealth services focused on treating new and existing patients in Tennessee, Kentucky, Lousiana, Mississippi, Alabama, and Indiana for many common ailments including cold and flu-like symptoms, seasonal allergies, stomach viruses, rashes/skin conditions, pinkeye, urinary tract infections, yeast infections, fever blisters, minor boils, abscesses, and cellulitis (bacterial skin infection). Telehealth providers may also prescribe and/or refill many common medications. ",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-28",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "3",
+        "location_id": "3",
+        "address_1": "10 S 2nd St",
+        "city": "Central City",
+        "region": "Region",
+        "state_province": "KY",
+        "postal_code": "42330",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "3",
+        "location_id": "3",
+        "number": "(270) 931-2059",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "1",
+        "opens_at": "1:00 PM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "2",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "3",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "4",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "5",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "6",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "7",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "organization_id": "4",
+    "name": "Fast Pace Urgent Care Clinic - Waynesboro",
+    "alternate_name": "Fast Pace Urgent Care Clinic - Waynesboro",
+    "description": "Fast Pace Health is now offering telehealth services focused on treating new and existing patients in Tennessee, Kentucky, Lousiana, Mississippi, Alabama, and Indiana for many common ailments including cold and flu-like symptoms, seasonal allergies, stomach viruses, rashes/skin conditions, pinkeye, urinary tract infections, yeast infections, fever blisters, minor boils, abscesses, and cellulitis (bacterial skin infection). Telehealth providers may also prescribe and/or refill many common medications. ",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-28",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "4",
+        "location_id": "4",
+        "address_1": "1351 Tie Camp Rd",
+        "city": "Waynesboro",
+        "region": "Region",
+        "state_province": "KY",
+        "postal_code": "38485",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "4",
+        "location_id": "4",
+        "number": "(931) 253-1110",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "1",
+        "opens_at": "1:00 PM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "2",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "3",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "4",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "5",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "6",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "7",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "organization_id": "5",
+    "name": "American Family Care - Madison Street Commons",
+    "alternate_name": "American Family Care - Madison Street Commons",
+    "description": "All AFC clinics are designed, equipped, and staffed to provide accessible primary care, urgent care, minor emergency treatment, and occupational medicine. We are considered pioneers in non-emergency room urgent care, with a majority of our patients coming in, receiving care, and returning home in one hour’s time on average.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-28",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "5",
+        "location_id": "5",
+        "address_1": "1763 Madison St",
+        "city": "Clarksville",
+        "region": "Region",
+        "state_province": "KY",
+        "postal_code": "37043",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "5",
+        "location_id": "5",
+        "number": "(256) 304-8511",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "1",
+        "location_id": "5",
+        "weekday": "1",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "5",
+        "weekday": "2",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "5",
+        "weekday": "3",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "5",
+        "weekday": "4",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "5",
+        "weekday": "5",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "5",
+        "weekday": "6",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "5",
+        "weekday": "7",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
       }
     ]
   }
