@@ -1,1 +1,422 @@
-[]
+[
+  {
+    "id": "1",
+    "organization_id": "1",
+    "name": "Access Medical Centers Urgent Care",
+    "alternate_name": "Access Medical Centers Urgent Care",
+    "description": "Access Medical Centers Urgent Care is a leading urgent care &amp; walk in clinic provider with multiple locations in Oklahoma. No appointment necessary.",
+    "transportation": "Car",
+    "updated": "2019-04-28",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "1",
+        "location_id": "1",
+        "address_1": "401 W Blue Starr Dr",
+        "city": "Claremore",
+        "region": "Region",
+        "state_province": "OK",
+        "postal_code": "74017",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "1",
+        "location_id": "1",
+        "number": "918-343-6000",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "description"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "1",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "2",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "3",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "4",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "5",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "6",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "1",
+        "weekday": "7",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "organization_id": "1",
+    "name": "Access Medical Centers Urgent Care",
+    "alternate_name": "Access Medical Centers Urgent Care",
+    "description": "Access Medical Centers Urgent Care is a leading urgent care &amp; walk in clinic provider with multiple locations in Oklahoma. No appointment necessary.",
+    "transportation": "Car",
+    "updated": "2019-04-28",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "1",
+        "location_id": "2",
+        "address_1": "334 12th Ave SE",
+        "city": "Norman",
+        "region": "Region",
+        "state_province": "OK",
+        "postal_code": "73071",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "2",
+        "location_id": "2",
+        "number": "405-321-1911",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Appointment Line"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "1",
+        "location_id": "2",
+        "weekday": "1",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "2",
+        "weekday": "2",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "2",
+        "weekday": "3",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "2",
+        "weekday": "4",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "2",
+        "weekday": "5",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "2",
+        "weekday": "6",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "organization_id": "1",
+    "name": "Access Medical Centers Urgent Care",
+    "alternate_name": "Access Medical Centers Urgent Care",
+    "description": "Access Medical Centers Urgent Care is a leading urgent care &amp; walk in clinic provider with multiple locations in Oklahoma. No appointment necessary.",
+    "transportation": "Car",
+    "updated": "2019-04-28",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "1",
+        "location_id": "3",
+        "address_1": "3617 Northwest Expy",
+        "city": "Oklahoma City",
+        "region": "Region",
+        "state_province": "OK",
+        "postal_code": "73112",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "3",
+        "location_id": "3",
+        "number": "405-835-2771",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Appointment Line"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "7",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "1",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "2",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "3",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "4",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "5",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "6",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "organization_id": "1",
+    "name": "Access Medical Centers Urgent Care",
+    "alternate_name": "Access Medical Centers Urgent Care",
+    "description": "Access Medical Centers Urgent Care is a leading urgent care &amp; walk in clinic provider with multiple locations in Oklahoma. No appointment necessary.",
+    "transportation": "Car",
+    "updated": "2019-04-28",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "1",
+        "location_id": "4",
+        "address_1": "13616 East 103rd St N",
+        "city": "Owasso",
+        "region": "Region",
+        "state_province": "OK",
+        "postal_code": "74055",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "4",
+        "location_id": "4",
+        "number": "918-274-8555",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Appointment Line"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "7",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "1",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "2",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "3",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "4",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "5",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "6",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "7",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "organization_id": "1",
+    "name": "Access Medical Centers Urgent Care",
+    "alternate_name": "Access Medical Centers Urgent Care",
+    "description": "Access Medical Centers Urgent Care is a leading urgent care &amp; walk in clinic provider with multiple locations in Oklahoma. No appointment necessary.",
+    "transportation": "Car",
+    "updated": "2019-04-28",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "1",
+        "location_id": "5",
+        "address_1": "2929 S. Garnett Rd.",
+        "city": "Tulsa",
+        "region": "Region",
+        "state_province": "OK",
+        "postal_code": "74129",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "5",
+        "location_id": "5",
+        "number": "918-665-1520",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Appointment Line"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "1",
+        "location_id": "5",
+        "weekday": "1",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "5",
+        "weekday": "2",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "5",
+        "weekday": "3",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "5",
+        "weekday": "4",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "5",
+        "weekday": "5",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "5",
+        "weekday": "6",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "5",
+        "weekday": "7",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      }
+    ]
+  }
+]
