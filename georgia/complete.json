@@ -2,21 +2,21 @@
   {
     "id": "1",
     "organization_id": "1",
-    "name": "No Locations Yet",
-    "alternate_name": "No Locations Yet",
-    "description": "This is just the first entry in the database. We still need to crowdsource some locations.",
+    "name": "AllCare Family Medicine & Urgent Care",
+    "alternate_name": "AllCare Family Medicine & Urgent Care",
+    "description": "After your video visit (telemedicine) Buckhead staff will print your order and prepare your laboratory supplies needed for the test. We will meet you at the REAR parking lot of the building on Roswell Ave NE.  We will be meeting you ONLY during the 30-minute window MON-FRI: 4pm-4:30pm, SAT-SUN: 2pm-2:30pm. You will stay in your car the entire time, you will not exit your car for the test. We will still need to see your ID to prevent test-result mixup.",
     "transportation": "Bus, Uber, Car",
-    "updated": "2020-03-31",
+    "updated": "2020-04-28",
     "featured": "TRUE",
     "physical_address": [
       {
         "id": "1",
         "location_id": "1",
-        "address_1": "1309 Redmond Rd.",
-        "city": "Rome",
+        "address_1": "3867 Roswell Rd NE",
+        "city": "Atlanta",
         "region": "Region",
         "state_province": "GA",
-        "postal_code": "30165",
+        "postal_code": "30342",
         "country": "US"
       }
     ],
@@ -24,7 +24,7 @@
       {
         "id": "1",
         "location_id": "1",
-        "number": "555-555-5555",
+        "number": "(678) 904-5611",
         "extension": "None",
         "type": "Office",
         "language": "EN",
@@ -36,50 +36,470 @@
         "id": "1",
         "location_id": "1",
         "weekday": "1",
-        "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "opens_at": "10:00 AM",
+        "closes_at": "3:00 PM"
       },
       {
         "id": "1",
         "location_id": "1",
         "weekday": "2",
-        "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "opens_at": "9:00 AM",
+        "closes_at": "7:00 PM"
       },
       {
         "id": "1",
         "location_id": "1",
         "weekday": "3",
-        "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "opens_at": "9:00 AM",
+        "closes_at": "7:00 PM"
       },
       {
         "id": "1",
         "location_id": "1",
         "weekday": "4",
-        "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "opens_at": "9:00 AM",
+        "closes_at": "7:00 PM"
       },
       {
         "id": "1",
         "location_id": "1",
         "weekday": "5",
-        "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "opens_at": "9:00 AM",
+        "closes_at": "7:00 PM"
       },
       {
         "id": "1",
         "location_id": "1",
         "weekday": "6",
-        "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "opens_at": "9:00 AM",
+        "closes_at": "7:00 PM"
       },
       {
         "id": "1",
         "location_id": "1",
         "weekday": "7",
-        "opens_at": "8:00 AM",
+        "opens_at": "9:00 AM",
         "closes_at": "4:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "organization_id": "2",
+    "name": "Piedmont Healthcare ",
+    "alternate_name": "Piedmont Healthcare ",
+    "description": "Piedmont Healthcare is responding rapidly to COVID-19, a new respiratory disease spreading across Georgia and the globe. As your partner in care, we're committed to keeping you informed, and your safety is always top priority.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-29",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "2",
+        "location_id": "2",
+        "address_1": "1199 Prince Ave,",
+        "city": "Athens",
+        "region": "Region",
+        "state_province": "GA",
+        "postal_code": "30606",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "2",
+        "location_id": "2",
+        "number": "866-460-1119",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "1",
+        "location_id": "2",
+        "weekday": "1",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "2",
+        "weekday": "2",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "2",
+        "weekday": "3",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "2",
+        "weekday": "4",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "2",
+        "weekday": "5",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "2",
+        "weekday": "6",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "2",
+        "weekday": "7",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "organization_id": "3",
+    "name": "AU Health ExpressCare",
+    "alternate_name": "Greenbriar Mall",
+    "description": "In response to Gov. Brian Kemp’s call to ramp up testing on Monday, the Georgia National Guard and Augusta University Health are opening four new locations in metro Atlanta today for Georgians needing coronavirus testing. To be tested, patients must first complete a free virtual screening using the AU Health ExpressCare app on Apple or Android, through the website or by calling 706-721-1852. Screenings are available 24/7, with no appointment required. During the virtual screening, the provider will ask about common symptoms of infection and duration, including fever, cough and shortness of breath, as well as questions related to medical history and risk of virus exposure. Patients who screen positive will be directed for further testing at their nearest drive-thru location. Those who test negative will be provided their visit summary and directed to an appropriate care site for further evaluation and treatment.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-30",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "3",
+        "location_id": "3",
+        "address_1": "2841 Greenbriar Parkway SW",
+        "city": "Atlanta",
+        "region": "Region",
+        "state_province": "GA",
+        "postal_code": "30331",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "3",
+        "location_id": "3",
+        "number": "706-721-1852",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "1",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "2",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "3",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "4",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "5",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "6",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "7",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "organization_id": "3",
+    "name": "AU Health ExpressCare",
+    "alternate_name": "Kennesaw State University",
+    "description": "In response to Gov. Brian Kemp’s call to ramp up testing on Monday, the Georgia National Guard and Augusta University Health are opening four new locations in metro Atlanta today for Georgians needing coronavirus testing. To be tested, patients must first complete a free virtual screening using the AU Health ExpressCare app on Apple or Android, through the website or by calling 706-721-1852. Screenings are available 24/7, with no appointment required. During the virtual screening, the provider will ask about common symptoms of infection and duration, including fever, cough and shortness of breath, as well as questions related to medical history and risk of virus exposure. Patients who screen positive will be directed for further testing at their nearest drive-thru location. Those who test negative will be provided their visit summary and directed to an appropriate care site for further evaluation and treatment.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-05-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "4",
+        "location_id": "4",
+        "address_1": "1000 Chastain Road NW",
+        "city": "Kennesaw",
+        "region": "Region",
+        "state_province": "GA",
+        "postal_code": "30144",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "4",
+        "location_id": "4",
+        "number": "706-721-1852",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "1",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "2",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "3",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "4",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "5",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "6",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "7",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "organization_id": "3",
+    "name": "AU Health ExpressCare",
+    "alternate_name": "Georgia State University Stadium",
+    "description": "In response to Gov. Brian Kemp’s call to ramp up testing on Monday, the Georgia National Guard and Augusta University Health are opening four new locations in metro Atlanta today for Georgians needing coronavirus testing. To be tested, patients must first complete a free virtual screening using the AU Health ExpressCare app on Apple or Android, through the website or by calling 706-721-1852. Screenings are available 24/7, with no appointment required. During the virtual screening, the provider will ask about common symptoms of infection and duration, including fever, cough and shortness of breath, as well as questions related to medical history and risk of virus exposure. Patients who screen positive will be directed for further testing at their nearest drive-thru location. Those who test negative will be provided their visit summary and directed to an appropriate care site for further evaluation and treatment.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-05-02",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "5",
+        "location_id": "5",
+        "address_1": "33 Gilmer Street SE,",
+        "city": "Atlanta",
+        "region": "Region",
+        "state_province": "GA",
+        "postal_code": "30303",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "5",
+        "location_id": "5",
+        "number": "706-721-1852",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "1",
+        "location_id": "5",
+        "weekday": "1",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "5",
+        "weekday": "2",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "5",
+        "weekday": "3",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "5",
+        "weekday": "4",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "5",
+        "weekday": "5",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "5",
+        "weekday": "6",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "5",
+        "weekday": "7",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "organization_id": "3",
+    "name": "AU Health ExpressCare",
+    "alternate_name": "Decatur Armory",
+    "description": "In response to Gov. Brian Kemp’s call to ramp up testing on Monday, the Georgia National Guard and Augusta University Health are opening four new locations in metro Atlanta today for Georgians needing coronavirus testing. To be tested, patients must first complete a free virtual screening using the AU Health ExpressCare app on Apple or Android, through the website or by calling 706-721-1852. Screenings are available 24/7, with no appointment required. During the virtual screening, the provider will ask about common symptoms of infection and duration, including fever, cough and shortness of breath, as well as questions related to medical history and risk of virus exposure. Patients who screen positive will be directed for further testing at their nearest drive-thru location. Those who test negative will be provided their visit summary and directed to an appropriate care site for further evaluation and treatment.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-05-03",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "6",
+        "location_id": "6",
+        "address_1": "3736 Durham Park Road",
+        "city": "Decatur",
+        "region": "Region",
+        "state_province": "GA",
+        "postal_code": "30032",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "6",
+        "location_id": "6",
+        "number": "706-721-1852",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "1",
+        "location_id": "6",
+        "weekday": "1",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "6",
+        "weekday": "2",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "6",
+        "weekday": "3",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "6",
+        "weekday": "4",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "6",
+        "weekday": "5",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "6",
+        "weekday": "6",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "6",
+        "weekday": "7",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
       }
     ]
   }
