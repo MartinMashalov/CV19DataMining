@@ -1,12 +1,1 @@
-[
-  {
-    "id": "1",
-    "location_id": "1",
-    "address_1": "111 N Sanders St.",
-    "city": "Helena",
-    "region": "Region",
-    "state_province": "MT",
-    "postal_code": "59601",
-    "country": "US"
-  }
-]
+[{"id":"1","location_id":"1","address_1":"110 N Oak","city":"Townsend","region":"Region","state_province":"MT","postal_code":"59644","country":"US"},{"id":"2","location_id":"2","address_1":"16 W Main","city":"White Sulphur","region":"Region","state_province":"MT","postal_code":"59645","country":"US"},{"id":"3","location_id":"3","address_1":"530 3rd St NW","city":"Harlowton","region":"Region","state_province":"MT","postal_code":"59036","country":"US"},{"id":"4","location_id":"4","address_1":"408 Wendell AVe","city":"Lewistown","region":"Region","state_province":"MT","postal_code":"59457","country":"US"},{"id":"5","location_id":"5","address_1":"1202 3rd St W","city":"Roundup","region":"Region","state_province":"MT","postal_code":"59072","country":"US"}]
