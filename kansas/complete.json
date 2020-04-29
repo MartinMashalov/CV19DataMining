@@ -2,21 +2,21 @@
   {
     "id": "1",
     "organization_id": "1",
-    "name": "No Locations Yet",
-    "alternate_name": "No Locations Yet",
-    "description": "This is just the first entry in the database. We still need to crowdsource some locations.",
+    "name": "NextCare Urgent Care",
+    "alternate_name": "NextCare Urgent Care",
+    "description": "We know that having immediate access to urgent medical care is important to you. We’re open with extended operating hours on mornings, evenings and weekends to make sure you and your family are well cared for.",
     "transportation": "Bus, Uber, Car",
-    "updated": "2020-03-31",
+    "updated": "2020-04-28",
     "featured": "TRUE",
     "physical_address": [
       {
         "id": "1",
         "location_id": "1",
-        "address_1": "100 SW Jackson St.",
-        "city": "Topeka",
-        "region": "REgion",
+        "address_1": "100 N 4th Street",
+        "city": "Leavenworth",
+        "region": "None",
         "state_province": "KS",
-        "postal_code": "66612",
+        "postal_code": "66048",
         "country": "US"
       }
     ],
@@ -24,7 +24,7 @@
       {
         "id": "1",
         "location_id": "1",
-        "number": "555-555-5555",
+        "number": "913-297-9945",
         "extension": "None",
         "type": "Office",
         "language": "EN",
@@ -37,49 +37,371 @@
         "location_id": "1",
         "weekday": "1",
         "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "closes_at": "8:00 PM"
       },
       {
         "id": "1",
         "location_id": "1",
         "weekday": "2",
         "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "closes_at": "9:00 PM"
       },
       {
         "id": "1",
         "location_id": "1",
         "weekday": "3",
         "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "closes_at": "10:00 PM"
       },
       {
         "id": "1",
         "location_id": "1",
         "weekday": "4",
         "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "closes_at": "11:00 PM"
       },
       {
         "id": "1",
         "location_id": "1",
         "weekday": "5",
         "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "closes_at": "12/31/1899 0:00"
       },
       {
         "id": "1",
         "location_id": "1",
         "weekday": "6",
         "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "closes_at": "12/31/1899 1:00"
       },
       {
         "id": "1",
         "location_id": "1",
         "weekday": "7",
         "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "closes_at": "12/31/1899 2:00"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "organization_id": "2",
+    "name": "Gove County Medical Center",
+    "alternate_name": "Gove County Medical Center",
+    "description": "As a preventative measure and for the health of our community, patients and facility staff, Gove County Medical Center (GCMC) will be routing all patients through the Emergency Room entrance located in the rear of the hospital from 7am to 5pm (Monday - Friday). Coronavirus phone screenings will be performed before entry will be allowed into the facility. Instructions will be given following screening.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-29",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "2",
+        "location_id": "2",
+        "address_1": "520 West 5th Street",
+        "city": "Quinter",
+        "region": "None",
+        "state_province": "KS",
+        "postal_code": "67752",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "2",
+        "location_id": "2",
+        "number": "(785) 754-3341",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "1",
+        "location_id": "2",
+        "weekday": "2",
+        "opens_at": "7:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "2",
+        "weekday": "3",
+        "opens_at": "7:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "2",
+        "weekday": "4",
+        "opens_at": "7:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "2",
+        "weekday": "5",
+        "opens_at": "7:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "2",
+        "weekday": "6",
+        "opens_at": "7:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "organization_id": "3",
+    "name": "Meade District Hospital",
+    "alternate_name": "Meade District Hospital",
+    "description": "Meade District Hospital\tMeade District Hospital",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-30",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "3",
+        "location_id": "3",
+        "address_1": "510 E Carthage St",
+        "city": "Meade",
+        "region": "None",
+        "state_province": "KS",
+        "postal_code": "67864",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "3",
+        "location_id": "3",
+        "number": "(620) 873-2141",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "1",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "2",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 AM"
+      },
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "3",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 AM"
+      },
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "4",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 AM"
+      },
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "5",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 AM"
+      },
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "6",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 AM"
+      },
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "7",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 AM"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "organization_id": "4",
+    "name": "Norton County Hospital",
+    "alternate_name": "Norton County Hospital",
+    "description": "The Norton County Hospital is a 25-bed critical access hospital and Level IV trauma center, and along with the Norton Medical Clinic, provides medical services for residents in Norton County and surrounding northwest Kansas and southwest Nebraska communities. We have 120 dedicated and skilled employees to assist our medical providers in all levels of inpatient care, a full range of outpatient ancillary services and several visiting physician specialty clinics. We appreciate the support we receive from our patients and the communities we serve.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-05-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "4",
+        "location_id": "4",
+        "address_1": "102 E Holme St",
+        "city": "Norton",
+        "region": "None",
+        "state_province": "KS",
+        "postal_code": "67654",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "4",
+        "location_id": "4",
+        "number": "(785) 877-3351",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "1",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "2",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 AM"
+      },
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "3",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 AM"
+      },
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "4",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 AM"
+      },
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "5",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 AM"
+      },
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "6",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 AM"
+      },
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "7",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 AM"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "organization_id": "5",
+    "name": "Xpress Wellness Urgent Care - Dodge City",
+    "alternate_name": "Xpress Wellness Urgent Care - Dodge City",
+    "description": "Xpress Wellness Urgent Care provides immediate treatment for non-life-threatening illnesses or injuries, sports physicals and employer services on a walk-in basis, no appointment is needed.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-05-02",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "5",
+        "location_id": "5",
+        "address_1": "1513 W Wyatt Earp Blvd",
+        "city": "Dodge City",
+        "region": "None",
+        "state_province": "KS",
+        "postal_code": "67801",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "5",
+        "location_id": "5",
+        "number": " (620) 682-8304",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "1",
+        "location_id": "5",
+        "weekday": "1",
+        "opens_at": "1:00 PM",
+        "closes_at": "7:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "5",
+        "weekday": "2",
+        "opens_at": "9:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "5",
+        "weekday": "3",
+        "opens_at": "9:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "5",
+        "weekday": "4",
+        "opens_at": "9:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "5",
+        "weekday": "5",
+        "opens_at": "9:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "5",
+        "weekday": "6",
+        "opens_at": "9:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "5",
+        "weekday": "7",
+        "opens_at": "9:00 AM",
+        "closes_at": "6:00 PM"
       }
     ]
   }
