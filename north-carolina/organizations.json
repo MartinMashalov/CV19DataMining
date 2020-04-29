@@ -1,10 +1,1 @@
-[
-  {
-    "id": "1",
-    "name": "No Organizations Yet",
-    "alternate_name": "No Organizations Yet",
-    "description": "This is just the first entry into the system.",
-    "email": "No Email",
-    "url": "http://example.com"
-  }
-]
+[{"id":"1","name":"NextCare Urgent Care","alternate_name":"NextCare Urgent Care","description":"At NextCare® Urgent Care , one of the nation's leading urgent care providers, we're there for you with quality health care you can trust when you need it the most. Daytime, evenings, weekends, holidays or after your doctor's office hours, our experienced, compassionate staff and health care providers offer same-day care in dedicated medical centers so you can get back to feeling better sooner.","email":"No Email","url":"http://example.com"}]
