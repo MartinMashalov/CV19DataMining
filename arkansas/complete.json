@@ -2,9 +2,9 @@
   {
     "id": "1",
     "organization_id": "1",
-    "name": "No Locations Yet",
-    "alternate_name": "No Locations Yet",
-    "description": "This is just the first entry in the database. We still need to crowdsource some locations.",
+    "name": "MedExpress - Springdale",
+    "alternate_name": "MedExpress - Springdale",
+    "description": "As a neighborhood medical center, we're committed to enhancing the health and well-being of our communities. Whether through community events, sponsorships or educational programs, we’re proud to partner with organizations that share our commitment to health.",
     "transportation": "Bus, Uber, Car",
     "updated": "2020-03-31",
     "featured": "TRUE",
@@ -12,11 +12,11 @@
       {
         "id": "1",
         "location_id": "1",
-        "address_1": "4815 W Markham Street",
+        "address_1": "1160 S 40th St,",
         "city": "Little Rock",
         "region": "State",
         "state_province": "AR",
-        "postal_code": "72205",
+        "postal_code": "72762",
         "country": "US"
       }
     ],
@@ -24,7 +24,7 @@
       {
         "id": "1",
         "location_id": "1",
-        "number": "555-555-5555",
+        "number": "(479) 750-2971",
         "extension": "None",
         "type": "Office",
         "language": "EN",
@@ -37,49 +37,49 @@
         "location_id": "1",
         "weekday": "1",
         "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "closes_at": "8:00 PM"
       },
       {
-        "id": "1",
+        "id": "2",
         "location_id": "1",
         "weekday": "2",
         "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "closes_at": "8:00 PM"
       },
       {
-        "id": "1",
+        "id": "3",
         "location_id": "1",
         "weekday": "3",
         "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "closes_at": "8:00 PM"
       },
       {
-        "id": "1",
+        "id": "4",
         "location_id": "1",
         "weekday": "4",
         "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "closes_at": "8:00 PM"
       },
       {
-        "id": "1",
+        "id": "5",
         "location_id": "1",
         "weekday": "5",
         "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "closes_at": "8:00 PM"
       },
       {
-        "id": "1",
+        "id": "6",
         "location_id": "1",
         "weekday": "6",
         "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "closes_at": "8:00 PM"
       },
       {
-        "id": "1",
+        "id": "7",
         "location_id": "1",
         "weekday": "7",
         "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "closes_at": "8:00 PM"
       }
     ]
   }
