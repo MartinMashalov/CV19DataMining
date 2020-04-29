@@ -2,21 +2,21 @@
   {
     "id": "1",
     "organization_id": "1",
-    "name": "No Locations Yet",
-    "alternate_name": "No Locations Yet",
-    "description": "This is just the first entry in the database. We still need to crowdsource some locations.",
+    "name": "Munson Medical Center",
+    "alternate_name": "Munson Medical Center",
+    "description": "As the region's largest hospital and the referral center for all of northern Michigan, we deliver the same high quality advanced specialty care you would find at a major medical facility downstate but with a hearty dose of small town kindness and compassion. You’ve got a life to live - and our team is committed to getting you back to those simply amazing moments that make it so special.",
     "transportation": "Bus, Uber, Car",
-    "updated": "2020-03-31",
+    "updated": "2020-04-28",
     "featured": "TRUE",
     "physical_address": [
       {
         "id": "1",
         "location_id": "1",
-        "address_1": "4081 W Polk Rd",
-        "city": "Haret",
+        "address_1": "1105 Sixth Street",
+        "city": "Traverse City",
         "region": "Region",
         "state_province": "MI",
-        "postal_code": "49420",
+        "postal_code": "49684",
         "country": "US"
       }
     ],
@@ -24,7 +24,7 @@
       {
         "id": "1",
         "location_id": "1",
-        "number": "555-555-5555",
+        "number": "(231) 935-5000",
         "extension": "None",
         "type": "Office",
         "language": "EN",
@@ -36,51 +36,379 @@
         "id": "1",
         "location_id": "1",
         "weekday": "1",
-        "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
       },
       {
         "id": "1",
         "location_id": "1",
         "weekday": "2",
-        "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
       },
       {
         "id": "1",
         "location_id": "1",
         "weekday": "3",
-        "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
       },
       {
         "id": "1",
         "location_id": "1",
         "weekday": "4",
-        "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
       },
       {
         "id": "1",
         "location_id": "1",
         "weekday": "5",
-        "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
       },
       {
         "id": "1",
         "location_id": "1",
         "weekday": "6",
-        "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
       },
       {
         "id": "1",
         "location_id": "1",
         "weekday": "7",
-        "opens_at": "8:00 AM",
-        "closes_at": "4:00 PM"
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
       }
     ]
+  },
+  {
+    "id": "2",
+    "organization_id": "2",
+    "name": "Munson Healthcare Charlevoix Hospital",
+    "alternate_name": "Munson Healthcare Charlevoix Hospital",
+    "description": "With deep roots in our lakeshore community, Charlevoix Hospital has a legacy of providing quality, personalized care in a warm, friendly setting that’s close to home. Watch the video celebrating our centennial in 2019. We look to a future filled with the simply amazing for our patients and the communities we serve.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-29",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "2",
+        "location_id": "2",
+        "address_1": "14700 Lakeshore Drive",
+        "city": "Traverse City",
+        "region": "Region",
+        "state_province": "MI",
+        "postal_code": "49720",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "2",
+        "location_id": "2",
+        "number": "(231) 547-4024",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "1",
+        "location_id": "2",
+        "weekday": "1",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "2",
+        "weekday": "2",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "2",
+        "weekday": "3",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "2",
+        "weekday": "4",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "2",
+        "weekday": "5",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "2",
+        "weekday": "6",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "2",
+        "weekday": "7",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "organization_id": "3",
+    "name": "McLaren - Northern Michigan",
+    "alternate_name": "McLaren - Northern Michigan",
+    "description": "McLaren Northern Michigan is a 202-bed regional hospital located in Petoskey, Michigan serving residents in 22 counties across northern Lower Michigan and the eastern part of the Upper Peninsula. More than 230 physicians represent nearly all medical and surgical specialties, enabling full-service care with an emphasis on cardiology, cancer, orthopedics, and neurosciences.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-30",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "3",
+        "location_id": "3",
+        "address_1": "416 Connable Ave",
+        "city": "Petoskey",
+        "region": "Region",
+        "state_province": "MI",
+        "postal_code": "49770",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "3",
+        "location_id": "3",
+        "number": "(800) 248-6777",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "1",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "2",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "3",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "4",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "5",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "6",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "7",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "1",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "2",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "3",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "4",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "5",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "6",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "7",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "organization_id": "4",
+    "name": "Grayling Community Health Center - Walk-In Care",
+    "alternate_name": "Grayling Community Health Center - Walk-In Care",
+    "description": "Life is better when you are healthy. That’s why Grayling Hospital has made it easy for you to have convenient access to quality health care services right here in Grayling. Many kinds of services are offered at the Grayling Community Health Center. With easy parking and extended hours, you can get the care you want and need close to your home. We want everyone in our community to be healthy. See our list of services for all of the ways we can help you be your healthiest.   ",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-05-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "4",
+        "location_id": "4",
+        "address_1": "1250 E Michigan Ave ",
+        "city": "Grayling",
+        "region": "Region",
+        "state_province": "MI",
+        "postal_code": "49738",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "4",
+        "location_id": "4",
+        "number": "(989) 348-0550",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "2",
+        "opens_at": "7:00 AM",
+        "closes_at": "6:30:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "3",
+        "opens_at": "7:00 AM",
+        "closes_at": "6:30:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "4",
+        "opens_at": "7:00 AM",
+        "closes_at": "6:30:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "5",
+        "opens_at": "7:00 AM",
+        "closes_at": "6:30:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "6",
+        "opens_at": "7:00 AM",
+        "closes_at": "6:30:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "4",
+        "weekday": "7",
+        "opens_at": "9:00 AM",
+        "closes_at": "3:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "organization_id": "5",
+    "name": "Otsego Memorial Hospital",
+    "alternate_name": "Otsego Memorial Hospital",
+    "description": "At Otsego Memorial Hospital, you can expect safe, innovative, excellent care that earns your trust and confidence. Every member of our team is committed to treating you with compassion, respect, and dignity. We strive to provide exceptional health care that meets the needs of our patients and the communities we serve so you can return to the simply amazing life you’re meant to live.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-05-02",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "5",
+        "location_id": "5",
+        "address_1": "825 N Center Ave,",
+        "city": "Gaylord",
+        "region": "Region",
+        "state_province": "MI",
+        "postal_code": "49735",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "5",
+        "location_id": "5",
+        "number": "(989) 731-2100",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary"
+      }
+    ],
+    "regular_schedule": []
   }
 ]
