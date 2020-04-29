@@ -1,12 +1,1 @@
-[
-  {
-    "id": "1",
-    "location_id": "1",
-    "address_1": "100 SW Jackson St.",
-    "city": "Topeka",
-    "region": "REgion",
-    "state_province": "KS",
-    "postal_code": "66612",
-    "country": "US"
-  }
-]
+[{"id":"1","location_id":"1","address_1":"100 N 4th Street","city":"Leavenworth","region":"None","state_province":"KS","postal_code":"66048","country":"US"},{"id":"2","location_id":"2","address_1":"520 West 5th Street","city":"Quinter","region":"None","state_province":"KS","postal_code":"67752","country":"US"},{"id":"3","location_id":"3","address_1":"510 E Carthage St","city":"Meade","region":"None","state_province":"KS","postal_code":"67864","country":"US"},{"id":"4","location_id":"4","address_1":"102 E Holme St","city":"Norton","region":"None","state_province":"KS","postal_code":"67654","country":"US"},{"id":"5","location_id":"5","address_1":"1513 W Wyatt Earp Blvd","city":"Dodge City","region":"None","state_province":"KS","postal_code":"67801","country":"US"}]
