@@ -2,21 +2,21 @@
   {
     "id": "1",
     "organization_id": "1",
-    "name": "AllCare Family Medicine and Urgent Care",
-    "alternate_name": "AllCare Family Medicine and Urgent Care",
-    "description": "AllCare is offering telemedicine consults for patients who think they might have the coronavirus, followed by drive-through testing at certain locations.\n\nYou can schedule a video appointment here. The testing is done through your car window by a medical professional using a nasal or oral swab to take a sample for testing.\n\nMost insurers cover the test under a national emergency plan, AllCare says, but if you're uninsured, it will cost $206, which includes both the telemedicine consult and the testing. Results come back in 3 to 4 days, and you can receive them via text and email.",
-    "transportation": "Car",
-    "updated": "2020-03-31",
+    "name": "Dexter Family Health & Urgent Care",
+    "alternate_name": "Dexter Family Health & Urgent Care",
+    "description": "With only a few walk-in clinics nearby, Dexter Family Health & Urgent Care may be your best option for immediate care in Dexter. They are open today from 8:00AM to 6:00PM, as well as 5 days a week. As long as you visit them during their business hours, you should be able to walk right into 51 High St and be seen relatively quickly. The national average for patients waiting at an urgent care is between 15-30 minutes, so hopefully it shouldn't be too long of a wait.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-28",
     "featured": "TRUE",
     "physical_address": [
       {
         "id": "1",
         "location_id": "1",
-        "address_1": "9396 Baltimore Nat'l Pk",
-        "city": "Ellicott City",
-        "region": "Region",
-        "state_province": "MD",
-        "postal_code": "21042",
+        "address_1": "51 High St",
+        "city": "Dexter",
+        "region": "region",
+        "state_province": "ME",
+        "postal_code": "4930",
         "country": "US"
       }
     ],
@@ -24,7 +24,7 @@
       {
         "id": "1",
         "location_id": "1",
-        "number": "(410) 480-9110",
+        "number": "(207) 924-7349",
         "extension": "None",
         "type": "Office",
         "language": "EN",
@@ -36,50 +36,211 @@
         "id": "1",
         "location_id": "1",
         "weekday": "1",
-        "opens_at": "9:00 AM",
-        "closes_at": "5:00 PM"
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
       },
       {
         "id": "1",
         "location_id": "1",
         "weekday": "2",
-        "opens_at": "9:00 AM",
-        "closes_at": "5:00 PM"
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
       },
       {
         "id": "1",
         "location_id": "1",
         "weekday": "3",
-        "opens_at": "9:00 AM",
-        "closes_at": "5:00 PM"
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
       },
       {
         "id": "1",
         "location_id": "1",
         "weekday": "4",
-        "opens_at": "9:00 AM",
-        "closes_at": "5:00 PM"
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
       },
       {
         "id": "1",
         "location_id": "1",
         "weekday": "5",
-        "opens_at": "9:00 AM",
-        "closes_at": "5:00 PM"
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
       },
       {
         "id": "1",
         "location_id": "1",
         "weekday": "6",
-        "opens_at": "9:00 AM",
-        "closes_at": "5:00 PM"
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
       },
       {
         "id": "1",
         "location_id": "1",
         "weekday": "7",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "organization_id": "2",
+    "name": "ConvenientMD Urgent Care - Bangor",
+    "alternate_name": "ConvenientMD Urgent Care - Bangor",
+    "description": "ConvenientMD Urgent Care in Bangor, ME offers a high-quality, convenient, affordable option for treating injuries and illnesses. A full medical team is always on site, ready to treat all ages in a welcoming and friendly environment. When you have a minor emergency or just need medical care fast and easy, ConvenientMD is here to serve you quickly, professionally, and affordably. No appointment needed - just walk in or check-in online to our urgent care clinic in Bangor today!",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-28",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "2",
+        "location_id": "2",
+        "address_1": "543 Broadway ",
+        "city": "Bangor",
+        "region": "region",
+        "state_province": "ME",
+        "postal_code": "4401",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "2",
+        "location_id": "2",
+        "number": "(207) 922-1300",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "1",
+        "location_id": "2",
+        "weekday": "1",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "2",
+        "weekday": "2",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "2",
+        "weekday": "3",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "2",
+        "weekday": "4",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "2",
+        "weekday": "5",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "2",
+        "weekday": "6",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "2",
+        "weekday": "7",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "organization_id": "3",
+    "name": "MRH Walk-In Care",
+    "alternate_name": "MRH Walk-In Care",
+    "description": "MRH Walk-In Care offers treatment for a wide array of non-emergent medical needs on a first come, first served basis.  Can’t get in to see your Primary Care provider?  Or did your flu-like symptoms start to kick in just as the office was closing for the day?  No need to suffer through long waits at the Emergency Room.  Staffed by seasoned medical providers, Andrea Sewall, FNP, and Andre Parent, PA-C, MRH Walk-In Care offers the quality care you’ve come to expect from MRH.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-28",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "id": "3",
+        "location_id": "3",
+        "address_1": "87 Main St , East",
+        "city": "Millinocket",
+        "region": "region",
+        "state_province": "ME",
+        "postal_code": "4430",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "3",
+        "location_id": "3",
+        "number": "(207) 447-4700",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "2",
+        "opens_at": "7:00 AM",
+        "closes_at": "7:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "3",
+        "opens_at": "7:00 AM",
+        "closes_at": "7:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "4",
+        "opens_at": "7:00 AM",
+        "closes_at": "7:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "5",
+        "opens_at": "7:00 AM",
+        "closes_at": "7:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "6",
+        "opens_at": "7:00 AM",
+        "closes_at": "7:00 PM"
+      },
+      {
+        "id": "1",
+        "location_id": "3",
+        "weekday": "7",
         "opens_at": "9:00 AM",
-        "closes_at": "5:00 PM"
+        "closes_at": "3:00 PM"
       }
     ]
   }
